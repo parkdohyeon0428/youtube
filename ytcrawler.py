@@ -3,8 +3,7 @@ import json
 import re
 import os
 
-YOUTUBE_API_KEY = "본인의 키값"
-
+YOUTUBE_API_KEY = os.getenv("YOUTUBE_API_KEY")
 youtube = build("youtube", "v3", developerKey=YOUTUBE_API_KEY)
 
 def convert_duration(iso_duration):
