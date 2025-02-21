@@ -3,9 +3,9 @@ import json
 import re
 import os
 
-API_KEY = "본인의 키값"
+YOUTUBE_API_KEY = "본인의 키값"
 
-youtube = build("youtube", "v3", developerKey=API_KEY)
+youtube = build("youtube", "v3", developerKey=YOUTUBE_API_KEY)
 
 def convert_duration(iso_duration):
     pattern = re.compile(r'PT(\d+H)?(\d+M)?(\d+S)?')
