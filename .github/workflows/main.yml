@@ -1,8 +1,4 @@
 name: Update Trending Videos
-
-env:
-  YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-
 on:
   schedule:
     - cron: "0 * * * *"  # 매 정각(1시간 간격) 실행
@@ -24,9 +20,9 @@ jobs:
       - name: 필요한 패키지 설치
         run: pip install google-api-python-client
 
-      - name: 인기 급상승 동영상 업데이트 실행
+      - name: 인기 급상승 동영상 업데이트 실행      
         env:
-          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}  # GitHub Secrets에서 불러오기
         run: python ytcrawler.py
 
       - name: 현재 디렉토리 파일 목록 출력 (디버깅용)
@@ -34,11 +30,11 @@ jobs:
 
       - name: JSON 파일 존재 여부 확인 및 출력
         run: |
-          if [ -f "templates/trending_videos.json" ]; then
-            echo "✅ templates/trending_videos.json 파일이 정상적으로 생성됨."
-            cat templates/trending_videos.json
+          if [ -f "data/trending_videos.json" ]; then
+            echo "✅ data/trending_videos.json 파일이 정상적으로 생성됨."
+            cat data/trending_videos.json
           else
-            echo "❌ templates/trending_videos.json 파일이 존재하지 않음!"
+            echo "❌ data/trending_videos.json 파일이 존재하지 않음!"
             exit 1
           fi
 
