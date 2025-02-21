@@ -1,6 +1,7 @@
 name: Update Trending Videos
 
-
+env:
+  YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
 
 on:
   schedule:
