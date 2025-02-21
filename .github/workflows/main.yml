@@ -37,12 +37,3 @@ jobs:
             echo "❌ data/trending_videos.json 파일이 존재하지 않음!"
             exit 1
           fi
-
-      - name: 변경 사항 커밋 및 푸시
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git pull origin main --rebase --autostash  # 충돌 방지
-          git add data/trending_videos.json
-          git commit -m "🔄 자동 업데이트: 최신 유튜브 인기 영상 리스트" || echo "No changes to commit"
-          git push origin main
