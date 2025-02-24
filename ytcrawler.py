@@ -5,9 +5,9 @@ import os
 from datetime import datetime
 import pytz  # ✅ KST 변환을 위해 추가
 
-API_KEY = os.getenv("OPENYOUTUBE_API_KEY")
+YOUTUBE_API_KEY = os.getenv("YOUTUBE_API_KEY")
 
-youtube = build("youtube", "v3", developerKey=API_KEY)
+youtube = build("youtube", "v3", developerKey=YOUTUBE_API_KEY)
 
 def get_current_time_kst():
     """현재 시간을 한국 시간(KST)으로 변환하여 반환하는 함수"""
