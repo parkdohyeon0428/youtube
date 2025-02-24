@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="ko">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -22,6 +21,8 @@
         }
         .filter-container select {
             margin-right: 70px;
+            padding: 5px;
+            font-size: 14px;
         }
         .separator {
             width: 100%;
@@ -60,88 +61,81 @@
             color: gray;
             font-size: 14px;
         }
-        select {
-            padding: 5px;
+        .category {
             font-size: 14px;
+            font-weight: bold;
+            color: #007bff; /* 파란색 강조 */
+            margin-top: 5px;
+        }
+        .summary {
+            color: gray;
+            font-size: 12px;
         }
     </style>
 </head>
+
 <body>
+
     <h1> 
         <img src="static/logo.png" alt="YouTube" width="30">
-        유튜브 인기 급상승 동영상 
+        {{ month1 }}월 {{ day1 }}일 {{ hour1 }}시 유튜브 인기 급상승 동영상 
         <img src="static/logo.png" alt="YouTube" width="30">
     </h1>
 
+    <!-- 시청 시간대 필터 (자동 적용) -->
     <div class="filter-container">
-        <form id="filterForm">
-            <select id="durationFilter">
-                <option value="">영상 길이</option>
-                <option value="under15">15분 미만</option>
-                <option value="15to30">15분 ~ 30분</option>
-                <option value="over30">30분 초과</option>
+        <form method="GET" action="/">
+            <select name="duration" onchange="this.form.submit()"> <!-- ✅ 자동 적용 onchange="this.form.submit() -->
+                <option value="" {% if not selected_filter %}selected{% endif %}>영상 길이</option>
+                <option value="under15" {% if selected_filter == "under15" %}selected{% endif %}>15분 미만</option>
+                <option value="15to30" {% if selected_filter == "15to30" %}selected{% endif %}>15분 ~ 30분</option>
+                <option value="over30" {% if selected_filter == "over30" %}selected{% endif %}>30분 초과</option>
+            </select>
+
+            <label for="category">카테고리:</label>
+            <select name="category" id="category" onchange="this.form.submit()">
+                <option value="all" {% if selected_category_filter == "all" or not selected_category_filter %}selected{% endif %}>전체</option>
+                <option value="Film & Animation" {% if selected_category_filter == "Film & Animation" %}selected{% endif %}>애니메이션</option>
+                <option value="Autos & Vehicles" {% if selected_category_filter == "Autos & Vehicles" %}selected{% endif %}>모빌리티</option>
+                <option value="Music" {% if selected_category_filter == "Music" %}selected{% endif %}>음악</option>
+                <option value="Pets & Animals" {% if selected_category_filter == "Pets & Animals" %}selected{% endif %}>동물</option>
+                <option value="Sports" {% if selected_category_filter == "Sports" %}selected{% endif %}>스포츠</option>
+                <option value="Travel & Events" {% if selected_category_filter == "Travel & Events" %}selected{% endif %}>여행</option>
+                <option value="Gaming" {% if selected_category_filter == "Gaming" %}selected{% endif %}>게임</option>
+                <option value="People & Blogs" {% if selected_category_filter == "People & Blogs" %}selected{% endif %}>브이로그</option>
+                <option value="Comedy" {% if selected_category_filter == "Comedy" %}selected{% endif %}>예능</option>
+                <option value="Entertainment" {% if selected_category_filter == "Entertainment" %}selected{% endif %}>문화 콘텐츠</option>
+                <option value="News & Politics" {% if selected_category_filter == "News & Politics" %}selected{% endif %}>뉴스 & 정치</option>
+                <option value="Howto & Style" {% if selected_category_filter == "Howto & Style" %}selected{% endif %}> 생활 노하우 & 스타일</option>
+                <option value="Education" {% if selected_category_filter == "Education" %}selected{% endif %}>교육</option>
+                <option value="Science & Technology" {% if selected_category_filter == "Science & Technology" %}selected{% endif %}>과학 & 기술</option>
+                <option value="Movies" {% if selected_category_filter == "Movies" %}selected{% endif %}>영화</option>
+                <option value="Documentary" {% if selected_category_filter == "Documentary" %}selected{% endif %}>다큐멘터리</option>
+                <option value="Sci-Fi/Fantasy" {% if selected_category_filter == "Sci-Fi/Fantasy" %}selected{% endif %}>SF/판타지</option>
+                <option value="Shows" {% if selected_category_filter == "Shows" %}selected{% endif %}>쇼</option>
             </select>
         </form>
     </div>
-    
+
     <div class="separator"></div>
 
-    <div class="video-container" id="videoList"></div>
-    
-    <script>
-        async function fetchVideos() {
-            try {
-                const response = await fetch("/api/videos");
-                const videoData = await response.json();
-                displayVideos(videoData);
-            } catch (error) {
-                console.error("JSON 데이터를 불러오는 중 오류 발생:", error);
-            }
-        }
+    <div class="video-container" id="videoList">
+        {% for video in videos %}
+        <div class="video-item" data-duration="{{ video.duration }}">
+            <a href="https://www.youtube.com/watch?v={{ video.video_id }}" target="_blank">
+                <img src="{{ video.thumbnail_url }}" class="thumbnail">
+            </a>
+            <div class="title">{{ video.title }}</div>
+            <div class="channel">📺 {{ video.channel_name }}</div>
+            <div class="category">🎥 카테고리: {{ video.category }}</div>  <!-- ✅ 카테고리 추가 -->
+            <div class="duration">⏳ {{ video.duration }}</div>
+            <div class="views">👁 {{ "{:,}".format(video.view_count|int) }}회</div>
+            <a href="/best_comments?video_id={{ video.video_id }}&title={{ video.title }}" class="button">
+                💬 베스트 댓글 보기
+            </a>            
+        </div>
+        {% endfor %}
+    </div>
 
-        function parseDuration(duration) {
-            const parts = duration.split(":");
-            return parts.length === 3 
-                ? parseInt(parts[0]) * 3600 + parseInt(parts[1]) * 60 + parseInt(parts[2])
-                : parseInt(parts[0]) * 60 + parseInt(parts[1]);
-        }
-
-        function filterVideos(videos, filterValue) {
-            return videos.filter(video => {
-                const durationInSeconds = parseDuration(video.duration);
-                if (filterValue === "under15") return durationInSeconds < 900;
-                if (filterValue === "15to30") return durationInSeconds >= 900 && durationInSeconds <= 1800;
-                if (filterValue === "over30") return durationInSeconds > 1800;
-                return true;
-            });
-        }
-
-        function displayVideos(videos) {
-            const container = document.getElementById("videoList");
-            container.innerHTML = "";
-            videos.forEach(video => {
-                const videoItem = document.createElement("div");
-                videoItem.classList.add("video-item");
-                videoItem.innerHTML = `
-                    <a href="https://www.youtube.com/watch?v=${video.video_id}" target="_blank">
-                        <img src="${video.thumbnail_url}" class="thumbnail">
-                    </a>
-                    <div class="title">${video.title}</div>
-                    <div class="channel">📺 ${video.channel_name}</div>
-                    <div class="duration">⏳ ${video.duration}</div>
-                    <div class="views">👁 ${parseInt(video.view_count).toLocaleString()}회</div>
-                `;
-                container.appendChild(videoItem);
-            });
-        }
-
-        document.getElementById("durationFilter").addEventListener("change", async function () {
-            const videos = await fetch("/api/videos").then(res => res.json());
-            const filteredVideos = filterVideos(videos, this.value);
-            displayVideos(filteredVideos);
-        });
-
-        fetchVideos();
-    </script>
 </body>
 </html>
