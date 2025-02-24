@@ -3,7 +3,7 @@ import json
 import re
 import os
 
-YOUTUBE_API_KEY = os.getenv("OPENYOUTUBE_API_KEY")
+YOUTUBE_API_KEY = os.getenv("YOUTUBE_API_KEY")
 
 youtube = build("youtube", "v3", developerKey=YOUTUBE_API_KEY)
 
