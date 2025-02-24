@@ -58,7 +58,7 @@ def get_trending_videos(region_code="KR", max_results=42):
 
     return videos
 
-SAVE_DIR = "templates"
+SAVE_DIR = "data"
 os.makedirs(SAVE_DIR, exist_ok=True)  # 폴더가 없으면 생성
 SAVE_PATH = os.path.join(SAVE_DIR, "trending_videos.json")  # 최종 파일 경로
 
