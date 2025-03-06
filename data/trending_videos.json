@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-03-06 14:33:25",
+    "scraped_time": "2025-03-06 15:44:58",
     "videos": [
         {
             "video_id": "hUKBlwYS9Bc",
@@ -7,7 +7,7 @@
             "channel_name": "나래식",
             "category": "Entertainment",
             "duration": "37:47",
-            "view_count": "376443",
+            "view_count": "394553",
             "thumbnail_url": "https://i.ytimg.com/vi/hUKBlwYS9Bc/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "너덜트",
             "category": "Comedy",
             "duration": "7:01",
-            "view_count": "793578",
+            "view_count": "801040",
             "thumbnail_url": "https://i.ytimg.com/vi/Ih8CKFn3q6Q/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "TVCHOSUN STAR",
             "category": "Entertainment",
             "duration": "33:57",
-            "view_count": "313613",
+            "view_count": "320595",
             "thumbnail_url": "https://i.ytimg.com/vi/yTHqpF6jZFA/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "원지의하루",
             "category": "People & Blogs",
             "duration": "16:15",
-            "view_count": "387884",
+            "view_count": "398793",
             "thumbnail_url": "https://i.ytimg.com/vi/EVwU1vvSH_E/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "아린쭈",
             "category": "People & Blogs",
             "duration": "14:44",
-            "view_count": "665969",
+            "view_count": "685435",
             "thumbnail_url": "https://i.ytimg.com/vi/PQUTfK4Sjs4/hqdefault.jpg"
         },
         {
@@ -52,17 +52,8 @@
             "channel_name": "셰프 안성재 Chef Sung Anh",
             "category": "Entertainment",
             "duration": "42:07",
-            "view_count": "1033100",
+            "view_count": "1069450",
             "thumbnail_url": "https://i.ytimg.com/vi/w4A3BqBTO9A/hqdefault.jpg"
-        },
-        {
-            "video_id": "zfSikhg96rc",
-            "title": "[김준호네] 정우의 질투 ‘형아, 나보다 막내가 좋아? ㅠㅠ’ [슈퍼맨이 돌아왔다/The Return of Superman] | KBS 250305 방송",
-            "channel_name": "KBS Entertain",
-            "category": "Entertainment",
-            "duration": "6:05",
-            "view_count": "366679",
-            "thumbnail_url": "https://i.ytimg.com/vi/zfSikhg96rc/hqdefault.jpg"
         },
         {
             "video_id": "fSJvjPqdJug",
@@ -70,8 +61,17 @@
             "channel_name": "데프콘TV",
             "category": "Entertainment",
             "duration": "36:55",
-            "view_count": "226806",
+            "view_count": "244745",
             "thumbnail_url": "https://i.ytimg.com/vi/fSJvjPqdJug/hqdefault.jpg"
+        },
+        {
+            "video_id": "zfSikhg96rc",
+            "title": "[김준호네] 정우의 질투 ‘형아, 나보다 막내가 좋아? ㅠㅠ’ [슈퍼맨이 돌아왔다/The Return of Superman] | KBS 250305 방송",
+            "channel_name": "KBS Entertain",
+            "category": "Entertainment",
+            "duration": "6:05",
+            "view_count": "384403",
+            "thumbnail_url": "https://i.ytimg.com/vi/zfSikhg96rc/hqdefault.jpg"
         },
         {
             "video_id": "TbFVqO6odPo",
@@ -79,7 +79,7 @@
             "channel_name": "KBS LIFE",
             "category": "Entertainment",
             "duration": "6:13",
-            "view_count": "75246",
+            "view_count": "78073",
             "thumbnail_url": "https://i.ytimg.com/vi/TbFVqO6odPo/hqdefault.jpg"
         },
         {
@@ -88,17 +88,8 @@
             "channel_name": "EPIK HIGH",
             "category": "Music",
             "duration": "31:04",
-            "view_count": "114204",
+            "view_count": "119110",
             "thumbnail_url": "https://i.ytimg.com/vi/OEmEnAMYMXc/hqdefault.jpg"
-        },
-        {
-            "video_id": "J3gTaKMBcw8",
-            "title": "45년간 방송하며 느낀 모두와 잘 지낼 필요없는 이유ㅣ지식인초대석 EP.29 (이경규 2부)",
-            "channel_name": "지식인사이드",
-            "category": "Howto & Style",
-            "duration": "27:58",
-            "view_count": "1959210",
-            "thumbnail_url": "https://i.ytimg.com/vi/J3gTaKMBcw8/hqdefault.jpg"
         },
         {
             "video_id": "3_bZog5BE3g",
@@ -106,8 +97,17 @@
             "channel_name": "짠한형 신동엽",
             "category": "Entertainment",
             "duration": "38:05",
-            "view_count": "1111998",
+            "view_count": "1123031",
             "thumbnail_url": "https://i.ytimg.com/vi/3_bZog5BE3g/hqdefault.jpg"
+        },
+        {
+            "video_id": "J3gTaKMBcw8",
+            "title": "45년간 방송하며 느낀 모두와 잘 지낼 필요없는 이유ㅣ지식인초대석 EP.29 (이경규 2부)",
+            "channel_name": "지식인사이드",
+            "category": "Howto & Style",
+            "duration": "27:58",
+            "view_count": "1970071",
+            "thumbnail_url": "https://i.ytimg.com/vi/J3gTaKMBcw8/hqdefault.jpg"
         },
         {
             "video_id": "UtZigJ8hvVo",
@@ -115,7 +115,7 @@
             "channel_name": "더들리",
             "category": "Entertainment",
             "duration": "25:50",
-            "view_count": "1081234",
+            "view_count": "1085627",
             "thumbnail_url": "https://i.ytimg.com/vi/UtZigJ8hvVo/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "OfficialGDRAGON",
             "category": "People & Blogs",
             "duration": "2:41",
-            "view_count": "1955650",
+            "view_count": "1971110",
             "thumbnail_url": "https://i.ytimg.com/vi/c3jK48Hy3u0/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "허팝Heopop",
             "category": "Entertainment",
             "duration": "10:39",
-            "view_count": "412288",
+            "view_count": "415926",
             "thumbnail_url": "https://i.ytimg.com/vi/zFnyzHfJTkk/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "NMIXX - Topic",
             "category": "Music",
             "duration": "3:24",
-            "view_count": "224560",
+            "view_count": "228275",
             "thumbnail_url": "https://i.ytimg.com/vi/dixyMxnPuoA/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "THE K-POP",
             "category": "Music",
             "duration": "4:12",
-            "view_count": "468185",
+            "view_count": "471160",
             "thumbnail_url": "https://i.ytimg.com/vi/hsn0T-SesuA/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "살빼조DietJo",
             "category": "People & Blogs",
             "duration": "30:48",
-            "view_count": "321377",
+            "view_count": "322708",
             "thumbnail_url": "https://i.ytimg.com/vi/K5peKQAQSn0/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "크랩 KLAB",
             "category": "News & Politics",
             "duration": "4:26",
-            "view_count": "548957",
+            "view_count": "550747",
             "thumbnail_url": "https://i.ytimg.com/vi/4jgVH6y6JMU/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "한국개똥이[캄보디아생활]",
             "category": "People & Blogs",
             "duration": "18:09",
-            "view_count": "423310",
+            "view_count": "425226",
             "thumbnail_url": "https://i.ytimg.com/vi/C3oFC0hnpy8/hqdefault.jpg"
         },
         {
@@ -187,17 +187,17 @@
             "channel_name": "보겸TV",
             "category": "Entertainment",
             "duration": "23:20",
-            "view_count": "1813177",
+            "view_count": "1817150",
             "thumbnail_url": "https://i.ytimg.com/vi/lIr8z14sORg/hqdefault.jpg"
         },
         {
-            "video_id": "V8Fhw2dHk_Y",
-            "title": "[EN] 왕 크니까 왕 괴로운 왕만두 대접 | 지멋대로 식탁 EP.03",
-            "channel_name": "M드로메다 스튜디오",
-            "category": "Entertainment",
-            "duration": "21:33",
-            "view_count": "173581",
-            "thumbnail_url": "https://i.ytimg.com/vi/V8Fhw2dHk_Y/hqdefault.jpg"
+            "video_id": "UcdXmAChUe4",
+            "title": "한국 축구 국가대표 간판 공격수! 대전 하나 시티즌 주민규 선수와 한우 먹방! [둘이 왔어요 EP182]",
+            "channel_name": "운동부 둘이 왔어요",
+            "category": "Travel & Events",
+            "duration": "30:28",
+            "view_count": "83297",
+            "thumbnail_url": "https://i.ytimg.com/vi/UcdXmAChUe4/hqdefault.jpg"
         },
         {
             "video_id": "tLZZQUvuXWk",
@@ -205,8 +205,17 @@
             "channel_name": "취미로 요리하는 남자 Yonam",
             "category": "Entertainment",
             "duration": "19:18",
-            "view_count": "72854",
+            "view_count": "75094",
             "thumbnail_url": "https://i.ytimg.com/vi/tLZZQUvuXWk/hqdefault.jpg"
+        },
+        {
+            "video_id": "V8Fhw2dHk_Y",
+            "title": "[EN] 왕 크니까 왕 괴로운 왕만두 대접 | 지멋대로 식탁 EP.03",
+            "channel_name": "M드로메다 스튜디오",
+            "category": "Entertainment",
+            "duration": "21:33",
+            "view_count": "175463",
+            "thumbnail_url": "https://i.ytimg.com/vi/V8Fhw2dHk_Y/hqdefault.jpg"
         },
         {
             "video_id": "wxmW_rWhYz4",
@@ -214,7 +223,7 @@
             "channel_name": "감스트GAMST",
             "category": "People & Blogs",
             "duration": "16:16",
-            "view_count": "1845863",
+            "view_count": "1849435",
             "thumbnail_url": "https://i.ytimg.com/vi/wxmW_rWhYz4/hqdefault.jpg"
         },
         {
@@ -223,17 +232,8 @@
             "channel_name": "임영웅",
             "category": "Music",
             "duration": "8:03",
-            "view_count": "419436",
+            "view_count": "421844",
             "thumbnail_url": "https://i.ytimg.com/vi/qX1nbBkgj5M/hqdefault.jpg"
-        },
-        {
-            "video_id": "eybhs_YJz1A",
-            "title": "덩그러니 떠 있는 섬에 사람이라고는 단 둘 뿐… 그곳에도 봄이 날아든다~ 대청호 외딴섬 부녀 [KBS 20030407 방송]",
-            "channel_name": "KBS HUMAN : 뭉클티비",
-            "category": "Entertainment",
-            "duration": "22:55",
-            "view_count": "63994",
-            "thumbnail_url": "https://i.ytimg.com/vi/eybhs_YJz1A/hqdefault.jpg"
         },
         {
             "video_id": "sZxtDAacNck",
@@ -241,8 +241,17 @@
             "channel_name": "비투비 컴퍼니 (BTOB COMPANY)",
             "category": "Entertainment",
             "duration": "3:16",
-            "view_count": "673811",
+            "view_count": "706726",
             "thumbnail_url": "https://i.ytimg.com/vi/sZxtDAacNck/hqdefault.jpg"
+        },
+        {
+            "video_id": "eybhs_YJz1A",
+            "title": "덩그러니 떠 있는 섬에 사람이라고는 단 둘 뿐… 그곳에도 봄이 날아든다~ 대청호 외딴섬 부녀 [KBS 20030407 방송]",
+            "channel_name": "KBS HUMAN : 뭉클티비",
+            "category": "Entertainment",
+            "duration": "22:55",
+            "view_count": "64785",
+            "thumbnail_url": "https://i.ytimg.com/vi/eybhs_YJz1A/hqdefault.jpg"
         },
         {
             "video_id": "ynIcWJvX8ZU",
@@ -250,7 +259,7 @@
             "channel_name": "정동원TV",
             "category": "People & Blogs",
             "duration": "3:33",
-            "view_count": "81818",
+            "view_count": "83057",
             "thumbnail_url": "https://i.ytimg.com/vi/ynIcWJvX8ZU/hqdefault.jpg"
         },
         {
@@ -259,7 +268,7 @@
             "channel_name": "JTBC Voyage",
             "category": "Entertainment",
             "duration": "20:19",
-            "view_count": "1312176",
+            "view_count": "1316637",
             "thumbnail_url": "https://i.ytimg.com/vi/kbpC2lrdRlg/hqdefault.jpg"
         },
         {
@@ -268,7 +277,7 @@
             "channel_name": "ALL THE K-POP",
             "category": "Entertainment",
             "duration": "3:56",
-            "view_count": "325055",
+            "view_count": "334634",
             "thumbnail_url": "https://i.ytimg.com/vi/qB4MYtaL4Gs/hqdefault.jpg"
         },
         {
@@ -277,7 +286,7 @@
             "channel_name": "뜬뜬 DdeunDdeun",
             "category": "Comedy",
             "duration": "1:01:36",
-            "view_count": "3232004",
+            "view_count": "3245218",
             "thumbnail_url": "https://i.ytimg.com/vi/SN8hBd7TCCM/hqdefault.jpg"
         },
         {
@@ -286,7 +295,7 @@
             "channel_name": "kiu기우쌤",
             "category": "Howto & Style",
             "duration": "16:33",
-            "view_count": "434891",
+            "view_count": "440669",
             "thumbnail_url": "https://i.ytimg.com/vi/wRG1soum9xc/hqdefault.jpg"
         },
         {
@@ -295,7 +304,7 @@
             "channel_name": "남피디와 아이들",
             "category": "Pets & Animals",
             "duration": "1:22",
-            "view_count": "312715",
+            "view_count": "313538",
             "thumbnail_url": "https://i.ytimg.com/vi/lhvAAk-jMUw/hqdefault.jpg"
         },
         {
@@ -304,7 +313,7 @@
             "channel_name": "새덕후 Korean Birder",
             "category": "Pets & Animals",
             "duration": "12:46",
-            "view_count": "909361",
+            "view_count": "913495",
             "thumbnail_url": "https://i.ytimg.com/vi/evMRe8PfSt4/hqdefault.jpg"
         },
         {
@@ -313,7 +322,7 @@
             "channel_name": "얼미부부",
             "category": "People & Blogs",
             "duration": "13:38",
-            "view_count": "242015",
+            "view_count": "242846",
             "thumbnail_url": "https://i.ytimg.com/vi/fwTS1orac9c/hqdefault.jpg"
         },
         {
@@ -322,7 +331,7 @@
             "channel_name": "최종 시안",
             "category": "People & Blogs",
             "duration": "17:31",
-            "view_count": "611461",
+            "view_count": "615553",
             "thumbnail_url": "https://i.ytimg.com/vi/nnTrdFokCKk/hqdefault.jpg"
         },
         {
@@ -331,7 +340,7 @@
             "channel_name": "쯔양밖정원",
             "category": "People & Blogs",
             "duration": "12:44",
-            "view_count": "202386",
+            "view_count": "205714",
             "thumbnail_url": "https://i.ytimg.com/vi/Eyfpcs15Pww/hqdefault.jpg"
         },
         {
@@ -340,7 +349,7 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "1:55",
-            "view_count": "1784334",
+            "view_count": "1805192",
             "thumbnail_url": "https://i.ytimg.com/vi/vY4lGJJ2ZzI/hqdefault.jpg"
         },
         {
@@ -349,7 +358,7 @@
             "channel_name": "엄방대TV",
             "category": "Travel & Events",
             "duration": "23:04",
-            "view_count": "151098",
+            "view_count": "151550",
             "thumbnail_url": "https://i.ytimg.com/vi/96makOlAzxI/hqdefault.jpg"
         },
         {
@@ -358,26 +367,17 @@
             "channel_name": "도른 에밀리 Emilie Dorn",
             "category": "Entertainment",
             "duration": "15:20",
-            "view_count": "405973",
+            "view_count": "407009",
             "thumbnail_url": "https://i.ytimg.com/vi/uVnaxmUwTXc/hqdefault.jpg"
         },
         {
-            "video_id": "74QQZxkALdw",
-            "title": "'최초 공개/4K' G-DRAGON - TOO BAD (feat. Anderson .Paak) #엠카운트다운 EP.877 | Mnet 250227 방송",
-            "channel_name": "Mnet K-POP",
+            "video_id": "IqVogBUUK4c",
+            "title": "[하이라이트] 오늘만큼은 짠국이 아님! 종민을 위한 300만 원 냉장고 선물🎁 [미운 우리 새끼|250223 SBS방송]",
+            "channel_name": "미우새",
             "category": "Entertainment",
-            "duration": "3:42",
-            "view_count": "4752497",
-            "thumbnail_url": "https://i.ytimg.com/vi/74QQZxkALdw/hqdefault.jpg"
-        },
-        {
-            "video_id": "hP_Dtsy9zC4",
-            "title": "[슈블리맘] 250304 💡원샷 괄사 최초 공구💡 라방 편집본 #이수지 #공동구매 #슈블리맘 #원샷괄사 #윤곽정리 #즉각효과 #HDMI승인👍",
-            "channel_name": "핫이슈지",
-            "category": "People & Blogs",
-            "duration": "10:34",
-            "view_count": "1110947",
-            "thumbnail_url": "https://i.ytimg.com/vi/hP_Dtsy9zC4/hqdefault.jpg"
+            "duration": "8:14",
+            "view_count": "138447",
+            "thumbnail_url": "https://i.ytimg.com/vi/IqVogBUUK4c/hqdefault.jpg"
         }
     ]
 }
