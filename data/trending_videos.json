@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-03-07 11:51:24",
+    "scraped_time": "2025-03-07 12:22:50",
     "videos": [
         {
             "video_id": "hUKBlwYS9Bc",
@@ -7,7 +7,7 @@
             "channel_name": "나래식",
             "category": "Entertainment",
             "duration": "37:47",
-            "view_count": "546271",
+            "view_count": "549089",
             "thumbnail_url": "https://i.ytimg.com/vi/hUKBlwYS9Bc/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "TVCHOSUN STAR",
             "category": "Entertainment",
             "duration": "33:57",
-            "view_count": "442285",
+            "view_count": "444587",
             "thumbnail_url": "https://i.ytimg.com/vi/yTHqpF6jZFA/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "원지의하루",
             "category": "People & Blogs",
             "duration": "16:15",
-            "view_count": "512359",
+            "view_count": "514843",
             "thumbnail_url": "https://i.ytimg.com/vi/EVwU1vvSH_E/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "너덜트",
             "category": "Comedy",
             "duration": "7:01",
-            "view_count": "913252",
+            "view_count": "914616",
             "thumbnail_url": "https://i.ytimg.com/vi/Ih8CKFn3q6Q/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "아린쭈",
             "category": "People & Blogs",
             "duration": "14:44",
-            "view_count": "889458",
+            "view_count": "892698",
             "thumbnail_url": "https://i.ytimg.com/vi/PQUTfK4Sjs4/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "INFINITE Official",
             "category": "Entertainment",
             "duration": "3:08",
-            "view_count": "3358247",
+            "view_count": "3363764",
             "thumbnail_url": "https://i.ytimg.com/vi/O4WQFp9oCRQ/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "데프콘TV",
             "category": "Entertainment",
             "duration": "36:55",
-            "view_count": "400879",
+            "view_count": "402787",
             "thumbnail_url": "https://i.ytimg.com/vi/fSJvjPqdJug/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "짠한형 신동엽",
             "category": "Entertainment",
             "duration": "38:05",
-            "view_count": "1258172",
+            "view_count": "1261089",
             "thumbnail_url": "https://i.ytimg.com/vi/3_bZog5BE3g/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "EPIK HIGH",
             "category": "Music",
             "duration": "31:04",
-            "view_count": "163190",
+            "view_count": "163950",
             "thumbnail_url": "https://i.ytimg.com/vi/OEmEnAMYMXc/hqdefault.jpg"
         },
         {
@@ -88,7 +88,7 @@
             "channel_name": "KBS LIFE",
             "category": "Entertainment",
             "duration": "6:13",
-            "view_count": "99421",
+            "view_count": "99760",
             "thumbnail_url": "https://i.ytimg.com/vi/TbFVqO6odPo/hqdefault.jpg"
         },
         {
@@ -97,7 +97,7 @@
             "channel_name": "KBS Entertain",
             "category": "Entertainment",
             "duration": "6:05",
-            "view_count": "515003",
+            "view_count": "516657",
             "thumbnail_url": "https://i.ytimg.com/vi/zfSikhg96rc/hqdefault.jpg"
         },
         {
@@ -106,17 +106,8 @@
             "channel_name": "OfficialGDRAGON",
             "category": "People & Blogs",
             "duration": "2:41",
-            "view_count": "2229781",
+            "view_count": "2238208",
             "thumbnail_url": "https://i.ytimg.com/vi/c3jK48Hy3u0/hqdefault.jpg"
-        },
-        {
-            "video_id": "J3gTaKMBcw8",
-            "title": "45년간 방송하며 느낀 모두와 잘 지낼 필요없는 이유ㅣ지식인초대석 EP.29 (이경규 2부)",
-            "channel_name": "지식인사이드",
-            "category": "Howto & Style",
-            "duration": "27:58",
-            "view_count": "2052846",
-            "thumbnail_url": "https://i.ytimg.com/vi/J3gTaKMBcw8/hqdefault.jpg"
         },
         {
             "video_id": "w4A3BqBTO9A",
@@ -124,8 +115,17 @@
             "channel_name": "셰프 안성재 Chef Sung Anh",
             "category": "Entertainment",
             "duration": "42:07",
-            "view_count": "1398316",
+            "view_count": "1402625",
             "thumbnail_url": "https://i.ytimg.com/vi/w4A3BqBTO9A/hqdefault.jpg"
+        },
+        {
+            "video_id": "J3gTaKMBcw8",
+            "title": "45년간 방송하며 느낀 모두와 잘 지낼 필요없는 이유ㅣ지식인초대석 EP.29 (이경규 2부)",
+            "channel_name": "지식인사이드",
+            "category": "Howto & Style",
+            "duration": "27:58",
+            "view_count": "2055626",
+            "thumbnail_url": "https://i.ytimg.com/vi/J3gTaKMBcw8/hqdefault.jpg"
         },
         {
             "video_id": "zFnyzHfJTkk",
@@ -133,7 +133,7 @@
             "channel_name": "허팝Heopop",
             "category": "Entertainment",
             "duration": "10:39",
-            "view_count": "574480",
+            "view_count": "576546",
             "thumbnail_url": "https://i.ytimg.com/vi/zFnyzHfJTkk/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "더들리",
             "category": "Entertainment",
             "duration": "25:50",
-            "view_count": "1173895",
+            "view_count": "1174719",
             "thumbnail_url": "https://i.ytimg.com/vi/UtZigJ8hvVo/hqdefault.jpg"
         },
         {
@@ -151,17 +151,8 @@
             "channel_name": "NMIXX - Topic",
             "category": "Music",
             "duration": "3:24",
-            "view_count": "283379",
+            "view_count": "285167",
             "thumbnail_url": "https://i.ytimg.com/vi/dixyMxnPuoA/hqdefault.jpg"
-        },
-        {
-            "video_id": "C3oFC0hnpy8",
-            "title": "[캄보디아] 처갓집이 이렇게 살고 있는거 이제야 알았습니다 / 국제결혼가족",
-            "channel_name": "한국개똥이[캄보디아생활]",
-            "category": "People & Blogs",
-            "duration": "18:09",
-            "view_count": "449833",
-            "thumbnail_url": "https://i.ytimg.com/vi/C3oFC0hnpy8/hqdefault.jpg"
         },
         {
             "video_id": "tLZZQUvuXWk",
@@ -169,8 +160,17 @@
             "channel_name": "취미로 요리하는 남자 Yonam",
             "category": "Entertainment",
             "duration": "19:18",
-            "view_count": "102323",
+            "view_count": "102676",
             "thumbnail_url": "https://i.ytimg.com/vi/tLZZQUvuXWk/hqdefault.jpg"
+        },
+        {
+            "video_id": "C3oFC0hnpy8",
+            "title": "[캄보디아] 처갓집이 이렇게 살고 있는거 이제야 알았습니다 / 국제결혼가족",
+            "channel_name": "한국개똥이[캄보디아생활]",
+            "category": "People & Blogs",
+            "duration": "18:09",
+            "view_count": "450179",
+            "thumbnail_url": "https://i.ytimg.com/vi/C3oFC0hnpy8/hqdefault.jpg"
         },
         {
             "video_id": "hsn0T-SesuA",
@@ -178,17 +178,8 @@
             "channel_name": "THE K-POP",
             "category": "Music",
             "duration": "4:12",
-            "view_count": "502920",
+            "view_count": "503605",
             "thumbnail_url": "https://i.ytimg.com/vi/hsn0T-SesuA/hqdefault.jpg"
-        },
-        {
-            "video_id": "K5peKQAQSn0",
-            "title": "[먹방브이로그#112]오랜만에 30분 꽉꽉 채워서 낋여왔어요🍜 로제마라샹궈,크림새우,에그드랍,신라면투움바,꼬북칩,연세우유,누룽지치즈밥,돈까스,와플,떡볶이,십원빵,고추마요+콘소메이징",
-            "channel_name": "살빼조DietJo",
-            "category": "People & Blogs",
-            "duration": "30:48",
-            "view_count": "354254",
-            "thumbnail_url": "https://i.ytimg.com/vi/K5peKQAQSn0/hqdefault.jpg"
         },
         {
             "video_id": "sZxtDAacNck",
@@ -196,8 +187,17 @@
             "channel_name": "비투비 컴퍼니 (BTOB COMPANY)",
             "category": "Entertainment",
             "duration": "3:16",
-            "view_count": "1360395",
+            "view_count": "1376566",
             "thumbnail_url": "https://i.ytimg.com/vi/sZxtDAacNck/hqdefault.jpg"
+        },
+        {
+            "video_id": "K5peKQAQSn0",
+            "title": "[먹방브이로그#112]오랜만에 30분 꽉꽉 채워서 낋여왔어요🍜 로제마라샹궈,크림새우,에그드랍,신라면투움바,꼬북칩,연세우유,누룽지치즈밥,돈까스,와플,떡볶이,십원빵,고추마요+콘소메이징",
+            "channel_name": "살빼조DietJo",
+            "category": "People & Blogs",
+            "duration": "30:48",
+            "view_count": "354730",
+            "thumbnail_url": "https://i.ytimg.com/vi/K5peKQAQSn0/hqdefault.jpg"
         },
         {
             "video_id": "V8Fhw2dHk_Y",
@@ -205,7 +205,7 @@
             "channel_name": "M드로메다 스튜디오",
             "category": "Entertainment",
             "duration": "21:33",
-            "view_count": "203450",
+            "view_count": "204234",
             "thumbnail_url": "https://i.ytimg.com/vi/V8Fhw2dHk_Y/hqdefault.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "channel_name": "ALL THE K-POP",
             "category": "Entertainment",
             "duration": "3:56",
-            "view_count": "421922",
+            "view_count": "422805",
             "thumbnail_url": "https://i.ytimg.com/vi/qB4MYtaL4Gs/hqdefault.jpg"
         },
         {
@@ -223,7 +223,7 @@
             "channel_name": "정동원TV",
             "category": "People & Blogs",
             "duration": "3:33",
-            "view_count": "98754",
+            "view_count": "99104",
             "thumbnail_url": "https://i.ytimg.com/vi/ynIcWJvX8ZU/hqdefault.jpg"
         },
         {
@@ -232,7 +232,7 @@
             "channel_name": "KBS HUMAN : 뭉클티비",
             "category": "Entertainment",
             "duration": "22:55",
-            "view_count": "72462",
+            "view_count": "72584",
             "thumbnail_url": "https://i.ytimg.com/vi/eybhs_YJz1A/hqdefault.jpg"
         },
         {
@@ -241,7 +241,7 @@
             "channel_name": "임영웅",
             "category": "Music",
             "duration": "8:03",
-            "view_count": "448140",
+            "view_count": "449164",
             "thumbnail_url": "https://i.ytimg.com/vi/qX1nbBkgj5M/hqdefault.jpg"
         },
         {
@@ -250,7 +250,7 @@
             "channel_name": "감스트GAMST",
             "category": "People & Blogs",
             "duration": "16:16",
-            "view_count": "1906158",
+            "view_count": "1906806",
             "thumbnail_url": "https://i.ytimg.com/vi/wxmW_rWhYz4/hqdefault.jpg"
         },
         {
@@ -259,7 +259,7 @@
             "channel_name": "크랩 KLAB",
             "category": "News & Politics",
             "duration": "4:26",
-            "view_count": "578721",
+            "view_count": "579181",
             "thumbnail_url": "https://i.ytimg.com/vi/4jgVH6y6JMU/hqdefault.jpg"
         },
         {
@@ -268,7 +268,7 @@
             "channel_name": "보겸TV",
             "category": "Entertainment",
             "duration": "23:20",
-            "view_count": "1867064",
+            "view_count": "1868149",
             "thumbnail_url": "https://i.ytimg.com/vi/lIr8z14sORg/hqdefault.jpg"
         },
         {
@@ -277,7 +277,7 @@
             "channel_name": "JTBC Voyage",
             "category": "Entertainment",
             "duration": "20:19",
-            "view_count": "1377356",
+            "view_count": "1378475",
             "thumbnail_url": "https://i.ytimg.com/vi/kbpC2lrdRlg/hqdefault.jpg"
         },
         {
@@ -286,7 +286,7 @@
             "channel_name": "뜬뜬 DdeunDdeun",
             "category": "Comedy",
             "duration": "1:01:36",
-            "view_count": "3386490",
+            "view_count": "3390061",
             "thumbnail_url": "https://i.ytimg.com/vi/SN8hBd7TCCM/hqdefault.jpg"
         },
         {
@@ -295,7 +295,7 @@
             "channel_name": "운동부 둘이 왔어요",
             "category": "Travel & Events",
             "duration": "30:28",
-            "view_count": "108123",
+            "view_count": "108483",
             "thumbnail_url": "https://i.ytimg.com/vi/UcdXmAChUe4/hqdefault.jpg"
         },
         {
@@ -304,7 +304,7 @@
             "channel_name": "새덕후 Korean Birder",
             "category": "Pets & Animals",
             "duration": "12:46",
-            "view_count": "985014",
+            "view_count": "987184",
             "thumbnail_url": "https://i.ytimg.com/vi/evMRe8PfSt4/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "얼미부부",
             "category": "People & Blogs",
             "duration": "13:38",
-            "view_count": "251841",
+            "view_count": "251971",
             "thumbnail_url": "https://i.ytimg.com/vi/fwTS1orac9c/hqdefault.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "channel_name": "최종 시안",
             "category": "People & Blogs",
             "duration": "17:31",
-            "view_count": "683092",
+            "view_count": "684173",
             "thumbnail_url": "https://i.ytimg.com/vi/nnTrdFokCKk/hqdefault.jpg"
         },
         {
@@ -331,7 +331,7 @@
             "channel_name": "쯔양밖정원",
             "category": "People & Blogs",
             "duration": "12:44",
-            "view_count": "243741",
+            "view_count": "244271",
             "thumbnail_url": "https://i.ytimg.com/vi/Eyfpcs15Pww/hqdefault.jpg"
         },
         {
@@ -340,17 +340,8 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "1:55",
-            "view_count": "2142251",
+            "view_count": "2150245",
             "thumbnail_url": "https://i.ytimg.com/vi/vY4lGJJ2ZzI/hqdefault.jpg"
-        },
-        {
-            "video_id": "96makOlAzxI",
-            "title": "난생처음 스키장에 간 인도네시아 소녀가 눈물을 펑펑 흘린 이유.. (ft. 웃으면 안되는데....ㅋㅋㅋ)",
-            "channel_name": "엄방대TV",
-            "category": "Travel & Events",
-            "duration": "23:04",
-            "view_count": "157037",
-            "thumbnail_url": "https://i.ytimg.com/vi/96makOlAzxI/hqdefault.jpg"
         },
         {
             "video_id": "IZSRkCDVZdA",
@@ -358,8 +349,17 @@
             "channel_name": "보물섬",
             "category": "Comedy",
             "duration": "32:54",
-            "view_count": "811163",
+            "view_count": "811973",
             "thumbnail_url": "https://i.ytimg.com/vi/IZSRkCDVZdA/hqdefault.jpg"
+        },
+        {
+            "video_id": "96makOlAzxI",
+            "title": "난생처음 스키장에 간 인도네시아 소녀가 눈물을 펑펑 흘린 이유.. (ft. 웃으면 안되는데....ㅋㅋㅋ)",
+            "channel_name": "엄방대TV",
+            "category": "Travel & Events",
+            "duration": "23:04",
+            "view_count": "157169",
+            "thumbnail_url": "https://i.ytimg.com/vi/96makOlAzxI/hqdefault.jpg"
         },
         {
             "video_id": "uVnaxmUwTXc",
@@ -367,7 +367,7 @@
             "channel_name": "도른 에밀리 Emilie Dorn",
             "category": "Entertainment",
             "duration": "15:20",
-            "view_count": "448468",
+            "view_count": "449071",
             "thumbnail_url": "https://i.ytimg.com/vi/uVnaxmUwTXc/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "남피디와 아이들",
             "category": "Pets & Animals",
             "duration": "1:22",
-            "view_count": "329621",
+            "view_count": "329867",
             "thumbnail_url": "https://i.ytimg.com/vi/lhvAAk-jMUw/hqdefault.jpg"
         }
     ]
