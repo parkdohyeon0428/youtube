@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-03-10 17:14:21",
+    "scraped_time": "2025-03-10 18:11:52",
     "videos": [
         {
             "video_id": "Kn5waagedK8",
@@ -7,7 +7,7 @@
             "channel_name": "tvN SPORTS",
             "category": "Sports",
             "duration": "27:26",
-            "view_count": "1178034",
+            "view_count": "1188327",
             "thumbnail_url": "https://i.ytimg.com/vi/Kn5waagedK8/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "요정재형",
             "category": "Entertainment",
             "duration": "59:07",
-            "view_count": "742707",
+            "view_count": "760213",
             "thumbnail_url": "https://i.ytimg.com/vi/LC0vWs8cs5I/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "뜬뜬 DdeunDdeun",
             "category": "Comedy",
             "duration": "1:08:25",
-            "view_count": "3012802",
+            "view_count": "3036448",
             "thumbnail_url": "https://i.ytimg.com/vi/eELPm0IUNtM/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "스포타임",
             "category": "Sports",
             "duration": "4:31",
-            "view_count": "1528391",
+            "view_count": "1565898",
             "thumbnail_url": "https://i.ytimg.com/vi/0_zT7fyqGIw/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "NPOP",
             "category": "People & Blogs",
             "duration": "2:17",
-            "view_count": "1469491",
+            "view_count": "1517179",
             "thumbnail_url": "https://i.ytimg.com/vi/lBimDKKNDDs/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "JennieRubyJaneVEVO",
             "category": "Music",
             "duration": "3:03",
-            "view_count": "17064535",
+            "view_count": "17190924",
             "thumbnail_url": "https://i.ytimg.com/vi/JSFG-IE8n_c/hqdefault.jpg"
         },
         {
@@ -61,17 +61,8 @@
             "channel_name": "고로케 : goroke",
             "category": "Entertainment",
             "duration": "18:59",
-            "view_count": "629922",
+            "view_count": "651842",
             "thumbnail_url": "https://i.ytimg.com/vi/LS2hKISN6gI/hqdefault.jpg"
-        },
-        {
-            "video_id": "Z7S8_GraO9k",
-            "title": "군대리아",
-            "channel_name": "숏박스",
-            "category": "Comedy",
-            "duration": "9:09",
-            "view_count": "3136621",
-            "thumbnail_url": "https://i.ytimg.com/vi/Z7S8_GraO9k/hqdefault.jpg"
         },
         {
             "video_id": "jMRyVvNSA3g",
@@ -79,8 +70,17 @@
             "channel_name": "임영웅",
             "category": "Music",
             "duration": "17:28",
-            "view_count": "236171",
+            "view_count": "241628",
             "thumbnail_url": "https://i.ytimg.com/vi/jMRyVvNSA3g/hqdefault.jpg"
+        },
+        {
+            "video_id": "Z7S8_GraO9k",
+            "title": "군대리아",
+            "channel_name": "숏박스",
+            "category": "Comedy",
+            "duration": "9:09",
+            "view_count": "3147760",
+            "thumbnail_url": "https://i.ytimg.com/vi/Z7S8_GraO9k/hqdefault.jpg"
         },
         {
             "video_id": "JXR81wlgJXo",
@@ -88,7 +88,7 @@
             "channel_name": "김만덕의 극한야생",
             "category": "Gaming",
             "duration": "19:30",
-            "view_count": "260643",
+            "view_count": "262940",
             "thumbnail_url": "https://i.ytimg.com/vi/JXR81wlgJXo/hqdefault.jpg"
         },
         {
@@ -97,7 +97,7 @@
             "channel_name": "꾸준 kkujun",
             "category": "Travel & Events",
             "duration": "46:07",
-            "view_count": "809591",
+            "view_count": "813577",
             "thumbnail_url": "https://i.ytimg.com/vi/2WeVpa6RbwQ/hqdefault.jpg"
         },
         {
@@ -106,7 +106,7 @@
             "channel_name": "프응TV Honeybeefather",
             "category": "People & Blogs",
             "duration": "15:20",
-            "view_count": "205508",
+            "view_count": "208004",
             "thumbnail_url": "https://i.ytimg.com/vi/Xh2K4rm4QWY/hqdefault.jpg"
         },
         {
@@ -115,7 +115,7 @@
             "channel_name": "유슬비 YOOSEULBI",
             "category": "People & Blogs",
             "duration": "19:09",
-            "view_count": "137505",
+            "view_count": "138341",
             "thumbnail_url": "https://i.ytimg.com/vi/Iu0yLRybyeg/hqdefault.jpg"
         },
         {
@@ -124,17 +124,8 @@
             "channel_name": "정동원TV",
             "category": "People & Blogs",
             "duration": "0:30",
-            "view_count": "161235",
+            "view_count": "165052",
             "thumbnail_url": "https://i.ytimg.com/vi/7FW-U3ZOQM4/hqdefault.jpg"
-        },
-        {
-            "video_id": "tBVOh-_RSYs",
-            "title": "[KIA vs 롯데] 3/9 시범경기 I 2025 신한 SOL뱅크 KBO 리그 I 하이라이트 I TVING",
-            "channel_name": "TVING SPORTS",
-            "category": "Sports",
-            "duration": "15:18",
-            "view_count": "246947",
-            "thumbnail_url": "https://i.ytimg.com/vi/tBVOh-_RSYs/hqdefault.jpg"
         },
         {
             "video_id": "r5TJ0f5EbDA",
@@ -142,8 +133,17 @@
             "channel_name": "planD플랜디",
             "category": "People & Blogs",
             "duration": "22:47",
-            "view_count": "325349",
+            "view_count": "332015",
             "thumbnail_url": "https://i.ytimg.com/vi/r5TJ0f5EbDA/hqdefault.jpg"
+        },
+        {
+            "video_id": "tBVOh-_RSYs",
+            "title": "[KIA vs 롯데] 3/9 시범경기 I 2025 신한 SOL뱅크 KBO 리그 I 하이라이트 I TVING",
+            "channel_name": "TVING SPORTS",
+            "category": "Sports",
+            "duration": "15:10",
+            "view_count": "248349",
+            "thumbnail_url": "https://i.ytimg.com/vi/tBVOh-_RSYs/hqdefault.jpg"
         },
         {
             "video_id": "85DSFgZ4-wQ",
@@ -151,7 +151,7 @@
             "channel_name": "NPOP",
             "category": "People & Blogs",
             "duration": "0:35",
-            "view_count": "876001",
+            "view_count": "879729",
             "thumbnail_url": "https://i.ytimg.com/vi/85DSFgZ4-wQ/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "MBCdrama",
             "category": "Entertainment",
             "duration": "14:53",
-            "view_count": "290350",
+            "view_count": "292467",
             "thumbnail_url": "https://i.ytimg.com/vi/PWhGSKggSvw/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "띱 Deep",
             "category": "Comedy",
             "duration": "7:46",
-            "view_count": "1424715",
+            "view_count": "1430746",
             "thumbnail_url": "https://i.ytimg.com/vi/kQTFNQivQaE/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "JTBC Entertainment",
             "category": "Entertainment",
             "duration": "31:49",
-            "view_count": "551398",
+            "view_count": "565092",
             "thumbnail_url": "https://i.ytimg.com/vi/3T-KF_NUPd8/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "3:49",
-            "view_count": "6465456",
+            "view_count": "6501113",
             "thumbnail_url": "https://i.ytimg.com/vi/kW1e8NtdW90/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "휘토피아 htopia",
             "category": "Howto & Style",
             "duration": "30:37",
-            "view_count": "86839",
+            "view_count": "88086",
             "thumbnail_url": "https://i.ytimg.com/vi/2oyd4EASBCM/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "훼사원",
             "category": "People & Blogs",
             "duration": "8:04",
-            "view_count": "257892",
+            "view_count": "259102",
             "thumbnail_url": "https://i.ytimg.com/vi/GRUfZQC3_po/hqdefault.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "channel_name": "곽튜브",
             "category": "Travel & Events",
             "duration": "40:27",
-            "view_count": "1433409",
+            "view_count": "1436013",
             "thumbnail_url": "https://i.ytimg.com/vi/LsKcMV7hfPY/hqdefault.jpg"
         },
         {
@@ -223,7 +223,7 @@
             "channel_name": "TVCHOSUN MUSIC",
             "category": "Entertainment",
             "duration": "16:36",
-            "view_count": "393176",
+            "view_count": "396106",
             "thumbnail_url": "https://i.ytimg.com/vi/SGP0pJZEYeM/hqdefault.jpg"
         },
         {
@@ -232,7 +232,7 @@
             "channel_name": "NCT",
             "category": "Music",
             "duration": "23:26",
-            "view_count": "438259",
+            "view_count": "439615",
             "thumbnail_url": "https://i.ytimg.com/vi/iz3GdLbwHkI/hqdefault.jpg"
         },
         {
@@ -241,17 +241,8 @@
             "channel_name": "SBS Golf",
             "category": "Sports",
             "duration": "49:45",
-            "view_count": "182649",
+            "view_count": "183835",
             "thumbnail_url": "https://i.ytimg.com/vi/GHWdeD6bl28/hqdefault.jpg"
-        },
-        {
-            "video_id": "Cvy7vwZW38Y",
-            "title": "내 뇌 기능이 끝장 나는데 얼마나 걸릴 것 같나?💥 드디어 내실 금고를 열어줄 키맨 박형식을 만난 우현 #습드첵 #보물섬 #BuriedHearts #sbsdrama",
-            "channel_name": "SBS Drama",
-            "category": "Entertainment",
-            "duration": "14:59",
-            "view_count": "357035",
-            "thumbnail_url": "https://i.ytimg.com/vi/Cvy7vwZW38Y/hqdefault.jpg"
         },
         {
             "video_id": "hS0cRWkCRmw",
@@ -259,8 +250,17 @@
             "channel_name": "동네친구 강나미 [Kangnami]",
             "category": "Entertainment",
             "duration": "28:09",
-            "view_count": "694737",
+            "view_count": "696253",
             "thumbnail_url": "https://i.ytimg.com/vi/hS0cRWkCRmw/hqdefault.jpg"
+        },
+        {
+            "video_id": "Cvy7vwZW38Y",
+            "title": "내 뇌 기능이 끝장 나는데 얼마나 걸릴 것 같나?💥 드디어 내실 금고를 열어줄 키맨 박형식을 만난 우현 #습드첵 #보물섬 #BuriedHearts #sbsdrama",
+            "channel_name": "SBS Drama",
+            "category": "Entertainment",
+            "duration": "14:59",
+            "view_count": "357989",
+            "thumbnail_url": "https://i.ytimg.com/vi/Cvy7vwZW38Y/hqdefault.jpg"
         },
         {
             "video_id": "E4pjQzmXJNY",
@@ -268,7 +268,7 @@
             "channel_name": "총몇명",
             "category": "Film & Animation",
             "duration": "4:45",
-            "view_count": "1020845",
+            "view_count": "1027526",
             "thumbnail_url": "https://i.ytimg.com/vi/E4pjQzmXJNY/hqdefault.jpg"
         },
         {
@@ -277,17 +277,8 @@
             "channel_name": "UPSub없섭",
             "category": "Science & Technology",
             "duration": "8:57",
-            "view_count": "600657",
+            "view_count": "602332",
             "thumbnail_url": "https://i.ytimg.com/vi/-XXPO8rl7Wk/hqdefault.jpg"
-        },
-        {
-            "video_id": "kyRhp1O6wvM",
-            "title": "호주 유학 집 구하기 | 도착 6시간만에 계약 완료! | 유학생 브이로그🇦🇺",
-            "channel_name": "유네린LIN",
-            "category": "People & Blogs",
-            "duration": "13:07",
-            "view_count": "106938",
-            "thumbnail_url": "https://i.ytimg.com/vi/kyRhp1O6wvM/hqdefault.jpg"
         },
         {
             "video_id": "-Ziv4u5c4G4",
@@ -295,8 +286,17 @@
             "channel_name": "회사원A",
             "category": "Howto & Style",
             "duration": "22:53",
-            "view_count": "165305",
+            "view_count": "167364",
             "thumbnail_url": "https://i.ytimg.com/vi/-Ziv4u5c4G4/hqdefault.jpg"
+        },
+        {
+            "video_id": "kyRhp1O6wvM",
+            "title": "호주 유학 집 구하기 | 도착 6시간만에 계약 완료! | 유학생 브이로그🇦🇺",
+            "channel_name": "유네린LIN",
+            "category": "People & Blogs",
+            "duration": "13:07",
+            "view_count": "108461",
+            "thumbnail_url": "https://i.ytimg.com/vi/kyRhp1O6wvM/hqdefault.jpg"
         },
         {
             "video_id": "hHT8FNgW2NU",
@@ -304,7 +304,7 @@
             "channel_name": "에버랜드 - EVERLAND",
             "category": "Pets & Animals",
             "duration": "35:21",
-            "view_count": "280606",
+            "view_count": "284019",
             "thumbnail_url": "https://i.ytimg.com/vi/hHT8FNgW2NU/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "DRAMA Voyage",
             "category": "Entertainment",
             "duration": "18:50",
-            "view_count": "243375",
+            "view_count": "246867",
             "thumbnail_url": "https://i.ytimg.com/vi/vhJmMBXPXCI/hqdefault.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "channel_name": "D&J딘 and 줄리엣",
             "category": "People & Blogs",
             "duration": "8:45",
-            "view_count": "213215",
+            "view_count": "215863",
             "thumbnail_url": "https://i.ytimg.com/vi/BAhjzJpecrQ/hqdefault.jpg"
         },
         {
@@ -331,7 +331,7 @@
             "channel_name": "수쩡민",
             "category": "People & Blogs",
             "duration": "6:51",
-            "view_count": "119140",
+            "view_count": "120175",
             "thumbnail_url": "https://i.ytimg.com/vi/GPVSpoGet_A/hqdefault.jpg"
         },
         {
@@ -340,7 +340,7 @@
             "channel_name": "최종 시안",
             "category": "People & Blogs",
             "duration": "25:40",
-            "view_count": "286320",
+            "view_count": "287619",
             "thumbnail_url": "https://i.ytimg.com/vi/NwQM32qTnNc/hqdefault.jpg"
         },
         {
@@ -349,7 +349,7 @@
             "channel_name": "TREASURE (트레저)",
             "category": "Entertainment",
             "duration": "3:48",
-            "view_count": "8619964",
+            "view_count": "8723708",
             "thumbnail_url": "https://i.ytimg.com/vi/R55VGD7aYUI/hqdefault.jpg"
         },
         {
@@ -358,7 +358,7 @@
             "channel_name": "강쉪",
             "category": "Howto & Style",
             "duration": "11:19",
-            "view_count": "217995",
+            "view_count": "218651",
             "thumbnail_url": "https://i.ytimg.com/vi/TDCPEgBQpp4/hqdefault.jpg"
         },
         {
@@ -367,7 +367,7 @@
             "channel_name": "KODE 코드",
             "category": "Entertainment",
             "duration": "18:26",
-            "view_count": "251723",
+            "view_count": "253157",
             "thumbnail_url": "https://i.ytimg.com/vi/bqiPmKdjYgY/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "엄지렐라 Umjirella",
             "category": "People & Blogs",
             "duration": "17:44",
-            "view_count": "188161",
+            "view_count": "188933",
             "thumbnail_url": "https://i.ytimg.com/vi/rsKvMEFeZ5E/hqdefault.jpg"
         }
     ]
