@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-03-11 19:14:01",
+    "scraped_time": "2025-03-11 20:11:00",
     "videos": [
         {
             "video_id": "Kn5waagedK8",
@@ -7,7 +7,7 @@
             "channel_name": "tvN SPORTS",
             "category": "Sports",
             "duration": "27:26",
-            "view_count": "1333238",
+            "view_count": "1338068",
             "thumbnail_url": "https://i.ytimg.com/vi/Kn5waagedK8/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "요정재형",
             "category": "Entertainment",
             "duration": "59:07",
-            "view_count": "1078223",
+            "view_count": "1089987",
             "thumbnail_url": "https://i.ytimg.com/vi/LC0vWs8cs5I/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "KBS 레전드 케이팝",
             "category": "Music",
             "duration": "5:03",
-            "view_count": "413786",
+            "view_count": "426861",
             "thumbnail_url": "https://i.ytimg.com/vi/7nGdpHQ0Uc8/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "박수홍 행복해다홍",
             "category": "Entertainment",
             "duration": "3:51",
-            "view_count": "357242",
+            "view_count": "363738",
             "thumbnail_url": "https://i.ytimg.com/vi/LhiU3_W5TiI/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "3:07",
-            "view_count": "6113754",
+            "view_count": "6330218",
             "thumbnail_url": "https://i.ytimg.com/vi/rEBHjYQ8HoI/hqdefault.jpg"
         },
         {
@@ -52,17 +52,8 @@
             "channel_name": "고로케 : goroke",
             "category": "Entertainment",
             "duration": "18:59",
-            "view_count": "929819",
+            "view_count": "937628",
             "thumbnail_url": "https://i.ytimg.com/vi/LS2hKISN6gI/hqdefault.jpg"
-        },
-        {
-            "video_id": "eELPm0IUNtM",
-            "title": "[EN]포켓형은 핑계고ㅣEP.71",
-            "channel_name": "뜬뜬 DdeunDdeun",
-            "category": "Comedy",
-            "duration": "1:08:25",
-            "view_count": "3582975",
-            "thumbnail_url": "https://i.ytimg.com/vi/eELPm0IUNtM/hqdefault.jpg"
         },
         {
             "video_id": "lBimDKKNDDs",
@@ -70,8 +61,17 @@
             "channel_name": "NPOP",
             "category": "People & Blogs",
             "duration": "2:17",
-            "view_count": "2110787",
+            "view_count": "2126696",
             "thumbnail_url": "https://i.ytimg.com/vi/lBimDKKNDDs/hqdefault.jpg"
+        },
+        {
+            "video_id": "eELPm0IUNtM",
+            "title": "[EN]포켓형은 핑계고ㅣEP.71",
+            "channel_name": "뜬뜬 DdeunDdeun",
+            "category": "Comedy",
+            "duration": "1:08:25",
+            "view_count": "3601963",
+            "thumbnail_url": "https://i.ytimg.com/vi/eELPm0IUNtM/hqdefault.jpg"
         },
         {
             "video_id": "jMRyVvNSA3g",
@@ -79,7 +79,7 @@
             "channel_name": "임영웅",
             "category": "Music",
             "duration": "17:28",
-            "view_count": "321750",
+            "view_count": "324343",
             "thumbnail_url": "https://i.ytimg.com/vi/jMRyVvNSA3g/hqdefault.jpg"
         },
         {
@@ -88,7 +88,7 @@
             "channel_name": "JennieRubyJaneVEVO",
             "category": "Music",
             "duration": "3:03",
-            "view_count": "20342340",
+            "view_count": "20453976",
             "thumbnail_url": "https://i.ytimg.com/vi/JSFG-IE8n_c/hqdefault.jpg"
         },
         {
@@ -97,7 +97,7 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "3:19",
-            "view_count": "2715150",
+            "view_count": "2747999",
             "thumbnail_url": "https://i.ytimg.com/vi/TamDOXponnM/hqdefault.jpg"
         },
         {
@@ -106,7 +106,7 @@
             "channel_name": "스포타임",
             "category": "Sports",
             "duration": "4:31",
-            "view_count": "1957199",
+            "view_count": "1962801",
             "thumbnail_url": "https://i.ytimg.com/vi/0_zT7fyqGIw/hqdefault.jpg"
         },
         {
@@ -115,7 +115,7 @@
             "channel_name": "숏박스",
             "category": "Comedy",
             "duration": "9:09",
-            "view_count": "3401496",
+            "view_count": "3415804",
             "thumbnail_url": "https://i.ytimg.com/vi/Z7S8_GraO9k/hqdefault.jpg"
         },
         {
@@ -124,8 +124,17 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:25",
-            "view_count": "1185334",
+            "view_count": "1201456",
             "thumbnail_url": "https://i.ytimg.com/vi/S-VLzICd2FE/hqdefault.jpg"
+        },
+        {
+            "video_id": "seARsMwjbEU",
+            "title": "JENNIE & Dua Lipa - Handlebars (Official Video)",
+            "channel_name": "JennieRubyJaneVEVO",
+            "category": "Music",
+            "duration": "3:31",
+            "view_count": "4704589",
+            "thumbnail_url": "https://i.ytimg.com/vi/seARsMwjbEU/hqdefault.jpg"
         },
         {
             "video_id": "Pw_IenodtsM",
@@ -133,7 +142,7 @@
             "channel_name": "늘이농",
             "category": "Howto & Style",
             "duration": "12:52",
-            "view_count": "205610",
+            "view_count": "208954",
             "thumbnail_url": "https://i.ytimg.com/vi/Pw_IenodtsM/hqdefault.jpg"
         },
         {
@@ -142,17 +151,8 @@
             "channel_name": "Disney Korea",
             "category": "Entertainment",
             "duration": "0:45",
-            "view_count": "586180",
+            "view_count": "597184",
             "thumbnail_url": "https://i.ytimg.com/vi/BgFbfqBSX_8/hqdefault.jpg"
-        },
-        {
-            "video_id": "seARsMwjbEU",
-            "title": "JENNIE & Dua Lipa - Handlebars (Official Video)",
-            "channel_name": "JennieRubyJaneVEVO",
-            "category": "Music",
-            "duration": "3:31",
-            "view_count": "4560972",
-            "thumbnail_url": "https://i.ytimg.com/vi/seARsMwjbEU/hqdefault.jpg"
         },
         {
             "video_id": "79sOdu-VSHM",
@@ -160,8 +160,17 @@
             "channel_name": "JTBC Drama",
             "category": "Entertainment",
             "duration": "29:13",
-            "view_count": "123813",
+            "view_count": "126041",
             "thumbnail_url": "https://i.ytimg.com/vi/79sOdu-VSHM/hqdefault.jpg"
+        },
+        {
+            "video_id": "-u9FCmRxq0M",
+            "title": "like JENNIE | Choreography by the creators",
+            "channel_name": "WE DEM BOYZ 위댐보이즈",
+            "category": "Entertainment",
+            "duration": "0:37",
+            "view_count": "119746",
+            "thumbnail_url": "https://i.ytimg.com/vi/-u9FCmRxq0M/hqdefault.jpg"
         },
         {
             "video_id": "SF5DIkzuqCc",
@@ -169,7 +178,7 @@
             "channel_name": "먹어볼래TryToEat",
             "category": "People & Blogs",
             "duration": "9:39",
-            "view_count": "334318",
+            "view_count": "338196",
             "thumbnail_url": "https://i.ytimg.com/vi/SF5DIkzuqCc/hqdefault.jpg"
         },
         {
@@ -178,7 +187,7 @@
             "channel_name": "김만덕의 극한야생",
             "category": "Gaming",
             "duration": "19:30",
-            "view_count": "296588",
+            "view_count": "298108",
             "thumbnail_url": "https://i.ytimg.com/vi/JXR81wlgJXo/hqdefault.jpg"
         },
         {
@@ -187,17 +196,8 @@
             "channel_name": "꾸준 kkujun",
             "category": "Travel & Events",
             "duration": "46:07",
-            "view_count": "914382",
+            "view_count": "916927",
             "thumbnail_url": "https://i.ytimg.com/vi/2WeVpa6RbwQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "-u9FCmRxq0M",
-            "title": "like JENNIE | Choreography by the creators",
-            "channel_name": "WE DEM BOYZ 위댐보이즈",
-            "category": "Entertainment",
-            "duration": "0:37",
-            "view_count": "114407",
-            "thumbnail_url": "https://i.ytimg.com/vi/-u9FCmRxq0M/hqdefault.jpg"
         },
         {
             "video_id": "MgahhFOahYA",
@@ -205,7 +205,7 @@
             "channel_name": "쿠키런: 킹덤",
             "category": "Gaming",
             "duration": "3:05",
-            "view_count": "111004",
+            "view_count": "114486",
             "thumbnail_url": "https://i.ytimg.com/vi/MgahhFOahYA/hqdefault.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "channel_name": "프응TV Honeybeefather",
             "category": "People & Blogs",
             "duration": "15:20",
-            "view_count": "243032",
+            "view_count": "244243",
             "thumbnail_url": "https://i.ytimg.com/vi/Xh2K4rm4QWY/hqdefault.jpg"
         },
         {
@@ -223,17 +223,8 @@
             "channel_name": "총몇명",
             "category": "Film & Animation",
             "duration": "4:45",
-            "view_count": "1157747",
+            "view_count": "1163966",
             "thumbnail_url": "https://i.ytimg.com/vi/E4pjQzmXJNY/hqdefault.jpg"
-        },
-        {
-            "video_id": "r5TJ0f5EbDA",
-            "title": "ENG│짐 많은 1인가구의 이사하는 날. 노동은 하는데 정리가 안되는 브이로그. 엉망진창 뉴 하우스",
-            "channel_name": "planD플랜디",
-            "category": "People & Blogs",
-            "duration": "22:47",
-            "view_count": "455534",
-            "thumbnail_url": "https://i.ytimg.com/vi/r5TJ0f5EbDA/hqdefault.jpg"
         },
         {
             "video_id": "PWhGSKggSvw",
@@ -241,8 +232,17 @@
             "channel_name": "MBCdrama",
             "category": "Entertainment",
             "duration": "14:53",
-            "view_count": "333133",
+            "view_count": "334426",
             "thumbnail_url": "https://i.ytimg.com/vi/PWhGSKggSvw/hqdefault.jpg"
+        },
+        {
+            "video_id": "r5TJ0f5EbDA",
+            "title": "ENG│짐 많은 1인가구의 이사하는 날. 노동은 하는데 정리가 안되는 브이로그. 엉망진창 뉴 하우스",
+            "channel_name": "planD플랜디",
+            "category": "People & Blogs",
+            "duration": "22:47",
+            "view_count": "458961",
+            "thumbnail_url": "https://i.ytimg.com/vi/r5TJ0f5EbDA/hqdefault.jpg"
         },
         {
             "video_id": "Iu0yLRybyeg",
@@ -250,7 +250,7 @@
             "channel_name": "유슬비 YOOSEULBI",
             "category": "People & Blogs",
             "duration": "19:09",
-            "view_count": "174870",
+            "view_count": "175637",
             "thumbnail_url": "https://i.ytimg.com/vi/Iu0yLRybyeg/hqdefault.jpg"
         },
         {
@@ -268,7 +268,7 @@
             "channel_name": "이지영 [Leejiyoung Official]",
             "category": "Education",
             "duration": "32:18",
-            "view_count": "428437",
+            "view_count": "430880",
             "thumbnail_url": "https://i.ytimg.com/vi/VCphey8IT58/hqdefault.jpg"
         },
         {
@@ -277,7 +277,7 @@
             "channel_name": "SBS Catch",
             "category": "Entertainment",
             "duration": "13:45",
-            "view_count": "347268",
+            "view_count": "350228",
             "thumbnail_url": "https://i.ytimg.com/vi/S-IOBdE4nuw/hqdefault.jpg"
         },
         {
@@ -286,7 +286,7 @@
             "channel_name": "NPOP",
             "category": "People & Blogs",
             "duration": "0:35",
-            "view_count": "967370",
+            "view_count": "969510",
             "thumbnail_url": "https://i.ytimg.com/vi/85DSFgZ4-wQ/hqdefault.jpg"
         },
         {
@@ -295,7 +295,7 @@
             "channel_name": "현주zutube",
             "category": "People & Blogs",
             "duration": "19:00",
-            "view_count": "61244",
+            "view_count": "62039",
             "thumbnail_url": "https://i.ytimg.com/vi/qiuSUSiyGkI/hqdefault.jpg"
         },
         {
@@ -304,7 +304,7 @@
             "channel_name": "진석기시대",
             "category": "Entertainment",
             "duration": "29:00",
-            "view_count": "278305",
+            "view_count": "279816",
             "thumbnail_url": "https://i.ytimg.com/vi/EnxjH4qfFys/hqdefault.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "3:49",
-            "view_count": "7608541",
+            "view_count": "7637316",
             "thumbnail_url": "https://i.ytimg.com/vi/kW1e8NtdW90/hqdefault.jpg"
         },
         {
@@ -331,7 +331,7 @@
             "channel_name": "TVCHOSUN MUSIC",
             "category": "Entertainment",
             "duration": "16:36",
-            "view_count": "451686",
+            "view_count": "454899",
             "thumbnail_url": "https://i.ytimg.com/vi/SGP0pJZEYeM/hqdefault.jpg"
         },
         {
@@ -340,7 +340,7 @@
             "channel_name": "띱 Deep",
             "category": "Comedy",
             "duration": "7:46",
-            "view_count": "1544009",
+            "view_count": "1549379",
             "thumbnail_url": "https://i.ytimg.com/vi/kQTFNQivQaE/hqdefault.jpg"
         },
         {
@@ -349,7 +349,7 @@
             "channel_name": "훼사원",
             "category": "People & Blogs",
             "duration": "8:04",
-            "view_count": "300937",
+            "view_count": "302089",
             "thumbnail_url": "https://i.ytimg.com/vi/GRUfZQC3_po/hqdefault.jpg"
         },
         {
@@ -358,7 +358,7 @@
             "channel_name": "곽튜브",
             "category": "Travel & Events",
             "duration": "40:27",
-            "view_count": "1505365",
+            "view_count": "1508375",
             "thumbnail_url": "https://i.ytimg.com/vi/LsKcMV7hfPY/hqdefault.jpg"
         },
         {
@@ -367,7 +367,7 @@
             "channel_name": "회사원A",
             "category": "Howto & Style",
             "duration": "22:53",
-            "view_count": "218396",
+            "view_count": "219957",
             "thumbnail_url": "https://i.ytimg.com/vi/-Ziv4u5c4G4/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "유네린LIN",
             "category": "People & Blogs",
             "duration": "13:07",
-            "view_count": "129832",
+            "view_count": "130516",
             "thumbnail_url": "https://i.ytimg.com/vi/kyRhp1O6wvM/hqdefault.jpg"
         }
     ]
