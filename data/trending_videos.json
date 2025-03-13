@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-03-13 11:52:31",
+    "scraped_time": "2025-03-13 12:24:11",
     "videos": [
         {
             "video_id": "89LBr9hhK1I",
@@ -7,7 +7,7 @@
             "channel_name": "TEO 테오",
             "category": "Entertainment",
             "duration": "41:49",
-            "view_count": "1479234",
+            "view_count": "1483860",
             "thumbnail_url": "https://i.ytimg.com/vi/89LBr9hhK1I/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "나래식",
             "category": "Entertainment",
             "duration": "35:23",
-            "view_count": "300755",
+            "view_count": "307571",
             "thumbnail_url": "https://i.ytimg.com/vi/8v9m9usCJH0/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "VIVO TV - 비보티비",
             "category": "Comedy",
             "duration": "47:34",
-            "view_count": "177559",
+            "view_count": "184545",
             "thumbnail_url": "https://i.ytimg.com/vi/dCWtNl6imQ4/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "KBS 레전드 케이팝",
             "category": "Music",
             "duration": "5:03",
-            "view_count": "910968",
+            "view_count": "913542",
             "thumbnail_url": "https://i.ytimg.com/vi/7nGdpHQ0Uc8/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "인생84",
             "category": "People & Blogs",
             "duration": "19:41",
-            "view_count": "580670",
+            "view_count": "581818",
             "thumbnail_url": "https://i.ytimg.com/vi/q0V0fIkPKQQ/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "tvN SPORTS",
             "category": "Sports",
             "duration": "27:26",
-            "view_count": "1450685",
+            "view_count": "1451545",
             "thumbnail_url": "https://i.ytimg.com/vi/Kn5waagedK8/hqdefault.jpg"
         },
         {
@@ -61,17 +61,8 @@
             "channel_name": "요정재형",
             "category": "Entertainment",
             "duration": "59:07",
-            "view_count": "1337602",
+            "view_count": "1339681",
             "thumbnail_url": "https://i.ytimg.com/vi/LC0vWs8cs5I/hqdefault.jpg"
-        },
-        {
-            "video_id": "LhiU3_W5TiI",
-            "title": "[박수홍 행복해다홍] 재이의 첫 뒤집기 | 4개월아기 | 생후140일 | 육아일기 | 브이로그 | 아기발달 | 인기재이 | 유니콘아기 |",
-            "channel_name": "박수홍 행복해다홍",
-            "category": "Entertainment",
-            "duration": "3:51",
-            "view_count": "561652",
-            "thumbnail_url": "https://i.ytimg.com/vi/LhiU3_W5TiI/hqdefault.jpg"
         },
         {
             "video_id": "seARsMwjbEU",
@@ -79,8 +70,17 @@
             "channel_name": "JennieRubyJaneVEVO",
             "category": "Music",
             "duration": "3:31",
-            "view_count": "7950270",
+            "view_count": "7967032",
             "thumbnail_url": "https://i.ytimg.com/vi/seARsMwjbEU/hqdefault.jpg"
+        },
+        {
+            "video_id": "LhiU3_W5TiI",
+            "title": "[박수홍 행복해다홍] 재이의 첫 뒤집기 | 4개월아기 | 생후140일 | 육아일기 | 브이로그 | 아기발달 | 인기재이 | 유니콘아기 |",
+            "channel_name": "박수홍 행복해다홍",
+            "category": "Entertainment",
+            "duration": "3:51",
+            "view_count": "563956",
+            "thumbnail_url": "https://i.ytimg.com/vi/LhiU3_W5TiI/hqdefault.jpg"
         },
         {
             "video_id": "lBimDKKNDDs",
@@ -88,7 +88,7 @@
             "channel_name": "NPOP",
             "category": "People & Blogs",
             "duration": "2:17",
-            "view_count": "2767899",
+            "view_count": "2770174",
             "thumbnail_url": "https://i.ytimg.com/vi/lBimDKKNDDs/hqdefault.jpg"
         },
         {
@@ -97,17 +97,8 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "3:07",
-            "view_count": "8654471",
+            "view_count": "8684621",
             "thumbnail_url": "https://i.ytimg.com/vi/rEBHjYQ8HoI/hqdefault.jpg"
-        },
-        {
-            "video_id": "vFj7HeAYm2g",
-            "title": "[Cover] WOODZ - Pretender (Official髭男dism)",
-            "channel_name": "WOODZ",
-            "category": "Music",
-            "duration": "5:24",
-            "view_count": "76866",
-            "thumbnail_url": "https://i.ytimg.com/vi/vFj7HeAYm2g/hqdefault.jpg"
         },
         {
             "video_id": "wLvEKGdMdnE",
@@ -115,8 +106,17 @@
             "channel_name": "차예련 chayeryun",
             "category": "People & Blogs",
             "duration": "12:57",
-            "view_count": "149712",
+            "view_count": "153760",
             "thumbnail_url": "https://i.ytimg.com/vi/wLvEKGdMdnE/hqdefault.jpg"
+        },
+        {
+            "video_id": "vFj7HeAYm2g",
+            "title": "[Cover] WOODZ - Pretender (Official髭男dism)",
+            "channel_name": "WOODZ",
+            "category": "Music",
+            "duration": "5:24",
+            "view_count": "77726",
+            "thumbnail_url": "https://i.ytimg.com/vi/vFj7HeAYm2g/hqdefault.jpg"
         },
         {
             "video_id": "YznffFySzrE",
@@ -124,7 +124,7 @@
             "channel_name": "잰잰바리",
             "category": "People & Blogs",
             "duration": "17:25",
-            "view_count": "222145",
+            "view_count": "222681",
             "thumbnail_url": "https://i.ytimg.com/vi/YznffFySzrE/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "닥터프렌즈",
             "category": "Education",
             "duration": "14:50",
-            "view_count": "199292",
+            "view_count": "199683",
             "thumbnail_url": "https://i.ytimg.com/vi/cNcl3yomZgM/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "뜬뜬 DdeunDdeun",
             "category": "Comedy",
             "duration": "1:08:25",
-            "view_count": "4174341",
+            "view_count": "4180415",
             "thumbnail_url": "https://i.ytimg.com/vi/eELPm0IUNtM/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "WE DEM BOYZ 위댐보이즈",
             "category": "Entertainment",
             "duration": "0:37",
-            "view_count": "298014",
+            "view_count": "299133",
             "thumbnail_url": "https://i.ytimg.com/vi/-u9FCmRxq0M/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "ENA 이엔에이",
             "category": "Entertainment",
             "duration": "19:13",
-            "view_count": "212227",
+            "view_count": "213242",
             "thumbnail_url": "https://i.ytimg.com/vi/fkJm3f4WGgs/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "송승환의 원더풀 라이프",
             "category": "Entertainment",
             "duration": "13:24",
-            "view_count": "139553",
+            "view_count": "139637",
             "thumbnail_url": "https://i.ytimg.com/vi/nD2Bxpm7_vg/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "OGAM Entertainment",
             "category": "Music",
             "duration": "4:15",
-            "view_count": "225657",
+            "view_count": "228533",
             "thumbnail_url": "https://i.ytimg.com/vi/yJjEu4LNMqI/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "맘드레 - 60대 엄마의옷장",
             "category": "Howto & Style",
             "duration": "12:39",
-            "view_count": "112588",
+            "view_count": "113498",
             "thumbnail_url": "https://i.ytimg.com/vi/HohYWta26nc/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "3:19",
-            "view_count": "4219870",
+            "view_count": "4226509",
             "thumbnail_url": "https://i.ytimg.com/vi/TamDOXponnM/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "임영웅",
             "category": "Music",
             "duration": "17:28",
-            "view_count": "388182",
+            "view_count": "388786",
             "thumbnail_url": "https://i.ytimg.com/vi/jMRyVvNSA3g/hqdefault.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "channel_name": "고로케 : goroke",
             "category": "Entertainment",
             "duration": "18:59",
-            "view_count": "1141432",
+            "view_count": "1143583",
             "thumbnail_url": "https://i.ytimg.com/vi/LS2hKISN6gI/hqdefault.jpg"
         },
         {
@@ -223,17 +223,8 @@
             "channel_name": "오늘의 주우재",
             "category": "People & Blogs",
             "duration": "24:55",
-            "view_count": "226874",
+            "view_count": "227239",
             "thumbnail_url": "https://i.ytimg.com/vi/UEjFM78dAF0/hqdefault.jpg"
-        },
-        {
-            "video_id": "adn5KgN2_A8",
-            "title": "아옳이 소장품 나눔하는 영상💖  예쁜 드레스, 신발 나눔👗👡",
-            "channel_name": "아옳이",
-            "category": "People & Blogs",
-            "duration": "18:31",
-            "view_count": "176177",
-            "thumbnail_url": "https://i.ytimg.com/vi/adn5KgN2_A8/hqdefault.jpg"
         },
         {
             "video_id": "EUpDb-uDj3M",
@@ -241,8 +232,17 @@
             "channel_name": "꿀주부 Honeyjubu",
             "category": "Howto & Style",
             "duration": "20:55",
-            "view_count": "129867",
+            "view_count": "131896",
             "thumbnail_url": "https://i.ytimg.com/vi/EUpDb-uDj3M/hqdefault.jpg"
+        },
+        {
+            "video_id": "adn5KgN2_A8",
+            "title": "아옳이 소장품 나눔하는 영상💖  예쁜 드레스, 신발 나눔👗👡",
+            "channel_name": "아옳이",
+            "category": "People & Blogs",
+            "duration": "18:31",
+            "view_count": "176495",
+            "thumbnail_url": "https://i.ytimg.com/vi/adn5KgN2_A8/hqdefault.jpg"
         },
         {
             "video_id": "QwPlnCE53Gs",
@@ -250,7 +250,7 @@
             "channel_name": "웃고리즘",
             "category": "Comedy",
             "duration": "6:46",
-            "view_count": "868679",
+            "view_count": "870977",
             "thumbnail_url": "https://i.ytimg.com/vi/QwPlnCE53Gs/hqdefault.jpg"
         },
         {
@@ -259,7 +259,7 @@
             "channel_name": "JennieRubyJaneVEVO",
             "category": "Music",
             "duration": "3:03",
-            "view_count": "24666161",
+            "view_count": "24697196",
             "thumbnail_url": "https://i.ytimg.com/vi/JSFG-IE8n_c/hqdefault.jpg"
         },
         {
@@ -268,17 +268,8 @@
             "channel_name": "The Tonight Show Starring Jimmy Fallon",
             "category": "Comedy",
             "duration": "3:47",
-            "view_count": "920650",
+            "view_count": "923107",
             "thumbnail_url": "https://i.ytimg.com/vi/j1DTIaDJy4I/hqdefault.jpg"
-        },
-        {
-            "video_id": "x4vLxR_7dFI",
-            "title": "한국에서 귀국선물로 이탈리아 장모님께 삼성 갤럭시 S25+를 드렸더니? 그리도 선물보따리 한 가득",
-            "channel_name": "Mozzarella Girl & Oppa",
-            "category": "Comedy",
-            "duration": "39:26",
-            "view_count": "244202",
-            "thumbnail_url": "https://i.ytimg.com/vi/x4vLxR_7dFI/hqdefault.jpg"
         },
         {
             "video_id": "Fre5ExoVUKk",
@@ -286,17 +277,17 @@
             "channel_name": "일타쿠마",
             "category": "Entertainment",
             "duration": "11:43",
-            "view_count": "103663",
+            "view_count": "105020",
             "thumbnail_url": "https://i.ytimg.com/vi/Fre5ExoVUKk/hqdefault.jpg"
         },
         {
-            "video_id": "BgFbfqBSX_8",
-            "title": "[백설공주] '간절한 소원' (Waiting On A Wish) MV 티저",
-            "channel_name": "Disney Korea",
-            "category": "Entertainment",
-            "duration": "0:45",
-            "view_count": "1044280",
-            "thumbnail_url": "https://i.ytimg.com/vi/BgFbfqBSX_8/hqdefault.jpg"
+            "video_id": "x4vLxR_7dFI",
+            "title": "한국에서 귀국선물로 이탈리아 장모님께 삼성 갤럭시 S25+를 드렸더니? 그리도 선물보따리 한 가득",
+            "channel_name": "Mozzarella Girl & Oppa",
+            "category": "Comedy",
+            "duration": "39:26",
+            "view_count": "245014",
+            "thumbnail_url": "https://i.ytimg.com/vi/x4vLxR_7dFI/hqdefault.jpg"
         },
         {
             "video_id": "S-VLzICd2FE",
@@ -304,8 +295,17 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:25",
-            "view_count": "1667465",
+            "view_count": "1671290",
             "thumbnail_url": "https://i.ytimg.com/vi/S-VLzICd2FE/hqdefault.jpg"
+        },
+        {
+            "video_id": "BgFbfqBSX_8",
+            "title": "[백설공주] '간절한 소원' (Waiting On A Wish) MV 티저",
+            "channel_name": "Disney Korea",
+            "category": "Entertainment",
+            "duration": "0:45",
+            "view_count": "1045585",
+            "thumbnail_url": "https://i.ytimg.com/vi/BgFbfqBSX_8/hqdefault.jpg"
         },
         {
             "video_id": "Pw_IenodtsM",
@@ -313,7 +313,7 @@
             "channel_name": "늘이농",
             "category": "Howto & Style",
             "duration": "12:52",
-            "view_count": "313614",
+            "view_count": "314422",
             "thumbnail_url": "https://i.ytimg.com/vi/Pw_IenodtsM/hqdefault.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "channel_name": "숏박스",
             "category": "Comedy",
             "duration": "9:09",
-            "view_count": "3716150",
+            "view_count": "3717513",
             "thumbnail_url": "https://i.ytimg.com/vi/Z7S8_GraO9k/hqdefault.jpg"
         },
         {
@@ -331,7 +331,7 @@
             "channel_name": "먹어볼래TryToEat",
             "category": "People & Blogs",
             "duration": "9:39",
-            "view_count": "416928",
+            "view_count": "417215",
             "thumbnail_url": "https://i.ytimg.com/vi/SF5DIkzuqCc/hqdefault.jpg"
         },
         {
@@ -340,7 +340,7 @@
             "channel_name": "꾸준 kkujun",
             "category": "Travel & Events",
             "duration": "46:07",
-            "view_count": "977164",
+            "view_count": "977771",
             "thumbnail_url": "https://i.ytimg.com/vi/2WeVpa6RbwQ/hqdefault.jpg"
         },
         {
@@ -349,7 +349,7 @@
             "channel_name": "김만덕의 극한야생",
             "category": "Gaming",
             "duration": "19:30",
-            "view_count": "318635",
+            "view_count": "318712",
             "thumbnail_url": "https://i.ytimg.com/vi/JXR81wlgJXo/hqdefault.jpg"
         },
         {
@@ -358,7 +358,7 @@
             "channel_name": "프응TV Honeybeefather",
             "category": "People & Blogs",
             "duration": "15:20",
-            "view_count": "269143",
+            "view_count": "269271",
             "thumbnail_url": "https://i.ytimg.com/vi/Xh2K4rm4QWY/hqdefault.jpg"
         },
         {
@@ -367,7 +367,7 @@
             "channel_name": "planD플랜디",
             "category": "People & Blogs",
             "duration": "22:47",
-            "view_count": "573363",
+            "view_count": "574068",
             "thumbnail_url": "https://i.ytimg.com/vi/r5TJ0f5EbDA/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "총몇명",
             "category": "Film & Animation",
             "duration": "4:45",
-            "view_count": "1291069",
+            "view_count": "1291732",
             "thumbnail_url": "https://i.ytimg.com/vi/E4pjQzmXJNY/hqdefault.jpg"
         }
     ]
