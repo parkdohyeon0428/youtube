@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-03-19 17:16:47",
+    "scraped_time": "2025-03-19 18:14:25",
     "videos": [
         {
             "video_id": "oRM-5N3sQlA",
@@ -7,7 +7,7 @@
             "channel_name": "VIVO TV - 비보티비",
             "category": "Comedy",
             "duration": "19:48",
-            "view_count": "396989",
+            "view_count": "407212",
             "thumbnail_url": "https://i.ytimg.com/vi/oRM-5N3sQlA/hqdefault.jpg"
         },
         {
@@ -16,8 +16,17 @@
             "channel_name": "유병재",
             "category": "Comedy",
             "duration": "34:00",
-            "view_count": "783200",
+            "view_count": "788668",
             "thumbnail_url": "https://i.ytimg.com/vi/Vj77kwKFKqk/hqdefault.jpg"
+        },
+        {
+            "video_id": "EvmrKG-KnoQ",
+            "title": "국대 시간별 소집기 (feat. 손흥민, \"승호야, 같은 비행기 타고 왔는데 생일인 줄 몰랐다\") | 월드컵 3차 예선 EP.23",
+            "channel_name": "KFATV 대한민국 축구 국가대표팀",
+            "category": "Sports",
+            "duration": "9:25",
+            "view_count": "456254",
+            "thumbnail_url": "https://i.ytimg.com/vi/EvmrKG-KnoQ/hqdefault.jpg"
         },
         {
             "video_id": "aFrQIJ5cbRc",
@@ -25,7 +34,7 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "2:54",
-            "view_count": "8606610",
+            "view_count": "8686832",
             "thumbnail_url": "https://i.ytimg.com/vi/aFrQIJ5cbRc/hqdefault.jpg"
         },
         {
@@ -34,8 +43,26 @@
             "channel_name": "STAYC",
             "category": "Music",
             "duration": "3:06",
-            "view_count": "2387474",
+            "view_count": "2425287",
             "thumbnail_url": "https://i.ytimg.com/vi/z-xfGoabprU/hqdefault.jpg"
+        },
+        {
+            "video_id": "adF9lGbgPOo",
+            "title": "장모님.. 김치 담그는데 딸 말고 왜 자꾸 저를 찾으세요?(ft. 저도 저희집에선 귀한 아들)",
+            "channel_name": "미자네 주막",
+            "category": "Entertainment",
+            "duration": "18:11",
+            "view_count": "256193",
+            "thumbnail_url": "https://i.ytimg.com/vi/adF9lGbgPOo/hqdefault.jpg"
+        },
+        {
+            "video_id": "tkTQ24Zyl9s",
+            "title": "역사를 쓰고 돌아온 안세영! 갓난아기까지 공항에 마중을..?",
+            "channel_name": "SBS Sports",
+            "category": "Sports",
+            "duration": "3:08",
+            "view_count": "374976",
+            "thumbnail_url": "https://i.ytimg.com/vi/tkTQ24Zyl9s/hqdefault.jpg"
         },
         {
             "video_id": "P6mb2xPfeb4",
@@ -43,7 +70,7 @@
             "channel_name": "요정재형",
             "category": "Entertainment",
             "duration": "1:05:11",
-            "view_count": "971577",
+            "view_count": "977587",
             "thumbnail_url": "https://i.ytimg.com/vi/P6mb2xPfeb4/hqdefault.jpg"
         },
         {
@@ -52,7 +79,7 @@
             "channel_name": "딩고 뮤직 / dingo music",
             "category": "Music",
             "duration": "18:28",
-            "view_count": "257216",
+            "view_count": "264875",
             "thumbnail_url": "https://i.ytimg.com/vi/o7mx1j6AK0Q/hqdefault.jpg"
         },
         {
@@ -61,7 +88,7 @@
             "channel_name": "이찬원",
             "category": "Music",
             "duration": "5:59",
-            "view_count": "162262",
+            "view_count": "165068",
             "thumbnail_url": "https://i.ytimg.com/vi/36OnVala8ag/hqdefault.jpg"
         },
         {
@@ -70,8 +97,35 @@
             "channel_name": "임영웅",
             "category": "People & Blogs",
             "duration": "10:11",
-            "view_count": "333560",
+            "view_count": "335854",
             "thumbnail_url": "https://i.ytimg.com/vi/OCy1kIQSvN0/hqdefault.jpg"
+        },
+        {
+            "video_id": "uancR6aiw-c",
+            "title": "비명만 지르다 끝난 급식 만들기 | 지멋대로 식탁 EP.05",
+            "channel_name": "M드로메다 스튜디오",
+            "category": "Entertainment",
+            "duration": "26:20",
+            "view_count": "116169",
+            "thumbnail_url": "https://i.ytimg.com/vi/uancR6aiw-c/hqdefault.jpg"
+        },
+        {
+            "video_id": "Do6fD5tJmZQ",
+            "title": "하드코어에서 모든 색깔 공장 만들기",
+            "channel_name": "프뚜",
+            "category": "Gaming",
+            "duration": "28:03",
+            "view_count": "144118",
+            "thumbnail_url": "https://i.ytimg.com/vi/Do6fD5tJmZQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "BNGUXP7jOHQ",
+            "title": "강나미 채널 조회수 지분 100프로 💫 베텔기우스 원곡자 유우리에게 감사 인사했습니다",
+            "channel_name": "동네친구 강나미 [Kangnami]",
+            "category": "Entertainment",
+            "duration": "16:11",
+            "view_count": "425783",
+            "thumbnail_url": "https://i.ytimg.com/vi/BNGUXP7jOHQ/hqdefault.jpg"
         },
         {
             "video_id": "c7Ti_dIsFiw",
@@ -79,7 +133,7 @@
             "channel_name": "나렝아치 NaRengAchi",
             "category": "Pets & Animals",
             "duration": "22:11",
-            "view_count": "165419",
+            "view_count": "166852",
             "thumbnail_url": "https://i.ytimg.com/vi/c7Ti_dIsFiw/hqdefault.jpg"
         },
         {
@@ -88,17 +142,8 @@
             "channel_name": "ONE HUNDRED (원헌드레드)",
             "category": "People & Blogs",
             "duration": "4:07",
-            "view_count": "5278726",
+            "view_count": "5413200",
             "thumbnail_url": "https://i.ytimg.com/vi/5sulSfWKV4Q/hqdefault.jpg"
-        },
-        {
-            "video_id": "BNGUXP7jOHQ",
-            "title": "강나미 채널 조회수 지분 100프로 💫 베텔기우스 원곡자 유우리에게 감사 인사했습니다",
-            "channel_name": "동네친구 강나미 [Kangnami]",
-            "category": "Entertainment",
-            "duration": "16:11",
-            "view_count": "417453",
-            "thumbnail_url": "https://i.ytimg.com/vi/BNGUXP7jOHQ/hqdefault.jpg"
         },
         {
             "video_id": "buSOckc4_H8",
@@ -106,7 +151,7 @@
             "channel_name": "가장(멋진)류진 petiteRyujin",
             "category": "People & Blogs",
             "duration": "21:15",
-            "view_count": "174083",
+            "view_count": "175819",
             "thumbnail_url": "https://i.ytimg.com/vi/buSOckc4_H8/hqdefault.jpg"
         },
         {
@@ -115,7 +160,7 @@
             "channel_name": "네루짱NERU",
             "category": "People & Blogs",
             "duration": "11:17",
-            "view_count": "1451885",
+            "view_count": "1471665",
             "thumbnail_url": "https://i.ytimg.com/vi/eFku7m95X3s/hqdefault.jpg"
         },
         {
@@ -124,7 +169,7 @@
             "channel_name": "프응TV Honeybeefather",
             "category": "People & Blogs",
             "duration": "30:39",
-            "view_count": "215907",
+            "view_count": "216934",
             "thumbnail_url": "https://i.ytimg.com/vi/fJcDQZJjxC8/hqdefault.jpg"
         },
         {
@@ -133,8 +178,17 @@
             "channel_name": "토모토모TomoTomo",
             "category": "People & Blogs",
             "duration": "32:26",
-            "view_count": "516258",
+            "view_count": "521295",
             "thumbnail_url": "https://i.ytimg.com/vi/Z5bDxedvA6I/hqdefault.jpg"
+        },
+        {
+            "video_id": "2jCb51fQInA",
+            "title": "구독자 별명 짓기! 마루의 선택은?",
+            "channel_name": "나는 마루",
+            "category": "Film & Animation",
+            "duration": "2:24",
+            "view_count": "101898",
+            "thumbnail_url": "https://i.ytimg.com/vi/2jCb51fQInA/hqdefault.jpg"
         },
         {
             "video_id": "O1CmJ5dFH5g",
@@ -142,17 +196,8 @@
             "channel_name": "내조왕 최시훈",
             "category": "People & Blogs",
             "duration": "25:28",
-            "view_count": "384928",
+            "view_count": "389757",
             "thumbnail_url": "https://i.ytimg.com/vi/O1CmJ5dFH5g/hqdefault.jpg"
-        },
-        {
-            "video_id": "8stsEbydsSk",
-            "title": "[M/V] 송필근 - 숙녀에게 (feat. 나현영)",
-            "channel_name": "TOON STUDIO",
-            "category": "Music",
-            "duration": "5:04",
-            "view_count": "301842",
-            "thumbnail_url": "https://i.ytimg.com/vi/8stsEbydsSk/hqdefault.jpg"
         },
         {
             "video_id": "IoJNtlly4ck",
@@ -160,8 +205,17 @@
             "channel_name": "정은지 EUNJI",
             "category": "Entertainment",
             "duration": "3:44",
-            "view_count": "109235",
+            "view_count": "112551",
             "thumbnail_url": "https://i.ytimg.com/vi/IoJNtlly4ck/hqdefault.jpg"
+        },
+        {
+            "video_id": "8stsEbydsSk",
+            "title": "[M/V] 송필근 - 숙녀에게 (feat. 나현영)",
+            "channel_name": "TOON STUDIO",
+            "category": "Music",
+            "duration": "5:04",
+            "view_count": "303178",
+            "thumbnail_url": "https://i.ytimg.com/vi/8stsEbydsSk/hqdefault.jpg"
         },
         {
             "video_id": "JJQyP9sLbT0",
@@ -169,17 +223,8 @@
             "channel_name": "원지의하루",
             "category": "People & Blogs",
             "duration": "16:44",
-            "view_count": "351072",
+            "view_count": "352205",
             "thumbnail_url": "https://i.ytimg.com/vi/JJQyP9sLbT0/hqdefault.jpg"
-        },
-        {
-            "video_id": "T6fFMgysK50",
-            "title": "안녕하세요 Hebi 입니다.",
-            "channel_name": "Hebi.",
-            "category": "Music",
-            "duration": "8:14",
-            "view_count": "243744",
-            "thumbnail_url": "https://i.ytimg.com/vi/T6fFMgysK50/hqdefault.jpg"
         },
         {
             "video_id": "Juc9F74_sJ8",
@@ -187,8 +232,17 @@
             "channel_name": "NMIXX",
             "category": "Entertainment",
             "duration": "2:59",
-            "view_count": "567431",
+            "view_count": "582021",
             "thumbnail_url": "https://i.ytimg.com/vi/Juc9F74_sJ8/hqdefault.jpg"
+        },
+        {
+            "video_id": "T6fFMgysK50",
+            "title": "안녕하세요 Hebi 입니다.",
+            "channel_name": "Hebi.",
+            "category": "Music",
+            "duration": "8:14",
+            "view_count": "245453",
+            "thumbnail_url": "https://i.ytimg.com/vi/T6fFMgysK50/hqdefault.jpg"
         },
         {
             "video_id": "IbxI43fHWnk",
@@ -196,7 +250,7 @@
             "channel_name": "찰스엔터",
             "category": "People & Blogs",
             "duration": "48:27",
-            "view_count": "1317726",
+            "view_count": "1323195",
             "thumbnail_url": "https://i.ytimg.com/vi/IbxI43fHWnk/hqdefault.jpg"
         },
         {
@@ -205,8 +259,17 @@
             "channel_name": "MBCkpop",
             "category": "Music",
             "duration": "2:16",
-            "view_count": "1126327",
+            "view_count": "1131043",
             "thumbnail_url": "https://i.ytimg.com/vi/8xufY2fpyn8/hqdefault.jpg"
+        },
+        {
+            "video_id": "p6e8oVfC7Ec",
+            "title": "조훈현 VS 이창호 바둑계 전설, 세기의 대국을 맛 보라!┃승부, MBC 250316 방송",
+            "channel_name": "출발! 비디오여행 : MBC 공식 채널",
+            "category": "Film & Animation",
+            "duration": "8:14",
+            "view_count": "86701",
+            "thumbnail_url": "https://i.ytimg.com/vi/p6e8oVfC7Ec/hqdefault.jpg"
         },
         {
             "video_id": "7zkvm-SxgBM",
@@ -214,7 +277,7 @@
             "channel_name": "고재영",
             "category": "Entertainment",
             "duration": "15:51",
-            "view_count": "1830019",
+            "view_count": "1833959",
             "thumbnail_url": "https://i.ytimg.com/vi/7zkvm-SxgBM/hqdefault.jpg"
         },
         {
@@ -223,7 +286,7 @@
             "channel_name": "목포MBC 가요센터",
             "category": "Music",
             "duration": "19:47",
-            "view_count": "134826",
+            "view_count": "136259",
             "thumbnail_url": "https://i.ytimg.com/vi/tRY9krgBVLk/hqdefault.jpg"
         },
         {
@@ -232,7 +295,7 @@
             "channel_name": "1theK Live - 원더케이 라이브",
             "category": "Music",
             "duration": "4:09",
-            "view_count": "154728",
+            "view_count": "158449",
             "thumbnail_url": "https://i.ytimg.com/vi/WhKPf5wtWyI/hqdefault.jpg"
         },
         {
@@ -241,7 +304,7 @@
             "channel_name": "오버워치",
             "category": "Gaming",
             "duration": "0:57",
-            "view_count": "84482",
+            "view_count": "85125",
             "thumbnail_url": "https://i.ytimg.com/vi/Rs9rKCWCle4/hqdefault.jpg"
         },
         {
@@ -250,44 +313,8 @@
             "channel_name": "새덕후 Korean Birder",
             "category": "Pets & Animals",
             "duration": "13:30",
-            "view_count": "95117",
+            "view_count": "97835",
             "thumbnail_url": "https://i.ytimg.com/vi/q1lAepUiq0I/hqdefault.jpg"
-        },
-        {
-            "video_id": "blqfVLzHT9M",
-            "title": "넘사벽레전드 연대농구스타랑 나불 | 👅나영석의 나불나불",
-            "channel_name": "채널십오야",
-            "category": "Entertainment",
-            "duration": "42:22",
-            "view_count": "1091302",
-            "thumbnail_url": "https://i.ytimg.com/vi/blqfVLzHT9M/hqdefault.jpg"
-        },
-        {
-            "video_id": "rAVP4PVft5M",
-            "title": "[클린버전] 김용빈 - 감사 ❤미스터트롯3 12화❤ TV CHOSUN 250313 방송",
-            "channel_name": "미스&미스터트롯",
-            "category": "Entertainment",
-            "duration": "4:16",
-            "view_count": "1325076",
-            "thumbnail_url": "https://i.ytimg.com/vi/rAVP4PVft5M/hqdefault.jpg"
-        },
-        {
-            "video_id": "6YPrbka9YoA",
-            "title": "[EN] 글로벌 진출은 핑계고ㅣEP.72",
-            "channel_name": "뜬뜬 DdeunDdeun",
-            "category": "Comedy",
-            "duration": "1:05:35",
-            "view_count": "4033860",
-            "thumbnail_url": "https://i.ytimg.com/vi/6YPrbka9YoA/hqdefault.jpg"
-        },
-        {
-            "video_id": "-wEPkPsp-CQ",
-            "title": "🔥핵사이다🔥 스파이에게 거짓 정보 흘려서 ✨100억 → 30억✨으로 게임 회사 인수 성공한 이제훈ㅋㅋ｜협상의 기술 | JTBC 250316 방송",
-            "channel_name": "DRAMA Voyage",
-            "category": "Entertainment",
-            "duration": "15:05",
-            "view_count": "536572",
-            "thumbnail_url": "https://i.ytimg.com/vi/-wEPkPsp-CQ/hqdefault.jpg"
         },
         {
             "video_id": "Hx5-axfWKaM",
@@ -295,26 +322,8 @@
             "channel_name": "지유롭게",
             "category": "People & Blogs",
             "duration": "20:36",
-            "view_count": "200788",
+            "view_count": "202876",
             "thumbnail_url": "https://i.ytimg.com/vi/Hx5-axfWKaM/hqdefault.jpg"
-        },
-        {
-            "video_id": "P7L4r3x09R8",
-            "title": "[MV] 정은지 x 서인국 커플 (Couple) - Special single Official Music Video",
-            "channel_name": "서인국 Seo In Guk",
-            "category": "Entertainment",
-            "duration": "3:38",
-            "view_count": "246595",
-            "thumbnail_url": "https://i.ytimg.com/vi/P7L4r3x09R8/hqdefault.jpg"
-        },
-        {
-            "video_id": "2P6SlVm955Q",
-            "title": "[5회 선공개] 영어로 무시하는 대치동 엄마들 참교육💥 속 시원하게 맞대응하는 조민수와 태린이 할머니👍 #라이딩인생",
-            "channel_name": "ENA 이엔에이",
-            "category": "Entertainment",
-            "duration": "2:36",
-            "view_count": "1212168",
-            "thumbnail_url": "https://i.ytimg.com/vi/2P6SlVm955Q/hqdefault.jpg"
         },
         {
             "video_id": "XXwKq-Dj0Sk",
@@ -322,7 +331,7 @@
             "channel_name": "헌터퐝",
             "category": "People & Blogs",
             "duration": "31:42",
-            "view_count": "907229",
+            "view_count": "908391",
             "thumbnail_url": "https://i.ytimg.com/vi/XXwKq-Dj0Sk/hqdefault.jpg"
         },
         {
@@ -331,7 +340,7 @@
             "channel_name": "나렝아치 NaRengAchi",
             "category": "Pets & Animals",
             "duration": "23:09",
-            "view_count": "471916",
+            "view_count": "474966",
             "thumbnail_url": "https://i.ytimg.com/vi/oVQEs5vwuOM/hqdefault.jpg"
         },
         {
@@ -340,7 +349,7 @@
             "channel_name": "딸을 위한 레시피 Recipes for daughters",
             "category": "Howto & Style",
             "duration": "6:30",
-            "view_count": "358259",
+            "view_count": "360578",
             "thumbnail_url": "https://i.ytimg.com/vi/nL41mkmg2Qg/hqdefault.jpg"
         },
         {
@@ -349,7 +358,7 @@
             "channel_name": "트위티 (Tweety)",
             "category": "People & Blogs",
             "duration": "29:19",
-            "view_count": "203353",
+            "view_count": "204018",
             "thumbnail_url": "https://i.ytimg.com/vi/QBV-0UBiUG4/hqdefault.jpg"
         },
         {
@@ -358,7 +367,7 @@
             "channel_name": "테크몽 Techmong",
             "category": "Science & Technology",
             "duration": "23:59",
-            "view_count": "226947",
+            "view_count": "227486",
             "thumbnail_url": "https://i.ytimg.com/vi/9ATFvK6V2Vs/hqdefault.jpg"
         },
         {
@@ -367,17 +376,8 @@
             "channel_name": "술익는집",
             "category": "Howto & Style",
             "duration": "12:44",
-            "view_count": "441359",
+            "view_count": "443319",
             "thumbnail_url": "https://i.ytimg.com/vi/S7q1X7uNmhc/hqdefault.jpg"
-        },
-        {
-            "video_id": "mwWSyXEozL4",
-            "title": "일본어학교 졸업식 브이로그",
-            "channel_name": "수쩡민",
-            "category": "People & Blogs",
-            "duration": "6:27",
-            "view_count": "286872",
-            "thumbnail_url": "https://i.ytimg.com/vi/mwWSyXEozL4/hqdefault.jpg"
         }
     ]
 }
