@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-03-31 13:16:10",
+    "scraped_time": "2025-03-31 14:13:35",
     "videos": [
         {
             "video_id": "Btgbx2Oi318",
@@ -7,7 +7,7 @@
             "channel_name": "유병재",
             "category": "Comedy",
             "duration": "21:15",
-            "view_count": "2039253",
+            "view_count": "2083248",
             "thumbnail_url": "https://i.ytimg.com/vi/Btgbx2Oi318/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "황가람과 동네청년",
             "category": "Entertainment",
             "duration": "4:01",
-            "view_count": "135593",
+            "view_count": "148662",
             "thumbnail_url": "https://i.ytimg.com/vi/MezvFK_r-MI/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "이민정 MJ",
             "category": "People & Blogs",
             "duration": "11:43",
-            "view_count": "980560",
+            "view_count": "1008429",
             "thumbnail_url": "https://i.ytimg.com/vi/-tIV0MDa5QM/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "걍밍경",
             "category": "People & Blogs",
             "duration": "37:30",
-            "view_count": "237481",
+            "view_count": "253387",
             "thumbnail_url": "https://i.ytimg.com/vi/wAeOYWftidY/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "엠플리  MBC Playlist",
             "category": "Entertainment",
             "duration": "9:49",
-            "view_count": "1587840",
+            "view_count": "1606313",
             "thumbnail_url": "https://i.ytimg.com/vi/3V3x8Je2J-4/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "수박머리 셔니",
             "category": "Gaming",
             "duration": "19:53",
-            "view_count": "248044",
+            "view_count": "248707",
             "thumbnail_url": "https://i.ytimg.com/vi/aVWq74jqrz4/hqdefault.jpg"
         },
         {
@@ -61,8 +61,17 @@
             "channel_name": "노마드션 No mad Shaun",
             "category": "Travel & Events",
             "duration": "28:49",
-            "view_count": "195594",
+            "view_count": "201562",
             "thumbnail_url": "https://i.ytimg.com/vi/FVPpSlQEJj0/hqdefault.jpg"
+        },
+        {
+            "video_id": "sEuaItNjgzg",
+            "title": "[EN]웃음 보장은 핑계고｜EP.73",
+            "channel_name": "뜬뜬 DdeunDdeun",
+            "category": "Comedy",
+            "duration": "1:07:19",
+            "view_count": "3038854",
+            "thumbnail_url": "https://i.ytimg.com/vi/sEuaItNjgzg/hqdefault.jpg"
         },
         {
             "video_id": "lvdR02UQJ0s",
@@ -70,35 +79,8 @@
             "channel_name": "먹어볼래TryToEat",
             "category": "People & Blogs",
             "duration": "10:03",
-            "view_count": "245377",
+            "view_count": "252344",
             "thumbnail_url": "https://i.ytimg.com/vi/lvdR02UQJ0s/hqdefault.jpg"
-        },
-        {
-            "video_id": "v5rKX2DVYs4",
-            "title": "[7회 하이라이트] ＂살아남을 수 있겠나＂ 감히 🔥회장 딸🔥을 건드린 이제훈, 권유리와의 리조트 매각을 둔 불꽃 신경전💥 | 협상의 기술 | JTBC 250329 방송",
-            "channel_name": "JTBC Drama",
-            "category": "Entertainment",
-            "duration": "14:59",
-            "view_count": "306899",
-            "thumbnail_url": "https://i.ytimg.com/vi/v5rKX2DVYs4/hqdefault.jpg"
-        },
-        {
-            "video_id": "XhJOE_JDyqY",
-            "title": "[놀면 뭐하니?] 소개는 내가 할게 돈은 형이 내(?) | #놀면뭐하니? #유재석 MBC250329방송",
-            "channel_name": "놀면 뭐하니?",
-            "category": "Entertainment",
-            "duration": "24:14",
-            "view_count": "487632",
-            "thumbnail_url": "https://i.ytimg.com/vi/XhJOE_JDyqY/hqdefault.jpg"
-        },
-        {
-            "video_id": "prt366fIYvk",
-            "title": "vlog 둘째 시험관 시작..! 😬 살엄청찜, 둘째 가지려는 이유? (냉동배아야 잘있었니..?)",
-            "channel_name": "트위티 (Tweety)",
-            "category": "People & Blogs",
-            "duration": "21:47",
-            "view_count": "210992",
-            "thumbnail_url": "https://i.ytimg.com/vi/prt366fIYvk/hqdefault.jpg"
         },
         {
             "video_id": "cnCrE161CsQ",
@@ -106,8 +88,35 @@
             "channel_name": "JTBC Voyage",
             "category": "Entertainment",
             "duration": "24:13",
-            "view_count": "484340",
+            "view_count": "519496",
             "thumbnail_url": "https://i.ytimg.com/vi/cnCrE161CsQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "prt366fIYvk",
+            "title": "vlog 둘째 시험관 시작..! 😬 살엄청찜, 둘째 가지려는 이유? (냉동배아야 잘있었니..?)",
+            "channel_name": "트위티 (Tweety)",
+            "category": "People & Blogs",
+            "duration": "21:47",
+            "view_count": "217191",
+            "thumbnail_url": "https://i.ytimg.com/vi/prt366fIYvk/hqdefault.jpg"
+        },
+        {
+            "video_id": "XhJOE_JDyqY",
+            "title": "[놀면 뭐하니?] 소개는 내가 할게 돈은 형이 내(?) | #놀면뭐하니? #유재석 MBC250329방송",
+            "channel_name": "놀면 뭐하니?",
+            "category": "Entertainment",
+            "duration": "24:14",
+            "view_count": "495369",
+            "thumbnail_url": "https://i.ytimg.com/vi/XhJOE_JDyqY/hqdefault.jpg"
+        },
+        {
+            "video_id": "v5rKX2DVYs4",
+            "title": "[7회 하이라이트] ＂살아남을 수 있겠나＂ 감히 🔥회장 딸🔥을 건드린 이제훈, 권유리와의 리조트 매각을 둔 불꽃 신경전💥 | 협상의 기술 | JTBC 250329 방송",
+            "channel_name": "JTBC Drama",
+            "category": "Entertainment",
+            "duration": "14:59",
+            "view_count": "308262",
+            "thumbnail_url": "https://i.ytimg.com/vi/v5rKX2DVYs4/hqdefault.jpg"
         },
         {
             "video_id": "hj3NdJPwh08",
@@ -115,7 +124,7 @@
             "channel_name": "TVING SPORTS",
             "category": "Sports",
             "duration": "19:07",
-            "view_count": "449947",
+            "view_count": "455733",
             "thumbnail_url": "https://i.ytimg.com/vi/hj3NdJPwh08/hqdefault.jpg"
         },
         {
@@ -124,7 +133,7 @@
             "channel_name": "몽중다과Mongsweets",
             "category": "Howto & Style",
             "duration": "14:57",
-            "view_count": "241329",
+            "view_count": "244098",
             "thumbnail_url": "https://i.ytimg.com/vi/uz61E6p3AmA/hqdefault.jpg"
         },
         {
@@ -133,7 +142,7 @@
             "channel_name": "이지금 [IU Official]",
             "category": "Entertainment",
             "duration": "41:41",
-            "view_count": "2426021",
+            "view_count": "2430355",
             "thumbnail_url": "https://i.ytimg.com/vi/96v6HW7ozR8/hqdefault.jpg"
         },
         {
@@ -142,7 +151,7 @@
             "channel_name": "Hebi.",
             "category": "Music",
             "duration": "3:32",
-            "view_count": "1191665",
+            "view_count": "1206314",
             "thumbnail_url": "https://i.ytimg.com/vi/_0f5FjEQzsg/hqdefault.jpg"
         },
         {
@@ -151,8 +160,17 @@
             "channel_name": "놀면 뭐하니?",
             "category": "Entertainment",
             "duration": "18:40",
-            "view_count": "407086",
+            "view_count": "413289",
             "thumbnail_url": "https://i.ytimg.com/vi/-tmmCFDqqiA/hqdefault.jpg"
+        },
+        {
+            "video_id": "eu6C0ezIGfc",
+            "title": "터키 장모님과 장인어른을 한국 대형마트에 모시고 갔더니..",
+            "channel_name": "유슬비 YOOSEULBI",
+            "category": "People & Blogs",
+            "duration": "20:42",
+            "view_count": "151333",
+            "thumbnail_url": "https://i.ytimg.com/vi/eu6C0ezIGfc/hqdefault.jpg"
         },
         {
             "video_id": "9A9rgEeGVB8",
@@ -160,7 +178,7 @@
             "channel_name": "놀라운 토요일 Amazing Saturday",
             "category": "Entertainment",
             "duration": "16:31",
-            "view_count": "246811",
+            "view_count": "252178",
             "thumbnail_url": "https://i.ytimg.com/vi/9A9rgEeGVB8/hqdefault.jpg"
         },
         {
@@ -169,7 +187,7 @@
             "channel_name": "The CHOOM (더 춤)",
             "category": "Entertainment",
             "duration": "2:50",
-            "view_count": "3524765",
+            "view_count": "3528501",
             "thumbnail_url": "https://i.ytimg.com/vi/LCW5dWnkWko/hqdefault.jpg"
         },
         {
@@ -178,7 +196,7 @@
             "channel_name": "최종시안",
             "category": "People & Blogs",
             "duration": "29:31",
-            "view_count": "989794",
+            "view_count": "993238",
             "thumbnail_url": "https://i.ytimg.com/vi/DQE3DG-D8s8/hqdefault.jpg"
         },
         {
@@ -187,8 +205,17 @@
             "channel_name": "Chilsung Label / 칠성 레이블",
             "category": "Entertainment",
             "duration": "12:34",
-            "view_count": "686134",
+            "view_count": "691060",
             "thumbnail_url": "https://i.ytimg.com/vi/EnG8hwAsCKA/hqdefault.jpg"
+        },
+        {
+            "video_id": "A8EhTfErzRE",
+            "title": "24시간동안 호 음식 VS 불호 음식!! 민트 초코가 최애인 사람이 있을까?!",
+            "channel_name": "파뿌리",
+            "category": "Entertainment",
+            "duration": "48:45",
+            "view_count": "367712",
+            "thumbnail_url": "https://i.ytimg.com/vi/A8EhTfErzRE/hqdefault.jpg"
         },
         {
             "video_id": "NqK7AL_XuJI",
@@ -196,7 +223,7 @@
             "channel_name": "ootb STUDIO",
             "category": "Entertainment",
             "duration": "29:28",
-            "view_count": "916512",
+            "view_count": "919427",
             "thumbnail_url": "https://i.ytimg.com/vi/NqK7AL_XuJI/hqdefault.jpg"
         },
         {
@@ -205,26 +232,8 @@
             "channel_name": "달라스튜디오",
             "category": "Comedy",
             "duration": "32:19",
-            "view_count": "649595",
+            "view_count": "657133",
             "thumbnail_url": "https://i.ytimg.com/vi/APg6M-Ruehw/hqdefault.jpg"
-        },
-        {
-            "video_id": "qmWlTBd18v4",
-            "title": "유튜브가 낳은 괴물... (Feat. 추성훈, 최한진)",
-            "channel_name": "김종국 GYM JONG KOOK",
-            "category": "Sports",
-            "duration": "50:53",
-            "view_count": "1326174",
-            "thumbnail_url": "https://i.ytimg.com/vi/qmWlTBd18v4/hqdefault.jpg"
-        },
-        {
-            "video_id": "sEuaItNjgzg",
-            "title": "[EN]웃음 보장은 핑계고｜EP.73",
-            "channel_name": "뜬뜬 DdeunDdeun",
-            "category": "Comedy",
-            "duration": "1:07:19",
-            "view_count": "3001599",
-            "thumbnail_url": "https://i.ytimg.com/vi/sEuaItNjgzg/hqdefault.jpg"
         },
         {
             "video_id": "ZLGkHUs0QRg",
@@ -232,7 +241,7 @@
             "channel_name": "더보이즈 (THE BOYZ)",
             "category": "People & Blogs",
             "duration": "19:14",
-            "view_count": "66137",
+            "view_count": "66968",
             "thumbnail_url": "https://i.ytimg.com/vi/ZLGkHUs0QRg/hqdefault.jpg"
         },
         {
@@ -241,8 +250,17 @@
             "channel_name": "강쉪",
             "category": "Howto & Style",
             "duration": "10:49",
-            "view_count": "220288",
+            "view_count": "221340",
             "thumbnail_url": "https://i.ytimg.com/vi/xHajE8M6kvM/hqdefault.jpg"
+        },
+        {
+            "video_id": "qmWlTBd18v4",
+            "title": "유튜브가 낳은 괴물... (Feat. 추성훈, 최한진)",
+            "channel_name": "김종국 GYM JONG KOOK",
+            "category": "Sports",
+            "duration": "50:53",
+            "view_count": "1337605",
+            "thumbnail_url": "https://i.ytimg.com/vi/qmWlTBd18v4/hqdefault.jpg"
         },
         {
             "video_id": "JpDfTXjT-44",
@@ -250,8 +268,17 @@
             "channel_name": "취미로 요리하는 남자 Yonam",
             "category": "Entertainment",
             "duration": "18:02",
-            "view_count": "107742",
+            "view_count": "108817",
             "thumbnail_url": "https://i.ytimg.com/vi/JpDfTXjT-44/hqdefault.jpg"
+        },
+        {
+            "video_id": "TU0olaPGmuU",
+            "title": "[케케묵은 영상] 3살 라니랑 2주 카이의 하루",
+            "channel_name": "카야라니 [KaiaLani]",
+            "category": "People & Blogs",
+            "duration": "19:15",
+            "view_count": "57842",
+            "thumbnail_url": "https://i.ytimg.com/vi/TU0olaPGmuU/hqdefault.jpg"
         },
         {
             "video_id": "NmvnOjrWz9o",
@@ -259,7 +286,7 @@
             "channel_name": "술익는집",
             "category": "Howto & Style",
             "duration": "13:41",
-            "view_count": "216680",
+            "view_count": "218067",
             "thumbnail_url": "https://i.ytimg.com/vi/NmvnOjrWz9o/hqdefault.jpg"
         },
         {
@@ -268,7 +295,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "4:53",
-            "view_count": "1933867",
+            "view_count": "1936292",
             "thumbnail_url": "https://i.ytimg.com/vi/biq3XcHgXqQ/hqdefault.jpg"
         },
         {
@@ -277,7 +304,7 @@
             "channel_name": "NCT 127",
             "category": "Music",
             "duration": "30:01",
-            "view_count": "401550",
+            "view_count": "402894",
             "thumbnail_url": "https://i.ytimg.com/vi/M9n27x36rDE/hqdefault.jpg"
         },
         {
@@ -286,7 +313,7 @@
             "channel_name": "LUCY - Topic",
             "category": "Music",
             "duration": "2:41",
-            "view_count": "159532",
+            "view_count": "161259",
             "thumbnail_url": "https://i.ytimg.com/vi/hTAgyK8Ti7c/hqdefault.jpg"
         },
         {
@@ -295,7 +322,7 @@
             "channel_name": "Hong's MakeuPlay 홍이모",
             "category": "Howto & Style",
             "duration": "16:03",
-            "view_count": "212445",
+            "view_count": "213867",
             "thumbnail_url": "https://i.ytimg.com/vi/rirVN03WM64/hqdefault.jpg"
         },
         {
@@ -304,7 +331,7 @@
             "channel_name": "채널 조세호",
             "category": "Entertainment",
             "duration": "20:58",
-            "view_count": "1067542",
+            "view_count": "1069927",
             "thumbnail_url": "https://i.ytimg.com/vi/WSfOmf2RrsQ/hqdefault.jpg"
         },
         {
@@ -313,7 +340,7 @@
             "channel_name": "짠한형 신동엽",
             "category": "Entertainment",
             "duration": "59:56",
-            "view_count": "3357652",
+            "view_count": "3364241",
             "thumbnail_url": "https://i.ytimg.com/vi/V-kus_CV32I/hqdefault.jpg"
         },
         {
@@ -322,7 +349,7 @@
             "channel_name": "띱 Deep",
             "category": "Comedy",
             "duration": "5:43",
-            "view_count": "1553062",
+            "view_count": "1561696",
             "thumbnail_url": "https://i.ytimg.com/vi/xEcG_CpgMKI/hqdefault.jpg"
         },
         {
@@ -331,7 +358,7 @@
             "channel_name": "보물섬",
             "category": "Comedy",
             "duration": "28:12",
-            "view_count": "1127938",
+            "view_count": "1128838",
             "thumbnail_url": "https://i.ytimg.com/vi/cTygzqKMeug/hqdefault.jpg"
         },
         {
@@ -340,7 +367,7 @@
             "channel_name": "Mozzarella Girl & Oppa",
             "category": "Comedy",
             "duration": "26:22",
-            "view_count": "758982",
+            "view_count": "760225",
             "thumbnail_url": "https://i.ytimg.com/vi/HLxGTl8ksvQ/hqdefault.jpg"
         },
         {
@@ -349,35 +376,8 @@
             "channel_name": "네루짱NERU",
             "category": "People & Blogs",
             "duration": "11:20",
-            "view_count": "667337",
+            "view_count": "668234",
             "thumbnail_url": "https://i.ytimg.com/vi/5gD6qFmGMoo/hqdefault.jpg"
-        },
-        {
-            "video_id": "n5594NZhf2c",
-            "title": "탈탈 털리는 유치원 OT, 등원 썰",
-            "channel_name": "YOOTRUE ON AIR",
-            "category": "Howto & Style",
-            "duration": "19:03",
-            "view_count": "207126",
-            "thumbnail_url": "https://i.ytimg.com/vi/n5594NZhf2c/hqdefault.jpg"
-        },
-        {
-            "video_id": "2Mc-REz0wiY",
-            "title": "100% 수작업으로 만드는 섀도우",
-            "channel_name": "사나고 Sanago",
-            "category": "Howto & Style",
-            "duration": "15:02",
-            "view_count": "454125",
-            "thumbnail_url": "https://i.ytimg.com/vi/2Mc-REz0wiY/hqdefault.jpg"
-        },
-        {
-            "video_id": "MiVZ2ZQhCAw",
-            "title": "유럽으로가는 14시간 하늘 위 미식 여행",
-            "channel_name": "잰잰바리",
-            "category": "People & Blogs",
-            "duration": "16:54",
-            "view_count": "168150",
-            "thumbnail_url": "https://i.ytimg.com/vi/MiVZ2ZQhCAw/hqdefault.jpg"
         }
     ]
 }
