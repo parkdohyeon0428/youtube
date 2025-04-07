@@ -1,14 +1,41 @@
 {
-    "scraped_time": "2025-04-07 10:04:09",
+    "scraped_time": "2025-04-07 12:00:17",
     "videos": [
+        {
+            "video_id": "cf5mRYdCMqg",
+            "title": "이진이는 미용실이 처음인데, 머리도 잘 자르네요??",
+            "channel_name": "kiu기우쌤",
+            "category": "Howto & Style",
+            "duration": "12:15",
+            "view_count": "754926",
+            "thumbnail_url": "https://i.ytimg.com/vi/cf5mRYdCMqg/hqdefault.jpg"
+        },
+        {
+            "video_id": "v5mg-yynz0A",
+            "title": "[🇦🇺vlog] 호주에 온 사이클론 때문에 집콕하는 브이로그",
+            "channel_name": "해쭈 [HAEJOO]",
+            "category": "People & Blogs",
+            "duration": "15:34",
+            "view_count": "273268",
+            "thumbnail_url": "https://i.ytimg.com/vi/v5mg-yynz0A/hqdefault.jpg"
+        },
         {
             "video_id": "O6nX5ZvjV1E",
             "title": "헷갈리는 호감 신호",
             "channel_name": "짧은대본 ShortPaper",
             "category": "Entertainment",
             "duration": "9:28",
-            "view_count": "460970",
+            "view_count": "467560",
             "thumbnail_url": "https://i.ytimg.com/vi/O6nX5ZvjV1E/hqdefault.jpg"
+        },
+        {
+            "video_id": "umKX5cHbzFM",
+            "title": "[2025 KLPGA] 역대급 경기!! 마지막을 8m 이글로 끝내버리는 이예원..국내 개막전서 역전 우승.. 통산 7승_두산건설 We've FR",
+            "channel_name": "SBS Golf",
+            "category": "Sports",
+            "duration": "11:48",
+            "view_count": "274654",
+            "thumbnail_url": "https://i.ytimg.com/vi/umKX5cHbzFM/hqdefault.jpg"
         },
         {
             "video_id": "7hnlrjv5CWY",
@@ -16,7 +43,7 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "24:41",
-            "view_count": "1470486",
+            "view_count": "1483140",
             "thumbnail_url": "https://i.ytimg.com/vi/7hnlrjv5CWY/hqdefault.jpg"
         },
         {
@@ -25,8 +52,17 @@
             "channel_name": "스포타임",
             "category": "Sports",
             "duration": "4:58",
-            "view_count": "1610980",
+            "view_count": "1626204",
             "thumbnail_url": "https://i.ytimg.com/vi/t84OPY05zQU/hqdefault.jpg"
+        },
+        {
+            "video_id": "fOfRZdc2WD0",
+            "title": "[sub] 미연x사나 괌 여행💘 찐친 모드 폭발..🔥 | 사나 픽 돈키호테 추천, 해산물 먹방 [미연 투어.EP1]",
+            "channel_name": "미연zip MIYEON ",
+            "category": "Entertainment",
+            "duration": "38:27",
+            "view_count": "432432",
+            "thumbnail_url": "https://i.ytimg.com/vi/fOfRZdc2WD0/hqdefault.jpg"
         },
         {
             "video_id": "g6hA2tM73Js",
@@ -34,7 +70,7 @@
             "channel_name": "할명수",
             "category": "Entertainment",
             "duration": "14:24",
-            "view_count": "841803",
+            "view_count": "847435",
             "thumbnail_url": "https://i.ytimg.com/vi/g6hA2tM73Js/hqdefault.jpg"
         },
         {
@@ -43,17 +79,8 @@
             "channel_name": "고수 GOSU",
             "category": "People & Blogs",
             "duration": "13:53",
-            "view_count": "125999",
+            "view_count": "127069",
             "thumbnail_url": "https://i.ytimg.com/vi/PVKZwDMza64/hqdefault.jpg"
-        },
-        {
-            "video_id": "cCIXxAvjlYY",
-            "title": "누나들은 나를 그렇게나 사랑했었구나.. 재중이 처음 듣는 누나들의 이야기에 참아온 눈물이 뚝뚝 [신상출시 편스토랑/Fun-Staurant] | KBS 250404 방송",
-            "channel_name": "KBS Entertain",
-            "category": "Entertainment",
-            "duration": "5:59",
-            "view_count": "597911",
-            "thumbnail_url": "https://i.ytimg.com/vi/cCIXxAvjlYY/hqdefault.jpg"
         },
         {
             "video_id": "gF_d2RMQ3Zs",
@@ -61,7 +88,7 @@
             "channel_name": "배말랭",
             "category": "Comedy",
             "duration": "20:29",
-            "view_count": "332244",
+            "view_count": "334887",
             "thumbnail_url": "https://i.ytimg.com/vi/gF_d2RMQ3Zs/hqdefault.jpg"
         },
         {
@@ -70,8 +97,53 @@
             "channel_name": "집대성",
             "category": "People & Blogs",
             "duration": "31:19",
-            "view_count": "656393",
+            "view_count": "662756",
             "thumbnail_url": "https://i.ytimg.com/vi/6P8m52AFGh4/hqdefault.jpg"
+        },
+        {
+            "video_id": "cCIXxAvjlYY",
+            "title": "누나들은 나를 그렇게나 사랑했었구나.. 재중이 처음 듣는 누나들의 이야기에 참아온 눈물이 뚝뚝 [신상출시 편스토랑/Fun-Staurant] | KBS 250404 방송",
+            "channel_name": "KBS Entertain",
+            "category": "Entertainment",
+            "duration": "5:59",
+            "view_count": "603387",
+            "thumbnail_url": "https://i.ytimg.com/vi/cCIXxAvjlYY/hqdefault.jpg"
+        },
+        {
+            "video_id": "hFCC6rLmia8",
+            "title": "vlog 시험관 첫번째 결과는..?💉자궁에생긴 그것의 정체.. (사랑아 문열고 나왔어?)",
+            "channel_name": "트위티 (Tweety)",
+            "category": "People & Blogs",
+            "duration": "33:00",
+            "view_count": "172705",
+            "thumbnail_url": "https://i.ytimg.com/vi/hFCC6rLmia8/hqdefault.jpg"
+        },
+        {
+            "video_id": "8lCCjpbKNtE",
+            "title": "7년만에 드디어 소원이 이루어졌습니다...",
+            "channel_name": "제주커플jeju-couple",
+            "category": "People & Blogs",
+            "duration": "15:34",
+            "view_count": "179887",
+            "thumbnail_url": "https://i.ytimg.com/vi/8lCCjpbKNtE/hqdefault.jpg"
+        },
+        {
+            "video_id": "K3ORRaLAyGU",
+            "title": "할아버지랑 주말 내내 한국 음식 먹고 행복한 봉글이 💗",
+            "channel_name": "멜봉 네덜란드 MelBong",
+            "category": "People & Blogs",
+            "duration": "16:25",
+            "view_count": "98211",
+            "thumbnail_url": "https://i.ytimg.com/vi/K3ORRaLAyGU/hqdefault.jpg"
+        },
+        {
+            "video_id": "44Qfp9sp_U8",
+            "title": "이영자의 20년 단골집 공개 & 오일장 투어!",
+            "channel_name": "이영자 TV",
+            "category": "People & Blogs",
+            "duration": "13:46",
+            "view_count": "287975",
+            "thumbnail_url": "https://i.ytimg.com/vi/44Qfp9sp_U8/hqdefault.jpg"
         },
         {
             "video_id": "0ytvGPlWZA4",
@@ -79,8 +151,26 @@
             "channel_name": "자유부인 한가인",
             "category": "People & Blogs",
             "duration": "23:43",
-            "view_count": "232486",
+            "view_count": "235456",
             "thumbnail_url": "https://i.ytimg.com/vi/0ytvGPlWZA4/hqdefault.jpg"
+        },
+        {
+            "video_id": "UjJw3OSoG4E",
+            "title": "TMI와 비하인드까지 모두 풀었수다🍊 | 비하인드 코멘터리 | 폭싹 속았수다 | 넷플릭스",
+            "channel_name": "Netflix Korea 넷플릭스 코리아",
+            "category": "Entertainment",
+            "duration": "48:20",
+            "view_count": "1800744",
+            "thumbnail_url": "https://i.ytimg.com/vi/UjJw3OSoG4E/hqdefault.jpg"
+        },
+        {
+            "video_id": "CWwWS80uOv0",
+            "title": "네고왕, 소비왕, 파격왕 이 셋의 만남 너무 기쁘다 화장품 네고 [네고왕] Ep.2",
+            "channel_name": "달라스튜디오",
+            "category": "Comedy",
+            "duration": "27:24",
+            "view_count": "733728",
+            "thumbnail_url": "https://i.ytimg.com/vi/CWwWS80uOv0/hqdefault.jpg"
         },
         {
             "video_id": "LNegmnHBmms",
@@ -88,16 +178,16 @@
             "channel_name": "백지영 Baek Z Young",
             "category": "People & Blogs",
             "duration": "17:07",
-            "view_count": "558637",
+            "view_count": "560943",
             "thumbnail_url": "https://i.ytimg.com/vi/LNegmnHBmms/hqdefault.jpg"
         },
         {
             "video_id": "10lfmkm3-vU",
-            "title": "[유브이 녹음실] 명화라이브홀에서 콘서트 (이명화 편)",
+            "title": "[유브이 녹음실] 명화라이브홀에서 콘서트 (이명화 편) (ENG)",
             "channel_name": "유브이 방 - UV BANG",
             "category": "Comedy",
             "duration": "14:28",
-            "view_count": "475692",
+            "view_count": "480981",
             "thumbnail_url": "https://i.ytimg.com/vi/10lfmkm3-vU/hqdefault.jpg"
         },
         {
@@ -106,8 +196,17 @@
             "channel_name": "BOYNEXTDOOR",
             "category": "Music",
             "duration": "2:45",
-            "view_count": "1052858",
+            "view_count": "1063887",
             "thumbnail_url": "https://i.ytimg.com/vi/nh4e3_v21bc/hqdefault.jpg"
+        },
+        {
+            "video_id": "2ieo2-61iGk",
+            "title": "동생의 앞날을 응원하며",
+            "channel_name": "삐루빼로",
+            "category": "People & Blogs",
+            "duration": "12:08",
+            "view_count": "201969",
+            "thumbnail_url": "https://i.ytimg.com/vi/2ieo2-61iGk/hqdefault.jpg"
         },
         {
             "video_id": "3uuVDEwERfs",
@@ -115,7 +214,7 @@
             "channel_name": "추성훈 ChooSungHoon",
             "category": "People & Blogs",
             "duration": "19:56",
-            "view_count": "2392254",
+            "view_count": "2398812",
             "thumbnail_url": "https://i.ytimg.com/vi/3uuVDEwERfs/hqdefault.jpg"
         },
         {
@@ -124,17 +223,8 @@
             "channel_name": "프뚜",
             "category": "Gaming",
             "duration": "18:55",
-            "view_count": "263378",
+            "view_count": "263858",
             "thumbnail_url": "https://i.ytimg.com/vi/OEZxYu658WU/hqdefault.jpg"
-        },
-        {
-            "video_id": "lcrwH7wU_PA",
-            "title": "“저 유튜브에 나올래요” 드디어 소원성취한 MJ♥BH의 10살 아들 최초공개",
-            "channel_name": "이민정 MJ",
-            "category": "People & Blogs",
-            "duration": "8:38",
-            "view_count": "1600046",
-            "thumbnail_url": "https://i.ytimg.com/vi/lcrwH7wU_PA/hqdefault.jpg"
         },
         {
             "video_id": "GFk4bwaLQMM",
@@ -142,8 +232,17 @@
             "channel_name": "이찬원",
             "category": "Music",
             "duration": "5:03",
-            "view_count": "157434",
+            "view_count": "160942",
             "thumbnail_url": "https://i.ytimg.com/vi/GFk4bwaLQMM/hqdefault.jpg"
+        },
+        {
+            "video_id": "lcrwH7wU_PA",
+            "title": "“저 유튜브에 나올래요” 드디어 소원성취한 MJ♥BH의 10살 아들 최초공개",
+            "channel_name": "이민정 MJ",
+            "category": "People & Blogs",
+            "duration": "8:38",
+            "view_count": "1609183",
+            "thumbnail_url": "https://i.ytimg.com/vi/lcrwH7wU_PA/hqdefault.jpg"
         },
         {
             "video_id": "x_LilNqdfho",
@@ -151,7 +250,7 @@
             "channel_name": "나래식",
             "category": "Entertainment",
             "duration": "50:39",
-            "view_count": "780452",
+            "view_count": "788495",
             "thumbnail_url": "https://i.ytimg.com/vi/x_LilNqdfho/hqdefault.jpg"
         },
         {
@@ -160,7 +259,7 @@
             "channel_name": "스포츠머그 - SPORTSMUG",
             "category": "Sports",
             "duration": "28:16",
-            "view_count": "461578",
+            "view_count": "464716",
             "thumbnail_url": "https://i.ytimg.com/vi/SjK4I4f9zag/hqdefault.jpg"
         },
         {
@@ -169,7 +268,7 @@
             "channel_name": "찰스엔터",
             "category": "People & Blogs",
             "duration": "25:37",
-            "view_count": "1266619",
+            "view_count": "1269115",
             "thumbnail_url": "https://i.ytimg.com/vi/SogHI1hwh7Y/hqdefault.jpg"
         },
         {
@@ -178,7 +277,7 @@
             "channel_name": "오사카에사는사람들TV",
             "category": "Travel & Events",
             "duration": "18:41",
-            "view_count": "451792",
+            "view_count": "454495",
             "thumbnail_url": "https://i.ytimg.com/vi/tGZXihKw1EY/hqdefault.jpg"
         },
         {
@@ -187,7 +286,7 @@
             "channel_name": "정리마켓",
             "category": "Howto & Style",
             "duration": "25:13",
-            "view_count": "680850",
+            "view_count": "684178",
             "thumbnail_url": "https://i.ytimg.com/vi/rbOOW1y_tcc/hqdefault.jpg"
         },
         {
@@ -196,7 +295,7 @@
             "channel_name": "TVCHOSUN STAR",
             "category": "Entertainment",
             "duration": "29:25",
-            "view_count": "702155",
+            "view_count": "702956",
             "thumbnail_url": "https://i.ytimg.com/vi/0p3Zkw5Or_4/hqdefault.jpg"
         },
         {
@@ -205,7 +304,7 @@
             "channel_name": "쿠키런: 킹덤",
             "category": "Gaming",
             "duration": "0:42",
-            "view_count": "203099",
+            "view_count": "203616",
             "thumbnail_url": "https://i.ytimg.com/vi/l68LJtWsAC8/hqdefault.jpg"
         },
         {
@@ -214,7 +313,7 @@
             "channel_name": "유슬비 YOOSEULBI",
             "category": "People & Blogs",
             "duration": "17:56",
-            "view_count": "297571",
+            "view_count": "298467",
             "thumbnail_url": "https://i.ytimg.com/vi/4zKW1WYYjKs/hqdefault.jpg"
         },
         {
@@ -223,7 +322,7 @@
             "channel_name": "웃소 Wootso",
             "category": "Entertainment",
             "duration": "20:48",
-            "view_count": "246286",
+            "view_count": "246496",
             "thumbnail_url": "https://i.ytimg.com/vi/TH1ppagtvD4/hqdefault.jpg"
         },
         {
@@ -232,7 +331,7 @@
             "channel_name": "유병재",
             "category": "Comedy",
             "duration": "21:15",
-            "view_count": "5185254",
+            "view_count": "5191170",
             "thumbnail_url": "https://i.ytimg.com/vi/Btgbx2Oi318/hqdefault.jpg"
         },
         {
@@ -241,7 +340,7 @@
             "channel_name": "황가람과 동네청년",
             "category": "Entertainment",
             "duration": "4:01",
-            "view_count": "1031351",
+            "view_count": "1037721",
             "thumbnail_url": "https://i.ytimg.com/vi/MezvFK_r-MI/hqdefault.jpg"
         },
         {
@@ -250,7 +349,7 @@
             "channel_name": "Brawl Stars",
             "category": "Gaming",
             "duration": "1:51",
-            "view_count": "5353073",
+            "view_count": "5369384",
             "thumbnail_url": "https://i.ytimg.com/vi/5-ZR6Fi2Orc/hqdefault.jpg"
         },
         {
@@ -259,7 +358,7 @@
             "channel_name": "쓰까르",
             "category": "People & Blogs",
             "duration": "16:38",
-            "view_count": "329133",
+            "view_count": "329930",
             "thumbnail_url": "https://i.ytimg.com/vi/LTRRwZI8_z0/hqdefault.jpg"
         },
         {
@@ -268,7 +367,7 @@
             "channel_name": "밀라논나 Milanonna",
             "category": "People & Blogs",
             "duration": "16:27",
-            "view_count": "215649",
+            "view_count": "217041",
             "thumbnail_url": "https://i.ytimg.com/vi/OayzNAKDQiI/hqdefault.jpg"
         },
         {
@@ -277,107 +376,8 @@
             "channel_name": "영자씨의 부엌Young-Ja's Kitchen",
             "category": "Howto & Style",
             "duration": "4:32",
-            "view_count": "170899",
+            "view_count": "171442",
             "thumbnail_url": "https://i.ytimg.com/vi/wOPZzTVdG8w/hqdefault.jpg"
-        },
-        {
-            "video_id": "wT65vbyzhBQ",
-            "title": "본숙 커플 캠핑 드디어 왔다!! 김숙티비 최초 멜로 캠핑💗",
-            "channel_name": "김숙티비kimsookTV",
-            "category": "Entertainment",
-            "duration": "24:12",
-            "view_count": "951313",
-            "thumbnail_url": "https://i.ytimg.com/vi/wT65vbyzhBQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "IGh287GO51Y",
-            "title": "구미 선산곱창 : 한반도에서 돼지 곱창을 먹는 가장 완벽한 방법",
-            "channel_name": "육식맨 YOOXICMAN",
-            "category": "Entertainment",
-            "duration": "15:12",
-            "view_count": "540771",
-            "thumbnail_url": "https://i.ytimg.com/vi/IGh287GO51Y/hqdefault.jpg"
-        },
-        {
-            "video_id": "80_bb2Kx3r0",
-            "title": "로이킴 (Roy Kim) - 있는 모습 그대로 (As Is) Official Video",
-            "channel_name": "로이킴 Roy Kim",
-            "category": "Music",
-            "duration": "4:20",
-            "view_count": "1617304",
-            "thumbnail_url": "https://i.ytimg.com/vi/80_bb2Kx3r0/hqdefault.jpg"
-        },
-        {
-            "video_id": "ksqTs-xJcP0",
-            "title": "PERFECT CRIME TRAILER #2 - 큰 거 세 장 (The Big Three)",
-            "channel_name": "FIFTY FIFTY Official",
-            "category": "Music",
-            "duration": "2:07",
-            "view_count": "1193614",
-            "thumbnail_url": "https://i.ytimg.com/vi/ksqTs-xJcP0/hqdefault.jpg"
-        },
-        {
-            "video_id": "cnCrE161CsQ",
-            "title": "☠식사 중 시청 주의☠ 전설의 애벌레 가볍게 뛰어넘는💥 마계 요리 수장 김풍 공포의 미꾸라지💦｜냉장고를 부탁해｜JTBC 250330 방송",
-            "channel_name": "JTBC Voyage",
-            "category": "Entertainment",
-            "duration": "24:13",
-            "view_count": "1651641",
-            "thumbnail_url": "https://i.ytimg.com/vi/cnCrE161CsQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "sEuaItNjgzg",
-            "title": "[EN] 웃음 보장은 핑계고｜EP.73",
-            "channel_name": "뜬뜬 DdeunDdeun",
-            "category": "Comedy",
-            "duration": "1:07:19",
-            "view_count": "4877287",
-            "thumbnail_url": "https://i.ytimg.com/vi/sEuaItNjgzg/hqdefault.jpg"
-        },
-        {
-            "video_id": "qc5JDrfyvv4",
-            "title": "형 방에서 갈비 뜯다 갈래..? 추성훈♡하정우 [월간 아조씨 4월호]",
-            "channel_name": "추성훈 ChooSungHoon",
-            "category": "People & Blogs",
-            "duration": "24:44",
-            "view_count": "2131495",
-            "thumbnail_url": "https://i.ytimg.com/vi/qc5JDrfyvv4/hqdefault.jpg"
-        },
-        {
-            "video_id": "1UWgvCPbkEU",
-            "title": "풀코스 마라톤",
-            "channel_name": "인생84",
-            "category": "People & Blogs",
-            "duration": "19:47",
-            "view_count": "753965",
-            "thumbnail_url": "https://i.ytimg.com/vi/1UWgvCPbkEU/hqdefault.jpg"
-        },
-        {
-            "video_id": "8VLUF4EjoMs",
-            "title": "회사에서 의지하던 사람이 퇴사했을 때",
-            "channel_name": "총몇명",
-            "category": "Film & Animation",
-            "duration": "5:13",
-            "view_count": "1133443",
-            "thumbnail_url": "https://i.ytimg.com/vi/8VLUF4EjoMs/hqdefault.jpg"
-        },
-        {
-            "video_id": "ow-glrbwQJA",
-            "title": "이태리 본토에서 극찬한 성수동 월클 피자 (광고 아님)",
-            "channel_name": "잡식맨 JOBXICMAN",
-            "category": "Entertainment",
-            "duration": "9:28",
-            "view_count": "291376",
-            "thumbnail_url": "https://i.ytimg.com/vi/ow-glrbwQJA/hqdefault.jpg"
-        },
-        {
-            "video_id": "EV8wbWCo_sE",
-            "title": "[vlog]조리원 입소(젤리 이름은?🌸/호르몬의 농락../밥먹다가 끝나는 하루/부모님 젤리 첫만남/치킨 특식/그만 우세요..ㅠ)",
-            "channel_name": "김가을",
-            "category": "People & Blogs",
-            "duration": "36:29",
-            "view_count": "226722",
-            "thumbnail_url": "https://i.ytimg.com/vi/EV8wbWCo_sE/hqdefault.jpg"
         }
     ]
 }
