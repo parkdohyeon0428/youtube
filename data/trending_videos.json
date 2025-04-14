@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-04-14 10:05:29",
+    "scraped_time": "2025-04-14 12:02:45",
     "videos": [
         {
             "video_id": "W-1DWS-lZ9c",
@@ -7,8 +7,35 @@
             "channel_name": "임영웅",
             "category": "Music",
             "duration": "4:54",
-            "view_count": "667115",
+            "view_count": "730576",
             "thumbnail_url": "https://i.ytimg.com/vi/W-1DWS-lZ9c/hqdefault.jpg"
+        },
+        {
+            "video_id": "DNsawGr9fZY",
+            "title": "[UFC] 알렉산더 볼카노프스키 vs 디에고 로페스",
+            "channel_name": "tvN SPORTS",
+            "category": "Sports",
+            "duration": "22:12",
+            "view_count": "1088638",
+            "thumbnail_url": "https://i.ytimg.com/vi/DNsawGr9fZY/hqdefault.jpg"
+        },
+        {
+            "video_id": "nxbpGeevbJs",
+            "title": "Jung Hoo Lee is UNSTOPPABLE!! (Hits 2nd HR of game, 3rd of series) | 이정후초대형 홈런",
+            "channel_name": "MLB",
+            "category": "Sports",
+            "duration": "3:36",
+            "view_count": "377611",
+            "thumbnail_url": "https://i.ytimg.com/vi/nxbpGeevbJs/hqdefault.jpg"
+        },
+        {
+            "video_id": "4rteffZCZwQ",
+            "title": "Jung Hoo Lee's First Multi-Home Run Game | 가자 이정후 | San Francisco Giants vs. New York Yankees",
+            "channel_name": "San Francisco Giants",
+            "category": "Sports",
+            "duration": "2:30",
+            "view_count": "550850",
+            "thumbnail_url": "https://i.ytimg.com/vi/4rteffZCZwQ/hqdefault.jpg"
         },
         {
             "video_id": "QQJaxbLmmBI",
@@ -16,17 +43,17 @@
             "channel_name": "고고씽 GOGOSING ",
             "category": "Entertainment",
             "duration": "4:56",
-            "view_count": "211573",
+            "view_count": "227982",
             "thumbnail_url": "https://i.ytimg.com/vi/QQJaxbLmmBI/hqdefault.jpg"
         },
         {
-            "video_id": "MMclLWq7mq0",
-            "title": "[밥묵자]신병 vs 골병 (feat. 김민호, 남태우)",
-            "channel_name": "꼰대희",
-            "category": "Comedy",
-            "duration": "25:53",
-            "view_count": "800906",
-            "thumbnail_url": "https://i.ytimg.com/vi/MMclLWq7mq0/hqdefault.jpg"
+            "video_id": "O4eederVQY8",
+            "title": "🚨코드블루🚨 위급 상황에 밉상짓하다 이봉련에게 들킨 명은원 | tvN 250413 방송",
+            "channel_name": "tvN DRAMA",
+            "category": "Entertainment",
+            "duration": "4:05",
+            "view_count": "209114",
+            "thumbnail_url": "https://i.ytimg.com/vi/O4eederVQY8/hqdefault.jpg"
         },
         {
             "video_id": "FdUYctnqlXQ",
@@ -34,8 +61,17 @@
             "channel_name": "숏박스",
             "category": "Comedy",
             "duration": "9:15",
-            "view_count": "1598272",
+            "view_count": "1605315",
             "thumbnail_url": "https://i.ytimg.com/vi/FdUYctnqlXQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "MMclLWq7mq0",
+            "title": "[밥묵자]신병 vs 골병 (feat. 김민호, 남태우)",
+            "channel_name": "꼰대희",
+            "category": "Comedy",
+            "duration": "25:53",
+            "view_count": "820353",
+            "thumbnail_url": "https://i.ytimg.com/vi/MMclLWq7mq0/hqdefault.jpg"
         },
         {
             "video_id": "d9mZ_md-XdE",
@@ -43,17 +79,17 @@
             "channel_name": "함께해요 맛나요리",
             "category": "Howto & Style",
             "duration": "10:04",
-            "view_count": "388297",
+            "view_count": "397164",
             "thumbnail_url": "https://i.ytimg.com/vi/d9mZ_md-XdE/hqdefault.jpg"
         },
         {
-            "video_id": "QEJpqMR2vQE",
-            "title": "여기 어때",
-            "channel_name": "태계일주 베이스캠프",
-            "category": "Entertainment",
-            "duration": "12:13",
-            "view_count": "1450964",
-            "thumbnail_url": "https://i.ytimg.com/vi/QEJpqMR2vQE/hqdefault.jpg"
+            "video_id": "AaJBNIfo3w8",
+            "title": "때 늦은 봄 눈에 이영자 휴업 선언!",
+            "channel_name": "이영자 TV",
+            "category": "People & Blogs",
+            "duration": "11:13",
+            "view_count": "491848",
+            "thumbnail_url": "https://i.ytimg.com/vi/AaJBNIfo3w8/hqdefault.jpg"
         },
         {
             "video_id": "E_XpAlKJQFQ",
@@ -61,8 +97,17 @@
             "channel_name": "공부왕찐천재 홍진경",
             "category": "Entertainment",
             "duration": "19:29",
-            "view_count": "373265",
+            "view_count": "385452",
             "thumbnail_url": "https://i.ytimg.com/vi/E_XpAlKJQFQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "QEJpqMR2vQE",
+            "title": "여기 어때",
+            "channel_name": "태계일주 베이스캠프",
+            "category": "Entertainment",
+            "duration": "12:13",
+            "view_count": "1465757",
+            "thumbnail_url": "https://i.ytimg.com/vi/QEJpqMR2vQE/hqdefault.jpg"
         },
         {
             "video_id": "uDrbUy7FO6g",
@@ -70,7 +115,7 @@
             "channel_name": "채널십오야",
             "category": "Entertainment",
             "duration": "38:21",
-            "view_count": "1131271",
+            "view_count": "1138652",
             "thumbnail_url": "https://i.ytimg.com/vi/uDrbUy7FO6g/hqdefault.jpg"
         },
         {
@@ -79,7 +124,7 @@
             "channel_name": "채코제 Channel Korean Jay",
             "category": "Travel & Events",
             "duration": "23:04",
-            "view_count": "293478",
+            "view_count": "299958",
             "thumbnail_url": "https://i.ytimg.com/vi/s04lXW6EhmU/hqdefault.jpg"
         },
         {
@@ -88,7 +133,7 @@
             "channel_name": "MLB",
             "category": "Sports",
             "duration": "2:31",
-            "view_count": "631117",
+            "view_count": "632806",
             "thumbnail_url": "https://i.ytimg.com/vi/f1mys00dMKs/hqdefault.jpg"
         },
         {
@@ -97,7 +142,7 @@
             "channel_name": "여단오_yeodano",
             "category": "People & Blogs",
             "duration": "21:01",
-            "view_count": "212338",
+            "view_count": "215246",
             "thumbnail_url": "https://i.ytimg.com/vi/4L3CQ1xt9gc/hqdefault.jpg"
         },
         {
@@ -106,8 +151,17 @@
             "channel_name": "tvN STORY 티비엔 스토리",
             "category": "Entertainment",
             "duration": "17:12",
-            "view_count": "761599",
+            "view_count": "766062",
             "thumbnail_url": "https://i.ytimg.com/vi/VqJHCCTEmEw/hqdefault.jpg"
+        },
+        {
+            "video_id": "Q-lM1sd2fjE",
+            "title": "살림남 대가족 사천으로 총출동!👏 드디어 공개된 박서진네 150평 러브하우스!✨| KBS 250412 방송",
+            "channel_name": "KBS 한국방송",
+            "category": "Entertainment",
+            "duration": "12:45",
+            "view_count": "134057",
+            "thumbnail_url": "https://i.ytimg.com/vi/Q-lM1sd2fjE/hqdefault.jpg"
         },
         {
             "video_id": "iay-9RIHgnQ",
@@ -115,7 +169,7 @@
             "channel_name": "고재영",
             "category": "Entertainment",
             "duration": "13:03",
-            "view_count": "1114672",
+            "view_count": "1119013",
             "thumbnail_url": "https://i.ytimg.com/vi/iay-9RIHgnQ/hqdefault.jpg"
         },
         {
@@ -124,8 +178,17 @@
             "channel_name": "할명수",
             "category": "Entertainment",
             "duration": "22:00",
-            "view_count": "562620",
+            "view_count": "568171",
             "thumbnail_url": "https://i.ytimg.com/vi/ryE4mXyva48/hqdefault.jpg"
+        },
+        {
+            "video_id": "4yDfGVyI69s",
+            "title": "중대한 발표.",
+            "channel_name": "파비앙 Fabien Yoon",
+            "category": "Entertainment",
+            "duration": "20:13",
+            "view_count": "199496",
+            "thumbnail_url": "https://i.ytimg.com/vi/4yDfGVyI69s/hqdefault.jpg"
         },
         {
             "video_id": "OKHo32YdJ1I",
@@ -133,7 +196,7 @@
             "channel_name": "tvN STORY 티비엔 스토리",
             "category": "Entertainment",
             "duration": "15:00",
-            "view_count": "1247589",
+            "view_count": "1260586",
             "thumbnail_url": "https://i.ytimg.com/vi/OKHo32YdJ1I/hqdefault.jpg"
         },
         {
@@ -142,7 +205,7 @@
             "channel_name": "노홍철",
             "category": "People & Blogs",
             "duration": "19:13",
-            "view_count": "371824",
+            "view_count": "379539",
             "thumbnail_url": "https://i.ytimg.com/vi/ke0sk4kiqJI/hqdefault.jpg"
         },
         {
@@ -151,8 +214,17 @@
             "channel_name": "나혼자산다 STUDIO",
             "category": "People & Blogs",
             "duration": "4:33",
-            "view_count": "227072",
+            "view_count": "229063",
             "thumbnail_url": "https://i.ytimg.com/vi/3IdwuDw0Rvc/hqdefault.jpg"
+        },
+        {
+            "video_id": "IRixxDvSxbs",
+            "title": "마라엽떡, 평냉, 광어김밥, 차돌박이 육회쌈.. 이게 되네",
+            "channel_name": "걍밍경",
+            "category": "People & Blogs",
+            "duration": "20:43",
+            "view_count": "707710",
+            "thumbnail_url": "https://i.ytimg.com/vi/IRixxDvSxbs/hqdefault.jpg"
         },
         {
             "video_id": "YsAT987YhzQ",
@@ -160,7 +232,7 @@
             "channel_name": "태국 박서방 TV",
             "category": "Entertainment",
             "duration": "20:16",
-            "view_count": "349432",
+            "view_count": "351834",
             "thumbnail_url": "https://i.ytimg.com/vi/YsAT987YhzQ/hqdefault.jpg"
         },
         {
@@ -169,7 +241,7 @@
             "channel_name": "더보이즈 (THE BOYZ)",
             "category": "People & Blogs",
             "duration": "3:44",
-            "view_count": "119411",
+            "view_count": "120950",
             "thumbnail_url": "https://i.ytimg.com/vi/aVXfwiSXvX0/hqdefault.jpg"
         },
         {
@@ -178,7 +250,7 @@
             "channel_name": "임영웅",
             "category": "Music",
             "duration": "0:53",
-            "view_count": "872936",
+            "view_count": "878813",
             "thumbnail_url": "https://i.ytimg.com/vi/NTavietjnPU/hqdefault.jpg"
         },
         {
@@ -187,17 +259,8 @@
             "channel_name": "준호 지민",
             "category": "Entertainment",
             "duration": "13:49",
-            "view_count": "765015",
+            "view_count": "767580",
             "thumbnail_url": "https://i.ytimg.com/vi/hA2UOR-I2E4/hqdefault.jpg"
-        },
-        {
-            "video_id": "GNSNhD59axE",
-            "title": "내가 돈 때문에 변호사 된 줄 알아?",
-            "channel_name": "너덜트",
-            "category": "Comedy",
-            "duration": "5:11",
-            "view_count": "698554",
-            "thumbnail_url": "https://i.ytimg.com/vi/GNSNhD59axE/hqdefault.jpg"
         },
         {
             "video_id": "wsOqV5Q9T5M",
@@ -205,8 +268,17 @@
             "channel_name": "채코제 Channel Korean Jay",
             "category": "Travel & Events",
             "duration": "27:07",
-            "view_count": "797756",
+            "view_count": "804283",
             "thumbnail_url": "https://i.ytimg.com/vi/wsOqV5Q9T5M/hqdefault.jpg"
+        },
+        {
+            "video_id": "GNSNhD59axE",
+            "title": "내가 돈 때문에 변호사 된 줄 알아?",
+            "channel_name": "너덜트",
+            "category": "Comedy",
+            "duration": "5:11",
+            "view_count": "700932",
+            "thumbnail_url": "https://i.ytimg.com/vi/GNSNhD59axE/hqdefault.jpg"
         },
         {
             "video_id": "kpF5Z3gYtjA",
@@ -214,7 +286,7 @@
             "channel_name": "뜬뜬 DdeunDdeun",
             "category": "Comedy",
             "duration": "58:09",
-            "view_count": "1885416",
+            "view_count": "1917741",
             "thumbnail_url": "https://i.ytimg.com/vi/kpF5Z3gYtjA/hqdefault.jpg"
         },
         {
@@ -223,17 +295,8 @@
             "channel_name": "달라스튜디오",
             "category": "Comedy",
             "duration": "28:38",
-            "view_count": "645107",
+            "view_count": "650832",
             "thumbnail_url": "https://i.ytimg.com/vi/5JyapcQtoUY/hqdefault.jpg"
-        },
-        {
-            "video_id": "uxElUEsLZC8",
-            "title": "여러분 제가 유튜브를 시작한 이유는요🩷",
-            "channel_name": "바로 그 고소영",
-            "category": "People & Blogs",
-            "duration": "14:08",
-            "view_count": "201975",
-            "thumbnail_url": "https://i.ytimg.com/vi/uxElUEsLZC8/hqdefault.jpg"
         },
         {
             "video_id": "nQ4eFhbBmzQ",
@@ -241,35 +304,8 @@
             "channel_name": "에스파뇰라 Española en Corea",
             "category": "People & Blogs",
             "duration": "12:43",
-            "view_count": "202577",
+            "view_count": "205106",
             "thumbnail_url": "https://i.ytimg.com/vi/nQ4eFhbBmzQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "komJT-24go4",
-            "title": "죽기 전에 꼭 가보고 싶었던 그곳",
-            "channel_name": "태계일주 베이스캠프",
-            "category": "Entertainment",
-            "duration": "22:38",
-            "view_count": "1052937",
-            "thumbnail_url": "https://i.ytimg.com/vi/komJT-24go4/hqdefault.jpg"
-        },
-        {
-            "video_id": "5N0HeZvrrv8",
-            "title": "[🎂] 카리나, 혜성처럼 나타난 천재 도예가야😏ㅣHappy Birthday KARINA💙",
-            "channel_name": "aespa",
-            "category": "Music",
-            "duration": "25:09",
-            "view_count": "257036",
-            "thumbnail_url": "https://i.ytimg.com/vi/5N0HeZvrrv8/hqdefault.jpg"
-        },
-        {
-            "video_id": "LKDhWbpLLeU",
-            "title": "쇼핑여왕 최화정이 쌓아두고 먹고 쓰는 '쟁여템 TOP20' (+창고대방출)",
-            "channel_name": "안녕하세요 최화정이에요",
-            "category": "People & Blogs",
-            "duration": "21:13",
-            "view_count": "503768",
-            "thumbnail_url": "https://i.ytimg.com/vi/LKDhWbpLLeU/hqdefault.jpg"
         },
         {
             "video_id": "XfQvDOofzEc",
@@ -277,7 +313,7 @@
             "channel_name": "취미로 요리하는 남자 Yonam",
             "category": "Entertainment",
             "duration": "18:29",
-            "view_count": "223585",
+            "view_count": "224228",
             "thumbnail_url": "https://i.ytimg.com/vi/XfQvDOofzEc/hqdefault.jpg"
         },
         {
@@ -286,17 +322,8 @@
             "channel_name": "우융",
             "category": "Gaming",
             "duration": "21:03",
-            "view_count": "274666",
+            "view_count": "275055",
             "thumbnail_url": "https://i.ytimg.com/vi/_vF0dniPZXY/hqdefault.jpg"
-        },
-        {
-            "video_id": "nqH6Sv_dFfs",
-            "title": "[ENG SUB] 유해진 박해준 {짠한형} EP. 87 찐주당 유혹에 귀가버튼 고장난 짠한형ㅋㅋ",
-            "channel_name": "짠한형 신동엽",
-            "category": "Entertainment",
-            "duration": "1:00:06",
-            "view_count": "2772802",
-            "thumbnail_url": "https://i.ytimg.com/vi/nqH6Sv_dFfs/hqdefault.jpg"
         },
         {
             "video_id": "V8DDt2F9piQ",
@@ -304,7 +331,7 @@
             "channel_name": "김쫀떡",
             "category": "Pets & Animals",
             "duration": "12:57",
-            "view_count": "590745",
+            "view_count": "592317",
             "thumbnail_url": "https://i.ytimg.com/vi/V8DDt2F9piQ/hqdefault.jpg"
         },
         {
@@ -313,7 +340,7 @@
             "channel_name": "육식맨 YOOXICMAN",
             "category": "Entertainment",
             "duration": "16:07",
-            "view_count": "463745",
+            "view_count": "464188",
             "thumbnail_url": "https://i.ytimg.com/vi/kr1vAltrZRs/hqdefault.jpg"
         },
         {
@@ -322,35 +349,8 @@
             "channel_name": "오사카에사는사람들TV",
             "category": "Travel & Events",
             "duration": "15:48",
-            "view_count": "354960",
+            "view_count": "355833",
             "thumbnail_url": "https://i.ytimg.com/vi/OQVXMW_5W8g/hqdefault.jpg"
-        },
-        {
-            "video_id": "eYKBWhC3hEk",
-            "title": "[SUB] 찰스엔터에게 공개 연애할 것인지 묻다ㅣ먼사이라디오 EP.2 찰스엔터",
-            "channel_name": "규민 JAYQ",
-            "category": "Entertainment",
-            "duration": "37:32",
-            "view_count": "274197",
-            "thumbnail_url": "https://i.ytimg.com/vi/eYKBWhC3hEk/hqdefault.jpg"
-        },
-        {
-            "video_id": "aICY_ZN1rh8",
-            "title": "노래할게요(Serenade) | 박정현 (Lena Park) - 나는 반딧불 (황가람 Ver.)",
-            "channel_name": "빅정현",
-            "category": "People & Blogs",
-            "duration": "8:57",
-            "view_count": "823757",
-            "thumbnail_url": "https://i.ytimg.com/vi/aICY_ZN1rh8/hqdefault.jpg"
-        },
-        {
-            "video_id": "PHToFdx20ac",
-            "title": "대성(DAESUNG) 'Universe' Official MV",
-            "channel_name": "DAESUNG",
-            "category": "Music",
-            "duration": "3:56",
-            "view_count": "4596947",
-            "thumbnail_url": "https://i.ytimg.com/vi/PHToFdx20ac/hqdefault.jpg"
         },
         {
             "video_id": "wtveNdqk7-k",
@@ -358,7 +358,7 @@
             "channel_name": "영국남자 Korean Englishman",
             "category": "Comedy",
             "duration": "15:25",
-            "view_count": "2871503",
+            "view_count": "2874141",
             "thumbnail_url": "https://i.ytimg.com/vi/wtveNdqk7-k/hqdefault.jpg"
         },
         {
@@ -367,7 +367,7 @@
             "channel_name": "Mozzarella Girl & Oppa",
             "category": "Comedy",
             "duration": "22:49",
-            "view_count": "254754",
+            "view_count": "255042",
             "thumbnail_url": "https://i.ytimg.com/vi/BvHW1cUD4jg/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "양장금주부",
             "category": "Howto & Style",
             "duration": "3:46",
-            "view_count": "138458",
+            "view_count": "139553",
             "thumbnail_url": "https://i.ytimg.com/vi/xVyCk3HHkHg/hqdefault.jpg"
         }
     ]
