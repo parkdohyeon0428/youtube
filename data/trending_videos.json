@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-04-16 18:14:34",
+    "scraped_time": "2025-04-16 19:14:02",
     "videos": [
         {
             "video_id": "HGqJ8zvH8l4",
@@ -7,7 +7,7 @@
             "channel_name": "KODE 코드",
             "category": "Entertainment",
             "duration": "21:35",
-            "view_count": "560019",
+            "view_count": "575571",
             "thumbnail_url": "https://i.ytimg.com/vi/HGqJ8zvH8l4/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "임영웅",
             "category": "Music",
             "duration": "4:54",
-            "view_count": "1695956",
+            "view_count": "1711073",
             "thumbnail_url": "https://i.ytimg.com/vi/W-1DWS-lZ9c/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "태계일주 베이스캠프",
             "category": "Entertainment",
             "duration": "8:23",
-            "view_count": "534496",
+            "view_count": "546033",
             "thumbnail_url": "https://i.ytimg.com/vi/6gA3Fp7PbnI/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "4:03",
-            "view_count": "1672883",
+            "view_count": "1681695",
             "thumbnail_url": "https://i.ytimg.com/vi/LNETckymbzk/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "tvN SPORTS",
             "category": "Sports",
             "duration": "22:12",
-            "view_count": "1466613",
+            "view_count": "1469530",
             "thumbnail_url": "https://i.ytimg.com/vi/DNsawGr9fZY/hqdefault.jpg"
         },
         {
@@ -52,17 +52,8 @@
             "channel_name": "아옳이",
             "category": "People & Blogs",
             "duration": "27:58",
-            "view_count": "167567",
+            "view_count": "175659",
             "thumbnail_url": "https://i.ytimg.com/vi/gz3Lr4Mj4EA/hqdefault.jpg"
-        },
-        {
-            "video_id": "k6tMPis8YHw",
-            "title": "[#조선의사랑꾼] 참고 참던 눈물이 터지는 순간... 결국엔 펑펑 우는 양수경과 딸😭 (TV CHOSUN 250414 방송)",
-            "channel_name": "TVCHOSUN LIFE",
-            "category": "Entertainment",
-            "duration": "20:06",
-            "view_count": "168928",
-            "thumbnail_url": "https://i.ytimg.com/vi/k6tMPis8YHw/hqdefault.jpg"
         },
         {
             "video_id": "fhsrNqV54dM",
@@ -70,8 +61,17 @@
             "channel_name": "해쭈 [HAEJOO]",
             "category": "People & Blogs",
             "duration": "34:06",
-            "view_count": "279017",
+            "view_count": "289824",
             "thumbnail_url": "https://i.ytimg.com/vi/fhsrNqV54dM/hqdefault.jpg"
+        },
+        {
+            "video_id": "k6tMPis8YHw",
+            "title": "[#조선의사랑꾼] 참고 참던 눈물이 터지는 순간... 결국엔 펑펑 우는 양수경과 딸😭 (TV CHOSUN 250414 방송)",
+            "channel_name": "TVCHOSUN LIFE",
+            "category": "Entertainment",
+            "duration": "20:06",
+            "view_count": "177025",
+            "thumbnail_url": "https://i.ytimg.com/vi/k6tMPis8YHw/hqdefault.jpg"
         },
         {
             "video_id": "0EVYDKuStYU",
@@ -79,7 +79,7 @@
             "channel_name": "썸타임즈Ssumtimes",
             "category": "Sports",
             "duration": "14:58",
-            "view_count": "432524",
+            "view_count": "432748",
             "thumbnail_url": "https://i.ytimg.com/vi/0EVYDKuStYU/hqdefault.jpg"
         },
         {
@@ -88,7 +88,7 @@
             "channel_name": "M드로메다 스튜디오",
             "category": "Entertainment",
             "duration": "27:03",
-            "view_count": "170863",
+            "view_count": "177585",
             "thumbnail_url": "https://i.ytimg.com/vi/Z-bN3iVlRR8/hqdefault.jpg"
         },
         {
@@ -97,7 +97,7 @@
             "channel_name": "tvN DRAMA",
             "category": "Entertainment",
             "duration": "4:05",
-            "view_count": "1154722",
+            "view_count": "1162998",
             "thumbnail_url": "https://i.ytimg.com/vi/O4eederVQY8/hqdefault.jpg"
         },
         {
@@ -106,7 +106,7 @@
             "channel_name": "고고씽 GOGOSING ",
             "category": "Entertainment",
             "duration": "4:56",
-            "view_count": "415441",
+            "view_count": "418075",
             "thumbnail_url": "https://i.ytimg.com/vi/QQJaxbLmmBI/hqdefault.jpg"
         },
         {
@@ -115,7 +115,7 @@
             "channel_name": "김쫀떡",
             "category": "Pets & Animals",
             "duration": "15:10",
-            "view_count": "200457",
+            "view_count": "204079",
             "thumbnail_url": "https://i.ytimg.com/vi/s9EaUkYt0Vs/hqdefault.jpg"
         },
         {
@@ -124,8 +124,17 @@
             "channel_name": "SBS ",
             "category": "Entertainment",
             "duration": "14:47",
-            "view_count": "550606",
+            "view_count": "554142",
             "thumbnail_url": "https://i.ytimg.com/vi/FBcABvkgl0g/hqdefault.jpg"
+        },
+        {
+            "video_id": "0_bkdqBvEjc",
+            "title": "[달려라 석진] EP.30 | 달석장",
+            "channel_name": "BANGTANTV",
+            "category": "Music",
+            "duration": "40:03",
+            "view_count": "672440",
+            "thumbnail_url": "https://i.ytimg.com/vi/0_bkdqBvEjc/hqdefault.jpg"
         },
         {
             "video_id": "w6vCF0DbBsE",
@@ -133,7 +142,7 @@
             "channel_name": "Brawl Stars",
             "category": "Gaming",
             "duration": "1:46",
-            "view_count": "8720429",
+            "view_count": "8754162",
             "thumbnail_url": "https://i.ytimg.com/vi/w6vCF0DbBsE/hqdefault.jpg"
         },
         {
@@ -142,7 +151,7 @@
             "channel_name": "MLB",
             "category": "Sports",
             "duration": "3:36",
-            "view_count": "461609",
+            "view_count": "461765",
             "thumbnail_url": "https://i.ytimg.com/vi/nxbpGeevbJs/hqdefault.jpg"
         },
         {
@@ -151,17 +160,8 @@
             "channel_name": "충주시",
             "category": "알 수 없음",
             "duration": "0:20",
-            "view_count": "547132",
+            "view_count": "555973",
             "thumbnail_url": "https://i.ytimg.com/vi/xsXZICtfMrs/hqdefault.jpg"
-        },
-        {
-            "video_id": "0_bkdqBvEjc",
-            "title": "[달려라 석진] EP.30 | 달석장",
-            "channel_name": "BANGTANTV",
-            "category": "Music",
-            "duration": "40:03",
-            "view_count": "650815",
-            "thumbnail_url": "https://i.ytimg.com/vi/0_bkdqBvEjc/hqdefault.jpg"
         },
         {
             "video_id": "ZULh7px2rQ8",
@@ -169,7 +169,7 @@
             "channel_name": "하트시그널 라비티비",
             "category": "Entertainment",
             "duration": "6:12",
-            "view_count": "228526",
+            "view_count": "234768",
             "thumbnail_url": "https://i.ytimg.com/vi/ZULh7px2rQ8/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "planD플랜디",
             "category": "People & Blogs",
             "duration": "37:47",
-            "view_count": "252053",
+            "view_count": "259760",
             "thumbnail_url": "https://i.ytimg.com/vi/D3csOwDDWcY/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "스포일러 MLB",
             "category": "Sports",
             "duration": "10:15",
-            "view_count": "480389",
+            "view_count": "480608",
             "thumbnail_url": "https://i.ytimg.com/vi/4qI5ZPzmgSE/hqdefault.jpg"
         },
         {
@@ -196,8 +196,17 @@
             "channel_name": "김형준의 야구야구 YagooYagu",
             "category": "Sports",
             "duration": "8:04",
-            "view_count": "309043",
+            "view_count": "309159",
             "thumbnail_url": "https://i.ytimg.com/vi/sST1S1jwtfQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "dQHNyS4P8_Q",
+            "title": "추민하가 왜 거기서 나와...?🌺 이제는 신혼부부로 돌아온 선배미 가득한 러블리 추민하🥰 | #언젠가는슬기로울전공의생활",
+            "channel_name": "tvN DRAMA",
+            "category": "Entertainment",
+            "duration": "5:40",
+            "view_count": "968933",
+            "thumbnail_url": "https://i.ytimg.com/vi/dQHNyS4P8_Q/hqdefault.jpg"
         },
         {
             "video_id": "kpF5Z3gYtjA",
@@ -205,7 +214,7 @@
             "channel_name": "뜬뜬 DdeunDdeun",
             "category": "Comedy",
             "duration": "58:09",
-            "view_count": "2441321",
+            "view_count": "2447689",
             "thumbnail_url": "https://i.ytimg.com/vi/kpF5Z3gYtjA/hqdefault.jpg"
         },
         {
@@ -214,17 +223,8 @@
             "channel_name": "김숙티비kimsookTV",
             "category": "Entertainment",
             "duration": "16:28",
-            "view_count": "388385",
+            "view_count": "392936",
             "thumbnail_url": "https://i.ytimg.com/vi/M4cQiyhjyLU/hqdefault.jpg"
-        },
-        {
-            "video_id": "dQHNyS4P8_Q",
-            "title": "추민하가 왜 거기서 나와...?🌺 이제는 신혼부부로 돌아온 선배미 가득한 러블리 추민하🥰 | #언젠가는슬기로울전공의생활",
-            "channel_name": "tvN DRAMA",
-            "category": "Entertainment",
-            "duration": "5:40",
-            "view_count": "962933",
-            "thumbnail_url": "https://i.ytimg.com/vi/dQHNyS4P8_Q/hqdefault.jpg"
         },
         {
             "video_id": "4rteffZCZwQ",
@@ -232,7 +232,7 @@
             "channel_name": "San Francisco Giants",
             "category": "Sports",
             "duration": "2:30",
-            "view_count": "666542",
+            "view_count": "666688",
             "thumbnail_url": "https://i.ytimg.com/vi/4rteffZCZwQ/hqdefault.jpg"
         },
         {
@@ -241,17 +241,8 @@
             "channel_name": "이자반",
             "category": "People & Blogs",
             "duration": "29:44",
-            "view_count": "93704",
+            "view_count": "96407",
             "thumbnail_url": "https://i.ytimg.com/vi/JNgap8yvXYk/hqdefault.jpg"
-        },
-        {
-            "video_id": "AaJBNIfo3w8",
-            "title": "때 늦은 봄 눈에 이영자 휴업 선언!",
-            "channel_name": "이영자 TV",
-            "category": "People & Blogs",
-            "duration": "11:13",
-            "view_count": "822486",
-            "thumbnail_url": "https://i.ytimg.com/vi/AaJBNIfo3w8/hqdefault.jpg"
         },
         {
             "video_id": "N_vYUNEktsA",
@@ -259,8 +250,17 @@
             "channel_name": "TAK / DORIDORI",
             "category": "Music",
             "duration": "3:11",
-            "view_count": "101659",
+            "view_count": "106111",
             "thumbnail_url": "https://i.ytimg.com/vi/N_vYUNEktsA/hqdefault.jpg"
+        },
+        {
+            "video_id": "AaJBNIfo3w8",
+            "title": "때 늦은 봄 눈에 이영자 휴업 선언!",
+            "channel_name": "이영자 TV",
+            "category": "People & Blogs",
+            "duration": "11:13",
+            "view_count": "826156",
+            "thumbnail_url": "https://i.ytimg.com/vi/AaJBNIfo3w8/hqdefault.jpg"
         },
         {
             "video_id": "MMclLWq7mq0",
@@ -268,7 +268,7 @@
             "channel_name": "꼰대희",
             "category": "Comedy",
             "duration": "25:53",
-            "view_count": "1204692",
+            "view_count": "1209658",
             "thumbnail_url": "https://i.ytimg.com/vi/MMclLWq7mq0/hqdefault.jpg"
         },
         {
@@ -277,7 +277,7 @@
             "channel_name": "ENA 이엔에이",
             "category": "Entertainment",
             "duration": "19:11",
-            "view_count": "573427",
+            "view_count": "575600",
             "thumbnail_url": "https://i.ytimg.com/vi/I_VyQShnJIo/hqdefault.jpg"
         },
         {
@@ -286,7 +286,7 @@
             "channel_name": "DKTV Daniel",
             "category": "Sports",
             "duration": "6:57",
-            "view_count": "233071",
+            "view_count": "233172",
             "thumbnail_url": "https://i.ytimg.com/vi/DzESgrdXK7U/hqdefault.jpg"
         },
         {
@@ -295,7 +295,7 @@
             "channel_name": "리틀타네의 슬기로운 생활",
             "category": "People & Blogs",
             "duration": "11:46",
-            "view_count": "254541",
+            "view_count": "257363",
             "thumbnail_url": "https://i.ytimg.com/vi/qBEyOXNVSkg/hqdefault.jpg"
         },
         {
@@ -304,17 +304,8 @@
             "channel_name": "카야라니 [KaiaLani]",
             "category": "People & Blogs",
             "duration": "27:11",
-            "view_count": "99012",
+            "view_count": "99792",
             "thumbnail_url": "https://i.ytimg.com/vi/dxCWwhY9TPQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "FdUYctnqlXQ",
-            "title": "집 데이트",
-            "channel_name": "숏박스",
-            "category": "Comedy",
-            "duration": "9:15",
-            "view_count": "1800545",
-            "thumbnail_url": "https://i.ytimg.com/vi/FdUYctnqlXQ/hqdefault.jpg"
         },
         {
             "video_id": "HNBLcSNpohk",
@@ -322,8 +313,17 @@
             "channel_name": "Tacosama 타코사마",
             "category": "People & Blogs",
             "duration": "24:33",
-            "view_count": "133515",
+            "view_count": "134224",
             "thumbnail_url": "https://i.ytimg.com/vi/HNBLcSNpohk/hqdefault.jpg"
+        },
+        {
+            "video_id": "FdUYctnqlXQ",
+            "title": "집 데이트",
+            "channel_name": "숏박스",
+            "category": "Comedy",
+            "duration": "9:15",
+            "view_count": "1803939",
+            "thumbnail_url": "https://i.ytimg.com/vi/FdUYctnqlXQ/hqdefault.jpg"
         },
         {
             "video_id": "FYnO57C2KSs",
@@ -331,7 +331,7 @@
             "channel_name": "캡틴따거 Captain Brother",
             "category": "Travel & Events",
             "duration": "30:54",
-            "view_count": "127672",
+            "view_count": "128568",
             "thumbnail_url": "https://i.ytimg.com/vi/FYnO57C2KSs/hqdefault.jpg"
         },
         {
@@ -340,7 +340,7 @@
             "channel_name": "함께해요 맛나요리",
             "category": "Howto & Style",
             "duration": "10:04",
-            "view_count": "523838",
+            "view_count": "525856",
             "thumbnail_url": "https://i.ytimg.com/vi/d9mZ_md-XdE/hqdefault.jpg"
         },
         {
@@ -349,7 +349,7 @@
             "channel_name": "채코제 Channel Korean Jay",
             "category": "Travel & Events",
             "duration": "23:04",
-            "view_count": "389017",
+            "view_count": "389907",
             "thumbnail_url": "https://i.ytimg.com/vi/s04lXW6EhmU/hqdefault.jpg"
         },
         {
@@ -358,7 +358,7 @@
             "channel_name": "웃기시네",
             "category": "Comedy",
             "duration": "4:13",
-            "view_count": "256945",
+            "view_count": "257902",
             "thumbnail_url": "https://i.ytimg.com/vi/E7BLNomd4gg/hqdefault.jpg"
         },
         {
@@ -367,7 +367,7 @@
             "channel_name": "여단오_yeodano",
             "category": "People & Blogs",
             "duration": "21:01",
-            "view_count": "268512",
+            "view_count": "269266",
             "thumbnail_url": "https://i.ytimg.com/vi/4L3CQ1xt9gc/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "고재영",
             "category": "Entertainment",
             "duration": "13:03",
-            "view_count": "1226221",
+            "view_count": "1227712",
             "thumbnail_url": "https://i.ytimg.com/vi/iay-9RIHgnQ/hqdefault.jpg"
         }
     ]
