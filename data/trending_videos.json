@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-04-17 14:13:46",
+    "scraped_time": "2025-04-17 15:19:07",
     "videos": [
         {
             "video_id": "hcJ6DfeuEc0",
@@ -7,7 +7,7 @@
             "channel_name": "A급 장영란",
             "category": "Entertainment",
             "duration": "22:04",
-            "view_count": "446826",
+            "view_count": "470310",
             "thumbnail_url": "https://i.ytimg.com/vi/hcJ6DfeuEc0/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "다나나",
             "category": "People & Blogs",
             "duration": "13:51",
-            "view_count": "392301",
+            "view_count": "411356",
             "thumbnail_url": "https://i.ytimg.com/vi/mkqrLBDYJlk/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "빠더너스 BDNS",
             "category": "Comedy",
             "duration": "23:39",
-            "view_count": "516118",
+            "view_count": "537538",
             "thumbnail_url": "https://i.ytimg.com/vi/ZLG9fJuRR9A/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "KODE 코드",
             "category": "Entertainment",
             "duration": "21:35",
-            "view_count": "733237",
+            "view_count": "741024",
             "thumbnail_url": "https://i.ytimg.com/vi/HGqJ8zvH8l4/hqdefault.jpg"
         },
         {
@@ -43,17 +43,8 @@
             "channel_name": "태계일주 베이스캠프",
             "category": "Entertainment",
             "duration": "8:23",
-            "view_count": "645214",
+            "view_count": "651737",
             "thumbnail_url": "https://i.ytimg.com/vi/6gA3Fp7PbnI/hqdefault.jpg"
-        },
-        {
-            "video_id": "W-1DWS-lZ9c",
-            "title": "임영웅 [천국보다 아름다운] Music Clip",
-            "channel_name": "임영웅",
-            "category": "Music",
-            "duration": "4:54",
-            "view_count": "1873842",
-            "thumbnail_url": "https://i.ytimg.com/vi/W-1DWS-lZ9c/hqdefault.jpg"
         },
         {
             "video_id": "gzEn0i79dY4",
@@ -61,8 +52,17 @@
             "channel_name": "골 때리는 그녀들 Shooting Stars",
             "category": "Entertainment",
             "duration": "14:48",
-            "view_count": "150339",
+            "view_count": "160792",
             "thumbnail_url": "https://i.ytimg.com/vi/gzEn0i79dY4/hqdefault.jpg"
+        },
+        {
+            "video_id": "W-1DWS-lZ9c",
+            "title": "임영웅 [천국보다 아름다운] Music Clip",
+            "channel_name": "임영웅",
+            "category": "Music",
+            "duration": "4:54",
+            "view_count": "1885568",
+            "thumbnail_url": "https://i.ytimg.com/vi/W-1DWS-lZ9c/hqdefault.jpg"
         },
         {
             "video_id": "XwhFthaxZNg",
@@ -70,7 +70,7 @@
             "channel_name": "현주투성이",
             "category": "People & Blogs",
             "duration": "21:32",
-            "view_count": "213808",
+            "view_count": "222145",
             "thumbnail_url": "https://i.ytimg.com/vi/XwhFthaxZNg/hqdefault.jpg"
         },
         {
@@ -79,26 +79,8 @@
             "channel_name": "M2",
             "category": "Entertainment",
             "duration": "3:18",
-            "view_count": "304075",
+            "view_count": "314159",
             "thumbnail_url": "https://i.ytimg.com/vi/f8sRbKyPnZE/hqdefault.jpg"
-        },
-        {
-            "video_id": "LNETckymbzk",
-            "title": "NCT WISH 엔시티 위시 'poppop' MV",
-            "channel_name": "SMTOWN",
-            "category": "Music",
-            "duration": "4:03",
-            "view_count": "1919018",
-            "thumbnail_url": "https://i.ytimg.com/vi/LNETckymbzk/hqdefault.jpg"
-        },
-        {
-            "video_id": "8jk2asElHvQ",
-            "title": "김남일과 1,800만 원짜리 한우 통치마살, 토시살, 채끝등심, 차돌박이 라면 먹방! [둘이 왔어요 EP185]",
-            "channel_name": "운동부 둘이 왔어요",
-            "category": "Travel & Events",
-            "duration": "27:24",
-            "view_count": "140697",
-            "thumbnail_url": "https://i.ytimg.com/vi/8jk2asElHvQ/hqdefault.jpg"
         },
         {
             "video_id": "cdeKX7cs-r0",
@@ -106,8 +88,35 @@
             "channel_name": "Coachella",
             "category": "Music",
             "duration": "3:08",
-            "view_count": "412357",
+            "view_count": "505550",
             "thumbnail_url": "https://i.ytimg.com/vi/cdeKX7cs-r0/hqdefault.jpg"
+        },
+        {
+            "video_id": "8jk2asElHvQ",
+            "title": "김남일과 1,800만 원짜리 한우 통치마살, 토시살, 채끝등심, 차돌박이 라면 먹방! [둘이 왔어요 EP185]",
+            "channel_name": "운동부 둘이 왔어요",
+            "category": "Travel & Events",
+            "duration": "27:24",
+            "view_count": "147564",
+            "thumbnail_url": "https://i.ytimg.com/vi/8jk2asElHvQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "LNETckymbzk",
+            "title": "NCT WISH 엔시티 위시 'poppop' MV",
+            "channel_name": "SMTOWN",
+            "category": "Music",
+            "duration": "4:03",
+            "view_count": "1948424",
+            "thumbnail_url": "https://i.ytimg.com/vi/LNETckymbzk/hqdefault.jpg"
+        },
+        {
+            "video_id": "2ry2yHEZqZw",
+            "title": "JENNIE - ExtraL - Live at Coachella 2025",
+            "channel_name": "Coachella",
+            "category": "Music",
+            "duration": "3:44",
+            "view_count": "255959",
+            "thumbnail_url": "https://i.ytimg.com/vi/2ry2yHEZqZw/hqdefault.jpg"
         },
         {
             "video_id": "gz3Lr4Mj4EA",
@@ -115,7 +124,7 @@
             "channel_name": "아옳이",
             "category": "People & Blogs",
             "duration": "27:58",
-            "view_count": "262086",
+            "view_count": "266980",
             "thumbnail_url": "https://i.ytimg.com/vi/gz3Lr4Mj4EA/hqdefault.jpg"
         },
         {
@@ -124,7 +133,7 @@
             "channel_name": "TVCHOSUN LIFE",
             "category": "Entertainment",
             "duration": "20:06",
-            "view_count": "254210",
+            "view_count": "258921",
             "thumbnail_url": "https://i.ytimg.com/vi/k6tMPis8YHw/hqdefault.jpg"
         },
         {
@@ -133,17 +142,8 @@
             "channel_name": "해쭈 [HAEJOO]",
             "category": "People & Blogs",
             "duration": "34:06",
-            "view_count": "404619",
+            "view_count": "409510",
             "thumbnail_url": "https://i.ytimg.com/vi/fhsrNqV54dM/hqdefault.jpg"
-        },
-        {
-            "video_id": "2ry2yHEZqZw",
-            "title": "JENNIE - ExtraL - Live at Coachella 2025",
-            "channel_name": "Coachella",
-            "category": "Music",
-            "duration": "3:44",
-            "view_count": "211436",
-            "thumbnail_url": "https://i.ytimg.com/vi/2ry2yHEZqZw/hqdefault.jpg"
         },
         {
             "video_id": "RTTVWPXcd8A",
@@ -151,7 +151,7 @@
             "channel_name": "CHK CHK (촉촉)",
             "category": "Entertainment",
             "duration": "4:49",
-            "view_count": "185063",
+            "view_count": "191561",
             "thumbnail_url": "https://i.ytimg.com/vi/RTTVWPXcd8A/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "BANGTANTV",
             "category": "Music",
             "duration": "40:03",
-            "view_count": "935702",
+            "view_count": "959721",
             "thumbnail_url": "https://i.ytimg.com/vi/0_bkdqBvEjc/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "tvN SPORTS",
             "category": "Sports",
             "duration": "22:12",
-            "view_count": "1501239",
+            "view_count": "1503366",
             "thumbnail_url": "https://i.ytimg.com/vi/DNsawGr9fZY/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "M드로메다 스튜디오",
             "category": "Entertainment",
             "duration": "27:03",
-            "view_count": "237529",
+            "view_count": "241885",
             "thumbnail_url": "https://i.ytimg.com/vi/Z-bN3iVlRR8/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "하트시그널 라비티비",
             "category": "Entertainment",
             "duration": "6:12",
-            "view_count": "308895",
+            "view_count": "311997",
             "thumbnail_url": "https://i.ytimg.com/vi/ZULh7px2rQ8/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "삐루빼로",
             "category": "People & Blogs",
             "duration": "13:24",
-            "view_count": "247854",
+            "view_count": "252817",
             "thumbnail_url": "https://i.ytimg.com/vi/wzm7qleUAk8/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "김쫀떡",
             "category": "Pets & Animals",
             "duration": "15:10",
-            "view_count": "238743",
+            "view_count": "240405",
             "thumbnail_url": "https://i.ytimg.com/vi/s9EaUkYt0Vs/hqdefault.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "channel_name": "김숙티비kimsookTV",
             "category": "Entertainment",
             "duration": "16:28",
-            "view_count": "439040",
+            "view_count": "442683",
             "thumbnail_url": "https://i.ytimg.com/vi/M4cQiyhjyLU/hqdefault.jpg"
         },
         {
@@ -223,7 +223,7 @@
             "channel_name": "썸타임즈Ssumtimes",
             "category": "Sports",
             "duration": "14:58",
-            "view_count": "435410",
+            "view_count": "435569",
             "thumbnail_url": "https://i.ytimg.com/vi/0EVYDKuStYU/hqdefault.jpg"
         },
         {
@@ -232,7 +232,7 @@
             "channel_name": "planD플랜디",
             "category": "People & Blogs",
             "duration": "37:47",
-            "view_count": "359415",
+            "view_count": "363303",
             "thumbnail_url": "https://i.ytimg.com/vi/D3csOwDDWcY/hqdefault.jpg"
         },
         {
@@ -241,7 +241,7 @@
             "channel_name": "tvN DRAMA",
             "category": "Entertainment",
             "duration": "4:05",
-            "view_count": "1247258",
+            "view_count": "1250861",
             "thumbnail_url": "https://i.ytimg.com/vi/O4eederVQY8/hqdefault.jpg"
         },
         {
@@ -250,7 +250,7 @@
             "channel_name": "이자반",
             "category": "People & Blogs",
             "duration": "29:44",
-            "view_count": "128185",
+            "view_count": "129639",
             "thumbnail_url": "https://i.ytimg.com/vi/JNgap8yvXYk/hqdefault.jpg"
         },
         {
@@ -259,7 +259,7 @@
             "channel_name": "고고씽 GOGOSING ",
             "category": "Entertainment",
             "duration": "4:56",
-            "view_count": "442473",
+            "view_count": "444598",
             "thumbnail_url": "https://i.ytimg.com/vi/QQJaxbLmmBI/hqdefault.jpg"
         },
         {
@@ -268,7 +268,7 @@
             "channel_name": "TAK / DORIDORI",
             "category": "Music",
             "duration": "3:11",
-            "view_count": "152174",
+            "view_count": "154914",
             "thumbnail_url": "https://i.ytimg.com/vi/N_vYUNEktsA/hqdefault.jpg"
         },
         {
@@ -277,17 +277,8 @@
             "channel_name": "Brawl Stars",
             "category": "Gaming",
             "duration": "1:46",
-            "view_count": "9333444",
+            "view_count": "9344737",
             "thumbnail_url": "https://i.ytimg.com/vi/w6vCF0DbBsE/hqdefault.jpg"
-        },
-        {
-            "video_id": "nxbpGeevbJs",
-            "title": "Jung Hoo Lee is UNSTOPPABLE!! (Hits 2nd HR of game, 3rd of series) | 이정후초대형 홈런",
-            "channel_name": "MLB",
-            "category": "Sports",
-            "duration": "3:36",
-            "view_count": "463935",
-            "thumbnail_url": "https://i.ytimg.com/vi/nxbpGeevbJs/hqdefault.jpg"
         },
         {
             "video_id": "QZ91FPJbQh0",
@@ -295,8 +286,17 @@
             "channel_name": "스포타임",
             "category": "Sports",
             "duration": "3:13",
-            "view_count": "1358089",
+            "view_count": "1361602",
             "thumbnail_url": "https://i.ytimg.com/vi/QZ91FPJbQh0/hqdefault.jpg"
+        },
+        {
+            "video_id": "nxbpGeevbJs",
+            "title": "Jung Hoo Lee is UNSTOPPABLE!! (Hits 2nd HR of game, 3rd of series) | 이정후초대형 홈런",
+            "channel_name": "MLB",
+            "category": "Sports",
+            "duration": "3:36",
+            "view_count": "464159",
+            "thumbnail_url": "https://i.ytimg.com/vi/nxbpGeevbJs/hqdefault.jpg"
         },
         {
             "video_id": "dQHNyS4P8_Q",
@@ -304,7 +304,7 @@
             "channel_name": "tvN DRAMA",
             "category": "Entertainment",
             "duration": "5:40",
-            "view_count": "1048135",
+            "view_count": "1051339",
             "thumbnail_url": "https://i.ytimg.com/vi/dQHNyS4P8_Q/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "스포일러 MLB",
             "category": "Sports",
             "duration": "10:15",
-            "view_count": "484314",
+            "view_count": "484507",
             "thumbnail_url": "https://i.ytimg.com/vi/4qI5ZPzmgSE/hqdefault.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "channel_name": "DKTV Daniel",
             "category": "Sports",
             "duration": "6:57",
-            "view_count": "234463",
+            "view_count": "234538",
             "thumbnail_url": "https://i.ytimg.com/vi/DzESgrdXK7U/hqdefault.jpg"
         },
         {
@@ -331,7 +331,7 @@
             "channel_name": "Tacosama 타코사마",
             "category": "People & Blogs",
             "duration": "24:33",
-            "view_count": "144182",
+            "view_count": "144697",
             "thumbnail_url": "https://i.ytimg.com/vi/HNBLcSNpohk/hqdefault.jpg"
         },
         {
@@ -340,7 +340,7 @@
             "channel_name": "리틀타네의 슬기로운 생활",
             "category": "People & Blogs",
             "duration": "11:46",
-            "view_count": "297404",
+            "view_count": "299992",
             "thumbnail_url": "https://i.ytimg.com/vi/qBEyOXNVSkg/hqdefault.jpg"
         },
         {
@@ -349,7 +349,7 @@
             "channel_name": "카야라니 [KaiaLani]",
             "category": "People & Blogs",
             "duration": "27:11",
-            "view_count": "110088",
+            "view_count": "110646",
             "thumbnail_url": "https://i.ytimg.com/vi/dxCWwhY9TPQ/hqdefault.jpg"
         },
         {
@@ -358,7 +358,7 @@
             "channel_name": "캡틴따거 Captain Brother",
             "category": "Travel & Events",
             "duration": "30:54",
-            "view_count": "140324",
+            "view_count": "141035",
             "thumbnail_url": "https://i.ytimg.com/vi/FYnO57C2KSs/hqdefault.jpg"
         },
         {
@@ -367,7 +367,7 @@
             "channel_name": "숏박스",
             "category": "Comedy",
             "duration": "9:15",
-            "view_count": "1840718",
+            "view_count": "1842589",
             "thumbnail_url": "https://i.ytimg.com/vi/FdUYctnqlXQ/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "함께해요 맛나요리",
             "category": "Howto & Style",
             "duration": "10:04",
-            "view_count": "543699",
+            "view_count": "544880",
             "thumbnail_url": "https://i.ytimg.com/vi/d9mZ_md-XdE/hqdefault.jpg"
         }
     ]
