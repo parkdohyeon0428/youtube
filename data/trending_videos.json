@@ -1,13 +1,22 @@
 {
-    "scraped_time": "2025-04-22 10:03:39",
+    "scraped_time": "2025-04-22 11:59:21",
     "videos": [
+        {
+            "video_id": "Csaj3X6PKxY",
+            "title": "TWS (투어스) '마음 따라 뛰는 건 멋지지 않아?' Official MV",
+            "channel_name": "HYBE LABELS",
+            "category": "Music",
+            "duration": "3:36",
+            "view_count": "3873598",
+            "thumbnail_url": "https://i.ytimg.com/vi/Csaj3X6PKxY/hqdefault.jpg"
+        },
         {
             "video_id": "dtJ9j8grYHk",
             "title": "[전참시] 외쳐 갓 WING😎 지드래곤 콘서트에서 단독 무대 제대로 찢은 비트박서 윙ㅣ#윙 MBC250419방송",
             "channel_name": "엠뚜루마뚜루 : MBC 공식 종합 채널",
             "category": "Entertainment",
             "duration": "17:50",
-            "view_count": "1115810",
+            "view_count": "1138063",
             "thumbnail_url": "https://i.ytimg.com/vi/dtJ9j8grYHk/hqdefault.jpg"
         },
         {
@@ -16,7 +25,7 @@
             "channel_name": "숏박스",
             "category": "Comedy",
             "duration": "7:26",
-            "view_count": "2551416",
+            "view_count": "2560219",
             "thumbnail_url": "https://i.ytimg.com/vi/Qhz2L8WzgIw/hqdefault.jpg"
         },
         {
@@ -25,7 +34,7 @@
             "channel_name": "짧은대본 ShortPaper",
             "category": "Entertainment",
             "duration": "9:36",
-            "view_count": "707809",
+            "view_count": "714664",
             "thumbnail_url": "https://i.ytimg.com/vi/S5jaYVVSRy4/hqdefault.jpg"
         },
         {
@@ -34,7 +43,7 @@
             "channel_name": "SPOTV 오리지널",
             "category": "Sports",
             "duration": "16:04",
-            "view_count": "794546",
+            "view_count": "799347",
             "thumbnail_url": "https://i.ytimg.com/vi/Ik4ckKTRz0w/hqdefault.jpg"
         },
         {
@@ -43,7 +52,7 @@
             "channel_name": "매미킴",
             "category": "Sports",
             "duration": "23:52",
-            "view_count": "578993",
+            "view_count": "605562",
             "thumbnail_url": "https://i.ytimg.com/vi/zU7LGJ5MGAo/hqdefault.jpg"
         },
         {
@@ -52,17 +61,8 @@
             "channel_name": "아이돌 인간극장",
             "category": "Music",
             "duration": "35:46",
-            "view_count": "314466",
+            "view_count": "316882",
             "thumbnail_url": "https://i.ytimg.com/vi/rTZmmk5NHGU/hqdefault.jpg"
-        },
-        {
-            "video_id": "vi0rcYGZD3o",
-            "title": "일본여행 첫날부터 눈 마주치는 음식 전부 먹는 브이로그",
-            "channel_name": "이자반",
-            "category": "People & Blogs",
-            "duration": "15:25",
-            "view_count": "160761",
-            "thumbnail_url": "https://i.ytimg.com/vi/vi0rcYGZD3o/hqdefault.jpg"
         },
         {
             "video_id": "3veRj6plb1c",
@@ -70,17 +70,17 @@
             "channel_name": "스포타임",
             "category": "Sports",
             "duration": "2:27",
-            "view_count": "2337898",
+            "view_count": "2351937",
             "thumbnail_url": "https://i.ytimg.com/vi/3veRj6plb1c/hqdefault.jpg"
         },
         {
-            "video_id": "UUFJlUy5aA4",
-            "title": "아스트로(ASTRO) - 꿈속의 문(Moon) : Memory of the Moon",
-            "channel_name": "ASTRO 아스트로",
-            "category": "Music",
-            "duration": "5:40",
-            "view_count": "2978960",
-            "thumbnail_url": "https://i.ytimg.com/vi/UUFJlUy5aA4/hqdefault.jpg"
+            "video_id": "vi0rcYGZD3o",
+            "title": "일본여행 첫날부터 눈 마주치는 음식 전부 먹는 브이로그",
+            "channel_name": "이자반",
+            "category": "People & Blogs",
+            "duration": "15:25",
+            "view_count": "163099",
+            "thumbnail_url": "https://i.ytimg.com/vi/vi0rcYGZD3o/hqdefault.jpg"
         },
         {
             "video_id": "bQH_Lb_8Hg8",
@@ -88,8 +88,17 @@
             "channel_name": "더존하우징",
             "category": "Howto & Style",
             "duration": "16:36",
-            "view_count": "173556",
+            "view_count": "178218",
             "thumbnail_url": "https://i.ytimg.com/vi/bQH_Lb_8Hg8/hqdefault.jpg"
+        },
+        {
+            "video_id": "UUFJlUy5aA4",
+            "title": "아스트로(ASTRO) - 꿈속의 문(Moon) : Memory of the Moon",
+            "channel_name": "ASTRO 아스트로",
+            "category": "Music",
+            "duration": "5:40",
+            "view_count": "3016359",
+            "thumbnail_url": "https://i.ytimg.com/vi/UUFJlUy5aA4/hqdefault.jpg"
         },
         {
             "video_id": "EbZcfvuafZA",
@@ -97,7 +106,7 @@
             "channel_name": "파비앙 Fabien Yoon",
             "category": "Entertainment",
             "duration": "18:11",
-            "view_count": "367626",
+            "view_count": "370839",
             "thumbnail_url": "https://i.ytimg.com/vi/EbZcfvuafZA/hqdefault.jpg"
         },
         {
@@ -106,7 +115,7 @@
             "channel_name": "꼰대희",
             "category": "Comedy",
             "duration": "30:01",
-            "view_count": "402850",
+            "view_count": "409328",
             "thumbnail_url": "https://i.ytimg.com/vi/JwIkZYKEU_Q/hqdefault.jpg"
         },
         {
@@ -115,8 +124,17 @@
             "channel_name": "회사원A",
             "category": "Howto & Style",
             "duration": "16:51",
-            "view_count": "428855",
+            "view_count": "433307",
             "thumbnail_url": "https://i.ytimg.com/vi/2DQfxV6ob5I/hqdefault.jpg"
+        },
+        {
+            "video_id": "hoYkaoF_lGE",
+            "title": "[예고] 너 뭐 돼? 학씨 아저씨로 대세가 된 배우 최대훈! 하지만 현실에서는 사실 관식이?!#유퀴즈온더블럭 | YOU QUIZ ON THE BLOCK EP.290",
+            "channel_name": "유 퀴즈 온 더 튜브",
+            "category": "Entertainment",
+            "duration": "1:33",
+            "view_count": "749618",
+            "thumbnail_url": "https://i.ytimg.com/vi/hoYkaoF_lGE/hqdefault.jpg"
         },
         {
             "video_id": "0LiCt0QciGc",
@@ -124,7 +142,7 @@
             "channel_name": "EBS 컬렉션 - 사이언스",
             "category": "Science & Technology",
             "duration": "47:36",
-            "view_count": "324066",
+            "view_count": "335168",
             "thumbnail_url": "https://i.ytimg.com/vi/0LiCt0QciGc/hqdefault.jpg"
         },
         {
@@ -133,17 +151,8 @@
             "channel_name": "planD플랜디",
             "category": "People & Blogs",
             "duration": "50:02",
-            "view_count": "365838",
+            "view_count": "371418",
             "thumbnail_url": "https://i.ytimg.com/vi/MJ1712ftwu0/hqdefault.jpg"
-        },
-        {
-            "video_id": "hoYkaoF_lGE",
-            "title": "[예고] 너 뭐 돼? 학씨 아저씨로 대세가 된 배우 최대훈! 하지만 현실에서는 사실 관식이?!#유퀴즈온더블럭 | YOU QUIZ ON THE BLOCK EP.290",
-            "channel_name": "유 퀴즈 온 더 튜브",
-            "category": "Entertainment",
-            "duration": "1:33",
-            "view_count": "729934",
-            "thumbnail_url": "https://i.ytimg.com/vi/hoYkaoF_lGE/hqdefault.jpg"
         },
         {
             "video_id": "MOI0--odDpc",
@@ -151,8 +160,17 @@
             "channel_name": "김복순",
             "category": "People & Blogs",
             "duration": "32:29",
-            "view_count": "158375",
+            "view_count": "159664",
             "thumbnail_url": "https://i.ytimg.com/vi/MOI0--odDpc/hqdefault.jpg"
+        },
+        {
+            "video_id": "i9AXhr26lDM",
+            "title": "다이어터 먹짱 #런닝맨 #RunningMan #sbsenter",
+            "channel_name": "SBS Entertainment",
+            "category": "Entertainment",
+            "duration": "14:58",
+            "view_count": "297566",
+            "thumbnail_url": "https://i.ytimg.com/vi/i9AXhr26lDM/hqdefault.jpg"
         },
         {
             "video_id": "X03NIGUm5pI",
@@ -160,7 +178,7 @@
             "channel_name": "빠더너스 BDNS",
             "category": "Comedy",
             "duration": "24:07",
-            "view_count": "914071",
+            "view_count": "926411",
             "thumbnail_url": "https://i.ytimg.com/vi/X03NIGUm5pI/hqdefault.jpg"
         },
         {
@@ -169,7 +187,7 @@
             "channel_name": "브롤스타즈",
             "category": "Gaming",
             "duration": "12:15",
-            "view_count": "98773",
+            "view_count": "99162",
             "thumbnail_url": "https://i.ytimg.com/vi/uRGjeXyx-Fs/hqdefault.jpg"
         },
         {
@@ -178,7 +196,7 @@
             "channel_name": "ASTRO 아스트로",
             "category": "Music",
             "duration": "22:19",
-            "view_count": "664673",
+            "view_count": "667256",
             "thumbnail_url": "https://i.ytimg.com/vi/8cQQX7TsInk/hqdefault.jpg"
         },
         {
@@ -187,7 +205,7 @@
             "channel_name": "찰스엔터",
             "category": "People & Blogs",
             "duration": "27:13",
-            "view_count": "1112467",
+            "view_count": "1115262",
             "thumbnail_url": "https://i.ytimg.com/vi/45hKHD0yP5A/hqdefault.jpg"
         },
         {
@@ -196,7 +214,7 @@
             "channel_name": "JAYKEEOUT 제이키아웃",
             "category": "Entertainment",
             "duration": "26:03",
-            "view_count": "334989",
+            "view_count": "342719",
             "thumbnail_url": "https://i.ytimg.com/vi/_CFgmmFvjjA/hqdefault.jpg"
         },
         {
@@ -205,17 +223,8 @@
             "channel_name": "안녕하세요 최화정이에요",
             "category": "People & Blogs",
             "duration": "22:40",
-            "view_count": "960940",
+            "view_count": "963672",
             "thumbnail_url": "https://i.ytimg.com/vi/Ld7jPMHMFBo/hqdefault.jpg"
-        },
-        {
-            "video_id": "wrISHhZ-GTs",
-            "title": "BOYNEXTDOOR (보이넥스트도어) 4th EP [No Genre] Trailer Film",
-            "channel_name": "HYBE LABELS",
-            "category": "Music",
-            "duration": "2:44",
-            "view_count": "1371495",
-            "thumbnail_url": "https://i.ytimg.com/vi/wrISHhZ-GTs/hqdefault.jpg"
         },
         {
             "video_id": "ljSJJFfGIJQ",
@@ -223,8 +232,17 @@
             "channel_name": "띱 Deep",
             "category": "Comedy",
             "duration": "6:28",
-            "view_count": "1552618",
+            "view_count": "1558767",
             "thumbnail_url": "https://i.ytimg.com/vi/ljSJJFfGIJQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "wrISHhZ-GTs",
+            "title": "BOYNEXTDOOR (보이넥스트도어) 4th EP [No Genre] Trailer Film",
+            "channel_name": "HYBE LABELS",
+            "category": "Music",
+            "duration": "2:44",
+            "view_count": "1373775",
+            "thumbnail_url": "https://i.ytimg.com/vi/wrISHhZ-GTs/hqdefault.jpg"
         },
         {
             "video_id": "9oXsYiJl56E",
@@ -232,7 +250,7 @@
             "channel_name": "더블비",
             "category": "Comedy",
             "duration": "30:37",
-            "view_count": "629570",
+            "view_count": "631055",
             "thumbnail_url": "https://i.ytimg.com/vi/9oXsYiJl56E/hqdefault.jpg"
         },
         {
@@ -241,7 +259,7 @@
             "channel_name": "Coachella",
             "category": "Music",
             "duration": "3:08",
-            "view_count": "6013725",
+            "view_count": "6059875",
             "thumbnail_url": "https://i.ytimg.com/vi/cdeKX7cs-r0/hqdefault.jpg"
         },
         {
@@ -250,7 +268,7 @@
             "channel_name": "유브이 방 - UV BANG",
             "category": "Comedy",
             "duration": "17:34",
-            "view_count": "656672",
+            "view_count": "663530",
             "thumbnail_url": "https://i.ytimg.com/vi/KElWnprpN78/hqdefault.jpg"
         },
         {
@@ -259,7 +277,7 @@
             "channel_name": "Pixid",
             "category": "Entertainment",
             "duration": "33:31",
-            "view_count": "989987",
+            "view_count": "992701",
             "thumbnail_url": "https://i.ytimg.com/vi/wMxeNpX-l48/hqdefault.jpg"
         },
         {
@@ -268,7 +286,7 @@
             "channel_name": "갓경규",
             "category": "Entertainment",
             "duration": "24:12",
-            "view_count": "908947",
+            "view_count": "910941",
             "thumbnail_url": "https://i.ytimg.com/vi/w4qvgMBjOPc/hqdefault.jpg"
         },
         {
@@ -277,7 +295,7 @@
             "channel_name": "STUDIO CHOOM [스튜디오 춤]",
             "category": "Entertainment",
             "duration": "3:11",
-            "view_count": "501456",
+            "view_count": "532831",
             "thumbnail_url": "https://i.ytimg.com/vi/6PUc8Peh8Xs/hqdefault.jpg"
         },
         {
@@ -286,7 +304,7 @@
             "channel_name": "Mrs.뉴저지 손태영",
             "category": "People & Blogs",
             "duration": "15:46",
-            "view_count": "181782",
+            "view_count": "183818",
             "thumbnail_url": "https://i.ytimg.com/vi/KUzXga0Hplg/hqdefault.jpg"
         },
         {
@@ -295,7 +313,7 @@
             "channel_name": "자유부인 한가인",
             "category": "People & Blogs",
             "duration": "34:45",
-            "view_count": "489975",
+            "view_count": "491706",
             "thumbnail_url": "https://i.ytimg.com/vi/vI62VjzA_xs/hqdefault.jpg"
         },
         {
@@ -304,7 +322,7 @@
             "channel_name": "바로 그 고소영",
             "category": "People & Blogs",
             "duration": "19:53",
-            "view_count": "578267",
+            "view_count": "579484",
             "thumbnail_url": "https://i.ytimg.com/vi/_9Aiy7fOrEs/hqdefault.jpg"
         },
         {
@@ -313,26 +331,8 @@
             "channel_name": "A급 장영란",
             "category": "Entertainment",
             "duration": "22:04",
-            "view_count": "896674",
+            "view_count": "898191",
             "thumbnail_url": "https://i.ytimg.com/vi/hcJ6DfeuEc0/hqdefault.jpg"
-        },
-        {
-            "video_id": "LACM2vIpurg",
-            "title": "고윤정, 김준완 교수에게 남긴 강렬한(negative) 첫인상 #언젠가는슬기로울전공의생활 EP.4 | tvN 250420 방송",
-            "channel_name": "tvN DRAMA",
-            "category": "Entertainment",
-            "duration": "3:04",
-            "view_count": "622905",
-            "thumbnail_url": "https://i.ytimg.com/vi/LACM2vIpurg/hqdefault.jpg"
-        },
-        {
-            "video_id": "VrZMcWxtHCE",
-            "title": "〈폭싹 속았수다〉의 박해준! 암 투병 연기를 위해 이것까지 감행하다 ㄷㄷ #highlight#유퀴즈온더블럭 | YOU QUIZ ON THE BLOCK EP.289",
-            "channel_name": "유 퀴즈 온 더 튜브",
-            "category": "Entertainment",
-            "duration": "19:42",
-            "view_count": "891784",
-            "thumbnail_url": "https://i.ytimg.com/vi/VrZMcWxtHCE/hqdefault.jpg"
         },
         {
             "video_id": "mkqrLBDYJlk",
@@ -340,7 +340,7 @@
             "channel_name": "다나나",
             "category": "People & Blogs",
             "duration": "13:51",
-            "view_count": "829094",
+            "view_count": "830113",
             "thumbnail_url": "https://i.ytimg.com/vi/mkqrLBDYJlk/hqdefault.jpg"
         },
         {
@@ -349,7 +349,7 @@
             "channel_name": "Hebi.",
             "category": "Music",
             "duration": "0:17",
-            "view_count": "138151",
+            "view_count": "138554",
             "thumbnail_url": "https://i.ytimg.com/vi/VgHuxC8Bp6U/hqdefault.jpg"
         },
         {
@@ -358,7 +358,7 @@
             "channel_name": "엔조이커플enjoycouple",
             "category": "Entertainment",
             "duration": "15:05",
-            "view_count": "980652",
+            "view_count": "983885",
             "thumbnail_url": "https://i.ytimg.com/vi/xNd8Utx1NaM/hqdefault.jpg"
         },
         {
@@ -367,7 +367,7 @@
             "channel_name": "유병장수girl",
             "category": "People & Blogs",
             "duration": "8:16",
-            "view_count": "1024952",
+            "view_count": "1026216",
             "thumbnail_url": "https://i.ytimg.com/vi/LySw7nLVQas/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "함께해요 맛나요리",
             "category": "Howto & Style",
             "duration": "8:03",
-            "view_count": "362444",
+            "view_count": "361671",
             "thumbnail_url": "https://i.ytimg.com/vi/hD2CrfQrifY/hqdefault.jpg"
         }
     ]
