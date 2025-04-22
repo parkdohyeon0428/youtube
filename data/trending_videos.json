@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-04-22 14:13:54",
+    "scraped_time": "2025-04-22 15:19:06",
     "videos": [
         {
             "video_id": "Csaj3X6PKxY",
@@ -7,7 +7,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "3:36",
-            "view_count": "4209304",
+            "view_count": "4323103",
             "thumbnail_url": "https://i.ytimg.com/vi/Csaj3X6PKxY/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "엠뚜루마뚜루 : MBC 공식 종합 채널",
             "category": "Entertainment",
             "duration": "17:50",
-            "view_count": "1161175",
+            "view_count": "1173596",
             "thumbnail_url": "https://i.ytimg.com/vi/dtJ9j8grYHk/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "숏박스",
             "category": "Comedy",
             "duration": "7:26",
-            "view_count": "2574173",
+            "view_count": "2583475",
             "thumbnail_url": "https://i.ytimg.com/vi/Qhz2L8WzgIw/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "짧은대본 ShortPaper",
             "category": "Entertainment",
             "duration": "9:36",
-            "view_count": "724048",
+            "view_count": "729844",
             "thumbnail_url": "https://i.ytimg.com/vi/S5jaYVVSRy4/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "우왁굳",
             "category": "Gaming",
             "duration": "17:10",
-            "view_count": "304741",
+            "view_count": "310488",
             "thumbnail_url": "https://i.ytimg.com/vi/x2L9Hfeok4o/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "이대호 [RE:DAEHO]",
             "category": "Sports",
             "duration": "13:47",
-            "view_count": "316242",
+            "view_count": "326733",
             "thumbnail_url": "https://i.ytimg.com/vi/ekjqHG8Lu9k/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "매미킴",
             "category": "Sports",
             "duration": "23:52",
-            "view_count": "645234",
+            "view_count": "668601",
             "thumbnail_url": "https://i.ytimg.com/vi/zU7LGJ5MGAo/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "SPOTV 오리지널",
             "category": "Sports",
             "duration": "16:04",
-            "view_count": "806370",
+            "view_count": "810998",
             "thumbnail_url": "https://i.ytimg.com/vi/Ik4ckKTRz0w/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "소피아패밀리(Sophia family)",
             "category": "People & Blogs",
             "duration": "22:07",
-            "view_count": "215060",
+            "view_count": "219814",
             "thumbnail_url": "https://i.ytimg.com/vi/c_ZfktnCWwE/hqdefault.jpg"
         },
         {
@@ -88,17 +88,8 @@
             "channel_name": "가장(멋진)류진 petiteRyujin",
             "category": "People & Blogs",
             "duration": "15:33",
-            "view_count": "183465",
+            "view_count": "200809",
             "thumbnail_url": "https://i.ytimg.com/vi/8dkimOsQ5EU/hqdefault.jpg"
-        },
-        {
-            "video_id": "rTZmmk5NHGU",
-            "title": "[SUB] \"여러분 믿으면 안 돼요 vs 저는 진실을 얘기했어요\" 엔시티 위시의 폭로전(?) | 아이돌 인간극장",
-            "channel_name": "아이돌 인간극장",
-            "category": "Music",
-            "duration": "35:46",
-            "view_count": "320761",
-            "thumbnail_url": "https://i.ytimg.com/vi/rTZmmk5NHGU/hqdefault.jpg"
         },
         {
             "video_id": "3veRj6plb1c",
@@ -106,8 +97,17 @@
             "channel_name": "스포타임",
             "category": "Sports",
             "duration": "2:27",
-            "view_count": "2369805",
+            "view_count": "2384206",
             "thumbnail_url": "https://i.ytimg.com/vi/3veRj6plb1c/hqdefault.jpg"
+        },
+        {
+            "video_id": "rTZmmk5NHGU",
+            "title": "[SUB] \"여러분 믿으면 안 돼요 vs 저는 진실을 얘기했어요\" 엔시티 위시의 폭로전(?) | 아이돌 인간극장",
+            "channel_name": "아이돌 인간극장",
+            "category": "Music",
+            "duration": "35:46",
+            "view_count": "322972",
+            "thumbnail_url": "https://i.ytimg.com/vi/rTZmmk5NHGU/hqdefault.jpg"
         },
         {
             "video_id": "vi0rcYGZD3o",
@@ -115,7 +115,7 @@
             "channel_name": "이자반",
             "category": "People & Blogs",
             "duration": "15:25",
-            "view_count": "167835",
+            "view_count": "170513",
             "thumbnail_url": "https://i.ytimg.com/vi/vi0rcYGZD3o/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "더존하우징",
             "category": "Howto & Style",
             "duration": "16:36",
-            "view_count": "182724",
+            "view_count": "185090",
             "thumbnail_url": "https://i.ytimg.com/vi/bQH_Lb_8Hg8/hqdefault.jpg"
         },
         {
@@ -133,17 +133,8 @@
             "channel_name": "ASTRO 아스트로",
             "category": "Music",
             "duration": "5:40",
-            "view_count": "3053575",
+            "view_count": "3069024",
             "thumbnail_url": "https://i.ytimg.com/vi/UUFJlUy5aA4/hqdefault.jpg"
-        },
-        {
-            "video_id": "Fk2o1S6TA14",
-            "title": "프로 손절러",
-            "channel_name": "픽고 PICKGO",
-            "category": "Entertainment",
-            "duration": "8:17",
-            "view_count": "590179",
-            "thumbnail_url": "https://i.ytimg.com/vi/Fk2o1S6TA14/hqdefault.jpg"
         },
         {
             "video_id": "zbXFTjqaitY",
@@ -151,8 +142,17 @@
             "channel_name": "캡틴따거 Captain Brother",
             "category": "Travel & Events",
             "duration": "34:05",
-            "view_count": "151303",
+            "view_count": "157495",
             "thumbnail_url": "https://i.ytimg.com/vi/zbXFTjqaitY/hqdefault.jpg"
+        },
+        {
+            "video_id": "Fk2o1S6TA14",
+            "title": "프로 손절러",
+            "channel_name": "픽고 PICKGO",
+            "category": "Entertainment",
+            "duration": "8:17",
+            "view_count": "592695",
+            "thumbnail_url": "https://i.ytimg.com/vi/Fk2o1S6TA14/hqdefault.jpg"
         },
         {
             "video_id": "EbZcfvuafZA",
@@ -160,7 +160,7 @@
             "channel_name": "파비앙 Fabien Yoon",
             "category": "Entertainment",
             "duration": "18:11",
-            "view_count": "375161",
+            "view_count": "377612",
             "thumbnail_url": "https://i.ytimg.com/vi/EbZcfvuafZA/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "유 퀴즈 온 더 튜브",
             "category": "Entertainment",
             "duration": "1:33",
-            "view_count": "779582",
+            "view_count": "800642",
             "thumbnail_url": "https://i.ytimg.com/vi/hoYkaoF_lGE/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "꼰대희",
             "category": "Comedy",
             "duration": "30:01",
-            "view_count": "417246",
+            "view_count": "421492",
             "thumbnail_url": "https://i.ytimg.com/vi/JwIkZYKEU_Q/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "아이네 INE",
             "category": "People & Blogs",
             "duration": "9:13",
-            "view_count": "119215",
+            "view_count": "121199",
             "thumbnail_url": "https://i.ytimg.com/vi/Gw9_huda-y4/hqdefault.jpg"
         },
         {
@@ -196,17 +196,8 @@
             "channel_name": "회사원A",
             "category": "Howto & Style",
             "duration": "16:51",
-            "view_count": "438560",
+            "view_count": "441176",
             "thumbnail_url": "https://i.ytimg.com/vi/2DQfxV6ob5I/hqdefault.jpg"
-        },
-        {
-            "video_id": "tOpq48wj8LU",
-            "title": "※방송 최초 공개※ 백화점 명품관 뺨치는 드레스룸 2개 보유, 아시아 프린스 장근석의 강남 80평대 고급 주택🏡 [#가보자고4]ㅣMBN 20250420 방송",
-            "channel_name": "MPLAY : 엠플레이",
-            "category": "Entertainment",
-            "duration": "29:56",
-            "view_count": "97708",
-            "thumbnail_url": "https://i.ytimg.com/vi/tOpq48wj8LU/hqdefault.jpg"
         },
         {
             "video_id": "0LiCt0QciGc",
@@ -214,17 +205,17 @@
             "channel_name": "EBS 컬렉션 - 사이언스",
             "category": "Science & Technology",
             "duration": "47:36",
-            "view_count": "345983",
+            "view_count": "351214",
             "thumbnail_url": "https://i.ytimg.com/vi/0LiCt0QciGc/hqdefault.jpg"
         },
         {
-            "video_id": "MJ1712ftwu0",
-            "title": "나혼자 제주여행, 뚜벅이로 종달리마을 힐링하는 자취일상. 제주바다보며 자전거타기. 불멍",
-            "channel_name": "planD플랜디",
-            "category": "People & Blogs",
-            "duration": "50:02",
-            "view_count": "378574",
-            "thumbnail_url": "https://i.ytimg.com/vi/MJ1712ftwu0/hqdefault.jpg"
+            "video_id": "tOpq48wj8LU",
+            "title": "※방송 최초 공개※ 백화점 명품관 뺨치는 드레스룸 2개 보유, 아시아 프린스 장근석의 강남 80평대 고급 주택🏡 [#가보자고4]ㅣMBN 20250420 방송",
+            "channel_name": "MPLAY : 엠플레이",
+            "category": "Entertainment",
+            "duration": "29:56",
+            "view_count": "100205",
+            "thumbnail_url": "https://i.ytimg.com/vi/tOpq48wj8LU/hqdefault.jpg"
         },
         {
             "video_id": "Z9hH-hMdY5k",
@@ -232,8 +223,17 @@
             "channel_name": "김숙티비kimsookTV",
             "category": "Entertainment",
             "duration": "19:58",
-            "view_count": "132956",
+            "view_count": "140660",
             "thumbnail_url": "https://i.ytimg.com/vi/Z9hH-hMdY5k/hqdefault.jpg"
+        },
+        {
+            "video_id": "MJ1712ftwu0",
+            "title": "나혼자 제주여행, 뚜벅이로 종달리마을 힐링하는 자취일상. 제주바다보며 자전거타기. 불멍",
+            "channel_name": "planD플랜디",
+            "category": "People & Blogs",
+            "duration": "50:02",
+            "view_count": "382519",
+            "thumbnail_url": "https://i.ytimg.com/vi/MJ1712ftwu0/hqdefault.jpg"
         },
         {
             "video_id": "4WfStc6FMaI",
@@ -241,7 +241,7 @@
             "channel_name": "Stone Music Entertainment",
             "category": "Music",
             "duration": "4:05",
-            "view_count": "109632",
+            "view_count": "111240",
             "thumbnail_url": "https://i.ytimg.com/vi/4WfStc6FMaI/hqdefault.jpg"
         },
         {
@@ -250,7 +250,7 @@
             "channel_name": "김복순",
             "category": "People & Blogs",
             "duration": "32:29",
-            "view_count": "161791",
+            "view_count": "162737",
             "thumbnail_url": "https://i.ytimg.com/vi/MOI0--odDpc/hqdefault.jpg"
         },
         {
@@ -259,7 +259,7 @@
             "channel_name": "빠더너스 BDNS",
             "category": "Comedy",
             "duration": "24:07",
-            "view_count": "941106",
+            "view_count": "950052",
             "thumbnail_url": "https://i.ytimg.com/vi/X03NIGUm5pI/hqdefault.jpg"
         },
         {
@@ -268,17 +268,8 @@
             "channel_name": "브롤스타즈",
             "category": "Gaming",
             "duration": "12:15",
-            "view_count": "99438",
+            "view_count": "99615",
             "thumbnail_url": "https://i.ytimg.com/vi/uRGjeXyx-Fs/hqdefault.jpg"
-        },
-        {
-            "video_id": "i9AXhr26lDM",
-            "title": "다이어터 먹짱 #런닝맨 #RunningMan #sbsenter",
-            "channel_name": "SBS Entertainment",
-            "category": "Entertainment",
-            "duration": "14:58",
-            "view_count": "306743",
-            "thumbnail_url": "https://i.ytimg.com/vi/i9AXhr26lDM/hqdefault.jpg"
         },
         {
             "video_id": "8cQQX7TsInk",
@@ -286,7 +277,7 @@
             "channel_name": "ASTRO 아스트로",
             "category": "Music",
             "duration": "22:19",
-            "view_count": "670479",
+            "view_count": "672049",
             "thumbnail_url": "https://i.ytimg.com/vi/8cQQX7TsInk/hqdefault.jpg"
         },
         {
@@ -295,7 +286,7 @@
             "channel_name": "JAYKEEOUT 제이키아웃",
             "category": "Entertainment",
             "duration": "26:03",
-            "view_count": "352017",
+            "view_count": "357390",
             "thumbnail_url": "https://i.ytimg.com/vi/_CFgmmFvjjA/hqdefault.jpg"
         },
         {
@@ -304,8 +295,17 @@
             "channel_name": "찰스엔터",
             "category": "People & Blogs",
             "duration": "27:13",
-            "view_count": "1120113",
+            "view_count": "1123403",
             "thumbnail_url": "https://i.ytimg.com/vi/45hKHD0yP5A/hqdefault.jpg"
+        },
+        {
+            "video_id": "i9AXhr26lDM",
+            "title": "다이어터 먹짱 #런닝맨 #RunningMan #sbsenter",
+            "channel_name": "SBS Entertainment",
+            "category": "Entertainment",
+            "duration": "14:58",
+            "view_count": "312072",
+            "thumbnail_url": "https://i.ytimg.com/vi/i9AXhr26lDM/hqdefault.jpg"
         },
         {
             "video_id": "Ld7jPMHMFBo",
@@ -313,7 +313,7 @@
             "channel_name": "안녕하세요 최화정이에요",
             "category": "People & Blogs",
             "duration": "22:40",
-            "view_count": "967477",
+            "view_count": "970024",
             "thumbnail_url": "https://i.ytimg.com/vi/Ld7jPMHMFBo/hqdefault.jpg"
         },
         {
@@ -322,17 +322,8 @@
             "channel_name": "띱 Deep",
             "category": "Comedy",
             "duration": "6:28",
-            "view_count": "1568357",
+            "view_count": "1573620",
             "thumbnail_url": "https://i.ytimg.com/vi/ljSJJFfGIJQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "wrISHhZ-GTs",
-            "title": "BOYNEXTDOOR (보이넥스트도어) 4th EP [No Genre] Trailer Film",
-            "channel_name": "HYBE LABELS",
-            "category": "Music",
-            "duration": "2:44",
-            "view_count": "1376489",
-            "thumbnail_url": "https://i.ytimg.com/vi/wrISHhZ-GTs/hqdefault.jpg"
         },
         {
             "video_id": "9oXsYiJl56E",
@@ -340,8 +331,17 @@
             "channel_name": "더블비",
             "category": "Comedy",
             "duration": "30:37",
-            "view_count": "633264",
+            "view_count": "634685",
             "thumbnail_url": "https://i.ytimg.com/vi/9oXsYiJl56E/hqdefault.jpg"
+        },
+        {
+            "video_id": "wrISHhZ-GTs",
+            "title": "BOYNEXTDOOR (보이넥스트도어) 4th EP [No Genre] Trailer Film",
+            "channel_name": "HYBE LABELS",
+            "category": "Music",
+            "duration": "2:44",
+            "view_count": "1378036",
+            "thumbnail_url": "https://i.ytimg.com/vi/wrISHhZ-GTs/hqdefault.jpg"
         },
         {
             "video_id": "cdeKX7cs-r0",
@@ -349,7 +349,7 @@
             "channel_name": "Coachella",
             "category": "Music",
             "duration": "3:08",
-            "view_count": "6121401",
+            "view_count": "6156514",
             "thumbnail_url": "https://i.ytimg.com/vi/cdeKX7cs-r0/hqdefault.jpg"
         },
         {
@@ -358,7 +358,7 @@
             "channel_name": "유브이 방 - UV BANG",
             "category": "Comedy",
             "duration": "17:34",
-            "view_count": "672112",
+            "view_count": "677921",
             "thumbnail_url": "https://i.ytimg.com/vi/KElWnprpN78/hqdefault.jpg"
         },
         {
@@ -367,7 +367,7 @@
             "channel_name": "Pixid",
             "category": "Entertainment",
             "duration": "33:31",
-            "view_count": "997050",
+            "view_count": "999819",
             "thumbnail_url": "https://i.ytimg.com/vi/wMxeNpX-l48/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "갓경규",
             "category": "Entertainment",
             "duration": "24:12",
-            "view_count": "913428",
+            "view_count": "914997",
             "thumbnail_url": "https://i.ytimg.com/vi/w4qvgMBjOPc/hqdefault.jpg"
         }
     ]
