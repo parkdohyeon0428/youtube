@@ -1,9 +1,5 @@
 {
-<<<<<<< Updated upstream
-    "scraped_time": "2025-04-28 17:44:38",
-=======
-    "scraped_time": "2025-04-28 17:44:50",
->>>>>>> Stashed changes
+    "scraped_time": "2025-04-28 19:46:56",
     "videos": [
         {
             "video_id": "HuaGOfzVBiU",
@@ -11,7 +7,7 @@
             "channel_name": "고재영",
             "category": "Entertainment",
             "duration": "33:41",
-            "view_count": "2064163",
+            "view_count": "2102825",
             "thumbnail_url": "https://i.ytimg.com/vi/HuaGOfzVBiU/hqdefault.jpg"
         },
         {
@@ -20,7 +16,7 @@
             "channel_name": "더들리",
             "category": "Entertainment",
             "duration": "14:21",
-            "view_count": "1322945",
+            "view_count": "1370709",
             "thumbnail_url": "https://i.ytimg.com/vi/zSh388SyNsM/hqdefault.jpg"
         },
         {
@@ -29,7 +25,7 @@
             "channel_name": "찰스엔터",
             "category": "People & Blogs",
             "duration": "36:45",
-            "view_count": "1378292",
+            "view_count": "1395020",
             "thumbnail_url": "https://i.ytimg.com/vi/oK1RO1hkZUQ/hqdefault.jpg"
         },
         {
@@ -38,44 +34,8 @@
             "channel_name": "숏박스",
             "category": "Comedy",
             "duration": "7:30",
-            "view_count": "2970590",
+            "view_count": "3006232",
             "thumbnail_url": "https://i.ytimg.com/vi/kWHCctfS5ZA/hqdefault.jpg"
-        },
-        {
-            "video_id": "DN2N7jBD-co",
-            "title": "[#뿅뿅지구오락실3] 🏆인급동 1위 무대🏆 2NE1 퍼포먼스로 시작해서 과거 파묘로 끝나는 대환장 오프닝😎 feat. 미현95, 안경유진 #EarthArcade3",
-            "channel_name": "tvN D ENT",
-            "category": "Entertainment",
-            "duration": "19:51",
-            "view_count": "530048",
-            "thumbnail_url": "https://i.ytimg.com/vi/DN2N7jBD-co/hqdefault.jpg"
-        },
-        {
-            "video_id": "1nv9mh6PBkc",
-            "title": "뭐든 대신 해드립니다",
-            "channel_name": "너덜트",
-            "category": "Comedy",
-            "duration": "9:57",
-            "view_count": "978731",
-            "thumbnail_url": "https://i.ytimg.com/vi/1nv9mh6PBkc/hqdefault.jpg"
-        },
-        {
-            "video_id": "UnwOmYjb5gM",
-            "title": "시청자 100명 속에 잠입하기 (재도전)",
-            "channel_name": "코마",
-            "category": "Gaming",
-            "duration": "34:19",
-            "view_count": "800478",
-            "thumbnail_url": "https://i.ytimg.com/vi/UnwOmYjb5gM/hqdefault.jpg"
-        },
-        {
-            "video_id": "9lZ-lOGZm_E",
-            "title": "SEVENTEEN (세븐틴) 5th Album ‘𝐇𝐀𝐏𝐏𝐘 𝐁𝐔𝐑𝐒𝐓𝐃𝐀𝐘’: DARE OR DEATH",
-            "channel_name": "HYBE LABELS",
-            "category": "Music",
-            "duration": "2:26",
-            "view_count": "1066123",
-            "thumbnail_url": "https://i.ytimg.com/vi/9lZ-lOGZm_E/hqdefault.jpg"
         },
         {
             "video_id": "ToX2vYwDskE",
@@ -83,8 +43,44 @@
             "channel_name": "tvN DRAMA",
             "category": "Entertainment",
             "duration": "9:34",
-            "view_count": "625126",
+            "view_count": "662121",
             "thumbnail_url": "https://i.ytimg.com/vi/ToX2vYwDskE/hqdefault.jpg"
+        },
+        {
+            "video_id": "DN2N7jBD-co",
+            "title": "[#뿅뿅지구오락실3] 🏆인급동 1위 무대🏆 2NE1 퍼포먼스로 시작해서 과거 파묘로 끝나는 대환장 오프닝😎 feat. 미현95, 안경유진 #EarthArcade3",
+            "channel_name": "tvN D ENT",
+            "category": "Entertainment",
+            "duration": "19:51",
+            "view_count": "547526",
+            "thumbnail_url": "https://i.ytimg.com/vi/DN2N7jBD-co/hqdefault.jpg"
+        },
+        {
+            "video_id": "UnwOmYjb5gM",
+            "title": "시청자 100명 속에 잠입하기 (재도전)",
+            "channel_name": "코마",
+            "category": "Gaming",
+            "duration": "34:19",
+            "view_count": "824038",
+            "thumbnail_url": "https://i.ytimg.com/vi/UnwOmYjb5gM/hqdefault.jpg"
+        },
+        {
+            "video_id": "1nv9mh6PBkc",
+            "title": "뭐든 대신 해드립니다",
+            "channel_name": "너덜트",
+            "category": "Comedy",
+            "duration": "9:57",
+            "view_count": "1001829",
+            "thumbnail_url": "https://i.ytimg.com/vi/1nv9mh6PBkc/hqdefault.jpg"
+        },
+        {
+            "video_id": "9lZ-lOGZm_E",
+            "title": "SEVENTEEN (세븐틴) 5th Album ‘𝐇𝐀𝐏𝐏𝐘 𝐁𝐔𝐑𝐒𝐓𝐃𝐀𝐘’: DARE OR DEATH",
+            "channel_name": "HYBE LABELS",
+            "category": "Music",
+            "duration": "2:26",
+            "view_count": "1110791",
+            "thumbnail_url": "https://i.ytimg.com/vi/9lZ-lOGZm_E/hqdefault.jpg"
         },
         {
             "video_id": "eof1MRDYWPU",
@@ -92,17 +88,8 @@
             "channel_name": "유브이 방 - UV BANG",
             "category": "Comedy",
             "duration": "21:42",
-            "view_count": "1564460",
+            "view_count": "1584815",
             "thumbnail_url": "https://i.ytimg.com/vi/eof1MRDYWPU/hqdefault.jpg"
-        },
-        {
-            "video_id": "O3FQ1hXBZJg",
-            "title": "[아형✪하이라이트] '이것'까지 대비했는데... 가장 걱정한 것 빼고 별별 사고 다 친 최민수😂 | 아는 형님 | JTBC 250426 방송",
-            "channel_name": "아는형님 Knowingbros",
-            "category": "Entertainment",
-            "duration": "28:00",
-            "view_count": "350811",
-            "thumbnail_url": "https://i.ytimg.com/vi/O3FQ1hXBZJg/hqdefault.jpg"
         },
         {
             "video_id": "aLF3YHUvm7E",
@@ -110,8 +97,26 @@
             "channel_name": "tvN D ENT",
             "category": "Entertainment",
             "duration": "19:03",
-            "view_count": "459903",
+            "view_count": "486789",
             "thumbnail_url": "https://i.ytimg.com/vi/aLF3YHUvm7E/hqdefault.jpg"
+        },
+        {
+            "video_id": "O3FQ1hXBZJg",
+            "title": "[아형✪하이라이트] '이것'까지 대비했는데... 가장 걱정한 것 빼고 별별 사고 다 친 최민수😂 | 아는 형님 | JTBC 250426 방송",
+            "channel_name": "아는형님 Knowingbros",
+            "category": "Entertainment",
+            "duration": "28:00",
+            "view_count": "364795",
+            "thumbnail_url": "https://i.ytimg.com/vi/O3FQ1hXBZJg/hqdefault.jpg"
+        },
+        {
+            "video_id": "O1uMt06eOmk",
+            "title": "악명높은 영국음식 유랑기 - 영국(1)",
+            "channel_name": "곽튜브",
+            "category": "Travel & Events",
+            "duration": "37:56",
+            "view_count": "1146933",
+            "thumbnail_url": "https://i.ytimg.com/vi/O1uMt06eOmk/hqdefault.jpg"
         },
         {
             "video_id": "uyiG6uw-6pA",
@@ -119,8 +124,17 @@
             "channel_name": "MrBeast",
             "category": "Entertainment",
             "duration": "25:46",
-            "view_count": "49959843",
+            "view_count": "50989684",
             "thumbnail_url": "https://i.ytimg.com/vi/uyiG6uw-6pA/hqdefault.jpg"
+        },
+        {
+            "video_id": "ZIgPCbnS4RA",
+            "title": "갑자기요?? 계획대로 되는게 하나없는 시험관.. [난임로그 ep2] IVF Procedure Suddenly Delayed",
+            "channel_name": "엔조이커플enjoycouple",
+            "category": "Entertainment",
+            "duration": "22:07",
+            "view_count": "210882",
+            "thumbnail_url": "https://i.ytimg.com/vi/ZIgPCbnS4RA/hqdefault.jpg"
         },
         {
             "video_id": "DJLa8QYUtmQ",
@@ -128,21 +142,8 @@
             "channel_name": "왁타버스 WAKTAVERSE",
             "category": "Music",
             "duration": "4:05",
-            "view_count": "855584",
+            "view_count": "867822",
             "thumbnail_url": "https://i.ytimg.com/vi/DJLa8QYUtmQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "4bkGsxEUtdY",
-            "title": "김치 볶지마세요! 'OO'하면 10배 더 맛있습니다!",
-            "channel_name": "이 남자의 cook",
-            "category": "Howto & Style",
-            "duration": "2:21",
-<<<<<<< Updated upstream
-            "view_count": "181390",
-=======
-            "view_count": "181731",
->>>>>>> Stashed changes
-            "thumbnail_url": "https://i.ytimg.com/vi/4bkGsxEUtdY/hqdefault.jpg"
         },
         {
             "video_id": "oFm88xwMbKU",
@@ -150,8 +151,17 @@
             "channel_name": "조동아리",
             "category": "Entertainment",
             "duration": "45:06",
-            "view_count": "158533",
+            "view_count": "168031",
             "thumbnail_url": "https://i.ytimg.com/vi/oFm88xwMbKU/hqdefault.jpg"
+        },
+        {
+            "video_id": "4bkGsxEUtdY",
+            "title": "김치 볶지마세요! 'OO'하면 10배 더 맛있습니다!",
+            "channel_name": "이 남자의 cook",
+            "category": "Howto & Style",
+            "duration": "2:21",
+            "view_count": "186505",
+            "thumbnail_url": "https://i.ytimg.com/vi/4bkGsxEUtdY/hqdefault.jpg"
         },
         {
             "video_id": "OI5uizBXLBY",
@@ -159,7 +169,7 @@
             "channel_name": "MBCentertainment",
             "category": "Entertainment",
             "duration": "4:03",
-            "view_count": "1195556",
+            "view_count": "1205487",
             "thumbnail_url": "https://i.ytimg.com/vi/OI5uizBXLBY/hqdefault.jpg"
         },
         {
@@ -168,7 +178,7 @@
             "channel_name": "JTBC Drama",
             "category": "Entertainment",
             "duration": "1:48",
-            "view_count": "300258",
+            "view_count": "315453",
             "thumbnail_url": "https://i.ytimg.com/vi/jnmngti9IY8/hqdefault.jpg"
         },
         {
@@ -177,8 +187,17 @@
             "channel_name": "유 퀴즈 온 더 튜브",
             "category": "Entertainment",
             "duration": "19:51",
-            "view_count": "2007870",
+            "view_count": "2013169",
             "thumbnail_url": "https://i.ytimg.com/vi/Z7AWAjR28y8/hqdefault.jpg"
+        },
+        {
+            "video_id": "wy1qsPeJHtM",
+            "title": "너 나 싫어하냐?",
+            "channel_name": "미지수",
+            "category": "People & Blogs",
+            "duration": "9:22",
+            "view_count": "101290",
+            "thumbnail_url": "https://i.ytimg.com/vi/wy1qsPeJHtM/hqdefault.jpg"
         },
         {
             "video_id": "qlA5ZsHLzhM",
@@ -186,17 +205,8 @@
             "channel_name": "아뽀TV",
             "category": "Entertainment",
             "duration": "42:09",
-            "view_count": "562889",
+            "view_count": "571686",
             "thumbnail_url": "https://i.ytimg.com/vi/qlA5ZsHLzhM/hqdefault.jpg"
-        },
-        {
-            "video_id": "JCWpjtOdtjE",
-            "title": "[이영애]우아함의 인간화 이영애가 진짜 화나면 나는 목소리는? (이태원 집 최초공개)",
-            "channel_name": "공부왕찐천재 홍진경",
-            "category": "Entertainment",
-            "duration": "22:40",
-            "view_count": "776990",
-            "thumbnail_url": "https://i.ytimg.com/vi/JCWpjtOdtjE/hqdefault.jpg"
         },
         {
             "video_id": "w4Fx0vKdTuo",
@@ -204,17 +214,44 @@
             "channel_name": "이자반",
             "category": "People & Blogs",
             "duration": "17:42",
-            "view_count": "82387",
+            "view_count": "87542",
             "thumbnail_url": "https://i.ytimg.com/vi/w4Fx0vKdTuo/hqdefault.jpg"
         },
         {
-            "video_id": "kUkr1fkB1Fg",
-            "title": "어버이날 쇼핑하러 나와서 자기들 거만 잔뜩 쇼핑한 효녀들 (+) 일산 맛집 추천까지 야무~~진 브이로그✌️✨",
-            "channel_name": "아옳이",
-            "category": "People & Blogs",
-            "duration": "25:44",
-            "view_count": "172082",
-            "thumbnail_url": "https://i.ytimg.com/vi/kUkr1fkB1Fg/hqdefault.jpg"
+            "video_id": "krc6ir_IV4Y",
+            "title": "왜 못 앉게 하는 거지",
+            "channel_name": "띱 Deep",
+            "category": "Comedy",
+            "duration": "8:11",
+            "view_count": "1475259",
+            "thumbnail_url": "https://i.ytimg.com/vi/krc6ir_IV4Y/hqdefault.jpg"
+        },
+        {
+            "video_id": "wGri81E7g_E",
+            "title": "[SUB][너의연애] 여자들의 탐색전👀 Girls' Search Battle｜EP2 하이라이트",
+            "channel_name": "너의연애 ToGetHer_Official",
+            "category": "Entertainment",
+            "duration": "5:35",
+            "view_count": "93871",
+            "thumbnail_url": "https://i.ytimg.com/vi/wGri81E7g_E/hqdefault.jpg"
+        },
+        {
+            "video_id": "JCWpjtOdtjE",
+            "title": "[이영애]우아함의 인간화 이영애가 진짜 화나면 나는 목소리는? (이태원 집 최초공개)",
+            "channel_name": "공부왕찐천재 홍진경",
+            "category": "Entertainment",
+            "duration": "22:40",
+            "view_count": "781252",
+            "thumbnail_url": "https://i.ytimg.com/vi/JCWpjtOdtjE/hqdefault.jpg"
+        },
+        {
+            "video_id": "hKGEM5T6EF8",
+            "title": "위시네 가방 속 『최. 초. 공. 개』 ᡣ˶ᵔ ᵕ ᵔ˶𐭩👜 | WISH家のカバンの中 !初.公.開! | Melt Inside My Bag ✭",
+            "channel_name": "NCT WISH",
+            "category": "Music",
+            "duration": "25:26",
+            "view_count": "205904",
+            "thumbnail_url": "https://i.ytimg.com/vi/hKGEM5T6EF8/hqdefault.jpg"
         },
         {
             "video_id": "EjjaEtWd4Tg",
@@ -222,8 +259,26 @@
             "channel_name": "tvN Joy",
             "category": "Entertainment",
             "duration": "8:42",
-            "view_count": "690982",
+            "view_count": "704446",
             "thumbnail_url": "https://i.ytimg.com/vi/EjjaEtWd4Tg/hqdefault.jpg"
+        },
+        {
+            "video_id": "kUkr1fkB1Fg",
+            "title": "어버이날 쇼핑하러 나와서 자기들 거만 잔뜩 쇼핑한 효녀들 (+) 일산 맛집 추천까지 야무~~진 브이로그✌️✨",
+            "channel_name": "아옳이",
+            "category": "People & Blogs",
+            "duration": "25:44",
+            "view_count": "174653",
+            "thumbnail_url": "https://i.ytimg.com/vi/kUkr1fkB1Fg/hqdefault.jpg"
+        },
+        {
+            "video_id": "_yKIYM05hbg",
+            "title": "도합 508KG 거인들의 30인분 뽈살 먹방[윤코치VS광재언니vS이규호]",
+            "channel_name": "윤코치의 맛만 볼까? Coach Yoon",
+            "category": "People & Blogs",
+            "duration": "19:34",
+            "view_count": "219571",
+            "thumbnail_url": "https://i.ytimg.com/vi/_yKIYM05hbg/hqdefault.jpg"
         },
         {
             "video_id": "PXblZno1V1M",
@@ -231,7 +286,7 @@
             "channel_name": "올리버쌤",
             "category": "People & Blogs",
             "duration": "14:37",
-            "view_count": "859845",
+            "view_count": "866001",
             "thumbnail_url": "https://i.ytimg.com/vi/PXblZno1V1M/hqdefault.jpg"
         },
         {
@@ -240,26 +295,8 @@
             "channel_name": "사나고 Sanago",
             "category": "Howto & Style",
             "duration": "16:07",
-            "view_count": "403317",
+            "view_count": "409114",
             "thumbnail_url": "https://i.ytimg.com/vi/lVz1meN46VI/hqdefault.jpg"
-        },
-        {
-            "video_id": "_yKIYM05hbg",
-            "title": "도합 508KG 거인들의 30인분 뽈살 먹방[윤코치VS광재언니vS이규호]",
-            "channel_name": "윤코치의 맛만 볼까? Coach Yoon",
-            "category": "People & Blogs",
-            "duration": "19:34",
-            "view_count": "201235",
-            "thumbnail_url": "https://i.ytimg.com/vi/_yKIYM05hbg/hqdefault.jpg"
-        },
-        {
-            "video_id": "hKGEM5T6EF8",
-            "title": "위시네 가방 속 『최. 초. 공. 개』 ᡣ˶ᵔ ᵕ ᵔ˶𐭩👜 | WISH家のカバンの中 !初.公.開! | Melt Inside My Bag ✭",
-            "channel_name": "NCT WISH",
-            "category": "Music",
-            "duration": "25:26",
-            "view_count": "196697",
-            "thumbnail_url": "https://i.ytimg.com/vi/hKGEM5T6EF8/hqdefault.jpg"
         },
         {
             "video_id": "wEBxVdZ6ICQ",
@@ -267,7 +304,7 @@
             "channel_name": "오늘의 주우재",
             "category": "People & Blogs",
             "duration": "24:25",
-            "view_count": "400130",
+            "view_count": "405425",
             "thumbnail_url": "https://i.ytimg.com/vi/wEBxVdZ6ICQ/hqdefault.jpg"
         },
         {
@@ -276,7 +313,7 @@
             "channel_name": "잠골버스",
             "category": "Music",
             "duration": "4:04",
-            "view_count": "114741",
+            "view_count": "123131",
             "thumbnail_url": "https://i.ytimg.com/vi/y5F6ICPtg0E/hqdefault.jpg"
         },
         {
@@ -285,7 +322,7 @@
             "channel_name": "HAPPY HARU 즐거운 하루",
             "category": "Pets & Animals",
             "duration": "16:12",
-            "view_count": "100067",
+            "view_count": "103427",
             "thumbnail_url": "https://i.ytimg.com/vi/bbaKOHGgP7g/hqdefault.jpg"
         },
         {
@@ -294,7 +331,7 @@
             "channel_name": "동네친구 강나미 [Kangnami]",
             "category": "Entertainment",
             "duration": "52:35",
-            "view_count": "890037",
+            "view_count": "895899",
             "thumbnail_url": "https://i.ytimg.com/vi/cSfO9jplc98/hqdefault.jpg"
         },
         {
@@ -303,7 +340,7 @@
             "channel_name": "JennieRubyJaneVEVO",
             "category": "Music",
             "duration": "2:46",
-            "view_count": "3813149",
+            "view_count": "3872733",
             "thumbnail_url": "https://i.ytimg.com/vi/Ao2GsXHMD_4/hqdefault.jpg"
         },
         {
@@ -312,7 +349,7 @@
             "channel_name": "딸을 위한 레시피 Recipes for daughters",
             "category": "Howto & Style",
             "duration": "5:48",
-            "view_count": "169559",
+            "view_count": "173308",
             "thumbnail_url": "https://i.ytimg.com/vi/P3Jaztohs1E/hqdefault.jpg"
         },
         {
@@ -321,17 +358,8 @@
             "channel_name": "한국사는따냐 Tanya in Korea",
             "category": "People & Blogs",
             "duration": "19:26",
-            "view_count": "203249",
+            "view_count": "206762",
             "thumbnail_url": "https://i.ytimg.com/vi/siJtgzyUp_I/hqdefault.jpg"
-        },
-        {
-            "video_id": "aEJaE-ljHAY",
-            "title": "[24/25 AFC 챔피언스리그 ELITE] 8강 알 힐랄 vs 광주 FC",
-            "channel_name": "tvN SPORTS",
-            "category": "Sports",
-            "duration": "13:26",
-            "view_count": "711459",
-            "thumbnail_url": "https://i.ytimg.com/vi/aEJaE-ljHAY/hqdefault.jpg"
         },
         {
             "video_id": "1TzYmzNxfFw",
@@ -339,57 +367,17 @@
             "channel_name": "Warner Bros. Korea",
             "category": "Film & Animation",
             "duration": "0:54",
-            "view_count": "114095",
+            "view_count": "119501",
             "thumbnail_url": "https://i.ytimg.com/vi/1TzYmzNxfFw/hqdefault.jpg"
         },
         {
-            "video_id": "RtD8v_zCjuY",
-            "title": "🔥요리하는 돌아이VS쯔양🔥 햄버거 20개는 거뜬히 먹는자와 윤남노셰프의 숨막히는 디펜스 대결.. 과연 승자는?",
-            "channel_name": "tzuyang쯔양",
-            "category": "People & Blogs",
-            "duration": "26:52",
-<<<<<<< Updated upstream
-            "view_count": "1371928",
-=======
-            "view_count": "1372896",
->>>>>>> Stashed changes
-            "thumbnail_url": "https://i.ytimg.com/vi/RtD8v_zCjuY/hqdefault.jpg"
-        },
-        {
-            "video_id": "UOXkv1dL-CU",
-            "title": "엄마랑 싸워서 가출하고 자취하는 스무살",
-            "channel_name": "와코",
-            "category": "People & Blogs",
-            "duration": "31:24",
-            "view_count": "229503",
-            "thumbnail_url": "https://i.ytimg.com/vi/UOXkv1dL-CU/hqdefault.jpg"
-        },
-        {
-            "video_id": "0ho6f1QbisU",
-            "title": "저쪽 광야에서 보내신 포포몬쓰입니다✨ 키x서현이 추는 샤이니 {하드}♪#놀라운토요일 | amazingsaturday EP.363 | tvN 250426 방송",
-            "channel_name": "놀라운 토요일 Amazing Saturday",
-            "category": "Entertainment",
-            "duration": "14:25",
-            "view_count": "250772",
-            "thumbnail_url": "https://i.ytimg.com/vi/0ho6f1QbisU/hqdefault.jpg"
-        },
-        {
-            "video_id": "8lLXIAYLXlU",
-            "title": "💍우리의 한 페이지는 지금🎬  [준호 지민 EP.10]",
-            "channel_name": "준호 지민",
-            "category": "Entertainment",
-            "duration": "22:59",
-            "view_count": "641706",
-            "thumbnail_url": "https://i.ytimg.com/vi/8lLXIAYLXlU/hqdefault.jpg"
-        },
-        {
-            "video_id": "jn-b0E2luMQ",
-            "title": "QWER - 고민중독 (T.B.H) / THE FIRST TAKE",
-            "channel_name": "THE FIRST TAKE",
-            "category": "Music",
-            "duration": "4:43",
-            "view_count": "482025",
-            "thumbnail_url": "https://i.ytimg.com/vi/jn-b0E2luMQ/hqdefault.jpg"
+            "video_id": "aEJaE-ljHAY",
+            "title": "[24/25 AFC 챔피언스리그 ELITE] 8강 알 힐랄 vs 광주 FC",
+            "channel_name": "tvN SPORTS",
+            "category": "Sports",
+            "duration": "13:26",
+            "view_count": "714589",
+            "thumbnail_url": "https://i.ytimg.com/vi/aEJaE-ljHAY/hqdefault.jpg"
         }
     ]
 }
