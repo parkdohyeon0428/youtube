@@ -1,14 +1,50 @@
 {
-    "scraped_time": "2025-04-28 10:06:03",
+    "scraped_time": "2025-04-28 12:06:13",
     "videos": [
+        {
+            "video_id": "HuaGOfzVBiU",
+            "title": "7일 동안 무인도에서 살면 생기는 일",
+            "channel_name": "고재영",
+            "category": "Entertainment",
+            "duration": "33:41",
+            "view_count": "1993876",
+            "thumbnail_url": "https://i.ytimg.com/vi/HuaGOfzVBiU/hqdefault.jpg"
+        },
+        {
+            "video_id": "zSh388SyNsM",
+            "title": "1인 42만원? 안성재 셰프님이 새로 오픈한 모수 서울에 다녀왔습니다",
+            "channel_name": "더들리",
+            "category": "Entertainment",
+            "duration": "14:21",
+            "view_count": "1248470",
+            "thumbnail_url": "https://i.ytimg.com/vi/zSh388SyNsM/hqdefault.jpg"
+        },
+        {
+            "video_id": "oK1RO1hkZUQ",
+            "title": "저 맘 먹으면 광태님 꼬실 수 있어요ㅎ [월간데이트 4월호]",
+            "channel_name": "찰스엔터",
+            "category": "People & Blogs",
+            "duration": "36:45",
+            "view_count": "1329583",
+            "thumbnail_url": "https://i.ytimg.com/vi/oK1RO1hkZUQ/hqdefault.jpg"
+        },
         {
             "video_id": "kWHCctfS5ZA",
             "title": "상견례",
             "channel_name": "숏박스",
             "category": "Comedy",
             "duration": "7:30",
-            "view_count": "2860933",
+            "view_count": "2882133",
             "thumbnail_url": "https://i.ytimg.com/vi/kWHCctfS5ZA/hqdefault.jpg"
+        },
+        {
+            "video_id": "1nv9mh6PBkc",
+            "title": "뭐든 대신 해드립니다",
+            "channel_name": "너덜트",
+            "category": "Comedy",
+            "duration": "9:57",
+            "view_count": "927023",
+            "thumbnail_url": "https://i.ytimg.com/vi/1nv9mh6PBkc/hqdefault.jpg"
         },
         {
             "video_id": "UnwOmYjb5gM",
@@ -16,7 +52,7 @@
             "channel_name": "코마",
             "category": "Gaming",
             "duration": "34:19",
-            "view_count": "772865",
+            "view_count": "776425",
             "thumbnail_url": "https://i.ytimg.com/vi/UnwOmYjb5gM/hqdefault.jpg"
         },
         {
@@ -25,8 +61,17 @@
             "channel_name": "tvN D ENT",
             "category": "Entertainment",
             "duration": "19:51",
-            "view_count": "481665",
+            "view_count": "490336",
             "thumbnail_url": "https://i.ytimg.com/vi/DN2N7jBD-co/hqdefault.jpg"
+        },
+        {
+            "video_id": "eof1MRDYWPU",
+            "title": "[유브이 녹음실] 혼자가 아니었네 권지용 (ENG)",
+            "channel_name": "유브이 방 - UV BANG",
+            "category": "Comedy",
+            "duration": "21:42",
+            "view_count": "1495504",
+            "thumbnail_url": "https://i.ytimg.com/vi/eof1MRDYWPU/hqdefault.jpg"
         },
         {
             "video_id": "9lZ-lOGZm_E",
@@ -34,7 +79,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "2:26",
-            "view_count": "843389",
+            "view_count": "910488",
             "thumbnail_url": "https://i.ytimg.com/vi/9lZ-lOGZm_E/hqdefault.jpg"
         },
         {
@@ -43,35 +88,8 @@
             "channel_name": "아는형님 Knowingbros",
             "category": "Entertainment",
             "duration": "28:00",
-            "view_count": "304913",
+            "view_count": "315391",
             "thumbnail_url": "https://i.ytimg.com/vi/O3FQ1hXBZJg/hqdefault.jpg"
-        },
-        {
-            "video_id": "DJLa8QYUtmQ",
-            "title": "이세계아이돌 (ISEGYE IDOL) 'Misty Rainbow' Official MV",
-            "channel_name": "왁타버스 WAKTAVERSE",
-            "category": "Music",
-            "duration": "4:05",
-            "view_count": "818214",
-            "thumbnail_url": "https://i.ytimg.com/vi/DJLa8QYUtmQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "OI5uizBXLBY",
-            "title": "[굿데이] 2025 굿데이 (텔레파시+달빛창가에서) MV",
-            "channel_name": "MBCentertainment",
-            "category": "Entertainment",
-            "duration": "4:03",
-            "view_count": "1161129",
-            "thumbnail_url": "https://i.ytimg.com/vi/OI5uizBXLBY/hqdefault.jpg"
-        },
-        {
-            "video_id": "4bkGsxEUtdY",
-            "title": "김치 볶지마세요! 'OO'하면 10배 더 맛있습니다!",
-            "channel_name": "이 남자의 cook",
-            "category": "Howto & Style",
-            "duration": "2:21",
-            "view_count": "168274",
-            "thumbnail_url": "https://i.ytimg.com/vi/4bkGsxEUtdY/hqdefault.jpg"
         },
         {
             "video_id": "ToX2vYwDskE",
@@ -79,26 +97,44 @@
             "channel_name": "tvN DRAMA",
             "category": "Entertainment",
             "duration": "9:34",
-            "view_count": "428740",
+            "view_count": "494712",
             "thumbnail_url": "https://i.ytimg.com/vi/ToX2vYwDskE/hqdefault.jpg"
+        },
+        {
+            "video_id": "DJLa8QYUtmQ",
+            "title": "이세계아이돌 (ISEGYE IDOL) 'Misty Rainbow' Official MV",
+            "channel_name": "왁타버스 WAKTAVERSE",
+            "category": "Music",
+            "duration": "4:05",
+            "view_count": "826977",
+            "thumbnail_url": "https://i.ytimg.com/vi/DJLa8QYUtmQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "4bkGsxEUtdY",
+            "title": "김치 볶지마세요! 'OO'하면 10배 더 맛있습니다!",
+            "channel_name": "이 남자의 cook",
+            "category": "Howto & Style",
+            "duration": "2:21",
+            "view_count": "171975",
+            "thumbnail_url": "https://i.ytimg.com/vi/4bkGsxEUtdY/hqdefault.jpg"
+        },
+        {
+            "video_id": "OI5uizBXLBY",
+            "title": "[굿데이] 2025 굿데이 (텔레파시+달빛창가에서) MV",
+            "channel_name": "MBCentertainment",
+            "category": "Entertainment",
+            "duration": "4:03",
+            "view_count": "1169896",
+            "thumbnail_url": "https://i.ytimg.com/vi/OI5uizBXLBY/hqdefault.jpg"
         },
         {
             "video_id": "Z7AWAjR28y8",
             "title": "누가 빌런이래? 표현이 서툴지만 절대 미워할 수 없는 '학씨 아저씨' 최대훈💛 #highlight#유퀴즈온더블럭 | YOU QUIZ ON THE BLOCK EP.290",
             "channel_name": "유 퀴즈 온 더 튜브",
             "category": "Entertainment",
-            "duration": "19:56",
-            "view_count": "1986066",
+            "duration": "19:51",
+            "view_count": "1991041",
             "thumbnail_url": "https://i.ytimg.com/vi/Z7AWAjR28y8/hqdefault.jpg"
-        },
-        {
-            "video_id": "hr84ErZiJWk",
-            "title": "국ㅇ이빵이 도대체 뭐죠(?) 레전드 오답 난무하는 실물 빵 퀴즈🤣 #highlight #뿅뿅지구오락실3 EP.1",
-            "channel_name": "tvN Joy",
-            "category": "Entertainment",
-            "duration": "17:34",
-            "view_count": "506377",
-            "thumbnail_url": "https://i.ytimg.com/vi/hr84ErZiJWk/hqdefault.jpg"
         },
         {
             "video_id": "oFm88xwMbKU",
@@ -106,8 +142,17 @@
             "channel_name": "조동아리",
             "category": "Entertainment",
             "duration": "45:06",
-            "view_count": "124224",
+            "view_count": "132144",
             "thumbnail_url": "https://i.ytimg.com/vi/oFm88xwMbKU/hqdefault.jpg"
+        },
+        {
+            "video_id": "jnmngti9IY8",
+            "title": "혹시 나도 고양이..? 한지민 앞에 나타난 최희진🐾 | 천국보다 아름다운 4회 | JTBC 250427 방송",
+            "channel_name": "JTBC Drama",
+            "category": "Entertainment",
+            "duration": "1:48",
+            "view_count": "228477",
+            "thumbnail_url": "https://i.ytimg.com/vi/jnmngti9IY8/hqdefault.jpg"
         },
         {
             "video_id": "qlA5ZsHLzhM",
@@ -115,8 +160,17 @@
             "channel_name": "아뽀TV",
             "category": "Entertainment",
             "duration": "42:09",
-            "view_count": "532027",
+            "view_count": "539583",
             "thumbnail_url": "https://i.ytimg.com/vi/qlA5ZsHLzhM/hqdefault.jpg"
+        },
+        {
+            "video_id": "hr84ErZiJWk",
+            "title": "국ㅇ이빵이 도대체 뭐죠(?) 레전드 오답 난무하는 실물 빵 퀴즈🤣 #highlight #뿅뿅지구오락실3 EP.1",
+            "channel_name": "tvN Joy",
+            "category": "Entertainment",
+            "duration": "17:34",
+            "view_count": "510589",
+            "thumbnail_url": "https://i.ytimg.com/vi/hr84ErZiJWk/hqdefault.jpg"
         },
         {
             "video_id": "EjjaEtWd4Tg",
@@ -124,7 +178,7 @@
             "channel_name": "tvN Joy",
             "category": "Entertainment",
             "duration": "8:42",
-            "view_count": "640352",
+            "view_count": "649813",
             "thumbnail_url": "https://i.ytimg.com/vi/EjjaEtWd4Tg/hqdefault.jpg"
         },
         {
@@ -133,17 +187,8 @@
             "channel_name": "공부왕찐천재 홍진경",
             "category": "Entertainment",
             "duration": "22:44",
-            "view_count": "760465",
+            "view_count": "764076",
             "thumbnail_url": "https://i.ytimg.com/vi/JCWpjtOdtjE/hqdefault.jpg"
-        },
-        {
-            "video_id": "jnmngti9IY8",
-            "title": "혹시 나도 고양이..? 한지민 앞에 나타난 최희진🐾 | 천국보다 아름다운 4회 | JTBC 250427 방송",
-            "channel_name": "JTBC Drama",
-            "category": "Entertainment",
-            "duration": "1:48",
-            "view_count": "189462",
-            "thumbnail_url": "https://i.ytimg.com/vi/jnmngti9IY8/hqdefault.jpg"
         },
         {
             "video_id": "kUkr1fkB1Fg",
@@ -151,7 +196,7 @@
             "channel_name": "아옳이",
             "category": "People & Blogs",
             "duration": "25:44",
-            "view_count": "162068",
+            "view_count": "164267",
             "thumbnail_url": "https://i.ytimg.com/vi/kUkr1fkB1Fg/hqdefault.jpg"
         },
         {
@@ -160,7 +205,7 @@
             "channel_name": "사나고 Sanago",
             "category": "Howto & Style",
             "duration": "16:07",
-            "view_count": "385172",
+            "view_count": "388934",
             "thumbnail_url": "https://i.ytimg.com/vi/lVz1meN46VI/hqdefault.jpg"
         },
         {
@@ -169,7 +214,7 @@
             "channel_name": "오늘의 주우재",
             "category": "People & Blogs",
             "duration": "24:25",
-            "view_count": "387353",
+            "view_count": "390686",
             "thumbnail_url": "https://i.ytimg.com/vi/wEBxVdZ6ICQ/hqdefault.jpg"
         },
         {
@@ -178,7 +223,7 @@
             "channel_name": "NCT WISH",
             "category": "Music",
             "duration": "25:26",
-            "view_count": "158106",
+            "view_count": "167540",
             "thumbnail_url": "https://i.ytimg.com/vi/hKGEM5T6EF8/hqdefault.jpg"
         },
         {
@@ -187,7 +232,7 @@
             "channel_name": "동네친구 강나미 [Kangnami]",
             "category": "Entertainment",
             "duration": "52:35",
-            "view_count": "871558",
+            "view_count": "875592",
             "thumbnail_url": "https://i.ytimg.com/vi/cSfO9jplc98/hqdefault.jpg"
         },
         {
@@ -196,7 +241,7 @@
             "channel_name": "JennieRubyJaneVEVO",
             "category": "Music",
             "duration": "2:46",
-            "view_count": "3618997",
+            "view_count": "3663228",
             "thumbnail_url": "https://i.ytimg.com/vi/Ao2GsXHMD_4/hqdefault.jpg"
         },
         {
@@ -205,7 +250,7 @@
             "channel_name": "한국사는따냐 Tanya in Korea",
             "category": "People & Blogs",
             "duration": "19:26",
-            "view_count": "194232",
+            "view_count": "195864",
             "thumbnail_url": "https://i.ytimg.com/vi/siJtgzyUp_I/hqdefault.jpg"
         },
         {
@@ -214,7 +259,7 @@
             "channel_name": "와코",
             "category": "People & Blogs",
             "duration": "31:24",
-            "view_count": "222431",
+            "view_count": "223816",
             "thumbnail_url": "https://i.ytimg.com/vi/UOXkv1dL-CU/hqdefault.jpg"
         },
         {
@@ -223,7 +268,7 @@
             "channel_name": "tzuyang쯔양",
             "category": "People & Blogs",
             "duration": "26:52",
-            "view_count": "1317754",
+            "view_count": "1326808",
             "thumbnail_url": "https://i.ytimg.com/vi/RtD8v_zCjuY/hqdefault.jpg"
         },
         {
@@ -232,7 +277,7 @@
             "channel_name": "Warner Bros. Korea",
             "category": "Film & Animation",
             "duration": "0:54",
-            "view_count": "106097",
+            "view_count": "107602",
             "thumbnail_url": "https://i.ytimg.com/vi/1TzYmzNxfFw/hqdefault.jpg"
         },
         {
@@ -241,7 +286,7 @@
             "channel_name": "놀라운 토요일 Amazing Saturday",
             "category": "Entertainment",
             "duration": "14:25",
-            "view_count": "232433",
+            "view_count": "237213",
             "thumbnail_url": "https://i.ytimg.com/vi/0ho6f1QbisU/hqdefault.jpg"
         },
         {
@@ -250,7 +295,7 @@
             "channel_name": "준호 지민",
             "category": "Entertainment",
             "duration": "22:59",
-            "view_count": "634303",
+            "view_count": "635824",
             "thumbnail_url": "https://i.ytimg.com/vi/8lLXIAYLXlU/hqdefault.jpg"
         },
         {
@@ -259,7 +304,7 @@
             "channel_name": "THE FIRST TAKE",
             "category": "Music",
             "duration": "4:43",
-            "view_count": "455839",
+            "view_count": "461528",
             "thumbnail_url": "https://i.ytimg.com/vi/jn-b0E2luMQ/hqdefault.jpg"
         },
         {
@@ -268,7 +313,7 @@
             "channel_name": "원신",
             "category": "Gaming",
             "duration": "43:59",
-            "view_count": "129282",
+            "view_count": "129422",
             "thumbnail_url": "https://i.ytimg.com/vi/5o_QTEjqkak/hqdefault.jpg"
         },
         {
@@ -277,7 +322,7 @@
             "channel_name": "RISABAE",
             "category": "Howto & Style",
             "duration": "12:56",
-            "view_count": "311474",
+            "view_count": "312202",
             "thumbnail_url": "https://i.ytimg.com/vi/WglZVUAtORA/hqdefault.jpg"
         },
         {
@@ -286,17 +331,8 @@
             "channel_name": "1theK (원더케이)",
             "category": "Music",
             "duration": "5:04",
-            "view_count": "148217",
+            "view_count": "149756",
             "thumbnail_url": "https://i.ytimg.com/vi/dWZOOkY16Mc/hqdefault.jpg"
-        },
-        {
-            "video_id": "7rpwZLmAO4M",
-            "title": "[5회 하이라이트] 강찬석의 본캐는 죽지 않았다! 찬석의 한마디에 구사일생한 최일구 #신병3",
-            "channel_name": "ENA 이엔에이",
-            "category": "Entertainment",
-            "duration": "18:39",
-            "view_count": "2611411",
-            "thumbnail_url": "https://i.ytimg.com/vi/7rpwZLmAO4M/hqdefault.jpg"
         },
         {
             "video_id": "E55sHnRtQ70",
@@ -304,17 +340,17 @@
             "channel_name": "은지랑 이은지",
             "category": "People & Blogs",
             "duration": "18:48",
-            "view_count": "296213",
+            "view_count": "297887",
             "thumbnail_url": "https://i.ytimg.com/vi/E55sHnRtQ70/hqdefault.jpg"
         },
         {
-            "video_id": "PG8mp6wFcD4",
-            "title": "Why you hate…",
-            "channel_name": "LUCY - Topic",
-            "category": "Music",
-            "duration": "3:24",
-            "view_count": "270836",
-            "thumbnail_url": "https://i.ytimg.com/vi/PG8mp6wFcD4/hqdefault.jpg"
+            "video_id": "7rpwZLmAO4M",
+            "title": "[5회 하이라이트] 강찬석의 본캐는 죽지 않았다! 찬석의 한마디에 구사일생한 최일구 #신병3",
+            "channel_name": "ENA 이엔에이",
+            "category": "Entertainment",
+            "duration": "18:39",
+            "view_count": "2614320",
+            "thumbnail_url": "https://i.ytimg.com/vi/7rpwZLmAO4M/hqdefault.jpg"
         },
         {
             "video_id": "mCNAjERcBio",
@@ -322,7 +358,7 @@
             "channel_name": "박뚜기",
             "category": "People & Blogs",
             "duration": "6:40",
-            "view_count": "203438",
+            "view_count": "204786",
             "thumbnail_url": "https://i.ytimg.com/vi/mCNAjERcBio/hqdefault.jpg"
         },
         {
@@ -331,7 +367,7 @@
             "channel_name": "Hebi.",
             "category": "Music",
             "duration": "3:31",
-            "view_count": "2092448",
+            "view_count": "2114117",
             "thumbnail_url": "https://i.ytimg.com/vi/yomKWG44odg/hqdefault.jpg"
         },
         {
@@ -340,44 +376,8 @@
             "channel_name": "취미로 요리하는 남자 Yonam",
             "category": "Entertainment",
             "duration": "23:52",
-            "view_count": "182689",
+            "view_count": "183236",
             "thumbnail_url": "https://i.ytimg.com/vi/MLlrpl57hds/hqdefault.jpg"
-        },
-        {
-            "video_id": "wzcArQWO2kU",
-            "title": "[ENG/JPN] 뷰티계 1인자가 알려주는 아무도 몰랐던 K-POP 아이돌 메이크업의 비밀 l TXT(투모로우바이투게더) 수빈 l 이사배 l 최애의 최애",
-            "channel_name": "Pixid",
-            "category": "Entertainment",
-            "duration": "35:48",
-            "view_count": "923482",
-            "thumbnail_url": "https://i.ytimg.com/vi/wzcArQWO2kU/hqdefault.jpg"
-        },
-        {
-            "video_id": "LW-vTe59tes",
-            "title": "Sketch (Sketch)",
-            "channel_name": "Hebi - Topic",
-            "category": "Music",
-            "duration": "2:19",
-            "view_count": "238020",
-            "thumbnail_url": "https://i.ytimg.com/vi/LW-vTe59tes/hqdefault.jpg"
-        },
-        {
-            "video_id": "LwtLnFSwPqg",
-            "title": "코 세우고(?) 스모키 화장한 후 부모님집 냉털하러 갔더니 엄마 반응이..🤣",
-            "channel_name": "쯔양밖정원",
-            "category": "People & Blogs",
-            "duration": "11:40",
-            "view_count": "339154",
-            "thumbnail_url": "https://i.ytimg.com/vi/LwtLnFSwPqg/hqdefault.jpg"
-        },
-        {
-            "video_id": "aKramwaDHj8",
-            "title": "생연어 1300g에 마요네즈 비비기",
-            "channel_name": "먹어볼래TryToEat",
-            "category": "People & Blogs",
-            "duration": "10:46",
-            "view_count": "491582",
-            "thumbnail_url": "https://i.ytimg.com/vi/aKramwaDHj8/hqdefault.jpg"
         }
     ]
 }
