@@ -1,14 +1,41 @@
 {
-    "scraped_time": "2025-05-02 15:19:03",
+    "scraped_time": "2025-05-02 16:13:16",
     "videos": [
+        {
+            "video_id": "1mk0gQDz1R0",
+            "title": "세계에서 가장 비싼 축구경기 관람후기 - 영국(2)",
+            "channel_name": "곽튜브",
+            "category": "Travel & Events",
+            "duration": "22:39",
+            "view_count": "477845",
+            "thumbnail_url": "https://i.ytimg.com/vi/1mk0gQDz1R0/hqdefault.jpg"
+        },
         {
             "video_id": "dLU4pBr5eJA",
             "title": "[full] 너에게 닿기를 - 주우재 (원곡 : 10CM)",
             "channel_name": "오늘의 주우재",
             "category": "Music",
             "duration": "2:40",
-            "view_count": "651119",
+            "view_count": "664393",
             "thumbnail_url": "https://i.ytimg.com/vi/dLU4pBr5eJA/hqdefault.jpg"
+        },
+        {
+            "video_id": "V2C7gtMZ7qQ",
+            "title": "우린 기강 잡을 줄 몰라 (ft. YB)",
+            "channel_name": "카더정원",
+            "category": "Film & Animation",
+            "duration": "29:29",
+            "view_count": "265680",
+            "thumbnail_url": "https://i.ytimg.com/vi/V2C7gtMZ7qQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "o9YHOJClW08",
+            "title": "대환장 기안장 리뷰",
+            "channel_name": "인생84",
+            "category": "People & Blogs",
+            "duration": "17:16",
+            "view_count": "962489",
+            "thumbnail_url": "https://i.ytimg.com/vi/o9YHOJClW08/hqdefault.jpg"
         },
         {
             "video_id": "_UhJW0BgQ24",
@@ -16,7 +43,7 @@
             "channel_name": "걍밍경",
             "category": "People & Blogs",
             "duration": "19:44",
-            "view_count": "540452",
+            "view_count": "544839",
             "thumbnail_url": "https://i.ytimg.com/vi/_UhJW0BgQ24/hqdefault.jpg"
         },
         {
@@ -25,7 +52,7 @@
             "channel_name": "나래식",
             "category": "Entertainment",
             "duration": "39:15",
-            "view_count": "590867",
+            "view_count": "599354",
             "thumbnail_url": "https://i.ytimg.com/vi/LB2KKn0CPYo/hqdefault.jpg"
         },
         {
@@ -34,7 +61,7 @@
             "channel_name": "Mnet K-POP",
             "category": "Entertainment",
             "duration": "2:49",
-            "view_count": "1175694",
+            "view_count": "1199024",
             "thumbnail_url": "https://i.ytimg.com/vi/946yGX5o-Js/hqdefault.jpg"
         },
         {
@@ -43,7 +70,7 @@
             "channel_name": "Mnet K-POP",
             "category": "Entertainment",
             "duration": "4:41",
-            "view_count": "479767",
+            "view_count": "491403",
             "thumbnail_url": "https://i.ytimg.com/vi/tu_LKLzw6So/hqdefault.jpg"
         },
         {
@@ -52,7 +79,7 @@
             "channel_name": "FIFTY FIFTY Official",
             "category": "Music",
             "duration": "2:41",
-            "view_count": "5263312",
+            "view_count": "5328800",
             "thumbnail_url": "https://i.ytimg.com/vi/1ZX1vEDTfY4/hqdefault.jpg"
         },
         {
@@ -61,7 +88,7 @@
             "channel_name": "TVING SPORTS",
             "category": "Sports",
             "duration": "13:14",
-            "view_count": "486343",
+            "view_count": "487685",
             "thumbnail_url": "https://i.ytimg.com/vi/1u3L1Hwgt6k/hqdefault.jpg"
         },
         {
@@ -70,26 +97,8 @@
             "channel_name": "STUDIO CHOOM [스튜디오 춤]",
             "category": "Entertainment",
             "duration": "3:38",
-            "view_count": "2324870",
+            "view_count": "2348615",
             "thumbnail_url": "https://i.ytimg.com/vi/rqcNJ2Lqd-8/hqdefault.jpg"
-        },
-        {
-            "video_id": "WDzvp-y5Xm4",
-            "title": "KATSEYE(캣츠아이) 'Gnarly' (4K) | STUDIO CHOOM ORIGINAL",
-            "channel_name": "STUDIO CHOOM [스튜디오 춤]",
-            "category": "Entertainment",
-            "duration": "2:48",
-            "view_count": "1365847",
-            "thumbnail_url": "https://i.ytimg.com/vi/WDzvp-y5Xm4/hqdefault.jpg"
-        },
-        {
-            "video_id": "o1AXkhQhfW0",
-            "title": "[8회 하이라이트] 최일구 전역한다, 다들 모여! 큰 이별과 마주친 신병즈 #신병3",
-            "channel_name": "ENA 이엔에이",
-            "category": "Entertainment",
-            "duration": "18:17",
-            "view_count": "2117341",
-            "thumbnail_url": "https://i.ytimg.com/vi/o1AXkhQhfW0/hqdefault.jpg"
         },
         {
             "video_id": "M4rR4uNobyY",
@@ -97,8 +106,17 @@
             "channel_name": "백지영 Baek Z Young",
             "category": "People & Blogs",
             "duration": "31:13",
-            "view_count": "338052",
+            "view_count": "340297",
             "thumbnail_url": "https://i.ytimg.com/vi/M4rR4uNobyY/hqdefault.jpg"
+        },
+        {
+            "video_id": "o1AXkhQhfW0",
+            "title": "[8회 하이라이트] 최일구 전역한다, 다들 모여! 큰 이별과 마주친 신병즈 #신병3",
+            "channel_name": "ENA 이엔에이",
+            "category": "Entertainment",
+            "duration": "18:17",
+            "view_count": "2121337",
+            "thumbnail_url": "https://i.ytimg.com/vi/o1AXkhQhfW0/hqdefault.jpg"
         },
         {
             "video_id": "QG1i1OoEUiA",
@@ -106,7 +124,7 @@
             "channel_name": "순풍 선우용여",
             "category": "People & Blogs",
             "duration": "19:17",
-            "view_count": "2107469",
+            "view_count": "2121466",
             "thumbnail_url": "https://i.ytimg.com/vi/QG1i1OoEUiA/hqdefault.jpg"
         },
         {
@@ -115,8 +133,17 @@
             "channel_name": "차예련 chayeryun",
             "category": "People & Blogs",
             "duration": "16:06",
-            "view_count": "391293",
+            "view_count": "395233",
             "thumbnail_url": "https://i.ytimg.com/vi/VnYRjfIkKZ8/hqdefault.jpg"
+        },
+        {
+            "video_id": "WDzvp-y5Xm4",
+            "title": "KATSEYE(캣츠아이) 'Gnarly' (4K) | STUDIO CHOOM ORIGINAL",
+            "channel_name": "STUDIO CHOOM [스튜디오 춤]",
+            "category": "Entertainment",
+            "duration": "2:48",
+            "view_count": "1406218",
+            "thumbnail_url": "https://i.ytimg.com/vi/WDzvp-y5Xm4/hqdefault.jpg"
         },
         {
             "video_id": "c-GdSqPIroM",
@@ -124,7 +151,7 @@
             "channel_name": "묘식당 Rabbit's",
             "category": "Howto & Style",
             "duration": "6:18",
-            "view_count": "593194",
+            "view_count": "594970",
             "thumbnail_url": "https://i.ytimg.com/vi/c-GdSqPIroM/hqdefault.jpg"
         },
         {
@@ -133,7 +160,7 @@
             "channel_name": "STUDIO X+U",
             "category": "Entertainment",
             "duration": "2:22",
-            "view_count": "294921",
+            "view_count": "300474",
             "thumbnail_url": "https://i.ytimg.com/vi/u-PjEl8JsF4/hqdefault.jpg"
         },
         {
@@ -142,7 +169,7 @@
             "channel_name": "THEBLACKLABEL",
             "category": "Music",
             "duration": "3:25",
-            "view_count": "11496944",
+            "view_count": "11552601",
             "thumbnail_url": "https://i.ytimg.com/vi/sL0pCS6K9bc/hqdefault.jpg"
         },
         {
@@ -151,7 +178,7 @@
             "channel_name": "W KOREA",
             "category": "Entertainment",
             "duration": "15:23",
-            "view_count": "97400",
+            "view_count": "98548",
             "thumbnail_url": "https://i.ytimg.com/vi/vHrzx7DjOOo/hqdefault.jpg"
         },
         {
@@ -160,7 +187,7 @@
             "channel_name": "HyunA",
             "category": "Music",
             "duration": "2:57",
-            "view_count": "1794804",
+            "view_count": "1800480",
             "thumbnail_url": "https://i.ytimg.com/vi/4no_auZ_WtY/hqdefault.jpg"
         },
         {
@@ -169,17 +196,8 @@
             "channel_name": "RISABAE",
             "category": "Howto & Style",
             "duration": "12:53",
-            "view_count": "191561",
+            "view_count": "193224",
             "thumbnail_url": "https://i.ytimg.com/vi/QSq_jwsJwAk/hqdefault.jpg"
-        },
-        {
-            "video_id": "e5LL43xvaWo",
-            "title": "여러분. 저 또.. 다섯째 임신했습니다⭐️ 남편 반응은?!",
-            "channel_name": "비글부부 Bgeul Bubu",
-            "category": "People & Blogs",
-            "duration": "6:56",
-            "view_count": "826980",
-            "thumbnail_url": "https://i.ytimg.com/vi/e5LL43xvaWo/hqdefault.jpg"
         },
         {
             "video_id": "y3BN8B6pOqs",
@@ -187,8 +205,17 @@
             "channel_name": "D.O. - Topic",
             "category": "Music",
             "duration": "4:04",
-            "view_count": "602104",
+            "view_count": "606810",
             "thumbnail_url": "https://i.ytimg.com/vi/y3BN8B6pOqs/hqdefault.jpg"
+        },
+        {
+            "video_id": "e5LL43xvaWo",
+            "title": "여러분. 저 또.. 다섯째 임신했습니다⭐️ 남편 반응은?!",
+            "channel_name": "비글부부 Bgeul Bubu",
+            "category": "People & Blogs",
+            "duration": "6:56",
+            "view_count": "829058",
+            "thumbnail_url": "https://i.ytimg.com/vi/e5LL43xvaWo/hqdefault.jpg"
         },
         {
             "video_id": "LrVqJn008-I",
@@ -196,7 +223,7 @@
             "channel_name": "해쭈 [HAEJOO]",
             "category": "People & Blogs",
             "duration": "21:30",
-            "view_count": "480093",
+            "view_count": "481179",
             "thumbnail_url": "https://i.ytimg.com/vi/LrVqJn008-I/hqdefault.jpg"
         },
         {
@@ -205,7 +232,7 @@
             "channel_name": "스톡킹",
             "category": "Sports",
             "duration": "30:17",
-            "view_count": "139342",
+            "view_count": "139850",
             "thumbnail_url": "https://i.ytimg.com/vi/VHb3XgD8tj0/hqdefault.jpg"
         },
         {
@@ -214,7 +241,7 @@
             "channel_name": "쯔양밖정원",
             "category": "People & Blogs",
             "duration": "10:32",
-            "view_count": "962904",
+            "view_count": "967214",
             "thumbnail_url": "https://i.ytimg.com/vi/UpIP6agfH_s/hqdefault.jpg"
         },
         {
@@ -223,7 +250,7 @@
             "channel_name": "잔나비 JANNABI",
             "category": "Music",
             "duration": "5:12",
-            "view_count": "408758",
+            "view_count": "411168",
             "thumbnail_url": "https://i.ytimg.com/vi/M8oCsI0iG7Y/hqdefault.jpg"
         },
         {
@@ -232,7 +259,7 @@
             "channel_name": "NCT 127",
             "category": "Music",
             "duration": "40:24",
-            "view_count": "250014",
+            "view_count": "251115",
             "thumbnail_url": "https://i.ytimg.com/vi/m88qHMKcBgM/hqdefault.jpg"
         },
         {
@@ -241,7 +268,7 @@
             "channel_name": "킹키는 킹키야",
             "category": "Entertainment",
             "duration": "3:10",
-            "view_count": "420314",
+            "view_count": "421297",
             "thumbnail_url": "https://i.ytimg.com/vi/vfdBtkJ1B6s/hqdefault.jpg"
         },
         {
@@ -250,7 +277,7 @@
             "channel_name": "고재영",
             "category": "Entertainment",
             "duration": "33:41",
-            "view_count": "2956770",
+            "view_count": "2959955",
             "thumbnail_url": "https://i.ytimg.com/vi/HuaGOfzVBiU/hqdefault.jpg"
         },
         {
@@ -259,17 +286,8 @@
             "channel_name": "tvN D ENT",
             "category": "Entertainment",
             "duration": "19:03",
-            "view_count": "1119731",
+            "view_count": "1123620",
             "thumbnail_url": "https://i.ytimg.com/vi/aLF3YHUvm7E/hqdefault.jpg"
-        },
-        {
-            "video_id": "2T0ab6AJeBE",
-            "title": "I WILL DIE FOR YOU♥x3 (아윌다이포유♥x3)",
-            "channel_name": "JANNABI - Topic",
-            "category": "Music",
-            "duration": "3:18",
-            "view_count": "257125",
-            "thumbnail_url": "https://i.ytimg.com/vi/2T0ab6AJeBE/hqdefault.jpg"
         },
         {
             "video_id": "nnVkadewJ70",
@@ -277,17 +295,8 @@
             "channel_name": "EBS 세계테마기행",
             "category": "Travel & Events",
             "duration": "18:51",
-            "view_count": "548135",
+            "view_count": "550050",
             "thumbnail_url": "https://i.ytimg.com/vi/nnVkadewJ70/hqdefault.jpg"
-        },
-        {
-            "video_id": "3kfhoikVzUc",
-            "title": "[MV] 하이라이트(HIGHLIGHT) - Chains",
-            "channel_name": "OFFICIAL HIGHLIGHT",
-            "category": "Music",
-            "duration": "2:59",
-            "view_count": "19517608",
-            "thumbnail_url": "https://i.ytimg.com/vi/3kfhoikVzUc/hqdefault.jpg"
         },
         {
             "video_id": "8UlG39QdMSg",
@@ -295,7 +304,7 @@
             "channel_name": "최모나choimona",
             "category": "People & Blogs",
             "duration": "4:44",
-            "view_count": "767027",
+            "view_count": "769090",
             "thumbnail_url": "https://i.ytimg.com/vi/8UlG39QdMSg/hqdefault.jpg"
         },
         {
@@ -304,7 +313,7 @@
             "channel_name": "더들리",
             "category": "Entertainment",
             "duration": "14:21",
-            "view_count": "2126793",
+            "view_count": "2128926",
             "thumbnail_url": "https://i.ytimg.com/vi/zSh388SyNsM/hqdefault.jpg"
         },
         {
@@ -313,7 +322,7 @@
             "channel_name": "밀라논나 Milanonna",
             "category": "People & Blogs",
             "duration": "11:28",
-            "view_count": "226487",
+            "view_count": "226991",
             "thumbnail_url": "https://i.ytimg.com/vi/M_l5PA5Nhjk/hqdefault.jpg"
         },
         {
@@ -322,7 +331,7 @@
             "channel_name": "찰스엔터",
             "category": "People & Blogs",
             "duration": "36:45",
-            "view_count": "1730537",
+            "view_count": "1732356",
             "thumbnail_url": "https://i.ytimg.com/vi/oK1RO1hkZUQ/hqdefault.jpg"
         },
         {
@@ -331,7 +340,7 @@
             "channel_name": "숏박스",
             "category": "Comedy",
             "duration": "7:30",
-            "view_count": "3656386",
+            "view_count": "3659449",
             "thumbnail_url": "https://i.ytimg.com/vi/kWHCctfS5ZA/hqdefault.jpg"
         },
         {
@@ -340,7 +349,7 @@
             "channel_name": "hongsi 홍시",
             "category": "People & Blogs",
             "duration": "16:58",
-            "view_count": "237497",
+            "view_count": "238029",
             "thumbnail_url": "https://i.ytimg.com/vi/ggggzP335rY/hqdefault.jpg"
         },
         {
@@ -349,7 +358,7 @@
             "channel_name": "MrBeast",
             "category": "Entertainment",
             "duration": "25:46",
-            "view_count": "81817812",
+            "view_count": "81955920",
             "thumbnail_url": "https://i.ytimg.com/vi/uyiG6uw-6pA/hqdefault.jpg"
         },
         {
@@ -358,7 +367,7 @@
             "channel_name": "어썸코리아 Awesome Korea",
             "category": "Entertainment",
             "duration": "24:54",
-            "view_count": "652923",
+            "view_count": "654745",
             "thumbnail_url": "https://i.ytimg.com/vi/3a4_bSPMvKI/hqdefault.jpg"
         },
         {
@@ -367,17 +376,8 @@
             "channel_name": "코마",
             "category": "Gaming",
             "duration": "34:19",
-            "view_count": "1196220",
+            "view_count": "1198916",
             "thumbnail_url": "https://i.ytimg.com/vi/UnwOmYjb5gM/hqdefault.jpg"
-        },
-        {
-            "video_id": "1nv9mh6PBkc",
-            "title": "뭐든 대신 해드립니다",
-            "channel_name": "너덜트",
-            "category": "Comedy",
-            "duration": "9:57",
-            "view_count": "1433850",
-            "thumbnail_url": "https://i.ytimg.com/vi/1nv9mh6PBkc/hqdefault.jpg"
         }
     ]
 }
