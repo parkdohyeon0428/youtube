@@ -1,23 +1,23 @@
 {
-    "scraped_time": "2025-05-08 21:26:48",
+    "scraped_time": "2025-05-08 22:25:48",
     "videos": [
-        {
-            "video_id": "mHX5qPLduJk",
-            "title": "아궁이에 김치찌개 끓여먹고 드러누운 81세 선우용여 (+여배우 윤미라)",
-            "channel_name": "순풍 선우용여",
-            "category": "People & Blogs",
-            "duration": "28:34",
-            "view_count": "752812",
-            "thumbnail_url": "https://i.ytimg.com/vi/mHX5qPLduJk/hqdefault.jpg"
-        },
         {
             "video_id": "sRVBoS87Y9g",
             "title": "[vlog] 승헌, 준빵, 소정과 경주에서 진실게임",
             "channel_name": "찰스엔터",
             "category": "People & Blogs",
             "duration": "38:30",
-            "view_count": "689566",
+            "view_count": "705726",
             "thumbnail_url": "https://i.ytimg.com/vi/sRVBoS87Y9g/hqdefault.jpg"
+        },
+        {
+            "video_id": "mHX5qPLduJk",
+            "title": "아궁이에 김치찌개 끓여먹고 드러누운 81세 선우용여 (+여배우 윤미라)",
+            "channel_name": "순풍 선우용여",
+            "category": "People & Blogs",
+            "duration": "28:34",
+            "view_count": "766916",
+            "thumbnail_url": "https://i.ytimg.com/vi/mHX5qPLduJk/hqdefault.jpg"
         },
         {
             "video_id": "0fyZqS0N19o",
@@ -25,7 +25,7 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "3:59",
-            "view_count": "2547599",
+            "view_count": "2650754",
             "thumbnail_url": "https://i.ytimg.com/vi/0fyZqS0N19o/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "백상예술대상",
             "category": "Entertainment",
             "duration": "5:04",
-            "view_count": "2194840",
+            "view_count": "2203314",
             "thumbnail_url": "https://i.ytimg.com/vi/GHsao4wyB48/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "다나나",
             "category": "People & Blogs",
             "duration": "37:17",
-            "view_count": "295179",
+            "view_count": "301833",
             "thumbnail_url": "https://i.ytimg.com/vi/g601zn57qmw/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "RIIZE",
             "category": "Music",
             "duration": "2:26",
-            "view_count": "3817050",
+            "view_count": "3843793",
             "thumbnail_url": "https://i.ytimg.com/vi/YtaJn17nHgU/hqdefault.jpg"
         },
         {
@@ -61,8 +61,17 @@
             "channel_name": "양장금주부",
             "category": "Howto & Style",
             "duration": "3:54",
-            "view_count": "151813",
+            "view_count": "155183",
             "thumbnail_url": "https://i.ytimg.com/vi/kSE-SZVm8FU/hqdefault.jpg"
+        },
+        {
+            "video_id": "er6yLvNsg-8",
+            "title": "[도전 꿈의 무대 부처님 오신 날 기획] 전국 스님 노래자랑! [아침마당] KBS 250507 방송",
+            "channel_name": "KBS 교양",
+            "category": "Entertainment",
+            "duration": "37:57",
+            "view_count": "211724",
+            "thumbnail_url": "https://i.ytimg.com/vi/er6yLvNsg-8/hqdefault.jpg"
         },
         {
             "video_id": "bqECUTAk9do",
@@ -70,7 +79,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:25",
-            "view_count": "1394719",
+            "view_count": "1400533",
             "thumbnail_url": "https://i.ytimg.com/vi/bqECUTAk9do/hqdefault.jpg"
         },
         {
@@ -79,7 +88,7 @@
             "channel_name": "TVCHOSUN JOY",
             "category": "Entertainment",
             "duration": "19:33",
-            "view_count": "506454",
+            "view_count": "511307",
             "thumbnail_url": "https://i.ytimg.com/vi/vWJYT0lAhiw/hqdefault.jpg"
         },
         {
@@ -88,26 +97,8 @@
             "channel_name": "백상예술대상",
             "category": "Entertainment",
             "duration": "3:08",
-            "view_count": "898249",
+            "view_count": "902021",
             "thumbnail_url": "https://i.ytimg.com/vi/DXjH2jXpzsE/hqdefault.jpg"
-        },
-        {
-            "video_id": "er6yLvNsg-8",
-            "title": "[도전 꿈의 무대 부처님 오신 날 기획] 전국 스님 노래자랑! [아침마당] KBS 250507 방송",
-            "channel_name": "KBS 교양",
-            "category": "Entertainment",
-            "duration": "37:57",
-            "view_count": "201993",
-            "thumbnail_url": "https://i.ytimg.com/vi/er6yLvNsg-8/hqdefault.jpg"
-        },
-        {
-            "video_id": "VQRLujxTm3c",
-            "title": "Grand Theft Auto VI Trailer 2",
-            "channel_name": "Rockstar Games",
-            "category": "Gaming",
-            "duration": "2:47",
-            "view_count": "85690227",
-            "thumbnail_url": "https://i.ytimg.com/vi/VQRLujxTm3c/hqdefault.jpg"
         },
         {
             "video_id": "k8bucSzEe5I",
@@ -115,8 +106,17 @@
             "channel_name": "나래식",
             "category": "Entertainment",
             "duration": "33:13",
-            "view_count": "236458",
+            "view_count": "240952",
             "thumbnail_url": "https://i.ytimg.com/vi/k8bucSzEe5I/hqdefault.jpg"
+        },
+        {
+            "video_id": "VQRLujxTm3c",
+            "title": "Grand Theft Auto VI Trailer 2",
+            "channel_name": "Rockstar Games",
+            "category": "Gaming",
+            "duration": "2:47",
+            "view_count": "86035800",
+            "thumbnail_url": "https://i.ytimg.com/vi/VQRLujxTm3c/hqdefault.jpg"
         },
         {
             "video_id": "lG2XV-uTaAc",
@@ -124,7 +124,7 @@
             "channel_name": "KODE 코드",
             "category": "Entertainment",
             "duration": "29:15",
-            "view_count": "480723",
+            "view_count": "489150",
             "thumbnail_url": "https://i.ytimg.com/vi/lG2XV-uTaAc/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "충주시",
             "category": "알 수 없음",
             "duration": "0:17",
-            "view_count": "979282",
+            "view_count": "987456",
             "thumbnail_url": "https://i.ytimg.com/vi/kntt7ZA27so/hqdefault.jpg"
         },
         {
@@ -142,17 +142,8 @@
             "channel_name": "EBSDocumentary (EBS 다큐)",
             "category": "Travel & Events",
             "duration": "27:02",
-            "view_count": "2419567",
+            "view_count": "2424737",
             "thumbnail_url": "https://i.ytimg.com/vi/k6vdlL-4VwQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "EMs5lZv-X4A",
-            "title": "[화요초대석] 💕 엄마보다 더 귀한 나의 할머니 [아침마당] KBS 250506 방송",
-            "channel_name": "KBS 교양",
-            "category": "Entertainment",
-            "duration": "27:25",
-            "view_count": "305396",
-            "thumbnail_url": "https://i.ytimg.com/vi/EMs5lZv-X4A/hqdefault.jpg"
         },
         {
             "video_id": "4walWMS9Tyo",
@@ -160,7 +151,7 @@
             "channel_name": "픽잇 :Pick it",
             "category": "Entertainment",
             "duration": "15:50",
-            "view_count": "232622",
+            "view_count": "239402",
             "thumbnail_url": "https://i.ytimg.com/vi/4walWMS9Tyo/hqdefault.jpg"
         },
         {
@@ -169,8 +160,17 @@
             "channel_name": "sogyo table 소교식탁TV",
             "category": "People & Blogs",
             "duration": "6:14",
-            "view_count": "126992",
+            "view_count": "131395",
             "thumbnail_url": "https://i.ytimg.com/vi/Gc49y52EM2g/hqdefault.jpg"
+        },
+        {
+            "video_id": "EMs5lZv-X4A",
+            "title": "[화요초대석] 💕 엄마보다 더 귀한 나의 할머니 [아침마당] KBS 250506 방송",
+            "channel_name": "KBS 교양",
+            "category": "Entertainment",
+            "duration": "27:25",
+            "view_count": "307029",
+            "thumbnail_url": "https://i.ytimg.com/vi/EMs5lZv-X4A/hqdefault.jpg"
         },
         {
             "video_id": "bbet9MBBJo4",
@@ -178,7 +178,7 @@
             "channel_name": "180초",
             "category": "Comedy",
             "duration": "6:29",
-            "view_count": "442256",
+            "view_count": "450901",
             "thumbnail_url": "https://i.ytimg.com/vi/bbet9MBBJo4/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "0:32",
-            "view_count": "114292",
+            "view_count": "114512",
             "thumbnail_url": "https://i.ytimg.com/vi/luD95Pnfj7o/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "초코우유 Chocouyu",
             "category": "Travel & Events",
             "duration": "15:29",
-            "view_count": "189042",
+            "view_count": "190688",
             "thumbnail_url": "https://i.ytimg.com/vi/FaIQFLqD9tA/hqdefault.jpg"
         },
         {
@@ -205,26 +205,8 @@
             "channel_name": "깡주은",
             "category": "People & Blogs",
             "duration": "12:43",
-            "view_count": "181266",
+            "view_count": "185947",
             "thumbnail_url": "https://i.ytimg.com/vi/NNmPfCMvzw0/hqdefault.jpg"
-        },
-        {
-            "video_id": "HXk5Rl_mKxA",
-            "title": "사라진 1강, 왕좌는 누구의 것? 대혼전 프로야구 I #비야인드 2025.05.05",
-            "channel_name": "MBC Sports+",
-            "category": "Sports",
-            "duration": "13:04",
-            "view_count": "95336",
-            "thumbnail_url": "https://i.ytimg.com/vi/HXk5Rl_mKxA/hqdefault.jpg"
-        },
-        {
-            "video_id": "BbU5Esm1Pf8",
-            "title": "마인크래프트 하드코어 원 블럭 100일 생존기",
-            "channel_name": "프뚜",
-            "category": "Gaming",
-            "duration": "34:17",
-            "view_count": "309718",
-            "thumbnail_url": "https://i.ytimg.com/vi/BbU5Esm1Pf8/hqdefault.jpg"
         },
         {
             "video_id": "uSdMsyfPIOQ",
@@ -232,8 +214,17 @@
             "channel_name": "추성훈 ChooSungHoon",
             "category": "People & Blogs",
             "duration": "34:56",
-            "view_count": "1908008",
+            "view_count": "1934776",
             "thumbnail_url": "https://i.ytimg.com/vi/uSdMsyfPIOQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "BbU5Esm1Pf8",
+            "title": "마인크래프트 하드코어 원 블럭 100일 생존기",
+            "channel_name": "프뚜",
+            "category": "Gaming",
+            "duration": "34:17",
+            "view_count": "311791",
+            "thumbnail_url": "https://i.ytimg.com/vi/BbU5Esm1Pf8/hqdefault.jpg"
         },
         {
             "video_id": "I7ivSu37Y-o",
@@ -241,8 +232,17 @@
             "channel_name": "아옳이",
             "category": "People & Blogs",
             "duration": "19:26",
-            "view_count": "161531",
+            "view_count": "162654",
             "thumbnail_url": "https://i.ytimg.com/vi/I7ivSu37Y-o/hqdefault.jpg"
+        },
+        {
+            "video_id": "HXk5Rl_mKxA",
+            "title": "사라진 1강, 왕좌는 누구의 것? 대혼전 프로야구 I #비야인드 2025.05.05",
+            "channel_name": "MBC Sports+",
+            "category": "Sports",
+            "duration": "13:04",
+            "view_count": "96398",
+            "thumbnail_url": "https://i.ytimg.com/vi/HXk5Rl_mKxA/hqdefault.jpg"
         },
         {
             "video_id": "4qTfWNL6oVM",
@@ -250,7 +250,7 @@
             "channel_name": "DAY6",
             "category": "People & Blogs",
             "duration": "3:57",
-            "view_count": "83608",
+            "view_count": "84817",
             "thumbnail_url": "https://i.ytimg.com/vi/4qTfWNL6oVM/hqdefault.jpg"
         },
         {
@@ -259,7 +259,7 @@
             "channel_name": "Yerin Baek",
             "category": "Music",
             "duration": "3:44",
-            "view_count": "65855",
+            "view_count": "67401",
             "thumbnail_url": "https://i.ytimg.com/vi/hnrOnOx1ik4/hqdefault.jpg"
         },
         {
@@ -268,7 +268,7 @@
             "channel_name": "닥터프렌즈",
             "category": "Education",
             "duration": "14:14",
-            "view_count": "96698",
+            "view_count": "97581",
             "thumbnail_url": "https://i.ytimg.com/vi/20luKQOcMBw/hqdefault.jpg"
         },
         {
@@ -277,7 +277,7 @@
             "channel_name": "뜬뜬 DdeunDdeun",
             "category": "Comedy",
             "duration": "1:12:46",
-            "view_count": "2035658",
+            "view_count": "2040904",
             "thumbnail_url": "https://i.ytimg.com/vi/QgoGQux_M5U/hqdefault.jpg"
         },
         {
@@ -286,26 +286,8 @@
             "channel_name": "터틀이주미",
             "category": "People & Blogs",
             "duration": "24:34",
-            "view_count": "154336",
+            "view_count": "155601",
             "thumbnail_url": "https://i.ytimg.com/vi/nag7MzXyje4/hqdefault.jpg"
-        },
-        {
-            "video_id": "IeQwm3CQwrE",
-            "title": "이게 되네. MJ♥BH 부부의 제주도 여행 훔쳐보기 *애들없이 떠남",
-            "channel_name": "이민정 MJ",
-            "category": "People & Blogs",
-            "duration": "22:55",
-            "view_count": "1878591",
-            "thumbnail_url": "https://i.ytimg.com/vi/IeQwm3CQwrE/hqdefault.jpg"
-        },
-        {
-            "video_id": "0s8dLODoH8c",
-            "title": "예상치 못한 귀화 결과에 눈물 흘리는 그리스 아내를 위해, 최고급 한우를 사줬을때 반응?",
-            "channel_name": "소피아패밀리(Sophia family)",
-            "category": "People & Blogs",
-            "duration": "19:39",
-            "view_count": "457210",
-            "thumbnail_url": "https://i.ytimg.com/vi/0s8dLODoH8c/hqdefault.jpg"
         },
         {
             "video_id": "cvL54F3cQoI",
@@ -313,17 +295,35 @@
             "channel_name": "동네스타K",
             "category": "Entertainment",
             "duration": "30:57",
-            "view_count": "362929",
+            "view_count": "368854",
             "thumbnail_url": "https://i.ytimg.com/vi/cvL54F3cQoI/hqdefault.jpg"
         },
         {
-            "video_id": "zQbKzNrmUiU",
-            "title": "역대급 준결승전! '인테르v바르샤' 피 말리는 연장 혈투 #SPOTIME",
-            "channel_name": "스포타임",
-            "category": "Sports",
-            "duration": "4:29",
-            "view_count": "1145209",
-            "thumbnail_url": "https://i.ytimg.com/vi/zQbKzNrmUiU/hqdefault.jpg"
+            "video_id": "0s8dLODoH8c",
+            "title": "예상치 못한 귀화 결과에 눈물 흘리는 그리스 아내를 위해, 최고급 한우를 사줬을때 반응?",
+            "channel_name": "소피아패밀리(Sophia family)",
+            "category": "People & Blogs",
+            "duration": "19:39",
+            "view_count": "458427",
+            "thumbnail_url": "https://i.ytimg.com/vi/0s8dLODoH8c/hqdefault.jpg"
+        },
+        {
+            "video_id": "IeQwm3CQwrE",
+            "title": "이게 되네. MJ♥BH 부부의 제주도 여행 훔쳐보기 *애들없이 떠남",
+            "channel_name": "이민정 MJ",
+            "category": "People & Blogs",
+            "duration": "22:55",
+            "view_count": "1883238",
+            "thumbnail_url": "https://i.ytimg.com/vi/IeQwm3CQwrE/hqdefault.jpg"
+        },
+        {
+            "video_id": "5YaMkFDDpF0",
+            "title": "BOYNEXTDOOR (보이넥스트도어) 4th EP [No Genre] Track Spoiler: Sound Tour",
+            "channel_name": "HYBE LABELS",
+            "category": "Music",
+            "duration": "2:38",
+            "view_count": "993487",
+            "thumbnail_url": "https://i.ytimg.com/vi/5YaMkFDDpF0/hqdefault.jpg"
         },
         {
             "video_id": "SwMJEOsuoQ4",
@@ -331,7 +331,7 @@
             "channel_name": "[상윤쓰]Sangyoon",
             "category": "Entertainment",
             "duration": "8:41",
-            "view_count": "165358",
+            "view_count": "167366",
             "thumbnail_url": "https://i.ytimg.com/vi/SwMJEOsuoQ4/hqdefault.jpg"
         },
         {
@@ -340,17 +340,8 @@
             "channel_name": "회사원A",
             "category": "Howto & Style",
             "duration": "22:26",
-            "view_count": "459293",
+            "view_count": "460538",
             "thumbnail_url": "https://i.ytimg.com/vi/LDa-uITyVWY/hqdefault.jpg"
-        },
-        {
-            "video_id": "4ASXFiCdZw0",
-            "title": "누가 헤어지기 직전에 겟레디를 찍어;; 저요🙂 똥차랑 이별하는 날 같이 준비해요,, 한숨푹푹주의",
-            "channel_name": "현주zutube",
-            "category": "People & Blogs",
-            "duration": "9:24",
-            "view_count": "242639",
-            "thumbnail_url": "https://i.ytimg.com/vi/4ASXFiCdZw0/hqdefault.jpg"
         },
         {
             "video_id": "M5Iv-yE8opg",
@@ -358,8 +349,17 @@
             "channel_name": "예씨 yessii",
             "category": "People & Blogs",
             "duration": "11:40",
-            "view_count": "98308",
+            "view_count": "99059",
             "thumbnail_url": "https://i.ytimg.com/vi/M5Iv-yE8opg/hqdefault.jpg"
+        },
+        {
+            "video_id": "4ASXFiCdZw0",
+            "title": "누가 헤어지기 직전에 겟레디를 찍어;; 저요🙂 똥차랑 이별하는 날 같이 준비해요,, 한숨푹푹주의",
+            "channel_name": "현주zutube",
+            "category": "People & Blogs",
+            "duration": "9:24",
+            "view_count": "244266",
+            "thumbnail_url": "https://i.ytimg.com/vi/4ASXFiCdZw0/hqdefault.jpg"
         },
         {
             "video_id": "olrOPB85-zc",
@@ -367,17 +367,17 @@
             "channel_name": "허팝Heopop",
             "category": "Entertainment",
             "duration": "28:26",
-            "view_count": "181125",
+            "view_count": "184050",
             "thumbnail_url": "https://i.ytimg.com/vi/olrOPB85-zc/hqdefault.jpg"
         },
         {
-            "video_id": "Vw49pdSTTOE",
-            "title": "피프티피프티 하나와 마이린의 찐친 Q&A (어릴 적 친구가 아이돌이 되어 돌아왔다) 마이린 TV",
-            "channel_name": "마이린 TV",
-            "category": "Entertainment",
-            "duration": "16:00",
-            "view_count": "575378",
-            "thumbnail_url": "https://i.ytimg.com/vi/Vw49pdSTTOE/hqdefault.jpg"
+            "video_id": "ES5YVTX75Bw",
+            "title": "[VLOG] 만나기만 하면 디스하는 현실 남매🔥 | 아버지와 막내들 | 차 시승하고 왔어요!🚘",
+            "channel_name": "지유롭게",
+            "category": "People & Blogs",
+            "duration": "21:14",
+            "view_count": "250204",
+            "thumbnail_url": "https://i.ytimg.com/vi/ES5YVTX75Bw/hqdefault.jpg"
         }
     ]
 }
