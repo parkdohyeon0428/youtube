@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-05-09 14:13:45",
+    "scraped_time": "2025-05-09 15:20:01",
     "videos": [
         {
             "video_id": "sRVBoS87Y9g",
@@ -7,7 +7,7 @@
             "channel_name": "찰스엔터",
             "category": "People & Blogs",
             "duration": "38:30",
-            "view_count": "854867",
+            "view_count": "867598",
             "thumbnail_url": "https://i.ytimg.com/vi/sRVBoS87Y9g/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "순풍 선우용여",
             "category": "People & Blogs",
             "duration": "28:34",
-            "view_count": "886018",
+            "view_count": "894984",
             "thumbnail_url": "https://i.ytimg.com/vi/mHX5qPLduJk/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "3:59",
-            "view_count": "3652257",
+            "view_count": "3735993",
             "thumbnail_url": "https://i.ytimg.com/vi/0fyZqS0N19o/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "다나나",
             "category": "People & Blogs",
             "duration": "37:17",
-            "view_count": "377457",
+            "view_count": "384125",
             "thumbnail_url": "https://i.ytimg.com/vi/g601zn57qmw/hqdefault.jpg"
         },
         {
@@ -43,17 +43,8 @@
             "channel_name": "백상예술대상",
             "category": "Entertainment",
             "duration": "5:04",
-            "view_count": "2289035",
+            "view_count": "2295600",
             "thumbnail_url": "https://i.ytimg.com/vi/GHsao4wyB48/hqdefault.jpg"
-        },
-        {
-            "video_id": "YtaJn17nHgU",
-            "title": "RIIZE 라이즈 '잉걸 (Ember to Solar)' Track Video",
-            "channel_name": "RIIZE",
-            "category": "Music",
-            "duration": "2:26",
-            "view_count": "4156248",
-            "thumbnail_url": "https://i.ytimg.com/vi/YtaJn17nHgU/hqdefault.jpg"
         },
         {
             "video_id": "er6yLvNsg-8",
@@ -61,8 +52,17 @@
             "channel_name": "KBS 교양",
             "category": "Entertainment",
             "duration": "37:57",
-            "view_count": "298702",
+            "view_count": "306018",
             "thumbnail_url": "https://i.ytimg.com/vi/er6yLvNsg-8/hqdefault.jpg"
+        },
+        {
+            "video_id": "YtaJn17nHgU",
+            "title": "RIIZE 라이즈 '잉걸 (Ember to Solar)' Track Video",
+            "channel_name": "RIIZE",
+            "category": "Music",
+            "duration": "2:26",
+            "view_count": "4182447",
+            "thumbnail_url": "https://i.ytimg.com/vi/YtaJn17nHgU/hqdefault.jpg"
         },
         {
             "video_id": "zKfs2EM8LQ4",
@@ -70,26 +70,8 @@
             "channel_name": "i-dle (아이들)",
             "category": "Music",
             "duration": "2:45",
-            "view_count": "5731025",
+            "view_count": "5788388",
             "thumbnail_url": "https://i.ytimg.com/vi/zKfs2EM8LQ4/hqdefault.jpg"
-        },
-        {
-            "video_id": "kSE-SZVm8FU",
-            "title": "💢이런 \"마늘쫑반찬\"보셨어요❓1년내내 밑반찬 걱정끝💯",
-            "channel_name": "양장금주부",
-            "category": "Howto & Style",
-            "duration": "3:54",
-            "view_count": "189381",
-            "thumbnail_url": "https://i.ytimg.com/vi/kSE-SZVm8FU/hqdefault.jpg"
-        },
-        {
-            "video_id": "p9X4qU9V-bA",
-            "title": "이은지가 랜선집들이 때 복층을 공개하지 못한 이유 (feat. 필라테스 방 청소)",
-            "channel_name": "은지랑 이은지",
-            "category": "People & Blogs",
-            "duration": "13:17",
-            "view_count": "110852",
-            "thumbnail_url": "https://i.ytimg.com/vi/p9X4qU9V-bA/hqdefault.jpg"
         },
         {
             "video_id": "ia2Ph61bYzc",
@@ -97,8 +79,26 @@
             "channel_name": "ROSÉ",
             "category": "Music",
             "duration": "3:05",
-            "view_count": "2681388",
+            "view_count": "2951847",
             "thumbnail_url": "https://i.ytimg.com/vi/ia2Ph61bYzc/hqdefault.jpg"
+        },
+        {
+            "video_id": "p9X4qU9V-bA",
+            "title": "이은지가 랜선집들이 때 복층을 공개하지 못한 이유 (feat. 필라테스 방 청소)",
+            "channel_name": "은지랑 이은지",
+            "category": "People & Blogs",
+            "duration": "13:17",
+            "view_count": "115841",
+            "thumbnail_url": "https://i.ytimg.com/vi/p9X4qU9V-bA/hqdefault.jpg"
+        },
+        {
+            "video_id": "kSE-SZVm8FU",
+            "title": "💢이런 \"마늘쫑반찬\"보셨어요❓1년내내 밑반찬 걱정끝💯",
+            "channel_name": "양장금주부",
+            "category": "Howto & Style",
+            "duration": "3:54",
+            "view_count": "194359",
+            "thumbnail_url": "https://i.ytimg.com/vi/kSE-SZVm8FU/hqdefault.jpg"
         },
         {
             "video_id": "vWJYT0lAhiw",
@@ -106,7 +106,7 @@
             "channel_name": "TVCHOSUN JOY",
             "category": "Entertainment",
             "duration": "19:33",
-            "view_count": "562464",
+            "view_count": "565409",
             "thumbnail_url": "https://i.ytimg.com/vi/vWJYT0lAhiw/hqdefault.jpg"
         },
         {
@@ -115,7 +115,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:25",
-            "view_count": "1451224",
+            "view_count": "1408859",
             "thumbnail_url": "https://i.ytimg.com/vi/bqECUTAk9do/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "백상예술대상",
             "category": "Entertainment",
             "duration": "3:08",
-            "view_count": "942900",
+            "view_count": "945723",
             "thumbnail_url": "https://i.ytimg.com/vi/DXjH2jXpzsE/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "나래식",
             "category": "Entertainment",
             "duration": "33:13",
-            "view_count": "287939",
+            "view_count": "292343",
             "thumbnail_url": "https://i.ytimg.com/vi/k8bucSzEe5I/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "Rockstar Games",
             "category": "Gaming",
             "duration": "2:47",
-            "view_count": "91678824",
+            "view_count": "91881697",
             "thumbnail_url": "https://i.ytimg.com/vi/VQRLujxTm3c/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "KODE 코드",
             "category": "Entertainment",
             "duration": "29:15",
-            "view_count": "570728",
+            "view_count": "575386",
             "thumbnail_url": "https://i.ytimg.com/vi/lG2XV-uTaAc/hqdefault.jpg"
         },
         {
@@ -160,17 +160,8 @@
             "channel_name": "sogyo table 소교식탁TV",
             "category": "People & Blogs",
             "duration": "6:14",
-            "view_count": "181081",
+            "view_count": "186755",
             "thumbnail_url": "https://i.ytimg.com/vi/Gc49y52EM2g/hqdefault.jpg"
-        },
-        {
-            "video_id": "kntt7ZA27so",
-            "title": "충충충 사후르",
-            "channel_name": "충주시",
-            "category": "알 수 없음",
-            "duration": "0:17",
-            "view_count": "1069676",
-            "thumbnail_url": "https://i.ytimg.com/vi/kntt7ZA27so/hqdefault.jpg"
         },
         {
             "video_id": "7G6_avXknCk",
@@ -178,8 +169,17 @@
             "channel_name": "P1Harmony",
             "category": "Entertainment",
             "duration": "3:17",
-            "view_count": "760154",
+            "view_count": "803124",
             "thumbnail_url": "https://i.ytimg.com/vi/7G6_avXknCk/hqdefault.jpg"
+        },
+        {
+            "video_id": "kntt7ZA27so",
+            "title": "충충충 사후르",
+            "channel_name": "충주시",
+            "category": "알 수 없음",
+            "duration": "0:17",
+            "view_count": "1083317",
+            "thumbnail_url": "https://i.ytimg.com/vi/kntt7ZA27so/hqdefault.jpg"
         },
         {
             "video_id": "k6vdlL-4VwQ",
@@ -187,7 +187,7 @@
             "channel_name": "EBSDocumentary (EBS 다큐)",
             "category": "Travel & Events",
             "duration": "27:02",
-            "view_count": "2480897",
+            "view_count": "2479629",
             "thumbnail_url": "https://i.ytimg.com/vi/k6vdlL-4VwQ/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "픽잇 :Pick it",
             "category": "Entertainment",
             "duration": "15:50",
-            "view_count": "286500",
+            "view_count": "288683",
             "thumbnail_url": "https://i.ytimg.com/vi/4walWMS9Tyo/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "180초",
             "category": "Comedy",
             "duration": "6:29",
-            "view_count": "539809",
+            "view_count": "550335",
             "thumbnail_url": "https://i.ytimg.com/vi/bbet9MBBJo4/hqdefault.jpg"
         },
         {
@@ -214,8 +214,17 @@
             "channel_name": "깡주은",
             "category": "People & Blogs",
             "duration": "12:43",
-            "view_count": "240384",
+            "view_count": "243833",
             "thumbnail_url": "https://i.ytimg.com/vi/NNmPfCMvzw0/hqdefault.jpg"
+        },
+        {
+            "video_id": "4qTfWNL6oVM",
+            "title": "DAY6(데이식스) \"Maybe Tomorrow\" Singalong Guide Video",
+            "channel_name": "DAY6",
+            "category": "People & Blogs",
+            "duration": "3:57",
+            "view_count": "100008",
+            "thumbnail_url": "https://i.ytimg.com/vi/4qTfWNL6oVM/hqdefault.jpg"
         },
         {
             "video_id": "luD95Pnfj7o",
@@ -223,7 +232,7 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "0:32",
-            "view_count": "116625",
+            "view_count": "116710",
             "thumbnail_url": "https://i.ytimg.com/vi/luD95Pnfj7o/hqdefault.jpg"
         },
         {
@@ -232,17 +241,8 @@
             "channel_name": "KBS 교양",
             "category": "Entertainment",
             "duration": "27:25",
-            "view_count": "327831",
+            "view_count": "329197",
             "thumbnail_url": "https://i.ytimg.com/vi/EMs5lZv-X4A/hqdefault.jpg"
-        },
-        {
-            "video_id": "4qTfWNL6oVM",
-            "title": "DAY6(데이식스) \"Maybe Tomorrow\" Singalong Guide Video",
-            "channel_name": "DAY6",
-            "category": "People & Blogs",
-            "duration": "3:57",
-            "view_count": "99118",
-            "thumbnail_url": "https://i.ytimg.com/vi/4qTfWNL6oVM/hqdefault.jpg"
         },
         {
             "video_id": "FaIQFLqD9tA",
@@ -250,7 +250,7 @@
             "channel_name": "초코우유 Chocouyu",
             "category": "Travel & Events",
             "duration": "15:29",
-            "view_count": "202053",
+            "view_count": "202914",
             "thumbnail_url": "https://i.ytimg.com/vi/FaIQFLqD9tA/hqdefault.jpg"
         },
         {
@@ -259,7 +259,7 @@
             "channel_name": "Yerin Baek",
             "category": "Music",
             "duration": "3:44",
-            "view_count": "87048",
+            "view_count": "88669",
             "thumbnail_url": "https://i.ytimg.com/vi/hnrOnOx1ik4/hqdefault.jpg"
         },
         {
@@ -268,7 +268,7 @@
             "channel_name": "프뚜",
             "category": "Gaming",
             "duration": "34:17",
-            "view_count": "325566",
+            "view_count": "326003",
             "thumbnail_url": "https://i.ytimg.com/vi/BbU5Esm1Pf8/hqdefault.jpg"
         },
         {
@@ -277,7 +277,7 @@
             "channel_name": "아옳이",
             "category": "People & Blogs",
             "duration": "19:26",
-            "view_count": "171076",
+            "view_count": "171706",
             "thumbnail_url": "https://i.ytimg.com/vi/I7ivSu37Y-o/hqdefault.jpg"
         },
         {
@@ -286,7 +286,7 @@
             "channel_name": "닥터프렌즈",
             "category": "Education",
             "duration": "14:14",
-            "view_count": "107587",
+            "view_count": "108119",
             "thumbnail_url": "https://i.ytimg.com/vi/20luKQOcMBw/hqdefault.jpg"
         },
         {
@@ -295,7 +295,7 @@
             "channel_name": "MBC Sports+",
             "category": "Sports",
             "duration": "13:04",
-            "view_count": "107256",
+            "view_count": "107633",
             "thumbnail_url": "https://i.ytimg.com/vi/HXk5Rl_mKxA/hqdefault.jpg"
         },
         {
@@ -304,7 +304,7 @@
             "channel_name": "터틀이주미",
             "category": "People & Blogs",
             "duration": "24:34",
-            "view_count": "167934",
+            "view_count": "168972",
             "thumbnail_url": "https://i.ytimg.com/vi/nag7MzXyje4/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "동네스타K",
             "category": "Entertainment",
             "duration": "30:57",
-            "view_count": "451968",
+            "view_count": "458428",
             "thumbnail_url": "https://i.ytimg.com/vi/cvL54F3cQoI/hqdefault.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "channel_name": "[상윤쓰]Sangyoon",
             "category": "Entertainment",
             "duration": "8:41",
-            "view_count": "194842",
+            "view_count": "195945",
             "thumbnail_url": "https://i.ytimg.com/vi/SwMJEOsuoQ4/hqdefault.jpg"
         },
         {
@@ -331,17 +331,8 @@
             "channel_name": "소피아패밀리(Sophia family)",
             "category": "People & Blogs",
             "duration": "19:39",
-            "view_count": "468556",
+            "view_count": "469195",
             "thumbnail_url": "https://i.ytimg.com/vi/0s8dLODoH8c/hqdefault.jpg"
-        },
-        {
-            "video_id": "LDa-uITyVWY",
-            "title": "결국 저질렀습니다🙄🛖최신식 아날로그(?) 일본집 룸투어 레츠 끼끼",
-            "channel_name": "회사원A",
-            "category": "Howto & Style",
-            "duration": "22:26",
-            "view_count": "471647",
-            "thumbnail_url": "https://i.ytimg.com/vi/LDa-uITyVWY/hqdefault.jpg"
         },
         {
             "video_id": "4ASXFiCdZw0",
@@ -349,8 +340,17 @@
             "channel_name": "현주zutube",
             "category": "People & Blogs",
             "duration": "9:24",
-            "view_count": "261639",
+            "view_count": "262264",
             "thumbnail_url": "https://i.ytimg.com/vi/4ASXFiCdZw0/hqdefault.jpg"
+        },
+        {
+            "video_id": "LDa-uITyVWY",
+            "title": "결국 저질렀습니다🙄🛖최신식 아날로그(?) 일본집 룸투어 레츠 끼끼",
+            "channel_name": "회사원A",
+            "category": "Howto & Style",
+            "duration": "22:26",
+            "view_count": "472297",
+            "thumbnail_url": "https://i.ytimg.com/vi/LDa-uITyVWY/hqdefault.jpg"
         },
         {
             "video_id": "M5Iv-yE8opg",
@@ -358,7 +358,7 @@
             "channel_name": "예씨 yessii",
             "category": "People & Blogs",
             "duration": "11:40",
-            "view_count": "102758",
+            "view_count": "102859",
             "thumbnail_url": "https://i.ytimg.com/vi/M5Iv-yE8opg/hqdefault.jpg"
         },
         {
@@ -367,7 +367,7 @@
             "channel_name": "허팝Heopop",
             "category": "Entertainment",
             "duration": "28:26",
-            "view_count": "205159",
+            "view_count": "205577",
             "thumbnail_url": "https://i.ytimg.com/vi/olrOPB85-zc/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "지유롭게",
             "category": "People & Blogs",
             "duration": "21:14",
-            "view_count": "256516",
+            "view_count": "257096",
             "thumbnail_url": "https://i.ytimg.com/vi/ES5YVTX75Bw/hqdefault.jpg"
         }
     ]
