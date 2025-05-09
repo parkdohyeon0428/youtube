@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-05-09 16:13:22",
+    "scraped_time": "2025-05-09 17:17:48",
     "videos": [
         {
             "video_id": "mL2iAUKnPwg",
@@ -7,7 +7,7 @@
             "channel_name": "카더정원",
             "category": "Film & Animation",
             "duration": "23:34",
-            "view_count": "346199",
+            "view_count": "354517",
             "thumbnail_url": "https://i.ytimg.com/vi/mL2iAUKnPwg/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "찰스엔터",
             "category": "People & Blogs",
             "duration": "38:30",
-            "view_count": "881241",
+            "view_count": "892036",
             "thumbnail_url": "https://i.ytimg.com/vi/sRVBoS87Y9g/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "순풍 선우용여",
             "category": "People & Blogs",
             "duration": "28:34",
-            "view_count": "904924",
+            "view_count": "912990",
             "thumbnail_url": "https://i.ytimg.com/vi/mHX5qPLduJk/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "DAY6 - Topic",
             "category": "Music",
             "duration": "2:50",
-            "view_count": "351758",
+            "view_count": "361652",
             "thumbnail_url": "https://i.ytimg.com/vi/RZr3EcLeT_k/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "워크맨-Workman",
             "category": "Entertainment",
             "duration": "32:07",
-            "view_count": "460877",
+            "view_count": "471303",
             "thumbnail_url": "https://i.ytimg.com/vi/X5sWKoxEOQI/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "3:59",
-            "view_count": "3805878",
+            "view_count": "3882712",
             "thumbnail_url": "https://i.ytimg.com/vi/0fyZqS0N19o/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "먹어볼래TryToEat",
             "category": "People & Blogs",
             "duration": "9:01",
-            "view_count": "316600",
+            "view_count": "324282",
             "thumbnail_url": "https://i.ytimg.com/vi/fbVK8lGC6Sk/hqdefault.jpg"
         },
         {
@@ -70,26 +70,8 @@
             "channel_name": "다나나",
             "category": "People & Blogs",
             "duration": "37:17",
-            "view_count": "390899",
+            "view_count": "396171",
             "thumbnail_url": "https://i.ytimg.com/vi/g601zn57qmw/hqdefault.jpg"
-        },
-        {
-            "video_id": "GHsao4wyB48",
-            "title": "[61회 백상] 방송부문 남자 조연상 - 최대훈 | 폭싹 속았수다 | JTBC 250505 방송",
-            "channel_name": "백상예술대상",
-            "category": "Entertainment",
-            "duration": "5:04",
-            "view_count": "2302896",
-            "thumbnail_url": "https://i.ytimg.com/vi/GHsao4wyB48/hqdefault.jpg"
-        },
-        {
-            "video_id": "er6yLvNsg-8",
-            "title": "[도전 꿈의 무대 부처님 오신 날 기획] 전국 스님 노래자랑! [아침마당] KBS 250507 방송",
-            "channel_name": "KBS 교양",
-            "category": "Entertainment",
-            "duration": "37:57",
-            "view_count": "315174",
-            "thumbnail_url": "https://i.ytimg.com/vi/er6yLvNsg-8/hqdefault.jpg"
         },
         {
             "video_id": "MuPFLCOgfMQ",
@@ -97,17 +79,26 @@
             "channel_name": "이 남자의 cook",
             "category": "Howto & Style",
             "duration": "1:48",
-            "view_count": "79642",
+            "view_count": "82256",
             "thumbnail_url": "https://i.ytimg.com/vi/MuPFLCOgfMQ/hqdefault.jpg"
         },
         {
-            "video_id": "YtaJn17nHgU",
-            "title": "RIIZE 라이즈 '잉걸 (Ember to Solar)' Track Video",
-            "channel_name": "RIIZE",
-            "category": "Music",
-            "duration": "2:26",
-            "view_count": "4203397",
-            "thumbnail_url": "https://i.ytimg.com/vi/YtaJn17nHgU/hqdefault.jpg"
+            "video_id": "er6yLvNsg-8",
+            "title": "[도전 꿈의 무대 부처님 오신 날 기획] 전국 스님 노래자랑! [아침마당] KBS 250507 방송",
+            "channel_name": "KBS 교양",
+            "category": "Entertainment",
+            "duration": "37:57",
+            "view_count": "322557",
+            "thumbnail_url": "https://i.ytimg.com/vi/er6yLvNsg-8/hqdefault.jpg"
+        },
+        {
+            "video_id": "GHsao4wyB48",
+            "title": "[61회 백상] 방송부문 남자 조연상 - 최대훈 | 폭싹 속았수다 | JTBC 250505 방송",
+            "channel_name": "백상예술대상",
+            "category": "Entertainment",
+            "duration": "5:04",
+            "view_count": "2308705",
+            "thumbnail_url": "https://i.ytimg.com/vi/GHsao4wyB48/hqdefault.jpg"
         },
         {
             "video_id": "zKfs2EM8LQ4",
@@ -115,7 +106,7 @@
             "channel_name": "i-dle (아이들)",
             "category": "Music",
             "duration": "2:45",
-            "view_count": "5860456",
+            "view_count": "5915489",
             "thumbnail_url": "https://i.ytimg.com/vi/zKfs2EM8LQ4/hqdefault.jpg"
         },
         {
@@ -124,8 +115,17 @@
             "channel_name": "ROSÉ",
             "category": "Music",
             "duration": "3:05",
-            "view_count": "3223706",
+            "view_count": "3435249",
             "thumbnail_url": "https://i.ytimg.com/vi/ia2Ph61bYzc/hqdefault.jpg"
+        },
+        {
+            "video_id": "YtaJn17nHgU",
+            "title": "RIIZE 라이즈 '잉걸 (Ember to Solar)' Track Video",
+            "channel_name": "RIIZE",
+            "category": "Music",
+            "duration": "2:26",
+            "view_count": "4225790",
+            "thumbnail_url": "https://i.ytimg.com/vi/YtaJn17nHgU/hqdefault.jpg"
         },
         {
             "video_id": "MZ6rR5XRmWg",
@@ -133,7 +133,7 @@
             "channel_name": "일일칠 - 117",
             "category": "People & Blogs",
             "duration": "49:50",
-            "view_count": "546004",
+            "view_count": "564022",
             "thumbnail_url": "https://i.ytimg.com/vi/MZ6rR5XRmWg/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "한국사는따냐 Tanya in Korea",
             "category": "People & Blogs",
             "duration": "19:42",
-            "view_count": "278955",
+            "view_count": "283429",
             "thumbnail_url": "https://i.ytimg.com/vi/xlJe_8YnArc/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "은지랑 이은지",
             "category": "People & Blogs",
             "duration": "13:17",
-            "view_count": "121080",
+            "view_count": "125201",
             "thumbnail_url": "https://i.ytimg.com/vi/p9X4qU9V-bA/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "양장금주부",
             "category": "Howto & Style",
             "duration": "3:54",
-            "view_count": "200851",
+            "view_count": "207178",
             "thumbnail_url": "https://i.ytimg.com/vi/kSE-SZVm8FU/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "YOOTRUE ON AIR",
             "category": "Howto & Style",
             "duration": "19:20",
-            "view_count": "159987",
+            "view_count": "166313",
             "thumbnail_url": "https://i.ytimg.com/vi/u0ZVkMZiVRE/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "TVCHOSUN JOY",
             "category": "Entertainment",
             "duration": "19:33",
-            "view_count": "569197",
+            "view_count": "571437",
             "thumbnail_url": "https://i.ytimg.com/vi/vWJYT0lAhiw/hqdefault.jpg"
         },
         {
@@ -187,17 +187,8 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:25",
-            "view_count": "1457654",
+            "view_count": "1415438",
             "thumbnail_url": "https://i.ytimg.com/vi/bqECUTAk9do/hqdefault.jpg"
-        },
-        {
-            "video_id": "DXjH2jXpzsE",
-            "title": "[61회 백상] 방송부문 여자 조연상 - 염혜란 | 폭싹 속았수다 | JTBC 250505 방송",
-            "channel_name": "백상예술대상",
-            "category": "Entertainment",
-            "duration": "3:08",
-            "view_count": "949051",
-            "thumbnail_url": "https://i.ytimg.com/vi/DXjH2jXpzsE/hqdefault.jpg"
         },
         {
             "video_id": "k8bucSzEe5I",
@@ -205,8 +196,17 @@
             "channel_name": "나래식",
             "category": "Entertainment",
             "duration": "33:13",
-            "view_count": "297243",
+            "view_count": "301168",
             "thumbnail_url": "https://i.ytimg.com/vi/k8bucSzEe5I/hqdefault.jpg"
+        },
+        {
+            "video_id": "DXjH2jXpzsE",
+            "title": "[61회 백상] 방송부문 여자 조연상 - 염혜란 | 폭싹 속았수다 | JTBC 250505 방송",
+            "channel_name": "백상예술대상",
+            "category": "Entertainment",
+            "duration": "3:08",
+            "view_count": "951732",
+            "thumbnail_url": "https://i.ytimg.com/vi/DXjH2jXpzsE/hqdefault.jpg"
         },
         {
             "video_id": "VQRLujxTm3c",
@@ -214,7 +214,7 @@
             "channel_name": "Rockstar Games",
             "category": "Gaming",
             "duration": "2:47",
-            "view_count": "92128532",
+            "view_count": "92336278",
             "thumbnail_url": "https://i.ytimg.com/vi/VQRLujxTm3c/hqdefault.jpg"
         },
         {
@@ -223,17 +223,8 @@
             "channel_name": "KODE 코드",
             "category": "Entertainment",
             "duration": "29:15",
-            "view_count": "580535",
+            "view_count": "584862",
             "thumbnail_url": "https://i.ytimg.com/vi/lG2XV-uTaAc/hqdefault.jpg"
-        },
-        {
-            "video_id": "Gc49y52EM2g",
-            "title": "뼈에 좋은 돌나물 많이 사오셔서 볶아보세요!! 무르지않고 오랫동안 두고 먹을수 있는 밥도둑반찬이 됩니다/ 돌나물조림장아찌",
-            "channel_name": "sogyo table 소교식탁TV",
-            "category": "People & Blogs",
-            "duration": "6:14",
-            "view_count": "194051",
-            "thumbnail_url": "https://i.ytimg.com/vi/Gc49y52EM2g/hqdefault.jpg"
         },
         {
             "video_id": "7G6_avXknCk",
@@ -241,8 +232,17 @@
             "channel_name": "P1Harmony",
             "category": "Entertainment",
             "duration": "3:17",
-            "view_count": "830933",
+            "view_count": "853012",
             "thumbnail_url": "https://i.ytimg.com/vi/7G6_avXknCk/hqdefault.jpg"
+        },
+        {
+            "video_id": "Gc49y52EM2g",
+            "title": "뼈에 좋은 돌나물 많이 사오셔서 볶아보세요!! 무르지않고 오랫동안 두고 먹을수 있는 밥도둑반찬이 됩니다/ 돌나물조림장아찌",
+            "channel_name": "sogyo table 소교식탁TV",
+            "category": "People & Blogs",
+            "duration": "6:14",
+            "view_count": "200350",
+            "thumbnail_url": "https://i.ytimg.com/vi/Gc49y52EM2g/hqdefault.jpg"
         },
         {
             "video_id": "kntt7ZA27so",
@@ -250,17 +250,8 @@
             "channel_name": "충주시",
             "category": "알 수 없음",
             "duration": "0:17",
-            "view_count": "1097645",
+            "view_count": "1108463",
             "thumbnail_url": "https://i.ytimg.com/vi/kntt7ZA27so/hqdefault.jpg"
-        },
-        {
-            "video_id": "k6vdlL-4VwQ",
-            "title": "꿀 농사 말아먹기 직전이다, 자식처럼 키운 꿀벌 납치해가는 말벌 집을 드디어 찾아냈다｜극한직업｜#골라듄다큐",
-            "channel_name": "EBSDocumentary (EBS 다큐)",
-            "category": "Travel & Events",
-            "duration": "27:02",
-            "view_count": "2484960",
-            "thumbnail_url": "https://i.ytimg.com/vi/k6vdlL-4VwQ/hqdefault.jpg"
         },
         {
             "video_id": "bbet9MBBJo4",
@@ -268,8 +259,17 @@
             "channel_name": "180초",
             "category": "Comedy",
             "duration": "6:29",
-            "view_count": "560928",
+            "view_count": "569086",
             "thumbnail_url": "https://i.ytimg.com/vi/bbet9MBBJo4/hqdefault.jpg"
+        },
+        {
+            "video_id": "k6vdlL-4VwQ",
+            "title": "꿀 농사 말아먹기 직전이다, 자식처럼 키운 꿀벌 납치해가는 말벌 집을 드디어 찾아냈다｜극한직업｜#골라듄다큐",
+            "channel_name": "EBSDocumentary (EBS 다큐)",
+            "category": "Travel & Events",
+            "duration": "27:02",
+            "view_count": "2489370",
+            "thumbnail_url": "https://i.ytimg.com/vi/k6vdlL-4VwQ/hqdefault.jpg"
         },
         {
             "video_id": "4walWMS9Tyo",
@@ -277,17 +277,8 @@
             "channel_name": "픽잇 :Pick it",
             "category": "Entertainment",
             "duration": "15:50",
-            "view_count": "291081",
+            "view_count": "292780",
             "thumbnail_url": "https://i.ytimg.com/vi/4walWMS9Tyo/hqdefault.jpg"
-        },
-        {
-            "video_id": "NNmPfCMvzw0",
-            "title": "[ENG SUB]먹어본 사람마다 극찬세례👍 강주은의 인생 샌드위치 레시피(+차지키소스,수블라키)",
-            "channel_name": "깡주은",
-            "category": "People & Blogs",
-            "duration": "12:43",
-            "view_count": "247801",
-            "thumbnail_url": "https://i.ytimg.com/vi/NNmPfCMvzw0/hqdefault.jpg"
         },
         {
             "video_id": "4qTfWNL6oVM",
@@ -295,8 +286,17 @@
             "channel_name": "DAY6",
             "category": "People & Blogs",
             "duration": "3:57",
-            "view_count": "101230",
+            "view_count": "102268",
             "thumbnail_url": "https://i.ytimg.com/vi/4qTfWNL6oVM/hqdefault.jpg"
+        },
+        {
+            "video_id": "NNmPfCMvzw0",
+            "title": "[ENG SUB]먹어본 사람마다 극찬세례👍 강주은의 인생 샌드위치 레시피(+차지키소스,수블라키)",
+            "channel_name": "깡주은",
+            "category": "People & Blogs",
+            "duration": "12:43",
+            "view_count": "251080",
+            "thumbnail_url": "https://i.ytimg.com/vi/NNmPfCMvzw0/hqdefault.jpg"
         },
         {
             "video_id": "luD95Pnfj7o",
@@ -304,7 +304,7 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "0:32",
-            "view_count": "116802",
+            "view_count": "116872",
             "thumbnail_url": "https://i.ytimg.com/vi/luD95Pnfj7o/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "초코우유 Chocouyu",
             "category": "Travel & Events",
             "duration": "15:29",
-            "view_count": "203751",
+            "view_count": "204489",
             "thumbnail_url": "https://i.ytimg.com/vi/FaIQFLqD9tA/hqdefault.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "channel_name": "프뚜",
             "category": "Gaming",
             "duration": "34:17",
-            "view_count": "326801",
+            "view_count": "327692",
             "thumbnail_url": "https://i.ytimg.com/vi/BbU5Esm1Pf8/hqdefault.jpg"
         },
         {
@@ -331,7 +331,7 @@
             "channel_name": "아옳이",
             "category": "People & Blogs",
             "duration": "19:26",
-            "view_count": "172373",
+            "view_count": "172900",
             "thumbnail_url": "https://i.ytimg.com/vi/I7ivSu37Y-o/hqdefault.jpg"
         },
         {
@@ -340,7 +340,7 @@
             "channel_name": "닥터프렌즈",
             "category": "Education",
             "duration": "14:14",
-            "view_count": "108675",
+            "view_count": "109088",
             "thumbnail_url": "https://i.ytimg.com/vi/20luKQOcMBw/hqdefault.jpg"
         },
         {
@@ -349,7 +349,7 @@
             "channel_name": "동네스타K",
             "category": "Entertainment",
             "duration": "30:57",
-            "view_count": "463696",
+            "view_count": "471291",
             "thumbnail_url": "https://i.ytimg.com/vi/cvL54F3cQoI/hqdefault.jpg"
         },
         {
@@ -358,7 +358,7 @@
             "channel_name": "[상윤쓰]Sangyoon",
             "category": "Entertainment",
             "duration": "8:41",
-            "view_count": "197105",
+            "view_count": "198051",
             "thumbnail_url": "https://i.ytimg.com/vi/SwMJEOsuoQ4/hqdefault.jpg"
         },
         {
@@ -367,7 +367,7 @@
             "channel_name": "소피아패밀리(Sophia family)",
             "category": "People & Blogs",
             "duration": "19:39",
-            "view_count": "470120",
+            "view_count": "470980",
             "thumbnail_url": "https://i.ytimg.com/vi/0s8dLODoH8c/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "현주zutube",
             "category": "People & Blogs",
             "duration": "9:24",
-            "view_count": "263010",
+            "view_count": "263827",
             "thumbnail_url": "https://i.ytimg.com/vi/4ASXFiCdZw0/hqdefault.jpg"
         }
     ]
