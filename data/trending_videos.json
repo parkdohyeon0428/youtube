@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-05-14 03:19:33",
+    "scraped_time": "2025-05-14 04:11:12",
     "videos": [
         {
             "video_id": "PEprsGRAorM",
@@ -7,7 +7,7 @@
             "channel_name": "빠니보틀 Pani Bottle",
             "category": "Travel & Events",
             "duration": "21:56",
-            "view_count": "1072708",
+            "view_count": "1078450",
             "thumbnail_url": "https://i.ytimg.com/vi/PEprsGRAorM/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "유병재",
             "category": "Comedy",
             "duration": "34:51",
-            "view_count": "372404",
+            "view_count": "375532",
             "thumbnail_url": "https://i.ytimg.com/vi/dcJUPNvpnYI/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "엔조이커플enjoycouple",
             "category": "Entertainment",
             "duration": "17:18",
-            "view_count": "1442484",
+            "view_count": "1445593",
             "thumbnail_url": "https://i.ytimg.com/vi/hM2iXCYsb4o/hqdefault.jpg"
         },
         {
@@ -34,17 +34,8 @@
             "channel_name": "SBS ",
             "category": "Entertainment",
             "duration": "14:55",
-            "view_count": "601738",
+            "view_count": "605163",
             "thumbnail_url": "https://i.ytimg.com/vi/Hu0sQuyYTt8/hqdefault.jpg"
-        },
-        {
-            "video_id": "CzcCW3eXQMM",
-            "title": "정경호 설인아 차학연 {짠한형} EP. 92 이 회차 대화 없음. 그냥 정경호만 있음ㅋㅋ(혼자만의 세계관이 있었어요)",
-            "channel_name": "짠한형 신동엽",
-            "category": "Entertainment",
-            "duration": "47:58",
-            "view_count": "902807",
-            "thumbnail_url": "https://i.ytimg.com/vi/CzcCW3eXQMM/hqdefault.jpg"
         },
         {
             "video_id": "2_1BVY35U-U",
@@ -52,7 +43,7 @@
             "channel_name": "김치와 바게뜨 / Kimchi & Baguette",
             "category": "People & Blogs",
             "duration": "20:03",
-            "view_count": "564809",
+            "view_count": "566653",
             "thumbnail_url": "https://i.ytimg.com/vi/2_1BVY35U-U/hqdefault.jpg"
         },
         {
@@ -61,8 +52,17 @@
             "channel_name": "뜬뜬 DdeunDdeun",
             "category": "Comedy",
             "duration": "1:16:50",
-            "view_count": "2594307",
+            "view_count": "2599378",
             "thumbnail_url": "https://i.ytimg.com/vi/v_irxupeQhc/hqdefault.jpg"
+        },
+        {
+            "video_id": "CzcCW3eXQMM",
+            "title": "정경호 설인아 차학연 {짠한형} EP. 92 이 회차 대화 없음. 그냥 정경호만 있음ㅋㅋ(혼자만의 세계관이 있었어요)",
+            "channel_name": "짠한형 신동엽",
+            "category": "Entertainment",
+            "duration": "47:58",
+            "view_count": "908422",
+            "thumbnail_url": "https://i.ytimg.com/vi/CzcCW3eXQMM/hqdefault.jpg"
         },
         {
             "video_id": "sszUcs7XzuI",
@@ -70,7 +70,7 @@
             "channel_name": "소피아패밀리(Sophia family)",
             "category": "People & Blogs",
             "duration": "16:43",
-            "view_count": "549853",
+            "view_count": "551318",
             "thumbnail_url": "https://i.ytimg.com/vi/sszUcs7XzuI/hqdefault.jpg"
         },
         {
@@ -79,17 +79,8 @@
             "channel_name": "토모토모TomoTomo",
             "category": "People & Blogs",
             "duration": "32:19",
-            "view_count": "370291",
+            "view_count": "372592",
             "thumbnail_url": "https://i.ytimg.com/vi/9sojB8pTrhE/hqdefault.jpg"
-        },
-        {
-            "video_id": "AAuFrPztTB4",
-            "title": "[라엘 할인 링크 有] 어린이날 생긴 일★ 최고예요와 삼계탕, 맛있는 라면 조합, 롯데월드, 5세 교육 중",
-            "channel_name": "yoovlog",
-            "category": "People & Blogs",
-            "duration": "23:40",
-            "view_count": "184470",
-            "thumbnail_url": "https://i.ytimg.com/vi/AAuFrPztTB4/hqdefault.jpg"
         },
         {
             "video_id": "pTycfmVzdl8",
@@ -97,8 +88,17 @@
             "channel_name": "tripleS official",
             "category": "Music",
             "duration": "3:21",
-            "view_count": "6442197",
+            "view_count": "6561270",
             "thumbnail_url": "https://i.ytimg.com/vi/pTycfmVzdl8/hqdefault.jpg"
+        },
+        {
+            "video_id": "AAuFrPztTB4",
+            "title": "[라엘 할인 링크 有] 어린이날 생긴 일★ 최고예요와 삼계탕, 맛있는 라면 조합, 롯데월드, 5세 교육 중",
+            "channel_name": "yoovlog",
+            "category": "People & Blogs",
+            "duration": "23:40",
+            "view_count": "185280",
+            "thumbnail_url": "https://i.ytimg.com/vi/AAuFrPztTB4/hqdefault.jpg"
         },
         {
             "video_id": "SpGI1UlYIKE",
@@ -106,7 +106,7 @@
             "channel_name": "포테이토 터틀",
             "category": "People & Blogs",
             "duration": "18:22",
-            "view_count": "247428",
+            "view_count": "249508",
             "thumbnail_url": "https://i.ytimg.com/vi/SpGI1UlYIKE/hqdefault.jpg"
         },
         {
@@ -115,7 +115,7 @@
             "channel_name": "Hanwha Life Esports",
             "category": "Gaming",
             "duration": "14:26",
-            "view_count": "280333",
+            "view_count": "281621",
             "thumbnail_url": "https://i.ytimg.com/vi/qjgN0uNxZm0/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "THEBLACKLABEL",
             "category": "Music",
             "duration": "3:26",
-            "view_count": "5416648",
+            "view_count": "5497223",
             "thumbnail_url": "https://i.ytimg.com/vi/l4On7TQoM-M/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "KBS 교양",
             "category": "Entertainment",
             "duration": "23:15",
-            "view_count": "412301",
+            "view_count": "414122",
             "thumbnail_url": "https://i.ytimg.com/vi/XEgTqdOVwBE/hqdefault.jpg"
         },
         {
@@ -142,17 +142,8 @@
             "channel_name": "타일러 볼까요?",
             "category": "Education",
             "duration": "17:29",
-            "view_count": "199921",
+            "view_count": "201503",
             "thumbnail_url": "https://i.ytimg.com/vi/qszMUaPRZQA/hqdefault.jpg"
-        },
-        {
-            "video_id": "KaVC81mtbS4",
-            "title": "이익준의 '응급' 소식을 듣고 달려온 채송화! (+질투하는 손지윤) #언젠가는슬기로울전공의생활 EP.10 | tvN 250511 방송",
-            "channel_name": "tvN DRAMA",
-            "category": "Entertainment",
-            "duration": "3:10",
-            "view_count": "1591747",
-            "thumbnail_url": "https://i.ytimg.com/vi/KaVC81mtbS4/hqdefault.jpg"
         },
         {
             "video_id": "dTwQTqguMAY",
@@ -160,8 +151,17 @@
             "channel_name": "웃소 Wootso",
             "category": "Entertainment",
             "duration": "15:53",
-            "view_count": "588339",
+            "view_count": "588565",
             "thumbnail_url": "https://i.ytimg.com/vi/dTwQTqguMAY/hqdefault.jpg"
+        },
+        {
+            "video_id": "KaVC81mtbS4",
+            "title": "이익준의 '응급' 소식을 듣고 달려온 채송화! (+질투하는 손지윤) #언젠가는슬기로울전공의생활 EP.10 | tvN 250511 방송",
+            "channel_name": "tvN DRAMA",
+            "category": "Entertainment",
+            "duration": "3:10",
+            "view_count": "1594818",
+            "thumbnail_url": "https://i.ytimg.com/vi/KaVC81mtbS4/hqdefault.jpg"
         },
         {
             "video_id": "n8Ycb_kjY2o",
@@ -169,7 +169,7 @@
             "channel_name": "김진짜 Real KIM",
             "category": "Sports",
             "duration": "8:32",
-            "view_count": "509538",
+            "view_count": "510467",
             "thumbnail_url": "https://i.ytimg.com/vi/n8Ycb_kjY2o/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "fantagio 판타지오",
             "category": "Entertainment",
             "duration": "3:53",
-            "view_count": "311426",
+            "view_count": "315313",
             "thumbnail_url": "https://i.ytimg.com/vi/hP092xFmmUo/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "노마드션 No mad Shaun",
             "category": "Travel & Events",
             "duration": "24:26",
-            "view_count": "368606",
+            "view_count": "369265",
             "thumbnail_url": "https://i.ytimg.com/vi/NwF92y8uuj8/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "감스트GAMST",
             "category": "People & Blogs",
             "duration": "46:34",
-            "view_count": "1667737",
+            "view_count": "1670935",
             "thumbnail_url": "https://i.ytimg.com/vi/Zh_LQx3bTs0/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "카리나의 삶",
             "category": "People & Blogs",
             "duration": "11:08",
-            "view_count": "339019",
+            "view_count": "339699",
             "thumbnail_url": "https://i.ytimg.com/vi/yoLaV_oPuU8/hqdefault.jpg"
         },
         {
@@ -214,17 +214,8 @@
             "channel_name": "PLAYLIST ORIGINALS 플레이리스트 오리지널",
             "category": "Entertainment",
             "duration": "43:18",
-            "view_count": "437684",
+            "view_count": "440239",
             "thumbnail_url": "https://i.ytimg.com/vi/XixkTyJQkiU/hqdefault.jpg"
-        },
-        {
-            "video_id": "28wawdBsXSc",
-            "title": "10CM with Joo Woojae (10CM with 주우재) - To Reach You (너에게 닿기를) | Show! MusicCore | MBC250510방송",
-            "channel_name": "MBCkpop",
-            "category": "Music",
-            "duration": "2:57",
-            "view_count": "720826",
-            "thumbnail_url": "https://i.ytimg.com/vi/28wawdBsXSc/hqdefault.jpg"
         },
         {
             "video_id": "hUtnGbYIWxA",
@@ -232,8 +223,17 @@
             "channel_name": "롯데엔터테인먼트",
             "category": "Film & Animation",
             "duration": "1:02",
-            "view_count": "531267",
+            "view_count": "537895",
             "thumbnail_url": "https://i.ytimg.com/vi/hUtnGbYIWxA/hqdefault.jpg"
+        },
+        {
+            "video_id": "28wawdBsXSc",
+            "title": "10CM with Joo Woojae (10CM with 주우재) - To Reach You (너에게 닿기를) | Show! MusicCore | MBC250510방송",
+            "channel_name": "MBCkpop",
+            "category": "Music",
+            "duration": "2:57",
+            "view_count": "723553",
+            "thumbnail_url": "https://i.ytimg.com/vi/28wawdBsXSc/hqdefault.jpg"
         },
         {
             "video_id": "pNPyglygVv8",
@@ -241,7 +241,7 @@
             "channel_name": "아뽀TV",
             "category": "Entertainment",
             "duration": "21:07",
-            "view_count": "206036",
+            "view_count": "206491",
             "thumbnail_url": "https://i.ytimg.com/vi/pNPyglygVv8/hqdefault.jpg"
         },
         {
@@ -250,7 +250,7 @@
             "channel_name": "짧은대본 ShortPaper",
             "category": "Entertainment",
             "duration": "9:00",
-            "view_count": "590703",
+            "view_count": "591930",
             "thumbnail_url": "https://i.ytimg.com/vi/b8NuJyeN11g/hqdefault.jpg"
         },
         {
@@ -259,7 +259,7 @@
             "channel_name": "고초희 Daily Chohees",
             "category": "People & Blogs",
             "duration": "22:24",
-            "view_count": "313954",
+            "view_count": "315016",
             "thumbnail_url": "https://i.ytimg.com/vi/rsU1ZE-2NyU/hqdefault.jpg"
         },
         {
@@ -268,7 +268,7 @@
             "channel_name": "진석기시대",
             "category": "Entertainment",
             "duration": "29:15",
-            "view_count": "425542",
+            "view_count": "426250",
             "thumbnail_url": "https://i.ytimg.com/vi/5lBKm1j7b5U/hqdefault.jpg"
         },
         {
@@ -277,17 +277,8 @@
             "channel_name": "tzuyang쯔양",
             "category": "People & Blogs",
             "duration": "14:50",
-            "view_count": "1310369",
+            "view_count": "1317151",
             "thumbnail_url": "https://i.ytimg.com/vi/nQCE5_KIkIU/hqdefault.jpg"
-        },
-        {
-            "video_id": "WNhcBUmbFgQ",
-            "title": "부추전 힘들게 하지마세요✔️ 이 방법은 맛있는 부추전 만들기 1등 레시피입니다",
-            "channel_name": "엄마의손맛",
-            "category": "Howto & Style",
-            "duration": "15:43",
-            "view_count": "358206",
-            "thumbnail_url": "https://i.ytimg.com/vi/WNhcBUmbFgQ/hqdefault.jpg"
         },
         {
             "video_id": "gDmH7KcXh-4",
@@ -295,8 +286,17 @@
             "channel_name": "조승연의 탐구생활",
             "category": "Howto & Style",
             "duration": "21:32",
-            "view_count": "670526",
+            "view_count": "671910",
             "thumbnail_url": "https://i.ytimg.com/vi/gDmH7KcXh-4/hqdefault.jpg"
+        },
+        {
+            "video_id": "WNhcBUmbFgQ",
+            "title": "부추전 힘들게 하지마세요✔️ 이 방법은 맛있는 부추전 만들기 1등 레시피입니다",
+            "channel_name": "엄마의손맛",
+            "category": "Howto & Style",
+            "duration": "15:43",
+            "view_count": "358863",
+            "thumbnail_url": "https://i.ytimg.com/vi/WNhcBUmbFgQ/hqdefault.jpg"
         },
         {
             "video_id": "DfGpDqHCwks",
@@ -304,7 +304,7 @@
             "channel_name": "곽튜브",
             "category": "Travel & Events",
             "duration": "32:43",
-            "view_count": "723052",
+            "view_count": "723705",
             "thumbnail_url": "https://i.ytimg.com/vi/DfGpDqHCwks/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "tvN SPORTS",
             "category": "Sports",
             "duration": "16:56",
-            "view_count": "743012",
+            "view_count": "743667",
             "thumbnail_url": "https://i.ytimg.com/vi/s1-6DIlQ2mY/hqdefault.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "channel_name": "너덜트",
             "category": "Comedy",
             "duration": "10:51",
-            "view_count": "1009449",
+            "view_count": "1010115",
             "thumbnail_url": "https://i.ytimg.com/vi/RUoXYlvR9PQ/hqdefault.jpg"
         },
         {
@@ -331,7 +331,7 @@
             "channel_name": "테스터훈 TesterHoon",
             "category": "Gaming",
             "duration": "34:18",
-            "view_count": "323677",
+            "view_count": "324568",
             "thumbnail_url": "https://i.ytimg.com/vi/f6-lGGN9Zkw/hqdefault.jpg"
         },
         {
@@ -340,7 +340,7 @@
             "channel_name": "SBS Catch",
             "category": "Entertainment",
             "duration": "14:35",
-            "view_count": "206827",
+            "view_count": "207039",
             "thumbnail_url": "https://i.ytimg.com/vi/3gbSMraPKSA/hqdefault.jpg"
         },
         {
@@ -349,7 +349,7 @@
             "channel_name": "E밥세끼",
             "category": "Entertainment",
             "duration": "22:51",
-            "view_count": "331749",
+            "view_count": "332764",
             "thumbnail_url": "https://i.ytimg.com/vi/2xjGst9ECDk/hqdefault.jpg"
         },
         {
@@ -358,7 +358,7 @@
             "channel_name": "KBS 한국방송",
             "category": "Entertainment",
             "duration": "13:15",
-            "view_count": "355559",
+            "view_count": "356170",
             "thumbnail_url": "https://i.ytimg.com/vi/XffDKG132s0/hqdefault.jpg"
         },
         {
@@ -367,7 +367,7 @@
             "channel_name": "찰스엔터",
             "category": "People & Blogs",
             "duration": "38:30",
-            "view_count": "1335988",
+            "view_count": "1336933",
             "thumbnail_url": "https://i.ytimg.com/vi/sRVBoS87Y9g/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "팔숙이 palsook",
             "category": "Howto & Style",
             "duration": "2:00",
-            "view_count": "135645",
+            "view_count": "135709",
             "thumbnail_url": "https://i.ytimg.com/vi/qLj8ViMr5ag/hqdefault.jpg"
         }
     ]
