@@ -1,13 +1,22 @@
 {
-    "scraped_time": "2025-05-22 15:19:56",
+    "scraped_time": "2025-05-22 16:13:35",
     "videos": [
+        {
+            "video_id": "-lqU6Z9iE0Y",
+            "title": "손흥민 드디어 우승! 'UEL 정상' 정복한 토트넘 #SPOTIME",
+            "channel_name": "스포타임",
+            "category": "Sports",
+            "duration": "3:35",
+            "view_count": "2000237",
+            "thumbnail_url": "https://i.ytimg.com/vi/-lqU6Z9iE0Y/hqdefault.jpg"
+        },
         {
             "video_id": "XnhUQ7k7QWU",
             "title": "[휴먼다큐 자식이 좋다] EP.03 '엄마라는 이름으로' Jamie맘 이소담 씨의 특별한 생일파티 오디션 (20250520 방송) #이수지 #핫이슈지 #자식이좋다",
             "channel_name": "핫이슈지",
             "category": "People & Blogs",
             "duration": "14:42",
-            "view_count": "1352350",
+            "view_count": "1373971",
             "thumbnail_url": "https://i.ytimg.com/vi/XnhUQ7k7QWU/hqdefault.jpg"
         },
         {
@@ -16,7 +25,7 @@
             "channel_name": "순풍 선우용여",
             "category": "People & Blogs",
             "duration": "22:43",
-            "view_count": "559064",
+            "view_count": "573042",
             "thumbnail_url": "https://i.ytimg.com/vi/DhCQkLwSXrg/hqdefault.jpg"
         },
         {
@@ -25,7 +34,7 @@
             "channel_name": "찰스엔터",
             "category": "People & Blogs",
             "duration": "31:00",
-            "view_count": "929771",
+            "view_count": "951566",
             "thumbnail_url": "https://i.ytimg.com/vi/GHR8R9i0t4A/hqdefault.jpg"
         },
         {
@@ -34,8 +43,17 @@
             "channel_name": "고재영",
             "category": "Entertainment",
             "duration": "28:14",
-            "view_count": "1932528",
+            "view_count": "1937193",
             "thumbnail_url": "https://i.ytimg.com/vi/pT96hVA5YF8/hqdefault.jpg"
+        },
+        {
+            "video_id": "CUBPC_UoaTU",
+            "title": "'유튜브 대세 1위' 랄랄이 장영란에게 신신당부한 한마디는? (+김동금,심진화)",
+            "channel_name": "A급 장영란",
+            "category": "Entertainment",
+            "duration": "11:59",
+            "view_count": "175959",
+            "thumbnail_url": "https://i.ytimg.com/vi/CUBPC_UoaTU/hqdefault.jpg"
         },
         {
             "video_id": "lZTCsSZwkBY",
@@ -43,7 +61,7 @@
             "channel_name": "LeoJ Makeup",
             "category": "Entertainment",
             "duration": "20:57",
-            "view_count": "292981",
+            "view_count": "304784",
             "thumbnail_url": "https://i.ytimg.com/vi/lZTCsSZwkBY/hqdefault.jpg"
         },
         {
@@ -52,17 +70,8 @@
             "channel_name": "SEVENTEEN",
             "category": "Music",
             "duration": "26:49",
-            "view_count": "972635",
+            "view_count": "1012658",
             "thumbnail_url": "https://i.ytimg.com/vi/55vXlK_iOr0/hqdefault.jpg"
-        },
-        {
-            "video_id": "CUBPC_UoaTU",
-            "title": "'유튜브 대세 1위' 랄랄이 장영란에게 신신당부한 한마디는? (+김동금,심진화)",
-            "channel_name": "A급 장영란",
-            "category": "Entertainment",
-            "duration": "11:59",
-            "view_count": "167054",
-            "thumbnail_url": "https://i.ytimg.com/vi/CUBPC_UoaTU/hqdefault.jpg"
         },
         {
             "video_id": "vLUtHODdLzk",
@@ -70,7 +79,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:08",
-            "view_count": "13826522",
+            "view_count": "13947099",
             "thumbnail_url": "https://i.ytimg.com/vi/vLUtHODdLzk/hqdefault.jpg"
         },
         {
@@ -79,7 +88,7 @@
             "channel_name": "tvN DRAMA",
             "category": "Entertainment",
             "duration": "9:15",
-            "view_count": "3365103",
+            "view_count": "3370017",
             "thumbnail_url": "https://i.ytimg.com/vi/FPzaVgxbrFs/hqdefault.jpg"
         },
         {
@@ -88,7 +97,7 @@
             "channel_name": "바다 다큐",
             "category": "Entertainment",
             "duration": "18:35",
-            "view_count": "571553",
+            "view_count": "580385",
             "thumbnail_url": "https://i.ytimg.com/vi/wd7PeNb7tEg/hqdefault.jpg"
         },
         {
@@ -97,17 +106,8 @@
             "channel_name": "곽튜브",
             "category": "Travel & Events",
             "duration": "33:54",
-            "view_count": "1388781",
+            "view_count": "1393743",
             "thumbnail_url": "https://i.ytimg.com/vi/Vqjyh_m-5a8/hqdefault.jpg"
-        },
-        {
-            "video_id": "_MVVUlqRjbI",
-            "title": "[EN] [아재개그배틀7편] 라이즈가 왜 여기서 나와? (feat. 은석)",
-            "channel_name": "꼰대희",
-            "category": "Comedy",
-            "duration": "25:13",
-            "view_count": "173864",
-            "thumbnail_url": "https://i.ytimg.com/vi/_MVVUlqRjbI/hqdefault.jpg"
         },
         {
             "video_id": "_PZ_R8LQ7hI",
@@ -115,8 +115,17 @@
             "channel_name": "덱스101",
             "category": "People & Blogs",
             "duration": "38:50",
-            "view_count": "150853",
+            "view_count": "159244",
             "thumbnail_url": "https://i.ytimg.com/vi/_PZ_R8LQ7hI/hqdefault.jpg"
+        },
+        {
+            "video_id": "_MVVUlqRjbI",
+            "title": "[EN] [아재개그배틀7편] 라이즈가 왜 여기서 나와? (feat. 은석)",
+            "channel_name": "꼰대희",
+            "category": "Comedy",
+            "duration": "25:13",
+            "view_count": "177081",
+            "thumbnail_url": "https://i.ytimg.com/vi/_MVVUlqRjbI/hqdefault.jpg"
         },
         {
             "video_id": "ok5-We7BWAs",
@@ -124,7 +133,7 @@
             "channel_name": "둠칫 Doomchit",
             "category": "Entertainment",
             "duration": "16:13",
-            "view_count": "214853",
+            "view_count": "215599",
             "thumbnail_url": "https://i.ytimg.com/vi/ok5-We7BWAs/hqdefault.jpg"
         },
         {
@@ -133,7 +142,7 @@
             "channel_name": "나래식",
             "category": "Entertainment",
             "duration": "44:45",
-            "view_count": "168674",
+            "view_count": "174670",
             "thumbnail_url": "https://i.ytimg.com/vi/yYUzb3XohqA/hqdefault.jpg"
         },
         {
@@ -142,7 +151,7 @@
             "channel_name": "홍현희 제이쓴의 홍쓴TV",
             "category": "People & Blogs",
             "duration": "13:32",
-            "view_count": "305189",
+            "view_count": "309590",
             "thumbnail_url": "https://i.ytimg.com/vi/LmFgzGckpCA/hqdefault.jpg"
         },
         {
@@ -151,7 +160,7 @@
             "channel_name": "카더정원",
             "category": "Film & Animation",
             "duration": "44:23",
-            "view_count": "581244",
+            "view_count": "586255",
             "thumbnail_url": "https://i.ytimg.com/vi/R-DRhcuJrlE/hqdefault.jpg"
         },
         {
@@ -160,7 +169,7 @@
             "channel_name": "JAYKEEOUT 제이키아웃",
             "category": "Entertainment",
             "duration": "25:00",
-            "view_count": "247694",
+            "view_count": "249502",
             "thumbnail_url": "https://i.ytimg.com/vi/l_Ok3lyXjVY/hqdefault.jpg"
         },
         {
@@ -169,7 +178,7 @@
             "channel_name": "i-dle (아이들)",
             "category": "Music",
             "duration": "2:56",
-            "view_count": "16894071",
+            "view_count": "16909507",
             "thumbnail_url": "https://i.ytimg.com/vi/hAONx6nuEgI/hqdefault.jpg"
         },
         {
@@ -178,17 +187,8 @@
             "channel_name": "M2",
             "category": "Entertainment",
             "duration": "3:19",
-            "view_count": "234540",
+            "view_count": "274055",
             "thumbnail_url": "https://i.ytimg.com/vi/nwvZr4QyQgM/hqdefault.jpg"
-        },
-        {
-            "video_id": "KMmCFtibicE",
-            "title": "[주토피아 2] 티저 예고편",
-            "channel_name": "Disney Korea",
-            "category": "Entertainment",
-            "duration": "1:33",
-            "view_count": "452121",
-            "thumbnail_url": "https://i.ytimg.com/vi/KMmCFtibicE/hqdefault.jpg"
         },
         {
             "video_id": "32Xc2WmMqP0",
@@ -196,8 +196,17 @@
             "channel_name": "아옳이",
             "category": "People & Blogs",
             "duration": "30:21",
-            "view_count": "79669",
+            "view_count": "82488",
             "thumbnail_url": "https://i.ytimg.com/vi/32Xc2WmMqP0/hqdefault.jpg"
+        },
+        {
+            "video_id": "KMmCFtibicE",
+            "title": "[주토피아 2] 티저 예고편",
+            "channel_name": "Disney Korea",
+            "category": "Entertainment",
+            "duration": "1:33",
+            "view_count": "464696",
+            "thumbnail_url": "https://i.ytimg.com/vi/KMmCFtibicE/hqdefault.jpg"
         },
         {
             "video_id": "szHovIO2J8E",
@@ -205,17 +214,8 @@
             "channel_name": "노마드션 No mad Shaun",
             "category": "Travel & Events",
             "duration": "30:24",
-            "view_count": "197388",
+            "view_count": "197839",
             "thumbnail_url": "https://i.ytimg.com/vi/szHovIO2J8E/hqdefault.jpg"
-        },
-        {
-            "video_id": "1CoAdU5bgeU",
-            "title": "애호박전, 할머니가 알려준 진짜 맛의 비밀 (한끗차이)",
-            "channel_name": "토깽이 아줌마의 살림일기",
-            "category": "Howto & Style",
-            "duration": "5:57",
-            "view_count": "404137",
-            "thumbnail_url": "https://i.ytimg.com/vi/1CoAdU5bgeU/hqdefault.jpg"
         },
         {
             "video_id": "latu5xPxH6Y",
@@ -223,7 +223,7 @@
             "channel_name": "공부왕찐천재 홍진경",
             "category": "Entertainment",
             "duration": "23:29",
-            "view_count": "372430",
+            "view_count": "376703",
             "thumbnail_url": "https://i.ytimg.com/vi/latu5xPxH6Y/hqdefault.jpg"
         },
         {
@@ -232,17 +232,17 @@
             "channel_name": "집나간아들 Runaway Son",
             "category": "Howto & Style",
             "duration": "2:22",
-            "view_count": "203208",
+            "view_count": "206414",
             "thumbnail_url": "https://i.ytimg.com/vi/OQZc1_acwcc/hqdefault.jpg"
         },
         {
-            "video_id": "aIN-_PFnFhw",
-            "title": "배속에 두명이요?! 엔조이커플 쌍둥이 엄빠당첨?!👶👶 [임신일기 1화] Wait.. Twins?!",
-            "channel_name": "엔조이커플enjoycouple",
-            "category": "Entertainment",
-            "duration": "15:02",
-            "view_count": "1165539",
-            "thumbnail_url": "https://i.ytimg.com/vi/aIN-_PFnFhw/hqdefault.jpg"
+            "video_id": "1CoAdU5bgeU",
+            "title": "애호박전, 할머니가 알려준 진짜 맛의 비밀 (한끗차이)",
+            "channel_name": "토깽이 아줌마의 살림일기",
+            "category": "Howto & Style",
+            "duration": "5:57",
+            "view_count": "405204",
+            "thumbnail_url": "https://i.ytimg.com/vi/1CoAdU5bgeU/hqdefault.jpg"
         },
         {
             "video_id": "eOm2U1kX85E",
@@ -250,8 +250,17 @@
             "channel_name": "잇츠뉴 It'sNEW",
             "category": "Film & Animation",
             "duration": "0:56",
-            "view_count": "370975",
+            "view_count": "378657",
             "thumbnail_url": "https://i.ytimg.com/vi/eOm2U1kX85E/hqdefault.jpg"
+        },
+        {
+            "video_id": "aIN-_PFnFhw",
+            "title": "배속에 두명이요?! 엔조이커플 쌍둥이 엄빠당첨?!👶👶 [임신일기 1화] Wait.. Twins?!",
+            "channel_name": "엔조이커플enjoycouple",
+            "category": "Entertainment",
+            "duration": "15:02",
+            "view_count": "1166182",
+            "thumbnail_url": "https://i.ytimg.com/vi/aIN-_PFnFhw/hqdefault.jpg"
         },
         {
             "video_id": "cNvl3x4PW8g",
@@ -259,17 +268,8 @@
             "channel_name": "유병재",
             "category": "Comedy",
             "duration": "23:35",
-            "view_count": "4183089",
+            "view_count": "4189719",
             "thumbnail_url": "https://i.ytimg.com/vi/cNvl3x4PW8g/hqdefault.jpg"
-        },
-        {
-            "video_id": "2O8I2FqrICU",
-            "title": "90kg→57kg 너무 궁금해하셨던 그녀의 변화.. 다 알려드림! Q&A / 제일 중요한 건 ㅇㅇ였다..! / 다이어트 비법 공개",
-            "channel_name": "샒의 삶Serim's life",
-            "category": "People & Blogs",
-            "duration": "24:57",
-            "view_count": "63810",
-            "thumbnail_url": "https://i.ytimg.com/vi/2O8I2FqrICU/hqdefault.jpg"
         },
         {
             "video_id": "Z_l9zhPFpBY",
@@ -277,8 +277,17 @@
             "channel_name": "아빠하고 나하고",
             "category": "People & Blogs",
             "duration": "1:38",
-            "view_count": "134035",
+            "view_count": "140873",
             "thumbnail_url": "https://i.ytimg.com/vi/Z_l9zhPFpBY/hqdefault.jpg"
+        },
+        {
+            "video_id": "2O8I2FqrICU",
+            "title": "90kg→57kg 너무 궁금해하셨던 그녀의 변화.. 다 알려드림! Q&A / 제일 중요한 건 ㅇㅇ였다..! / 다이어트 비법 공개",
+            "channel_name": "샒의 삶Serim's life",
+            "category": "People & Blogs",
+            "duration": "24:57",
+            "view_count": "64673",
+            "thumbnail_url": "https://i.ytimg.com/vi/2O8I2FqrICU/hqdefault.jpg"
         },
         {
             "video_id": "AinJ6TcU464",
@@ -286,7 +295,7 @@
             "channel_name": "코리안사파리 KoreanSafari",
             "category": "Travel & Events",
             "duration": "21:31",
-            "view_count": "261688",
+            "view_count": "262316",
             "thumbnail_url": "https://i.ytimg.com/vi/AinJ6TcU464/hqdefault.jpg"
         },
         {
@@ -295,7 +304,7 @@
             "channel_name": "유니버설 픽쳐스",
             "category": "Film & Animation",
             "duration": "2:35",
-            "view_count": "245413",
+            "view_count": "247636",
             "thumbnail_url": "https://i.ytimg.com/vi/s8FkMUhu62Q/hqdefault.jpg"
         },
         {
@@ -304,7 +313,7 @@
             "channel_name": "김지윤의 지식Play",
             "category": "Education",
             "duration": "15:56",
-            "view_count": "157778",
+            "view_count": "159170",
             "thumbnail_url": "https://i.ytimg.com/vi/V7JCx1tPERE/hqdefault.jpg"
         },
         {
@@ -313,7 +322,7 @@
             "channel_name": "TVCHOSUN FOOD",
             "category": "People & Blogs",
             "duration": "20:22",
-            "view_count": "157928",
+            "view_count": "159109",
             "thumbnail_url": "https://i.ytimg.com/vi/9RZLdE6f5DE/hqdefault.jpg"
         },
         {
@@ -322,7 +331,7 @@
             "channel_name": "it's Live",
             "category": "Entertainment",
             "duration": "4:30",
-            "view_count": "174115",
+            "view_count": "175458",
             "thumbnail_url": "https://i.ytimg.com/vi/VhI8qOPXfS0/hqdefault.jpg"
         },
         {
@@ -331,7 +340,7 @@
             "channel_name": "총몇명",
             "category": "Film & Animation",
             "duration": "6:02",
-            "view_count": "644289",
+            "view_count": "651668",
             "thumbnail_url": "https://i.ytimg.com/vi/Lse8qlcC4lc/hqdefault.jpg"
         },
         {
@@ -340,17 +349,8 @@
             "channel_name": "Giants TV",
             "category": "Sports",
             "duration": "6:33",
-            "view_count": "284285",
+            "view_count": "285183",
             "thumbnail_url": "https://i.ytimg.com/vi/L1RaPTpeStU/hqdefault.jpg"
-        },
-        {
-            "video_id": "COaYwnVdKbA",
-            "title": "일방적인 협업 x 충주시",
-            "channel_name": "울주군",
-            "category": "Entertainment",
-            "duration": "0:19",
-            "view_count": "244683",
-            "thumbnail_url": "https://i.ytimg.com/vi/COaYwnVdKbA/hqdefault.jpg"
         },
         {
             "video_id": "EjZ5vUg1GtM",
@@ -358,7 +358,7 @@
             "channel_name": "쏘이Soy The World",
             "category": "Travel & Events",
             "duration": "30:29",
-            "view_count": "145111",
+            "view_count": "145648",
             "thumbnail_url": "https://i.ytimg.com/vi/EjZ5vUg1GtM/hqdefault.jpg"
         },
         {
@@ -367,17 +367,17 @@
             "channel_name": "주호다",
             "category": "People & Blogs",
             "duration": "20:06",
-            "view_count": "228855",
+            "view_count": "229720",
             "thumbnail_url": "https://i.ytimg.com/vi/r_kPH4opKD8/hqdefault.jpg"
         },
         {
-            "video_id": "7V7ZsMt6r-w",
-            "title": "이세계아이돌 (ISEGYE IDOL) 'ELEVATE' 이세계페스티벌 2025 실황",
-            "channel_name": "왁타버스 WAKTAVERSE",
-            "category": "Music",
-            "duration": "3:27",
-            "view_count": "562257",
-            "thumbnail_url": "https://i.ytimg.com/vi/7V7ZsMt6r-w/hqdefault.jpg"
+            "video_id": "KoXrPmPXxd8",
+            "title": "카톡 프로필",
+            "channel_name": "띱 Deep",
+            "category": "Comedy",
+            "duration": "10:28",
+            "view_count": "2001519",
+            "thumbnail_url": "https://i.ytimg.com/vi/KoXrPmPXxd8/hqdefault.jpg"
         }
     ]
 }
