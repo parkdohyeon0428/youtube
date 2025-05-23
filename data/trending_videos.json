@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-05-23 18:14:20",
+    "scraped_time": "2025-05-23 19:14:28",
     "videos": [
         {
             "video_id": "sSHYWvPtEtQ",
@@ -7,7 +7,7 @@
             "channel_name": "SPOTV",
             "category": "Sports",
             "duration": "4:08",
-            "view_count": "1629221",
+            "view_count": "1641098",
             "thumbnail_url": "https://i.ytimg.com/vi/sSHYWvPtEtQ/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "스포츠머그 - SPORTSMUG",
             "category": "Sports",
             "duration": "7:58",
-            "view_count": "3043096",
+            "view_count": "3070876",
             "thumbnail_url": "https://i.ytimg.com/vi/MX7yEJw3Gqw/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "스포타임",
             "category": "Sports",
             "duration": "3:35",
-            "view_count": "2903529",
+            "view_count": "2915219",
             "thumbnail_url": "https://i.ytimg.com/vi/-lqU6Z9iE0Y/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "Mnet K-POP",
             "category": "Entertainment",
             "duration": "4:21",
-            "view_count": "1256097",
+            "view_count": "1285208",
             "thumbnail_url": "https://i.ytimg.com/vi/b-OETU2uHM4/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "빠니보틀 Pani Bottle",
             "category": "Travel & Events",
             "duration": "34:56",
-            "view_count": "829634",
+            "view_count": "841047",
             "thumbnail_url": "https://i.ytimg.com/vi/98_vKEuLZ0I/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "인생84",
             "category": "People & Blogs",
             "duration": "20:44",
-            "view_count": "583314",
+            "view_count": "598416",
             "thumbnail_url": "https://i.ytimg.com/vi/5suvccH5d_c/hqdefault.jpg"
         },
         {
@@ -61,35 +61,8 @@
             "channel_name": "걍밍경",
             "category": "People & Blogs",
             "duration": "23:18",
-            "view_count": "395327",
+            "view_count": "409620",
             "thumbnail_url": "https://i.ytimg.com/vi/VswmQP-qSQQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "wsZ5uBLkwIY",
-            "title": "김남주 하우스에 초대합니다 (※집 최초 공개※)",
-            "channel_name": "김남주",
-            "category": "People & Blogs",
-            "duration": "15:03",
-            "view_count": "513425",
-            "thumbnail_url": "https://i.ytimg.com/vi/wsZ5uBLkwIY/hqdefault.jpg"
-        },
-        {
-            "video_id": "XnhUQ7k7QWU",
-            "title": "[휴먼다큐 자식이 좋다] EP.03 '엄마라는 이름으로' Jamie맘 이소담 씨의 특별한 생일파티 오디션 (20250520 방송) #이수지 #핫이슈지 #자식이좋다",
-            "channel_name": "핫이슈지",
-            "category": "People & Blogs",
-            "duration": "14:42",
-            "view_count": "1766887",
-            "thumbnail_url": "https://i.ytimg.com/vi/XnhUQ7k7QWU/hqdefault.jpg"
-        },
-        {
-            "video_id": "3ab2tlM7jjg",
-            "title": "ep03. 최초 공개! / 동원의 드림 하우스",
-            "channel_name": "정동원(JD1)",
-            "category": "Entertainment",
-            "duration": "26:05",
-            "view_count": "205224",
-            "thumbnail_url": "https://i.ytimg.com/vi/3ab2tlM7jjg/hqdefault.jpg"
         },
         {
             "video_id": "gsFcl1Say6s",
@@ -97,8 +70,44 @@
             "channel_name": "동네친구 강나미 [Kangnami]",
             "category": "Entertainment",
             "duration": "36:23",
-            "view_count": "269148",
+            "view_count": "280446",
             "thumbnail_url": "https://i.ytimg.com/vi/gsFcl1Say6s/hqdefault.jpg"
+        },
+        {
+            "video_id": "wsZ5uBLkwIY",
+            "title": "김남주 하우스에 초대합니다 (※집 최초 공개※)",
+            "channel_name": "김남주",
+            "category": "People & Blogs",
+            "duration": "15:03",
+            "view_count": "525568",
+            "thumbnail_url": "https://i.ytimg.com/vi/wsZ5uBLkwIY/hqdefault.jpg"
+        },
+        {
+            "video_id": "3ab2tlM7jjg",
+            "title": "ep03. 최초 공개! / 동원의 드림 하우스",
+            "channel_name": "정동원(JD1)",
+            "category": "Entertainment",
+            "duration": "26:05",
+            "view_count": "215361",
+            "thumbnail_url": "https://i.ytimg.com/vi/3ab2tlM7jjg/hqdefault.jpg"
+        },
+        {
+            "video_id": "XnhUQ7k7QWU",
+            "title": "[휴먼다큐 자식이 좋다] EP.03 '엄마라는 이름으로' Jamie맘 이소담 씨의 특별한 생일파티 오디션 (20250520 방송) #이수지 #핫이슈지 #자식이좋다",
+            "channel_name": "핫이슈지",
+            "category": "People & Blogs",
+            "duration": "14:42",
+            "view_count": "1782845",
+            "thumbnail_url": "https://i.ytimg.com/vi/XnhUQ7k7QWU/hqdefault.jpg"
+        },
+        {
+            "video_id": "3w0yxaYieUs",
+            "title": "[ENG/JPN] 데이트 5번 이상 해본 사람 모솔이다 vs 아니다… 27년 모솔이 정리한 모솔 계급 l TXT(투모로우바이투게더) 수빈 l 찰스엔터 l 최애의 최애",
+            "channel_name": "Pixid",
+            "category": "Entertainment",
+            "duration": "35:50",
+            "view_count": "558052",
+            "thumbnail_url": "https://i.ytimg.com/vi/3w0yxaYieUs/hqdefault.jpg"
         },
         {
             "video_id": "Nw_hJCzeuo0",
@@ -106,7 +115,7 @@
             "channel_name": "안녕하세요 최화정이에요",
             "category": "People & Blogs",
             "duration": "17:58",
-            "view_count": "382383",
+            "view_count": "394209",
             "thumbnail_url": "https://i.ytimg.com/vi/Nw_hJCzeuo0/hqdefault.jpg"
         },
         {
@@ -115,17 +124,8 @@
             "channel_name": "A급 장영란",
             "category": "Entertainment",
             "duration": "11:59",
-            "view_count": "305812",
+            "view_count": "311766",
             "thumbnail_url": "https://i.ytimg.com/vi/CUBPC_UoaTU/hqdefault.jpg"
-        },
-        {
-            "video_id": "3w0yxaYieUs",
-            "title": "[ENG/JPN] 데이트 5번 이상 해본 사람 모솔이다 vs 아니다… 27년 모솔이 정리한 모솔 계급 l TXT(투모로우바이투게더) 수빈 l 찰스엔터 l 최애의 최애",
-            "channel_name": "Pixid",
-            "category": "Entertainment",
-            "duration": "35:50",
-            "view_count": "535482",
-            "thumbnail_url": "https://i.ytimg.com/vi/3w0yxaYieUs/hqdefault.jpg"
         },
         {
             "video_id": "DhCQkLwSXrg",
@@ -133,7 +133,7 @@
             "channel_name": "순풍 선우용여",
             "category": "People & Blogs",
             "duration": "22:43",
-            "view_count": "754832",
+            "view_count": "760133",
             "thumbnail_url": "https://i.ytimg.com/vi/DhCQkLwSXrg/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "쑥쑥 SsookSsook",
             "category": "Comedy",
             "duration": "26:56",
-            "view_count": "189939",
+            "view_count": "193620",
             "thumbnail_url": "https://i.ytimg.com/vi/FGu6XfYAumU/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "SEVENTEEN",
             "category": "Music",
             "duration": "26:49",
-            "view_count": "1566864",
+            "view_count": "1582432",
             "thumbnail_url": "https://i.ytimg.com/vi/55vXlK_iOr0/hqdefault.jpg"
         },
         {
@@ -160,17 +160,8 @@
             "channel_name": "LeoJ Makeup",
             "category": "Entertainment",
             "duration": "20:57",
-            "view_count": "445639",
+            "view_count": "450957",
             "thumbnail_url": "https://i.ytimg.com/vi/lZTCsSZwkBY/hqdefault.jpg"
-        },
-        {
-            "video_id": "pT96hVA5YF8",
-            "title": "초호화 제주 여행은 돈값 할까?",
-            "channel_name": "고재영",
-            "category": "Entertainment",
-            "duration": "28:14",
-            "view_count": "2066915",
-            "thumbnail_url": "https://i.ytimg.com/vi/pT96hVA5YF8/hqdefault.jpg"
         },
         {
             "video_id": "bIJLVihHoNM",
@@ -178,7 +169,7 @@
             "channel_name": "이미숙_숙스러운 미숙씨",
             "category": "People & Blogs",
             "duration": "20:26",
-            "view_count": "244059",
+            "view_count": "253149",
             "thumbnail_url": "https://i.ytimg.com/vi/bIJLVihHoNM/hqdefault.jpg"
         },
         {
@@ -187,17 +178,17 @@
             "channel_name": "살빼조DietJo",
             "category": "People & Blogs",
             "duration": "24:22",
-            "view_count": "158118",
+            "view_count": "165080",
             "thumbnail_url": "https://i.ytimg.com/vi/OpSL5W2hXaQ/hqdefault.jpg"
         },
         {
-            "video_id": "AdDLlVEQMDU",
-            "title": "나홀로 몽골 수도 둘러보기⎪🇲🇳몽골2",
-            "channel_name": "원지의하루",
-            "category": "People & Blogs",
-            "duration": "17:30",
-            "view_count": "192887",
-            "thumbnail_url": "https://i.ytimg.com/vi/AdDLlVEQMDU/hqdefault.jpg"
+            "video_id": "pT96hVA5YF8",
+            "title": "초호화 제주 여행은 돈값 할까?",
+            "channel_name": "고재영",
+            "category": "Entertainment",
+            "duration": "28:14",
+            "view_count": "2073881",
+            "thumbnail_url": "https://i.ytimg.com/vi/pT96hVA5YF8/hqdefault.jpg"
         },
         {
             "video_id": "I_wVYO42USo",
@@ -205,8 +196,17 @@
             "channel_name": "김대석 셰프TV",
             "category": "Howto & Style",
             "duration": "8:20",
-            "view_count": "325828",
+            "view_count": "333955",
             "thumbnail_url": "https://i.ytimg.com/vi/I_wVYO42USo/hqdefault.jpg"
+        },
+        {
+            "video_id": "AdDLlVEQMDU",
+            "title": "나홀로 몽골 수도 둘러보기⎪🇲🇳몽골2",
+            "channel_name": "원지의하루",
+            "category": "People & Blogs",
+            "duration": "17:30",
+            "view_count": "196500",
+            "thumbnail_url": "https://i.ytimg.com/vi/AdDLlVEQMDU/hqdefault.jpg"
         },
         {
             "video_id": "Hovjobytbc8",
@@ -214,26 +214,8 @@
             "channel_name": "Mnet K-POP",
             "category": "Entertainment",
             "duration": "4:02",
-            "view_count": "341013",
+            "view_count": "347167",
             "thumbnail_url": "https://i.ytimg.com/vi/Hovjobytbc8/hqdefault.jpg"
-        },
-        {
-            "video_id": "aBR2ZMN-eJU",
-            "title": "흥민아!!!!! 우승 축하한다아라아아라악ㅇ강ㅅ!!!!!!!!!!!!!!!!!!!!!",
-            "channel_name": "리춘수 [이천수]",
-            "category": "Sports",
-            "duration": "8:02",
-            "view_count": "303093",
-            "thumbnail_url": "https://i.ytimg.com/vi/aBR2ZMN-eJU/hqdefault.jpg"
-        },
-        {
-            "video_id": "DvWvbZ6GANI",
-            "title": "#이벤트 찰스가 연프에 나온다면…? 💗 리액션 아니고 실전 5:1 로테이션 소개팅 편 (도파민 레전드 또 찍음) [연애기회비용 EP.3]",
-            "channel_name": "iM금융그룹 공식유튜브 iM타운",
-            "category": "Entertainment",
-            "duration": "20:13",
-            "view_count": "84374",
-            "thumbnail_url": "https://i.ytimg.com/vi/DvWvbZ6GANI/hqdefault.jpg"
         },
         {
             "video_id": "23ih3V1aBTY",
@@ -241,8 +223,26 @@
             "channel_name": "이지금 [IU Official]",
             "category": "Entertainment",
             "duration": "0:40",
-            "view_count": "362072",
+            "view_count": "373378",
             "thumbnail_url": "https://i.ytimg.com/vi/23ih3V1aBTY/hqdefault.jpg"
+        },
+        {
+            "video_id": "DvWvbZ6GANI",
+            "title": "#이벤트 찰스가 연프에 나온다면…? 💗 리액션 아니고 실전 5:1 로테이션 소개팅 편 (도파민 레전드 또 찍음) [연애기회비용 EP.3]",
+            "channel_name": "iM금융그룹 공식유튜브 iM타운",
+            "category": "Entertainment",
+            "duration": "20:13",
+            "view_count": "88593",
+            "thumbnail_url": "https://i.ytimg.com/vi/DvWvbZ6GANI/hqdefault.jpg"
+        },
+        {
+            "video_id": "aBR2ZMN-eJU",
+            "title": "흥민아!!!!! 우승 축하한다아라아아라악ㅇ강ㅅ!!!!!!!!!!!!!!!!!!!!!",
+            "channel_name": "리춘수 [이천수]",
+            "category": "Sports",
+            "duration": "8:02",
+            "view_count": "307598",
+            "thumbnail_url": "https://i.ytimg.com/vi/aBR2ZMN-eJU/hqdefault.jpg"
         },
         {
             "video_id": "GHR8R9i0t4A",
@@ -250,7 +250,7 @@
             "channel_name": "찰스엔터",
             "category": "People & Blogs",
             "duration": "31:00",
-            "view_count": "1232310",
+            "view_count": "1241701",
             "thumbnail_url": "https://i.ytimg.com/vi/GHR8R9i0t4A/hqdefault.jpg"
         },
         {
@@ -259,7 +259,7 @@
             "channel_name": "덱스101",
             "category": "People & Blogs",
             "duration": "38:50",
-            "view_count": "280365",
+            "view_count": "287545",
             "thumbnail_url": "https://i.ytimg.com/vi/_PZ_R8LQ7hI/hqdefault.jpg"
         },
         {
@@ -268,7 +268,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:08",
-            "view_count": "16033821",
+            "view_count": "16095404",
             "thumbnail_url": "https://i.ytimg.com/vi/vLUtHODdLzk/hqdefault.jpg"
         },
         {
@@ -277,7 +277,7 @@
             "channel_name": "바다 다큐",
             "category": "Entertainment",
             "duration": "18:35",
-            "view_count": "690803",
+            "view_count": "693830",
             "thumbnail_url": "https://i.ytimg.com/vi/wd7PeNb7tEg/hqdefault.jpg"
         },
         {
@@ -286,7 +286,7 @@
             "channel_name": "The Tonight Show Starring Jimmy Fallon",
             "category": "Comedy",
             "duration": "3:41",
-            "view_count": "517815",
+            "view_count": "525481",
             "thumbnail_url": "https://i.ytimg.com/vi/GRr0XQd0ogc/hqdefault.jpg"
         },
         {
@@ -295,7 +295,7 @@
             "channel_name": "tvN DRAMA",
             "category": "Entertainment",
             "duration": "9:15",
-            "view_count": "3484535",
+            "view_count": "3489334",
             "thumbnail_url": "https://i.ytimg.com/vi/FPzaVgxbrFs/hqdefault.jpg"
         },
         {
@@ -304,7 +304,7 @@
             "channel_name": "곽튜브",
             "category": "Travel & Events",
             "duration": "33:54",
-            "view_count": "1487873",
+            "view_count": "1492441",
             "thumbnail_url": "https://i.ytimg.com/vi/Vqjyh_m-5a8/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "스포타임",
             "category": "Sports",
             "duration": "4:22",
-            "view_count": "1040893",
+            "view_count": "1046059",
             "thumbnail_url": "https://i.ytimg.com/vi/SrDG6SqxUFw/hqdefault.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "channel_name": "집나간아들 Runaway Son",
             "category": "Howto & Style",
             "duration": "2:22",
-            "view_count": "321832",
+            "view_count": "325610",
             "thumbnail_url": "https://i.ytimg.com/vi/OQZc1_acwcc/hqdefault.jpg"
         },
         {
@@ -331,7 +331,7 @@
             "channel_name": "JAYKEEOUT 제이키아웃",
             "category": "Entertainment",
             "duration": "25:00",
-            "view_count": "305802",
+            "view_count": "308376",
             "thumbnail_url": "https://i.ytimg.com/vi/l_Ok3lyXjVY/hqdefault.jpg"
         },
         {
@@ -340,7 +340,7 @@
             "channel_name": "박비비 VIVI",
             "category": "People & Blogs",
             "duration": "12:22",
-            "view_count": "161059",
+            "view_count": "164804",
             "thumbnail_url": "https://i.ytimg.com/vi/c3tAxfHcBlg/hqdefault.jpg"
         },
         {
@@ -349,7 +349,7 @@
             "channel_name": "아옳이",
             "category": "People & Blogs",
             "duration": "30:21",
-            "view_count": "121139",
+            "view_count": "122468",
             "thumbnail_url": "https://i.ytimg.com/vi/32Xc2WmMqP0/hqdefault.jpg"
         },
         {
@@ -358,7 +358,7 @@
             "channel_name": "샒의 삶Serim's life",
             "category": "People & Blogs",
             "duration": "24:57",
-            "view_count": "83406",
+            "view_count": "84077",
             "thumbnail_url": "https://i.ytimg.com/vi/2O8I2FqrICU/hqdefault.jpg"
         },
         {
@@ -367,7 +367,7 @@
             "channel_name": "노마드션 No mad Shaun",
             "category": "Travel & Events",
             "duration": "30:24",
-            "view_count": "209396",
+            "view_count": "209824",
             "thumbnail_url": "https://i.ytimg.com/vi/szHovIO2J8E/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "토깽이 아줌마의 살림일기",
             "category": "Howto & Style",
             "duration": "5:57",
-            "view_count": "427004",
+            "view_count": "428042",
             "thumbnail_url": "https://i.ytimg.com/vi/1CoAdU5bgeU/hqdefault.jpg"
         }
     ]
