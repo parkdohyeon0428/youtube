@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-05-26 20:10:59",
+    "scraped_time": "2025-05-26 21:26:28",
     "videos": [
         {
             "video_id": "p0K2JmNyQkM",
@@ -7,7 +7,7 @@
             "channel_name": "뜬뜬 DdeunDdeun",
             "category": "Comedy",
             "duration": "1:32:00",
-            "view_count": "2628893",
+            "view_count": "2669908",
             "thumbnail_url": "https://i.ytimg.com/vi/p0K2JmNyQkM/hqdefault.jpg"
         },
         {
@@ -16,17 +16,8 @@
             "channel_name": "우왁굳",
             "category": "Gaming",
             "duration": "19:01",
-            "view_count": "478133",
+            "view_count": "486346",
             "thumbnail_url": "https://i.ytimg.com/vi/6InrlhfurZc/hqdefault.jpg"
-        },
-        {
-            "video_id": "31nFSrB3CtY",
-            "title": "석구오빠랑 데이트 했어요……🦊💓🧌……….",
-            "channel_name": "짐미조",
-            "category": "People & Blogs",
-            "duration": "32:48",
-            "view_count": "612052",
-            "thumbnail_url": "https://i.ytimg.com/vi/31nFSrB3CtY/hqdefault.jpg"
         },
         {
             "video_id": "DApeA1Fd_gI",
@@ -34,8 +25,17 @@
             "channel_name": "tzuyang쯔양",
             "category": "People & Blogs",
             "duration": "18:57",
-            "view_count": "1364509",
+            "view_count": "1501058",
             "thumbnail_url": "https://i.ytimg.com/vi/DApeA1Fd_gI/hqdefault.jpg"
+        },
+        {
+            "video_id": "31nFSrB3CtY",
+            "title": "석구오빠랑 데이트 했어요……🦊💓🧌……….",
+            "channel_name": "짐미조",
+            "category": "People & Blogs",
+            "duration": "32:48",
+            "view_count": "625379",
+            "thumbnail_url": "https://i.ytimg.com/vi/31nFSrB3CtY/hqdefault.jpg"
         },
         {
             "video_id": "Z64fifFDu-U",
@@ -43,7 +43,7 @@
             "channel_name": "먹어볼래TryToEat",
             "category": "People & Blogs",
             "duration": "9:39",
-            "view_count": "293882",
+            "view_count": "310579",
             "thumbnail_url": "https://i.ytimg.com/vi/Z64fifFDu-U/hqdefault.jpg"
         },
         {
@@ -52,35 +52,8 @@
             "channel_name": "The CHOOM (더 춤)",
             "category": "Entertainment",
             "duration": "7:34",
-            "view_count": "1543523",
+            "view_count": "1558580",
             "thumbnail_url": "https://i.ytimg.com/vi/6Flj83XsQAU/hqdefault.jpg"
-        },
-        {
-            "video_id": "sSHYWvPtEtQ",
-            "title": "[24/25 UEL] 토트넘 vs 맨유 손흥민 주요장면｜SPOTV FOOTBALL",
-            "channel_name": "SPOTV",
-            "category": "Sports",
-            "duration": "4:08",
-            "view_count": "1913965",
-            "thumbnail_url": "https://i.ytimg.com/vi/sSHYWvPtEtQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "5OuE4Qrp9Ac",
-            "title": "인기가수 이명화를 만든 장공장장을 아시나요? l 장공장장X이명화 신곡 녹음 현장 [도장TV 172회]",
-            "channel_name": "도장TV",
-            "category": "People & Blogs",
-            "duration": "17:36",
-            "view_count": "628343",
-            "thumbnail_url": "https://i.ytimg.com/vi/5OuE4Qrp9Ac/hqdefault.jpg"
-        },
-        {
-            "video_id": "p34vSNxKfgk",
-            "title": "불닭 대통령으로서 이날만을 기다려왔다. 이영지 vs 제작진의 라면 대결🍜 #highlight #뿅뿅지구오락실3 EP.5",
-            "channel_name": "tvN Joy",
-            "category": "Entertainment",
-            "duration": "15:36",
-            "view_count": "1136815",
-            "thumbnail_url": "https://i.ytimg.com/vi/p34vSNxKfgk/hqdefault.jpg"
         },
         {
             "video_id": "jjo4Zgb0OGk",
@@ -88,8 +61,35 @@
             "channel_name": "이지금 [IU Official]",
             "category": "Entertainment",
             "duration": "0:43",
-            "view_count": "565239",
+            "view_count": "586263",
             "thumbnail_url": "https://i.ytimg.com/vi/jjo4Zgb0OGk/hqdefault.jpg"
+        },
+        {
+            "video_id": "p34vSNxKfgk",
+            "title": "불닭 대통령으로서 이날만을 기다려왔다. 이영지 vs 제작진의 라면 대결🍜 #highlight #뿅뿅지구오락실3 EP.5",
+            "channel_name": "tvN Joy",
+            "category": "Entertainment",
+            "duration": "15:36",
+            "view_count": "1152804",
+            "thumbnail_url": "https://i.ytimg.com/vi/p34vSNxKfgk/hqdefault.jpg"
+        },
+        {
+            "video_id": "5OuE4Qrp9Ac",
+            "title": "인기가수 이명화를 만든 장공장장을 아시나요? l 장공장장X이명화 신곡 녹음 현장 [도장TV 172회]",
+            "channel_name": "도장TV",
+            "category": "People & Blogs",
+            "duration": "17:36",
+            "view_count": "633473",
+            "thumbnail_url": "https://i.ytimg.com/vi/5OuE4Qrp9Ac/hqdefault.jpg"
+        },
+        {
+            "video_id": "sSHYWvPtEtQ",
+            "title": "[24/25 UEL] 토트넘 vs 맨유 손흥민 주요장면｜SPOTV FOOTBALL",
+            "channel_name": "SPOTV",
+            "category": "Sports",
+            "duration": "4:08",
+            "view_count": "1915835",
+            "thumbnail_url": "https://i.ytimg.com/vi/sSHYWvPtEtQ/hqdefault.jpg"
         },
         {
             "video_id": "b-OETU2uHM4",
@@ -97,7 +97,7 @@
             "channel_name": "Mnet K-POP",
             "category": "Entertainment",
             "duration": "4:21",
-            "view_count": "2120351",
+            "view_count": "2130597",
             "thumbnail_url": "https://i.ytimg.com/vi/b-OETU2uHM4/hqdefault.jpg"
         },
         {
@@ -106,17 +106,8 @@
             "channel_name": "스포츠머그 - SPORTSMUG",
             "category": "Sports",
             "duration": "7:58",
-            "view_count": "3567658",
+            "view_count": "3569634",
             "thumbnail_url": "https://i.ytimg.com/vi/MX7yEJw3Gqw/hqdefault.jpg"
-        },
-        {
-            "video_id": "tdOstiUW16o",
-            "title": "내 생일 안 챙겨줘도 돼",
-            "channel_name": "너덜트",
-            "category": "Comedy",
-            "duration": "8:20",
-            "view_count": "675754",
-            "thumbnail_url": "https://i.ytimg.com/vi/tdOstiUW16o/hqdefault.jpg"
         },
         {
             "video_id": "QF6P6BSPDRw",
@@ -124,8 +115,17 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:32",
-            "view_count": "641675",
+            "view_count": "654547",
             "thumbnail_url": "https://i.ytimg.com/vi/QF6P6BSPDRw/hqdefault.jpg"
+        },
+        {
+            "video_id": "tdOstiUW16o",
+            "title": "내 생일 안 챙겨줘도 돼",
+            "channel_name": "너덜트",
+            "category": "Comedy",
+            "duration": "8:20",
+            "view_count": "685194",
+            "thumbnail_url": "https://i.ytimg.com/vi/tdOstiUW16o/hqdefault.jpg"
         },
         {
             "video_id": "S1rkca8P79c",
@@ -133,7 +133,7 @@
             "channel_name": "휘토피아 htopia",
             "category": "Travel & Events",
             "duration": "36:26",
-            "view_count": "215473",
+            "view_count": "224035",
             "thumbnail_url": "https://i.ytimg.com/vi/S1rkca8P79c/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "스포타임",
             "category": "Sports",
             "duration": "3:35",
-            "view_count": "3103888",
+            "view_count": "3104879",
             "thumbnail_url": "https://i.ytimg.com/vi/-lqU6Z9iE0Y/hqdefault.jpg"
         },
         {
@@ -151,35 +151,8 @@
             "channel_name": "유니버설 픽쳐스",
             "category": "Film & Animation",
             "duration": "0:39",
-            "view_count": "78191",
+            "view_count": "81105",
             "thumbnail_url": "https://i.ytimg.com/vi/OJ44N3X5Zi8/hqdefault.jpg"
-        },
-        {
-            "video_id": "p-f3JI7dJhU",
-            "title": "남친이 친구들 안 보여주는 이유",
-            "channel_name": "풀리밍 FLIMING",
-            "category": "Entertainment",
-            "duration": "9:17",
-            "view_count": "199719",
-            "thumbnail_url": "https://i.ytimg.com/vi/p-f3JI7dJhU/hqdefault.jpg"
-        },
-        {
-            "video_id": "3w0yxaYieUs",
-            "title": "[ENG/JPN] 데이트 5번 이상 해본 사람 모솔이다 vs 아니다… 27년 모솔이 정리한 모솔 계급 | TXT(투모로우바이투게더) 수빈 | 찰스엔터 | 최애의 최애",
-            "channel_name": "Pixid",
-            "category": "Entertainment",
-            "duration": "35:50",
-            "view_count": "1084195",
-            "thumbnail_url": "https://i.ytimg.com/vi/3w0yxaYieUs/hqdefault.jpg"
-        },
-        {
-            "video_id": "cad4jCONehs",
-            "title": "둘에서 셋이 된 우리..🤍 저 임신했어요 👶🏻 가족, 친구들에게 알리던 순간들 🎉",
-            "channel_name": "fromsydney",
-            "category": "People & Blogs",
-            "duration": "21:47",
-            "view_count": "88911",
-            "thumbnail_url": "https://i.ytimg.com/vi/cad4jCONehs/hqdefault.jpg"
         },
         {
             "video_id": "wDrcVVtJkT4",
@@ -187,8 +160,35 @@
             "channel_name": "해쭈 [HAEJOO]",
             "category": "People & Blogs",
             "duration": "16:01",
-            "view_count": "307232",
+            "view_count": "318276",
             "thumbnail_url": "https://i.ytimg.com/vi/wDrcVVtJkT4/hqdefault.jpg"
+        },
+        {
+            "video_id": "p-f3JI7dJhU",
+            "title": "남친이 친구들 안 보여주는 이유",
+            "channel_name": "풀리밍 FLIMING",
+            "category": "Entertainment",
+            "duration": "9:17",
+            "view_count": "203164",
+            "thumbnail_url": "https://i.ytimg.com/vi/p-f3JI7dJhU/hqdefault.jpg"
+        },
+        {
+            "video_id": "cad4jCONehs",
+            "title": "둘에서 셋이 된 우리..🤍 저 임신했어요 👶🏻 가족, 친구들에게 알리던 순간들 🎉",
+            "channel_name": "fromsydney",
+            "category": "People & Blogs",
+            "duration": "21:47",
+            "view_count": "91948",
+            "thumbnail_url": "https://i.ytimg.com/vi/cad4jCONehs/hqdefault.jpg"
+        },
+        {
+            "video_id": "3w0yxaYieUs",
+            "title": "[ENG/JPN] 데이트 5번 이상 해본 사람 모솔이다 vs 아니다… 27년 모솔이 정리한 모솔 계급 | TXT(투모로우바이투게더) 수빈 | 찰스엔터 | 최애의 최애",
+            "channel_name": "Pixid",
+            "category": "Entertainment",
+            "duration": "35:50",
+            "view_count": "1089358",
+            "thumbnail_url": "https://i.ytimg.com/vi/3w0yxaYieUs/hqdefault.jpg"
         },
         {
             "video_id": "S9Utiq4IjUs",
@@ -196,8 +196,17 @@
             "channel_name": "KOMERICAN",
             "category": "People & Blogs",
             "duration": "20:03",
-            "view_count": "158274",
+            "view_count": "161650",
             "thumbnail_url": "https://i.ytimg.com/vi/S9Utiq4IjUs/hqdefault.jpg"
+        },
+        {
+            "video_id": "1piS2OyK-s8",
+            "title": "젝키가 뭉쳤다😆 고지용이 보고싶어서 바로 보러 간 은지원&장수원😄 [살림하는 남자들/House Husband 2] | KBS 250524 방송",
+            "channel_name": "KBS Entertain",
+            "category": "Entertainment",
+            "duration": "9:50",
+            "view_count": "495407",
+            "thumbnail_url": "https://i.ytimg.com/vi/1piS2OyK-s8/hqdefault.jpg"
         },
         {
             "video_id": "98_vKEuLZ0I",
@@ -205,7 +214,7 @@
             "channel_name": "빠니보틀 Pani Bottle",
             "category": "Travel & Events",
             "duration": "34:56",
-            "view_count": "1261974",
+            "view_count": "1267781",
             "thumbnail_url": "https://i.ytimg.com/vi/98_vKEuLZ0I/hqdefault.jpg"
         },
         {
@@ -214,17 +223,8 @@
             "channel_name": "YG ENTERTAINMENT",
             "category": "Music",
             "duration": "8:17",
-            "view_count": "1195823",
+            "view_count": "1230878",
             "thumbnail_url": "https://i.ytimg.com/vi/wsiGUcSDGgg/hqdefault.jpg"
-        },
-        {
-            "video_id": "1piS2OyK-s8",
-            "title": "젝키가 뭉쳤다😆 고지용이 보고싶어서 바로 보러 간 은지원&장수원😄 [살림하는 남자들/House Husband 2] | KBS 250524 방송",
-            "channel_name": "KBS Entertain",
-            "category": "Entertainment",
-            "duration": "9:50",
-            "view_count": "490817",
-            "thumbnail_url": "https://i.ytimg.com/vi/1piS2OyK-s8/hqdefault.jpg"
         },
         {
             "video_id": "xRpNbJSsYYU",
@@ -232,7 +232,7 @@
             "channel_name": "노마드션 No mad Shaun",
             "category": "Travel & Events",
             "duration": "28:48",
-            "view_count": "532738",
+            "view_count": "537189",
             "thumbnail_url": "https://i.ytimg.com/vi/xRpNbJSsYYU/hqdefault.jpg"
         },
         {
@@ -241,7 +241,7 @@
             "channel_name": "브루스리 TV",
             "category": "People & Blogs",
             "duration": "22:18",
-            "view_count": "160013",
+            "view_count": "162022",
             "thumbnail_url": "https://i.ytimg.com/vi/CRQ0DyEEQpw/hqdefault.jpg"
         },
         {
@@ -250,7 +250,7 @@
             "channel_name": "아이돌 인간극장",
             "category": "Music",
             "duration": "33:31",
-            "view_count": "279279",
+            "view_count": "280971",
             "thumbnail_url": "https://i.ytimg.com/vi/EE6IyyGhzAY/hqdefault.jpg"
         },
         {
@@ -259,17 +259,8 @@
             "channel_name": "인생84",
             "category": "Entertainment",
             "duration": "20:44",
-            "view_count": "980815",
+            "view_count": "986524",
             "thumbnail_url": "https://i.ytimg.com/vi/5suvccH5d_c/hqdefault.jpg"
-        },
-        {
-            "video_id": "qkkZbkG1kM0",
-            "title": "우승 확정되자마자 '경기장 난입' 뒤집어진 런던...광란의 토트넘 팬들, 영국·스페인 현지 분위기 / 스포츠머그",
-            "channel_name": "스포츠머그 - SPORTSMUG",
-            "category": "Sports",
-            "duration": "3:16",
-            "view_count": "1233720",
-            "thumbnail_url": "https://i.ytimg.com/vi/qkkZbkG1kM0/hqdefault.jpg"
         },
         {
             "video_id": "3ab2tlM7jjg",
@@ -277,8 +268,17 @@
             "channel_name": "정동원(JD1)",
             "category": "Entertainment",
             "duration": "26:05",
-            "view_count": "824752",
+            "view_count": "835524",
             "thumbnail_url": "https://i.ytimg.com/vi/3ab2tlM7jjg/hqdefault.jpg"
+        },
+        {
+            "video_id": "qkkZbkG1kM0",
+            "title": "우승 확정되자마자 '경기장 난입' 뒤집어진 런던...광란의 토트넘 팬들, 영국·스페인 현지 분위기 / 스포츠머그",
+            "channel_name": "스포츠머그 - SPORTSMUG",
+            "category": "Sports",
+            "duration": "3:16",
+            "view_count": "1234735",
+            "thumbnail_url": "https://i.ytimg.com/vi/qkkZbkG1kM0/hqdefault.jpg"
         },
         {
             "video_id": "ikpOgaPVkQk",
@@ -286,7 +286,7 @@
             "channel_name": "홍현희 제이쓴의 홍쓴TV",
             "category": "People & Blogs",
             "duration": "17:19",
-            "view_count": "268458",
+            "view_count": "269548",
             "thumbnail_url": "https://i.ytimg.com/vi/ikpOgaPVkQk/hqdefault.jpg"
         },
         {
@@ -295,7 +295,7 @@
             "channel_name": "걍밍경",
             "category": "People & Blogs",
             "duration": "23:18",
-            "view_count": "778582",
+            "view_count": "783050",
             "thumbnail_url": "https://i.ytimg.com/vi/VswmQP-qSQQ/hqdefault.jpg"
         },
         {
@@ -304,7 +304,7 @@
             "channel_name": "라꼰즈 | Rakkonz",
             "category": "Entertainment",
             "duration": "31:53",
-            "view_count": "711669",
+            "view_count": "726873",
             "thumbnail_url": "https://i.ytimg.com/vi/pOXDSwmGXOg/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "이지금 [IU Official]",
             "category": "Entertainment",
             "duration": "0:40",
-            "view_count": "714108",
+            "view_count": "719811",
             "thumbnail_url": "https://i.ytimg.com/vi/23ih3V1aBTY/hqdefault.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "channel_name": "김남주",
             "category": "People & Blogs",
             "duration": "15:03",
-            "view_count": "829888",
+            "view_count": "832326",
             "thumbnail_url": "https://i.ytimg.com/vi/wsZ5uBLkwIY/hqdefault.jpg"
         },
         {
@@ -331,7 +331,7 @@
             "channel_name": "동네친구 강나미 [Kangnami]",
             "category": "Entertainment",
             "duration": "36:23",
-            "view_count": "655643",
+            "view_count": "661742",
             "thumbnail_url": "https://i.ytimg.com/vi/gsFcl1Say6s/hqdefault.jpg"
         },
         {
@@ -340,7 +340,7 @@
             "channel_name": "션과 함께",
             "category": "People & Blogs",
             "duration": "14:58",
-            "view_count": "249588",
+            "view_count": "251755",
             "thumbnail_url": "https://i.ytimg.com/vi/PemYhbe9s_M/hqdefault.jpg"
         },
         {
@@ -349,7 +349,7 @@
             "channel_name": "엔조이커플enjoycouple",
             "category": "Entertainment",
             "duration": "16:13",
-            "view_count": "624953",
+            "view_count": "636198",
             "thumbnail_url": "https://i.ytimg.com/vi/joWVKyKKEZI/hqdefault.jpg"
         },
         {
@@ -358,7 +358,7 @@
             "channel_name": "살빼조DietJo",
             "category": "People & Blogs",
             "duration": "24:22",
-            "view_count": "331922",
+            "view_count": "333547",
             "thumbnail_url": "https://i.ytimg.com/vi/OpSL5W2hXaQ/hqdefault.jpg"
         },
         {
@@ -367,7 +367,7 @@
             "channel_name": "원지의하루",
             "category": "People & Blogs",
             "duration": "17:30",
-            "view_count": "288100",
+            "view_count": "289149",
             "thumbnail_url": "https://i.ytimg.com/vi/AdDLlVEQMDU/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "고재영",
             "category": "Entertainment",
             "duration": "28:14",
-            "view_count": "2396358",
+            "view_count": "2401207",
             "thumbnail_url": "https://i.ytimg.com/vi/pT96hVA5YF8/hqdefault.jpg"
         }
     ]
