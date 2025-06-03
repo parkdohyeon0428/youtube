@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-06-04 01:18:41",
+    "scraped_time": "2025-06-04 02:13:22",
     "videos": [
         {
             "video_id": "KveFYFpZO0A",
@@ -7,7 +7,7 @@
             "channel_name": "뜬뜬 DdeunDdeun",
             "category": "Comedy",
             "duration": "1:43:08",
-            "view_count": "3327846",
+            "view_count": "3337517",
             "thumbnail_url": "https://i.ytimg.com/vi/KveFYFpZO0A/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "빠더너스 BDNS",
             "category": "Comedy",
             "duration": "29:01",
-            "view_count": "1322360",
+            "view_count": "1326358",
             "thumbnail_url": "https://i.ytimg.com/vi/7sDBEb3w2r8/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:59",
-            "view_count": "2475902",
+            "view_count": "2480136",
             "thumbnail_url": "https://i.ytimg.com/vi/Y9E0S0r_Elg/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "피지컬갤러리",
             "category": "Sports",
             "duration": "35:26",
-            "view_count": "1309516",
+            "view_count": "1318349",
             "thumbnail_url": "https://i.ytimg.com/vi/rcOe3Nl4fKY/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "THE FIRST TAKE",
             "category": "Music",
             "duration": "3:55",
-            "view_count": "1345431",
+            "view_count": "1364088",
             "thumbnail_url": "https://i.ytimg.com/vi/BiTEQGmPRfQ/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "픽고 PICKGO",
             "category": "Entertainment",
             "duration": "9:54",
-            "view_count": "818510",
+            "view_count": "820563",
             "thumbnail_url": "https://i.ytimg.com/vi/oF2IHtrjyDs/hqdefault.jpg"
         },
         {
@@ -61,17 +61,8 @@
             "channel_name": "STN SPORTS",
             "category": "Sports",
             "duration": "6:44",
-            "view_count": "706693",
+            "view_count": "707655",
             "thumbnail_url": "https://i.ytimg.com/vi/wcYkbWSXtMs/hqdefault.jpg"
-        },
-        {
-            "video_id": "210lr6QfWT4",
-            "title": "[또또家] 신혼부부와 함께 사는 의문의 사람들⁉️ l 권또또 집 최초 공개🏠",
-            "channel_name": "권또또 KWONTTOTTO",
-            "category": "Entertainment",
-            "duration": "20:04",
-            "view_count": "505023",
-            "thumbnail_url": "https://i.ytimg.com/vi/210lr6QfWT4/hqdefault.jpg"
         },
         {
             "video_id": "AIQcihmQ-uk",
@@ -79,8 +70,17 @@
             "channel_name": "아옳이",
             "category": "People & Blogs",
             "duration": "21:11",
-            "view_count": "104457",
+            "view_count": "105619",
             "thumbnail_url": "https://i.ytimg.com/vi/AIQcihmQ-uk/hqdefault.jpg"
+        },
+        {
+            "video_id": "210lr6QfWT4",
+            "title": "[또또家] 신혼부부와 함께 사는 의문의 사람들⁉️ l 권또또 집 최초 공개🏠",
+            "channel_name": "권또또 KWONTTOTTO",
+            "category": "Entertainment",
+            "duration": "20:04",
+            "view_count": "505903",
+            "thumbnail_url": "https://i.ytimg.com/vi/210lr6QfWT4/hqdefault.jpg"
         },
         {
             "video_id": "7tqyDUn723M",
@@ -88,7 +88,7 @@
             "channel_name": "미지수",
             "category": "People & Blogs",
             "duration": "10:42",
-            "view_count": "130959",
+            "view_count": "131495",
             "thumbnail_url": "https://i.ytimg.com/vi/7tqyDUn723M/hqdefault.jpg"
         },
         {
@@ -97,7 +97,7 @@
             "channel_name": "디에디트 THE EDIT",
             "category": "Science & Technology",
             "duration": "19:31",
-            "view_count": "149454",
+            "view_count": "150903",
             "thumbnail_url": "https://i.ytimg.com/vi/vfOsxcfdMHo/hqdefault.jpg"
         },
         {
@@ -106,7 +106,7 @@
             "channel_name": "수박머리 셔니",
             "category": "Gaming",
             "duration": "27:37",
-            "view_count": "308829",
+            "view_count": "309400",
             "thumbnail_url": "https://i.ytimg.com/vi/QeCCQAtsPHA/hqdefault.jpg"
         },
         {
@@ -115,7 +115,7 @@
             "channel_name": "광마니",
             "category": "People & Blogs",
             "duration": "26:24",
-            "view_count": "687511",
+            "view_count": "690082",
             "thumbnail_url": "https://i.ytimg.com/vi/xyG34oB5gYk/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "풀리밍 FLIMING",
             "category": "Entertainment",
             "duration": "10:19",
-            "view_count": "253166",
+            "view_count": "254014",
             "thumbnail_url": "https://i.ytimg.com/vi/reIuq7_EOEk/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "휘토피아 htopia",
             "category": "Travel & Events",
             "duration": "27:55",
-            "view_count": "279198",
+            "view_count": "280040",
             "thumbnail_url": "https://i.ytimg.com/vi/BxVZTpQh38U/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "소비더머니",
             "category": "News & Politics",
             "duration": "15:51",
-            "view_count": "237816",
+            "view_count": "238201",
             "thumbnail_url": "https://i.ytimg.com/vi/PF72gp0YKxI/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "미자네 주막",
             "category": "Entertainment",
             "duration": "25:34",
-            "view_count": "638314",
+            "view_count": "640626",
             "thumbnail_url": "https://i.ytimg.com/vi/Y1yEDKm9WBQ/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "STN SPORTS",
             "category": "Sports",
             "duration": "4:35",
-            "view_count": "257783",
+            "view_count": "258019",
             "thumbnail_url": "https://i.ytimg.com/vi/5_gr4k4HhAQ/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "스파쉬바 spa_sheba",
             "category": "People & Blogs",
             "duration": "20:07",
-            "view_count": "242451",
+            "view_count": "242798",
             "thumbnail_url": "https://i.ytimg.com/vi/mK8SCYTOL4g/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "[THE SOY]루퐁이네",
             "category": "Pets & Animals",
             "duration": "8:02",
-            "view_count": "189412",
+            "view_count": "190599",
             "thumbnail_url": "https://i.ytimg.com/vi/cC6UJDuF7MQ/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "원지의하루",
             "category": "People & Blogs",
             "duration": "24:04",
-            "view_count": "276977",
+            "view_count": "277661",
             "thumbnail_url": "https://i.ytimg.com/vi/YKT5icSLsdY/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "김메주와 고양이들",
             "category": "Pets & Animals",
             "duration": "8:02",
-            "view_count": "284451",
+            "view_count": "286301",
             "thumbnail_url": "https://i.ytimg.com/vi/gR1kh9TqgQ4/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "지식해적단",
             "category": "Science & Technology",
             "duration": "15:04",
-            "view_count": "750483",
+            "view_count": "752206",
             "thumbnail_url": "https://i.ytimg.com/vi/MI5eamu9N1Q/hqdefault.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "channel_name": "연스커플 Yeon's Couple",
             "category": "People & Blogs",
             "duration": "20:14",
-            "view_count": "422777",
+            "view_count": "423993",
             "thumbnail_url": "https://i.ytimg.com/vi/5MjdNwclNqU/hqdefault.jpg"
         },
         {
@@ -223,7 +223,7 @@
             "channel_name": "혜리",
             "category": "Entertainment",
             "duration": "34:45",
-            "view_count": "892345",
+            "view_count": "895712",
             "thumbnail_url": "https://i.ytimg.com/vi/DM7_jmkbK-M/hqdefault.jpg"
         },
         {
@@ -232,7 +232,7 @@
             "channel_name": "BOYNEXTDOOR",
             "category": "Music",
             "duration": "51:50",
-            "view_count": "449980",
+            "view_count": "450660",
             "thumbnail_url": "https://i.ytimg.com/vi/DYwUKMl3NP4/hqdefault.jpg"
         },
         {
@@ -241,7 +241,7 @@
             "channel_name": "오늘의 주우재",
             "category": "People & Blogs",
             "duration": "28:57",
-            "view_count": "424663",
+            "view_count": "425630",
             "thumbnail_url": "https://i.ytimg.com/vi/p5boOrAdGXM/hqdefault.jpg"
         },
         {
@@ -250,7 +250,7 @@
             "channel_name": "IU - Topic",
             "category": "Music",
             "duration": "3:22",
-            "view_count": "3183613",
+            "view_count": "3190089",
             "thumbnail_url": "https://i.ytimg.com/vi/Loo11mn5mE0/hqdefault.jpg"
         },
         {
@@ -259,26 +259,8 @@
             "channel_name": "Miiro",
             "category": "Music",
             "duration": "4:39",
-            "view_count": "366216",
+            "view_count": "367416",
             "thumbnail_url": "https://i.ytimg.com/vi/6Q78RPXk2es/hqdefault.jpg"
-        },
-        {
-            "video_id": "5X1zGkIvxos",
-            "title": "Dodgers rookie Hyeseong Kim had A DAY for the Dodgers! | 김혜성 하이라이트",
-            "channel_name": "MLB",
-            "category": "Sports",
-            "duration": "3:13",
-            "view_count": "255498",
-            "thumbnail_url": "https://i.ytimg.com/vi/5X1zGkIvxos/hqdefault.jpg"
-        },
-        {
-            "video_id": "8gqH-0SJkOM",
-            "title": "라면 20개 먹는 대식가의 냉장고는 어떨까..?😨 냉장고만 4대 쓰는 쯔양집 냉장고를 부탁해",
-            "channel_name": "쯔양밖정원",
-            "category": "People & Blogs",
-            "duration": "17:14",
-            "view_count": "686016",
-            "thumbnail_url": "https://i.ytimg.com/vi/8gqH-0SJkOM/hqdefault.jpg"
         },
         {
             "video_id": "cIGgVi6UBWI",
@@ -286,8 +268,26 @@
             "channel_name": "뷰티포인트 [ASMR]",
             "category": "Entertainment",
             "duration": "7:14",
-            "view_count": "180126",
+            "view_count": "180545",
             "thumbnail_url": "https://i.ytimg.com/vi/cIGgVi6UBWI/hqdefault.jpg"
+        },
+        {
+            "video_id": "8gqH-0SJkOM",
+            "title": "라면 20개 먹는 대식가의 냉장고는 어떨까..?😨 냉장고만 4대 쓰는 쯔양집 냉장고를 부탁해",
+            "channel_name": "쯔양밖정원",
+            "category": "People & Blogs",
+            "duration": "17:14",
+            "view_count": "686643",
+            "thumbnail_url": "https://i.ytimg.com/vi/8gqH-0SJkOM/hqdefault.jpg"
+        },
+        {
+            "video_id": "5X1zGkIvxos",
+            "title": "Dodgers rookie Hyeseong Kim had A DAY for the Dodgers! | 김혜성 하이라이트",
+            "channel_name": "MLB",
+            "category": "Sports",
+            "duration": "3:13",
+            "view_count": "255605",
+            "thumbnail_url": "https://i.ytimg.com/vi/5X1zGkIvxos/hqdefault.jpg"
         },
         {
             "video_id": "PMef5xcs7OY",
@@ -295,7 +295,7 @@
             "channel_name": "몽중다과Mongsweets",
             "category": "Howto & Style",
             "duration": "19:37",
-            "view_count": "236336",
+            "view_count": "237073",
             "thumbnail_url": "https://i.ytimg.com/vi/PMef5xcs7OY/hqdefault.jpg"
         },
         {
@@ -304,7 +304,7 @@
             "channel_name": "김진짜 Real KIM",
             "category": "Sports",
             "duration": "11:15",
-            "view_count": "648074",
+            "view_count": "648879",
             "thumbnail_url": "https://i.ytimg.com/vi/bD42tG5bZ8E/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "김영철 오리지널 ",
             "category": "Comedy",
             "duration": "12:40",
-            "view_count": "447261",
+            "view_count": "447652",
             "thumbnail_url": "https://i.ytimg.com/vi/eLDd_SY94DQ/hqdefault.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "channel_name": "이지금 [IU Official]",
             "category": "Entertainment",
             "duration": "3:43",
-            "view_count": "2647254",
+            "view_count": "2654575",
             "thumbnail_url": "https://i.ytimg.com/vi/l5Z1PBJLUss/hqdefault.jpg"
         },
         {
@@ -331,7 +331,7 @@
             "channel_name": "조나단",
             "category": "Entertainment",
             "duration": "29:33",
-            "view_count": "212444",
+            "view_count": "212677",
             "thumbnail_url": "https://i.ytimg.com/vi/5V05HMte36Y/hqdefault.jpg"
         },
         {
@@ -340,7 +340,7 @@
             "channel_name": "묘식당 Rabbit's",
             "category": "Howto & Style",
             "duration": "3:45",
-            "view_count": "399020",
+            "view_count": "399215",
             "thumbnail_url": "https://i.ytimg.com/vi/9E580f89C4o/hqdefault.jpg"
         },
         {
@@ -349,7 +349,7 @@
             "channel_name": "이지금 [IU Official]",
             "category": "Entertainment",
             "duration": "4:44",
-            "view_count": "3903019",
+            "view_count": "3909466",
             "thumbnail_url": "https://i.ytimg.com/vi/6J9ixwhDYSM/hqdefault.jpg"
         },
         {
@@ -358,7 +358,7 @@
             "channel_name": "사나고 Sanago",
             "category": "Howto & Style",
             "duration": "15:00",
-            "view_count": "298337",
+            "view_count": "299037",
             "thumbnail_url": "https://i.ytimg.com/vi/EAw71MKXW-I/hqdefault.jpg"
         },
         {
@@ -367,7 +367,7 @@
             "channel_name": "담비손 DambiXon",
             "category": "People & Blogs",
             "duration": "11:09",
-            "view_count": "181603",
+            "view_count": "181875",
             "thumbnail_url": "https://i.ytimg.com/vi/lci20W1a7-g/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "밉지않은 관종언니",
             "category": "People & Blogs",
             "duration": "26:50",
-            "view_count": "389517",
+            "view_count": "389878",
             "thumbnail_url": "https://i.ytimg.com/vi/QP9Mp_nENn8/hqdefault.jpg"
         }
     ]
