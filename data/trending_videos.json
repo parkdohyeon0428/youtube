@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-06-07 14:13:04",
+    "scraped_time": "2025-06-07 15:18:23",
     "videos": [
         {
             "video_id": "0yuXohIsJks",
@@ -7,7 +7,7 @@
             "channel_name": "숏박스",
             "category": "Comedy",
             "duration": "8:03",
-            "view_count": "1741166",
+            "view_count": "1802359",
             "thumbnail_url": "https://i.ytimg.com/vi/0yuXohIsJks/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "디글 클래식 :Diggle Classic",
             "category": "Entertainment",
             "duration": "17:36",
-            "view_count": "696952",
+            "view_count": "710550",
             "thumbnail_url": "https://i.ytimg.com/vi/7Cwpeh2jnVI/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "너덜트",
             "category": "Comedy",
             "duration": "13:04",
-            "view_count": "601924",
+            "view_count": "608785",
             "thumbnail_url": "https://i.ytimg.com/vi/b5tS3n6sIjA/hqdefault.jpg"
         },
         {
@@ -34,17 +34,8 @@
             "channel_name": "인생84",
             "category": "People & Blogs",
             "duration": "18:25",
-            "view_count": "909586",
+            "view_count": "924301",
             "thumbnail_url": "https://i.ytimg.com/vi/kFMh7DBddpw/hqdefault.jpg"
-        },
-        {
-            "video_id": "XSU_g1f3j-8",
-            "title": "남편 몰래 출연해서 쌓인 거 다 폭로하고 떠난 야노시호 *근데 왜 우리 채널에서...",
-            "channel_name": "이민정 MJ",
-            "category": "People & Blogs",
-            "duration": "18:20",
-            "view_count": "1734621",
-            "thumbnail_url": "https://i.ytimg.com/vi/XSU_g1f3j-8/hqdefault.jpg"
         },
         {
             "video_id": "zb9KvKDiT4w",
@@ -52,17 +43,17 @@
             "channel_name": "오분순삭",
             "category": "Entertainment",
             "duration": "33:46",
-            "view_count": "402807",
+            "view_count": "431042",
             "thumbnail_url": "https://i.ytimg.com/vi/zb9KvKDiT4w/hqdefault.jpg"
         },
         {
-            "video_id": "-Oz_WtKzoHk",
-            "title": "한국이 너무 좋아 의사 그만두고 아예 한국에 공부하러 온 외국인 처형",
-            "channel_name": "예나러브 [Jun & Yena]",
+            "video_id": "XSU_g1f3j-8",
+            "title": "남편 몰래 출연해서 쌓인 거 다 폭로하고 떠난 야노시호 *근데 왜 우리 채널에서...",
+            "channel_name": "이민정 MJ",
             "category": "People & Blogs",
-            "duration": "19:30",
-            "view_count": "147737",
-            "thumbnail_url": "https://i.ytimg.com/vi/-Oz_WtKzoHk/hqdefault.jpg"
+            "duration": "18:20",
+            "view_count": "1761785",
+            "thumbnail_url": "https://i.ytimg.com/vi/XSU_g1f3j-8/hqdefault.jpg"
         },
         {
             "video_id": "4wFCYTMWkLc",
@@ -70,8 +61,17 @@
             "channel_name": "김영철 오리지널 ",
             "category": "Comedy",
             "duration": "16:26",
-            "view_count": "113903",
+            "view_count": "118795",
             "thumbnail_url": "https://i.ytimg.com/vi/4wFCYTMWkLc/hqdefault.jpg"
+        },
+        {
+            "video_id": "-Oz_WtKzoHk",
+            "title": "한국이 너무 좋아 의사 그만두고 아예 한국에 공부하러 온 외국인 처형",
+            "channel_name": "예나러브 [Jun & Yena]",
+            "category": "People & Blogs",
+            "duration": "19:30",
+            "view_count": "150965",
+            "thumbnail_url": "https://i.ytimg.com/vi/-Oz_WtKzoHk/hqdefault.jpg"
         },
         {
             "video_id": "Zo6tOuGIgpE",
@@ -79,17 +79,8 @@
             "channel_name": "자유부인 한가인",
             "category": "People & Blogs",
             "duration": "19:15",
-            "view_count": "492102",
+            "view_count": "512275",
             "thumbnail_url": "https://i.ytimg.com/vi/Zo6tOuGIgpE/hqdefault.jpg"
-        },
-        {
-            "video_id": "EpWeu8C38NM",
-            "title": "Brawl Arena | Edgar aura farming (Brawl Stars Animation)",
-            "channel_name": "Brawl Stars",
-            "category": "Gaming",
-            "duration": "1:29",
-            "view_count": "3434669",
-            "thumbnail_url": "https://i.ytimg.com/vi/EpWeu8C38NM/hqdefault.jpg"
         },
         {
             "video_id": "civTq_t-TN8",
@@ -97,8 +88,17 @@
             "channel_name": "아오니 AONI",
             "category": "Gaming",
             "duration": "13:02",
-            "view_count": "205199",
+            "view_count": "212189",
             "thumbnail_url": "https://i.ytimg.com/vi/civTq_t-TN8/hqdefault.jpg"
+        },
+        {
+            "video_id": "EpWeu8C38NM",
+            "title": "Brawl Arena | Edgar aura farming (Brawl Stars Animation)",
+            "channel_name": "Brawl Stars",
+            "category": "Gaming",
+            "duration": "1:29",
+            "view_count": "3453071",
+            "thumbnail_url": "https://i.ytimg.com/vi/EpWeu8C38NM/hqdefault.jpg"
         },
         {
             "video_id": "SCh1bykySMc",
@@ -106,7 +106,7 @@
             "channel_name": "SBSKPOP X INKIGAYO",
             "category": "Music",
             "duration": "35:20",
-            "view_count": "160003",
+            "view_count": "166322",
             "thumbnail_url": "https://i.ytimg.com/vi/SCh1bykySMc/hqdefault.jpg"
         },
         {
@@ -115,7 +115,7 @@
             "channel_name": "민음사TV",
             "category": "People & Blogs",
             "duration": "32:37",
-            "view_count": "58747",
+            "view_count": "61011",
             "thumbnail_url": "https://i.ytimg.com/vi/C0Wy2eAr9Ek/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "담비손 DambiXon",
             "category": "People & Blogs",
             "duration": "13:52",
-            "view_count": "141228",
+            "view_count": "144861",
             "thumbnail_url": "https://i.ytimg.com/vi/t2xTkw1iwvU/hqdefault.jpg"
         },
         {
@@ -133,17 +133,8 @@
             "channel_name": "붕괴: 스타레일",
             "category": "Entertainment",
             "duration": "2:09",
-            "view_count": "101009",
+            "view_count": "102044",
             "thumbnail_url": "https://i.ytimg.com/vi/tSfTxbmLkQw/hqdefault.jpg"
-        },
-        {
-            "video_id": "dSdzWCbfUCY",
-            "title": "'5골'도 불안했다… '역대급 난타전' 펼친 스페인과 프랑스 #SPOTIME",
-            "channel_name": "스포타임",
-            "category": "Sports",
-            "duration": "4:35",
-            "view_count": "1646385",
-            "thumbnail_url": "https://i.ytimg.com/vi/dSdzWCbfUCY/hqdefault.jpg"
         },
         {
             "video_id": "SZyCaBXFGhs",
@@ -151,8 +142,17 @@
             "channel_name": "예또세상 Yeddo World",
             "category": "Travel & Events",
             "duration": "20:24",
-            "view_count": "75513",
+            "view_count": "77843",
             "thumbnail_url": "https://i.ytimg.com/vi/SZyCaBXFGhs/hqdefault.jpg"
+        },
+        {
+            "video_id": "dSdzWCbfUCY",
+            "title": "'5골'도 불안했다… '역대급 난타전' 펼친 스페인과 프랑스 #SPOTIME",
+            "channel_name": "스포타임",
+            "category": "Sports",
+            "duration": "4:35",
+            "view_count": "1663603",
+            "thumbnail_url": "https://i.ytimg.com/vi/dSdzWCbfUCY/hqdefault.jpg"
         },
         {
             "video_id": "FGeWLp8EKFU",
@@ -160,7 +160,7 @@
             "channel_name": "EA SPORTS FC 온라인",
             "category": "Sports",
             "duration": "5:24",
-            "view_count": "303628",
+            "view_count": "306320",
             "thumbnail_url": "https://i.ytimg.com/vi/FGeWLp8EKFU/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "밈PD",
             "category": "Music",
             "duration": "11:32",
-            "view_count": "83209",
+            "view_count": "85899",
             "thumbnail_url": "https://i.ytimg.com/vi/lsNF6PyQ-_I/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "SPOiler 스포일러",
             "category": "Sports",
             "duration": "13:01",
-            "view_count": "145607",
+            "view_count": "146400",
             "thumbnail_url": "https://i.ytimg.com/vi/ldQtPjVplA4/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "유니버설 픽쳐스",
             "category": "Film & Animation",
             "duration": "2:45",
-            "view_count": "162869",
+            "view_count": "183351",
             "thumbnail_url": "https://i.ytimg.com/vi/hjjISKnEK1s/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "Disney Plus Korea 디즈니 플러스 코리아",
             "category": "Film & Animation",
             "duration": "19:26",
-            "view_count": "498526",
+            "view_count": "499893",
             "thumbnail_url": "https://i.ytimg.com/vi/1MS1hXmwCiY/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "김메주와 고양이들",
             "category": "Pets & Animals",
             "duration": "8:29",
-            "view_count": "385849",
+            "view_count": "390917",
             "thumbnail_url": "https://i.ytimg.com/vi/iPgt1tDN_So/hqdefault.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "channel_name": "KFATV 대한민국 축구 국가대표팀",
             "category": "Sports",
             "duration": "5:53",
-            "view_count": "193866",
+            "view_count": "194202",
             "thumbnail_url": "https://i.ytimg.com/vi/Jqb9huT2mOs/hqdefault.jpg"
         },
         {
@@ -223,7 +223,7 @@
             "channel_name": "뜬뜬 DdeunDdeun",
             "category": "Comedy",
             "duration": "1:43:08",
-            "view_count": "4069519",
+            "view_count": "4080639",
             "thumbnail_url": "https://i.ytimg.com/vi/KveFYFpZO0A/hqdefault.jpg"
         },
         {
@@ -232,7 +232,7 @@
             "channel_name": "행가집",
             "category": "People & Blogs",
             "duration": "20:33",
-            "view_count": "198384",
+            "view_count": "199842",
             "thumbnail_url": "https://i.ytimg.com/vi/H54w0Dj9_kM/hqdefault.jpg"
         },
         {
@@ -241,7 +241,7 @@
             "channel_name": "무니키친MoonyKitchen",
             "category": "Howto & Style",
             "duration": "10:22",
-            "view_count": "231367",
+            "view_count": "232045",
             "thumbnail_url": "https://i.ytimg.com/vi/KRTYcyqNgQs/hqdefault.jpg"
         },
         {
@@ -250,7 +250,7 @@
             "channel_name": "권마키",
             "category": "People & Blogs",
             "duration": "18:30",
-            "view_count": "153198",
+            "view_count": "153745",
             "thumbnail_url": "https://i.ytimg.com/vi/4z-djNbBCyc/hqdefault.jpg"
         },
         {
@@ -259,7 +259,7 @@
             "channel_name": "빠더너스 BDNS",
             "category": "Comedy",
             "duration": "29:01",
-            "view_count": "1636825",
+            "view_count": "1639997",
             "thumbnail_url": "https://i.ytimg.com/vi/7sDBEb3w2r8/hqdefault.jpg"
         },
         {
@@ -268,17 +268,8 @@
             "channel_name": "WooingEm 우잉엠",
             "category": "People & Blogs",
             "duration": "16:13",
-            "view_count": "178200",
+            "view_count": "180332",
             "thumbnail_url": "https://i.ytimg.com/vi/1HQwTOKy904/hqdefault.jpg"
-        },
-        {
-            "video_id": "Y9E0S0r_Elg",
-            "title": "오징어 게임 시즌 3 | 공식 메인 예고편 | 넷플릭스",
-            "channel_name": "Netflix Korea 넷플릭스 코리아",
-            "category": "Entertainment",
-            "duration": "1:59",
-            "view_count": "2624827",
-            "thumbnail_url": "https://i.ytimg.com/vi/Y9E0S0r_Elg/hqdefault.jpg"
         },
         {
             "video_id": "BiTEQGmPRfQ",
@@ -286,8 +277,17 @@
             "channel_name": "THE FIRST TAKE",
             "category": "Music",
             "duration": "3:55",
-            "view_count": "2588918",
+            "view_count": "2601900",
             "thumbnail_url": "https://i.ytimg.com/vi/BiTEQGmPRfQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "Y9E0S0r_Elg",
+            "title": "오징어 게임 시즌 3 | 공식 메인 예고편 | 넷플릭스",
+            "channel_name": "Netflix Korea 넷플릭스 코리아",
+            "category": "Entertainment",
+            "duration": "1:59",
+            "view_count": "2626268",
+            "thumbnail_url": "https://i.ytimg.com/vi/Y9E0S0r_Elg/hqdefault.jpg"
         },
         {
             "video_id": "zitqkNRzVw4",
@@ -295,7 +295,7 @@
             "channel_name": "청소고수",
             "category": "People & Blogs",
             "duration": "5:45",
-            "view_count": "543172",
+            "view_count": "544329",
             "thumbnail_url": "https://i.ytimg.com/vi/zitqkNRzVw4/hqdefault.jpg"
         },
         {
@@ -304,7 +304,7 @@
             "channel_name": "KFATV 대한민국 축구 국가대표팀",
             "category": "Sports",
             "duration": "4:15",
-            "view_count": "293976",
+            "view_count": "294241",
             "thumbnail_url": "https://i.ytimg.com/vi/FrBFQzkUz2I/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "에이미Amy",
             "category": "Travel & Events",
             "duration": "12:26",
-            "view_count": "140913",
+            "view_count": "141347",
             "thumbnail_url": "https://i.ytimg.com/vi/t8rgx_gQ85w/hqdefault.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "channel_name": "Minsco 민스코",
             "category": "People & Blogs",
             "duration": "37:07",
-            "view_count": "207484",
+            "view_count": "207728",
             "thumbnail_url": "https://i.ytimg.com/vi/YQQXm1DRkXM/hqdefault.jpg"
         },
         {
@@ -331,7 +331,7 @@
             "channel_name": "승상싱",
             "category": "Gaming",
             "duration": "12:17",
-            "view_count": "510947",
+            "view_count": "511803",
             "thumbnail_url": "https://i.ytimg.com/vi/5DnycKX4rB8/hqdefault.jpg"
         },
         {
@@ -340,7 +340,7 @@
             "channel_name": "자취남",
             "category": "People & Blogs",
             "duration": "18:51",
-            "view_count": "313407",
+            "view_count": "313867",
             "thumbnail_url": "https://i.ytimg.com/vi/DCkUgi-D6qI/hqdefault.jpg"
         },
         {
@@ -349,7 +349,7 @@
             "channel_name": "고현정",
             "category": "People & Blogs",
             "duration": "9:36",
-            "view_count": "152861",
+            "view_count": "153222",
             "thumbnail_url": "https://i.ytimg.com/vi/CzdCh-nfbcs/hqdefault.jpg"
         },
         {
@@ -358,7 +358,7 @@
             "channel_name": "아옳이",
             "category": "People & Blogs",
             "duration": "21:11",
-            "view_count": "157397",
+            "view_count": "157805",
             "thumbnail_url": "https://i.ytimg.com/vi/AIQcihmQ-uk/hqdefault.jpg"
         },
         {
@@ -367,7 +367,7 @@
             "channel_name": "스톡킹",
             "category": "Sports",
             "duration": "27:53",
-            "view_count": "134952",
+            "view_count": "135297",
             "thumbnail_url": "https://i.ytimg.com/vi/98MJ2cj1YS4/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "미지수",
             "category": "People & Blogs",
             "duration": "10:42",
-            "view_count": "177368",
+            "view_count": "177718",
             "thumbnail_url": "https://i.ytimg.com/vi/7tqyDUn723M/hqdefault.jpg"
         }
     ]
