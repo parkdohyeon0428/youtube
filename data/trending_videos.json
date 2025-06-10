@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-06-10 15:20:18",
+    "scraped_time": "2025-06-10 16:13:37",
     "videos": [
         {
             "video_id": "ftmE4QjLDmk",
@@ -7,7 +7,7 @@
             "channel_name": "뜬뜬 DdeunDdeun",
             "category": "Comedy",
             "duration": "1:41:40",
-            "view_count": "2793121",
+            "view_count": "2806539",
             "thumbnail_url": "https://i.ytimg.com/vi/ftmE4QjLDmk/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "aespa",
             "category": "Music",
             "duration": "1:52",
-            "view_count": "10881118",
+            "view_count": "10920629",
             "thumbnail_url": "https://i.ytimg.com/vi/1dxDjcKg21o/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "2:54",
-            "view_count": "4027673",
+            "view_count": "4074433",
             "thumbnail_url": "https://i.ytimg.com/vi/1KhOhW_O8-k/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "쿠팡플레이 스포츠",
             "category": "Sports",
             "duration": "13:15",
-            "view_count": "3788919",
+            "view_count": "3791512",
             "thumbnail_url": "https://i.ytimg.com/vi/uw_X4usDCWE/hqdefault.jpg"
         },
         {
@@ -43,17 +43,8 @@
             "channel_name": "원지의하루",
             "category": "People & Blogs",
             "duration": "22:45",
-            "view_count": "298361",
+            "view_count": "303632",
             "thumbnail_url": "https://i.ytimg.com/vi/H_kg1s9bBJg/hqdefault.jpg"
-        },
-        {
-            "video_id": "QTBEFba0b88",
-            "title": "연애 먹이사슬",
-            "channel_name": "픽고 PICKGO",
-            "category": "Entertainment",
-            "duration": "10:16",
-            "view_count": "646296",
-            "thumbnail_url": "https://i.ytimg.com/vi/QTBEFba0b88/hqdefault.jpg"
         },
         {
             "video_id": "52IyDIMyejQ",
@@ -61,8 +52,17 @@
             "channel_name": "KISS OF LIFE",
             "category": "Music",
             "duration": "3:38",
-            "view_count": "762055",
+            "view_count": "778248",
             "thumbnail_url": "https://i.ytimg.com/vi/52IyDIMyejQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "QTBEFba0b88",
+            "title": "연애 먹이사슬",
+            "channel_name": "픽고 PICKGO",
+            "category": "Entertainment",
+            "duration": "10:16",
+            "view_count": "648876",
+            "thumbnail_url": "https://i.ytimg.com/vi/QTBEFba0b88/hqdefault.jpg"
         },
         {
             "video_id": "wLKpQpC3-Sw",
@@ -70,8 +70,17 @@
             "channel_name": "izna (이즈나)",
             "category": "People & Blogs",
             "duration": "3:19",
-            "view_count": "3826713",
+            "view_count": "3994225",
             "thumbnail_url": "https://i.ytimg.com/vi/wLKpQpC3-Sw/hqdefault.jpg"
+        },
+        {
+            "video_id": "PBuF4FVfkBk",
+            "title": "[UFC] 제카 사라기 vs 유주상",
+            "channel_name": "tvN SPORTS",
+            "category": "Sports",
+            "duration": "10:04",
+            "view_count": "1087233",
+            "thumbnail_url": "https://i.ytimg.com/vi/PBuF4FVfkBk/hqdefault.jpg"
         },
         {
             "video_id": "ZJuaat_Gn5g",
@@ -79,7 +88,7 @@
             "channel_name": "Mozzarella Girl & Oppa",
             "category": "Comedy",
             "duration": "36:25",
-            "view_count": "998970",
+            "view_count": "1006755",
             "thumbnail_url": "https://i.ytimg.com/vi/ZJuaat_Gn5g/hqdefault.jpg"
         },
         {
@@ -88,7 +97,7 @@
             "channel_name": "PLAVE 플레이브",
             "category": "Entertainment",
             "duration": "4:05",
-            "view_count": "392133",
+            "view_count": "396415",
             "thumbnail_url": "https://i.ytimg.com/vi/im_Yix01EKQ/hqdefault.jpg"
         },
         {
@@ -97,17 +106,8 @@
             "channel_name": "고재영",
             "category": "Entertainment",
             "duration": "21:25",
-            "view_count": "1741854",
+            "view_count": "1743795",
             "thumbnail_url": "https://i.ytimg.com/vi/qyGijILMRH4/hqdefault.jpg"
-        },
-        {
-            "video_id": "PBuF4FVfkBk",
-            "title": "[UFC] 제카 사라기 vs 유주상",
-            "channel_name": "tvN SPORTS",
-            "category": "Sports",
-            "duration": "10:04",
-            "view_count": "1084259",
-            "thumbnail_url": "https://i.ytimg.com/vi/PBuF4FVfkBk/hqdefault.jpg"
         },
         {
             "video_id": "SAYBHEfVFJw",
@@ -115,7 +115,7 @@
             "channel_name": "먹어볼래TryToEat",
             "category": "People & Blogs",
             "duration": "8:30",
-            "view_count": "490097",
+            "view_count": "492761",
             "thumbnail_url": "https://i.ytimg.com/vi/SAYBHEfVFJw/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "숏박스",
             "category": "Comedy",
             "duration": "8:03",
-            "view_count": "2790349",
+            "view_count": "2797230",
             "thumbnail_url": "https://i.ytimg.com/vi/0yuXohIsJks/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "언더월드 UNDER WORLD",
             "category": "Pets & Animals",
             "duration": "10:55",
-            "view_count": "1811766",
+            "view_count": "1817590",
             "thumbnail_url": "https://i.ytimg.com/vi/hGP0Bdvb4wI/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "The CHOOM (더 춤)",
             "category": "Entertainment",
             "duration": "4:56",
-            "view_count": "1344612",
+            "view_count": "1350231",
             "thumbnail_url": "https://i.ytimg.com/vi/-0ICh3CmHVs/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "Tacosama 타코사마",
             "category": "People & Blogs",
             "duration": "41:49",
-            "view_count": "256973",
+            "view_count": "260015",
             "thumbnail_url": "https://i.ytimg.com/vi/xgBLybiME88/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "mina in york 미나",
             "category": "People & Blogs",
             "duration": "31:40",
-            "view_count": "75778",
+            "view_count": "78129",
             "thumbnail_url": "https://i.ytimg.com/vi/IktihF1LIRY/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "남서연SEOYEON",
             "category": "People & Blogs",
             "duration": "15:37",
-            "view_count": "230069",
+            "view_count": "231305",
             "thumbnail_url": "https://i.ytimg.com/vi/wi9dGvYlSus/hqdefault.jpg"
         },
         {
@@ -178,17 +178,8 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:46",
-            "view_count": "228140",
+            "view_count": "232769",
             "thumbnail_url": "https://i.ytimg.com/vi/bpJS9ZnTkRw/hqdefault.jpg"
-        },
-        {
-            "video_id": "KDgXaLtc3zM",
-            "title": "국적이 불명확한 자들이 여행하면 생기는 일 [아일랜드 2]",
-            "channel_name": "레오티비 LEOTV",
-            "category": "Entertainment",
-            "duration": "31:51",
-            "view_count": "169813",
-            "thumbnail_url": "https://i.ytimg.com/vi/KDgXaLtc3zM/hqdefault.jpg"
         },
         {
             "video_id": "vImPQH00ctE",
@@ -196,8 +187,17 @@
             "channel_name": "The CHOOM (더 춤)",
             "category": "Entertainment",
             "duration": "8:59",
-            "view_count": "750054",
+            "view_count": "762280",
             "thumbnail_url": "https://i.ytimg.com/vi/vImPQH00ctE/hqdefault.jpg"
+        },
+        {
+            "video_id": "KDgXaLtc3zM",
+            "title": "국적이 불명확한 자들이 여행하면 생기는 일 [아일랜드 2]",
+            "channel_name": "레오티비 LEOTV",
+            "category": "Entertainment",
+            "duration": "31:51",
+            "view_count": "170834",
+            "thumbnail_url": "https://i.ytimg.com/vi/KDgXaLtc3zM/hqdefault.jpg"
         },
         {
             "video_id": "VByZ8iF3QIo",
@@ -205,7 +205,7 @@
             "channel_name": "보물섬",
             "category": "Comedy",
             "duration": "15:05",
-            "view_count": "1022823",
+            "view_count": "1025295",
             "thumbnail_url": "https://i.ytimg.com/vi/VByZ8iF3QIo/hqdefault.jpg"
         },
         {
@@ -214,17 +214,8 @@
             "channel_name": "SBS Drama",
             "category": "Entertainment",
             "duration": "14:59",
-            "view_count": "413087",
+            "view_count": "416806",
             "thumbnail_url": "https://i.ytimg.com/vi/oimU8MELrb0/hqdefault.jpg"
-        },
-        {
-            "video_id": "0XTf3nAJ1nc",
-            "title": "초심으로 돌아갑니다.",
-            "channel_name": "코너Korner",
-            "category": "Comedy",
-            "duration": "12:14",
-            "view_count": "149776",
-            "thumbnail_url": "https://i.ytimg.com/vi/0XTf3nAJ1nc/hqdefault.jpg"
         },
         {
             "video_id": "t7W_WikdAvs",
@@ -232,8 +223,17 @@
             "channel_name": "해쭈 [HAEJOO]",
             "category": "People & Blogs",
             "duration": "19:33",
-            "view_count": "525168",
+            "view_count": "526603",
             "thumbnail_url": "https://i.ytimg.com/vi/t7W_WikdAvs/hqdefault.jpg"
+        },
+        {
+            "video_id": "0XTf3nAJ1nc",
+            "title": "초심으로 돌아갑니다.",
+            "channel_name": "코너Korner",
+            "category": "Comedy",
+            "duration": "12:14",
+            "view_count": "149987",
+            "thumbnail_url": "https://i.ytimg.com/vi/0XTf3nAJ1nc/hqdefault.jpg"
         },
         {
             "video_id": "7Cwpeh2jnVI",
@@ -241,7 +241,7 @@
             "channel_name": "디글 클래식 :Diggle Classic",
             "category": "Entertainment",
             "duration": "17:36",
-            "view_count": "975874",
+            "view_count": "978111",
             "thumbnail_url": "https://i.ytimg.com/vi/7Cwpeh2jnVI/hqdefault.jpg"
         },
         {
@@ -250,7 +250,7 @@
             "channel_name": "THEBLACKLABEL",
             "category": "Music",
             "duration": "0:46",
-            "view_count": "145803",
+            "view_count": "146851",
             "thumbnail_url": "https://i.ytimg.com/vi/cW6hi6iNpcE/hqdefault.jpg"
         },
         {
@@ -259,7 +259,7 @@
             "channel_name": "소비더머니",
             "category": "News & Politics",
             "duration": "13:18",
-            "view_count": "202144",
+            "view_count": "203328",
             "thumbnail_url": "https://i.ytimg.com/vi/c95y3wFVbAU/hqdefault.jpg"
         },
         {
@@ -268,7 +268,7 @@
             "channel_name": "김계정",
             "category": "People & Blogs",
             "duration": "11:45",
-            "view_count": "198518",
+            "view_count": "198987",
             "thumbnail_url": "https://i.ytimg.com/vi/9_ZWmRVWHfo/hqdefault.jpg"
         },
         {
@@ -277,7 +277,7 @@
             "channel_name": "유정 YUJEONG",
             "category": "People & Blogs",
             "duration": "23:34",
-            "view_count": "178064",
+            "view_count": "178505",
             "thumbnail_url": "https://i.ytimg.com/vi/co1FhEc3ewU/hqdefault.jpg"
         },
         {
@@ -286,7 +286,7 @@
             "channel_name": "일일칠 - 117",
             "category": "People & Blogs",
             "duration": "1:01:35",
-            "view_count": "2151354",
+            "view_count": "2156597",
             "thumbnail_url": "https://i.ytimg.com/vi/58gb5Mc6zIQ/hqdefault.jpg"
         },
         {
@@ -295,17 +295,8 @@
             "channel_name": "mina in york 미나",
             "category": "People & Blogs",
             "duration": "29:33",
-            "view_count": "161897",
+            "view_count": "162609",
             "thumbnail_url": "https://i.ytimg.com/vi/cL_4urk60sM/hqdefault.jpg"
-        },
-        {
-            "video_id": "jIn5WzNVbRU",
-            "title": "와.. 이게 한국군 ㄷㄷ? 유럽 특수부대 교관도 놀란 한국군의 실력【김계란키우기 EP2】",
-            "channel_name": "피지컬갤러리",
-            "category": "Entertainment",
-            "duration": "33:51",
-            "view_count": "814421",
-            "thumbnail_url": "https://i.ytimg.com/vi/jIn5WzNVbRU/hqdefault.jpg"
         },
         {
             "video_id": "hvmfzHt-Gvg",
@@ -313,7 +304,7 @@
             "channel_name": "컴퍼니수수 Company Soosoo",
             "category": "People & Blogs",
             "duration": "0:34",
-            "view_count": "125791",
+            "view_count": "127256",
             "thumbnail_url": "https://i.ytimg.com/vi/hvmfzHt-Gvg/hqdefault.jpg"
         },
         {
@@ -322,8 +313,17 @@
             "channel_name": "김메주와 고양이들",
             "category": "Pets & Animals",
             "duration": "8:01",
-            "view_count": "164960",
+            "view_count": "165245",
             "thumbnail_url": "https://i.ytimg.com/vi/lJwPN5PKTKk/hqdefault.jpg"
+        },
+        {
+            "video_id": "jIn5WzNVbRU",
+            "title": "와.. 이게 한국군 ㄷㄷ? 유럽 특수부대 교관도 놀란 한국군의 실력【김계란키우기 EP2】",
+            "channel_name": "피지컬갤러리",
+            "category": "Entertainment",
+            "duration": "33:51",
+            "view_count": "821182",
+            "thumbnail_url": "https://i.ytimg.com/vi/jIn5WzNVbRU/hqdefault.jpg"
         },
         {
             "video_id": "b5tS3n6sIjA",
@@ -331,7 +331,7 @@
             "channel_name": "너덜트",
             "category": "Comedy",
             "duration": "13:04",
-            "view_count": "758379",
+            "view_count": "759561",
             "thumbnail_url": "https://i.ytimg.com/vi/b5tS3n6sIjA/hqdefault.jpg"
         },
         {
@@ -340,7 +340,7 @@
             "channel_name": "오분순삭",
             "category": "Entertainment",
             "duration": "33:46",
-            "view_count": "789617",
+            "view_count": "791794",
             "thumbnail_url": "https://i.ytimg.com/vi/zb9KvKDiT4w/hqdefault.jpg"
         },
         {
@@ -349,7 +349,7 @@
             "channel_name": "인생84",
             "category": "People & Blogs",
             "duration": "18:25",
-            "view_count": "1333930",
+            "view_count": "1339338",
             "thumbnail_url": "https://i.ytimg.com/vi/kFMh7DBddpw/hqdefault.jpg"
         },
         {
@@ -358,7 +358,7 @@
             "channel_name": "김영철 오리지널 ",
             "category": "Comedy",
             "duration": "16:26",
-            "view_count": "252527",
+            "view_count": "253665",
             "thumbnail_url": "https://i.ytimg.com/vi/4wFCYTMWkLc/hqdefault.jpg"
         },
         {
@@ -367,7 +367,7 @@
             "channel_name": "유 퀴즈 온 더 튜브",
             "category": "Entertainment",
             "duration": "18:44",
-            "view_count": "920211",
+            "view_count": "921890",
             "thumbnail_url": "https://i.ytimg.com/vi/jZYem6Ydzro/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "민음사TV",
             "category": "People & Blogs",
             "duration": "32:37",
-            "view_count": "149040",
+            "view_count": "150030",
             "thumbnail_url": "https://i.ytimg.com/vi/C0Wy2eAr9Ek/hqdefault.jpg"
         }
     ]
