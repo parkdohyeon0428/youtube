@@ -1,23 +1,23 @@
 {
-    "scraped_time": "2025-06-11 10:08:36",
+    "scraped_time": "2025-06-11 12:13:33",
     "videos": [
-        {
-            "video_id": "ftmE4QjLDmk",
-            "title": "이짝저짝 빙글빙글 돌아가는 그루밍(가)족의 하루 | 깡촌캉스 EP.3  #유재석 #이동욱 #남창희 #조세호 #이상이",
-            "channel_name": "뜬뜬 DdeunDdeun",
-            "category": "Comedy",
-            "duration": "1:41:40",
-            "view_count": "3004156",
-            "thumbnail_url": "https://i.ytimg.com/vi/ftmE4QjLDmk/hqdefault.jpg"
-        },
         {
             "video_id": "pifz9JH1Re8",
             "title": "QWER '눈물참기' Official MV",
             "channel_name": "QWER",
             "category": "Music",
             "duration": "5:03",
-            "view_count": "3934580",
+            "view_count": "4196552",
             "thumbnail_url": "https://i.ytimg.com/vi/pifz9JH1Re8/hqdefault.jpg"
+        },
+        {
+            "video_id": "ftmE4QjLDmk",
+            "title": "[EN/JP]이짝저짝 빙글빙글 돌아가는 그루밍(가)족의 하루 | 깡촌캉스 EP.3  #유재석 #이동욱 #남창희 #조세호 #이상이",
+            "channel_name": "뜬뜬 DdeunDdeun",
+            "category": "Comedy",
+            "duration": "1:41:40",
+            "view_count": "3021960",
+            "thumbnail_url": "https://i.ytimg.com/vi/ftmE4QjLDmk/hqdefault.jpg"
         },
         {
             "video_id": "1dxDjcKg21o",
@@ -25,8 +25,26 @@
             "channel_name": "aespa",
             "category": "Music",
             "duration": "1:52",
-            "view_count": "12694183",
+            "view_count": "12759948",
             "thumbnail_url": "https://i.ytimg.com/vi/1dxDjcKg21o/hqdefault.jpg"
+        },
+        {
+            "video_id": "8epr5_8mWxI",
+            "title": "[#WSWF/3회] 리더 계급 댄스 비디오 (Directed by RHTokyo) | ECHO! (Prod. WOOZI) | Mnet 250610 방송",
+            "channel_name": "The CHOOM (더 춤)",
+            "category": "Entertainment",
+            "duration": "5:45",
+            "view_count": "749687",
+            "thumbnail_url": "https://i.ytimg.com/vi/8epr5_8mWxI/hqdefault.jpg"
+        },
+        {
+            "video_id": "JMehW4VKBlg",
+            "title": "도영 (DOYOUNG)의 킬링보이스를 라이브로! – 반딧불, 새봄의 노래, 안녕, 우주, BOSS, Baggy Jeans, 미래에서 기다릴게 | 딩고뮤직 | Dingo Music",
+            "channel_name": "딩고 뮤직 / dingo music",
+            "category": "Music",
+            "duration": "20:32",
+            "view_count": "174681",
+            "thumbnail_url": "https://i.ytimg.com/vi/JMehW4VKBlg/hqdefault.jpg"
         },
         {
             "video_id": "Ug4-icRq_cI",
@@ -34,7 +52,7 @@
             "channel_name": "순자엄마",
             "category": "People & Blogs",
             "duration": "27:02",
-            "view_count": "755010",
+            "view_count": "760103",
             "thumbnail_url": "https://i.ytimg.com/vi/Ug4-icRq_cI/hqdefault.jpg"
         },
         {
@@ -43,7 +61,7 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "2:54",
-            "view_count": "5379698",
+            "view_count": "5544726",
             "thumbnail_url": "https://i.ytimg.com/vi/1KhOhW_O8-k/hqdefault.jpg"
         },
         {
@@ -52,7 +70,7 @@
             "channel_name": "잠골버스",
             "category": "Music",
             "duration": "6:18",
-            "view_count": "406148",
+            "view_count": "412490",
             "thumbnail_url": "https://i.ytimg.com/vi/HnyOnGTWIVM/hqdefault.jpg"
         },
         {
@@ -61,7 +79,7 @@
             "channel_name": "KISS OF LIFE",
             "category": "Music",
             "duration": "3:38",
-            "view_count": "1068497",
+            "view_count": "1090389",
             "thumbnail_url": "https://i.ytimg.com/vi/52IyDIMyejQ/hqdefault.jpg"
         },
         {
@@ -70,8 +88,17 @@
             "channel_name": "izna (이즈나)",
             "category": "People & Blogs",
             "duration": "3:19",
-            "view_count": "7330413",
+            "view_count": "7859386",
             "thumbnail_url": "https://i.ytimg.com/vi/wLKpQpC3-Sw/hqdefault.jpg"
+        },
+        {
+            "video_id": "GI_-HNZFyb0",
+            "title": "야구 선수를 키우는 학부모가 된 이대호의 조언",
+            "channel_name": "이대호 [RE:DAEHO]",
+            "category": "Sports",
+            "duration": "16:14",
+            "view_count": "438112",
+            "thumbnail_url": "https://i.ytimg.com/vi/GI_-HNZFyb0/hqdefault.jpg"
         },
         {
             "video_id": "uw_X4usDCWE",
@@ -79,7 +106,7 @@
             "channel_name": "쿠팡플레이 스포츠",
             "category": "Sports",
             "duration": "13:15",
-            "view_count": "3851552",
+            "view_count": "3855718",
             "thumbnail_url": "https://i.ytimg.com/vi/uw_X4usDCWE/hqdefault.jpg"
         },
         {
@@ -88,17 +115,8 @@
             "channel_name": "원지의하루",
             "category": "People & Blogs",
             "duration": "22:45",
-            "view_count": "381332",
+            "view_count": "387594",
             "thumbnail_url": "https://i.ytimg.com/vi/H_kg1s9bBJg/hqdefault.jpg"
-        },
-        {
-            "video_id": "GI_-HNZFyb0",
-            "title": "야구 선수를 키우는 학부모가 된 이대호의 조언",
-            "channel_name": "이대호 [RE:DAEHO]",
-            "category": "Sports",
-            "duration": "16:14",
-            "view_count": "425178",
-            "thumbnail_url": "https://i.ytimg.com/vi/GI_-HNZFyb0/hqdefault.jpg"
         },
         {
             "video_id": "QTBEFba0b88",
@@ -106,7 +124,7 @@
             "channel_name": "픽고 PICKGO",
             "category": "Entertainment",
             "duration": "10:16",
-            "view_count": "695197",
+            "view_count": "698217",
             "thumbnail_url": "https://i.ytimg.com/vi/QTBEFba0b88/hqdefault.jpg"
         },
         {
@@ -115,17 +133,8 @@
             "channel_name": "PLAVE 플레이브",
             "category": "Entertainment",
             "duration": "4:05",
-            "view_count": "468889",
+            "view_count": "476475",
             "thumbnail_url": "https://i.ytimg.com/vi/im_Yix01EKQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "ZJuaat_Gn5g",
-            "title": "한국 지하철을 처음 타본 이탈리아 아저씨가 두눈을 의심한 이유! 그리고 장인어른의 끝없는 한국자랑 ㅎㅎ",
-            "channel_name": "Mozzarella Girl & Oppa",
-            "category": "Comedy",
-            "duration": "36:25",
-            "view_count": "1088051",
-            "thumbnail_url": "https://i.ytimg.com/vi/ZJuaat_Gn5g/hqdefault.jpg"
         },
         {
             "video_id": "PBuF4FVfkBk",
@@ -133,8 +142,26 @@
             "channel_name": "tvN SPORTS",
             "category": "Sports",
             "duration": "10:04",
-            "view_count": "1125890",
+            "view_count": "1128375",
             "thumbnail_url": "https://i.ytimg.com/vi/PBuF4FVfkBk/hqdefault.jpg"
+        },
+        {
+            "video_id": "io3qBMNdhwo",
+            "title": "[#WSWF/3회] 루키 계급 댄스 비디오 (Directed by AG SQUAD) | Flip Flop (Prod. Padi) | Mnet 250610 방송",
+            "channel_name": "The CHOOM (더 춤)",
+            "category": "Entertainment",
+            "duration": "4:14",
+            "view_count": "566303",
+            "thumbnail_url": "https://i.ytimg.com/vi/io3qBMNdhwo/hqdefault.jpg"
+        },
+        {
+            "video_id": "ZJuaat_Gn5g",
+            "title": "한국 지하철을 처음 타본 이탈리아 아저씨가 두눈을 의심한 이유! 그리고 장인어른의 끝없는 한국자랑 ㅎㅎ",
+            "channel_name": "Mozzarella Girl & Oppa",
+            "category": "Comedy",
+            "duration": "36:25",
+            "view_count": "1097473",
+            "thumbnail_url": "https://i.ytimg.com/vi/ZJuaat_Gn5g/hqdefault.jpg"
         },
         {
             "video_id": "qyGijILMRH4",
@@ -142,7 +169,7 @@
             "channel_name": "고재영",
             "category": "Entertainment",
             "duration": "21:25",
-            "view_count": "1801567",
+            "view_count": "1803585",
             "thumbnail_url": "https://i.ytimg.com/vi/qyGijILMRH4/hqdefault.jpg"
         },
         {
@@ -151,8 +178,17 @@
             "channel_name": "먹어볼래TryToEat",
             "category": "People & Blogs",
             "duration": "8:30",
-            "view_count": "553227",
+            "view_count": "554824",
             "thumbnail_url": "https://i.ytimg.com/vi/SAYBHEfVFJw/hqdefault.jpg"
+        },
+        {
+            "video_id": "F4qFzuCA9Po",
+            "title": "Stray Kids 『Hollow』 Music Video",
+            "channel_name": "Stray Kids Japan Official YouTube",
+            "category": "Music",
+            "duration": "4:18",
+            "view_count": "1766412",
+            "thumbnail_url": "https://i.ytimg.com/vi/F4qFzuCA9Po/hqdefault.jpg"
         },
         {
             "video_id": "Cg-cRzubi2A",
@@ -160,7 +196,7 @@
             "channel_name": "짧은대본 ShortPaper",
             "category": "Entertainment",
             "duration": "9:18",
-            "view_count": "568260",
+            "view_count": "570397",
             "thumbnail_url": "https://i.ytimg.com/vi/Cg-cRzubi2A/hqdefault.jpg"
         },
         {
@@ -169,7 +205,7 @@
             "channel_name": "mina in york 미나",
             "category": "People & Blogs",
             "duration": "31:40",
-            "view_count": "109896",
+            "view_count": "112345",
             "thumbnail_url": "https://i.ytimg.com/vi/IktihF1LIRY/hqdefault.jpg"
         },
         {
@@ -178,7 +214,7 @@
             "channel_name": "윤택TV",
             "category": "Entertainment",
             "duration": "58:38",
-            "view_count": "193950",
+            "view_count": "196619",
             "thumbnail_url": "https://i.ytimg.com/vi/f5E1xHUEAt4/hqdefault.jpg"
         },
         {
@@ -187,7 +223,7 @@
             "channel_name": "은유 EUNYU",
             "category": "People & Blogs",
             "duration": "11:02",
-            "view_count": "138147",
+            "view_count": "141094",
             "thumbnail_url": "https://i.ytimg.com/vi/JbkinXAd0QY/hqdefault.jpg"
         },
         {
@@ -196,7 +232,7 @@
             "channel_name": "숏박스",
             "category": "Comedy",
             "duration": "8:03",
-            "view_count": "2922593",
+            "view_count": "2930095",
             "thumbnail_url": "https://i.ytimg.com/vi/0yuXohIsJks/hqdefault.jpg"
         },
         {
@@ -205,7 +241,7 @@
             "channel_name": "The CHOOM (더 춤)",
             "category": "Entertainment",
             "duration": "4:56",
-            "view_count": "1429580",
+            "view_count": "1430890",
             "thumbnail_url": "https://i.ytimg.com/vi/-0ICh3CmHVs/hqdefault.jpg"
         },
         {
@@ -214,7 +250,7 @@
             "channel_name": "Tacosama 타코사마",
             "category": "People & Blogs",
             "duration": "41:49",
-            "view_count": "292087",
+            "view_count": "294294",
             "thumbnail_url": "https://i.ytimg.com/vi/xgBLybiME88/hqdefault.jpg"
         },
         {
@@ -223,7 +259,7 @@
             "channel_name": "골 때리는 그녀들 Shooting Stars",
             "category": "Entertainment",
             "duration": "5:13",
-            "view_count": "296590",
+            "view_count": "301035",
             "thumbnail_url": "https://i.ytimg.com/vi/zgFJovZCX6U/hqdefault.jpg"
         },
         {
@@ -232,7 +268,7 @@
             "channel_name": "언더월드 UNDER WORLD",
             "category": "Pets & Animals",
             "duration": "10:55",
-            "view_count": "1912020",
+            "view_count": "1918766",
             "thumbnail_url": "https://i.ytimg.com/vi/hGP0Bdvb4wI/hqdefault.jpg"
         },
         {
@@ -241,7 +277,7 @@
             "channel_name": "소비더머니",
             "category": "News & Politics",
             "duration": "13:18",
-            "view_count": "226808",
+            "view_count": "229885",
             "thumbnail_url": "https://i.ytimg.com/vi/c95y3wFVbAU/hqdefault.jpg"
         },
         {
@@ -250,7 +286,7 @@
             "channel_name": "스포일러 MLB",
             "category": "Sports",
             "duration": "9:03",
-            "view_count": "446935",
+            "view_count": "450366",
             "thumbnail_url": "https://i.ytimg.com/vi/VTSZq9m89Zk/hqdefault.jpg"
         },
         {
@@ -259,17 +295,8 @@
             "channel_name": "남서연SEOYEON",
             "category": "People & Blogs",
             "duration": "15:37",
-            "view_count": "251287",
+            "view_count": "252572",
             "thumbnail_url": "https://i.ytimg.com/vi/wi9dGvYlSus/hqdefault.jpg"
-        },
-        {
-            "video_id": "vImPQH00ctE",
-            "title": "[EN/JP] [#WSWF/3회 선공개] 안되면 의미 없어! 로얄 패밀리가 선택한 디렉터스 컷의 주인공은?",
-            "channel_name": "The CHOOM (더 춤)",
-            "category": "Entertainment",
-            "duration": "8:59",
-            "view_count": "933464",
-            "thumbnail_url": "https://i.ytimg.com/vi/vImPQH00ctE/hqdefault.jpg"
         },
         {
             "video_id": "KDgXaLtc3zM",
@@ -277,7 +304,7 @@
             "channel_name": "레오티비 LEOTV",
             "category": "Entertainment",
             "duration": "31:51",
-            "view_count": "186418",
+            "view_count": "187332",
             "thumbnail_url": "https://i.ytimg.com/vi/KDgXaLtc3zM/hqdefault.jpg"
         },
         {
@@ -286,7 +313,7 @@
             "channel_name": "보물섬",
             "category": "Comedy",
             "duration": "15:05",
-            "view_count": "1080353",
+            "view_count": "1082526",
             "thumbnail_url": "https://i.ytimg.com/vi/VByZ8iF3QIo/hqdefault.jpg"
         },
         {
@@ -295,7 +322,7 @@
             "channel_name": "SBS Drama",
             "category": "Entertainment",
             "duration": "14:59",
-            "view_count": "457861",
+            "view_count": "461376",
             "thumbnail_url": "https://i.ytimg.com/vi/oimU8MELrb0/hqdefault.jpg"
         },
         {
@@ -304,7 +331,7 @@
             "channel_name": "해쭈 [HAEJOO]",
             "category": "People & Blogs",
             "duration": "19:33",
-            "view_count": "545078",
+            "view_count": "546484",
             "thumbnail_url": "https://i.ytimg.com/vi/t7W_WikdAvs/hqdefault.jpg"
         },
         {
@@ -313,7 +340,7 @@
             "channel_name": "디글 클래식 :Diggle Classic",
             "category": "Entertainment",
             "duration": "17:36",
-            "view_count": "1002034",
+            "view_count": "1004993",
             "thumbnail_url": "https://i.ytimg.com/vi/7Cwpeh2jnVI/hqdefault.jpg"
         },
         {
@@ -322,7 +349,7 @@
             "channel_name": "코너Korner",
             "category": "Comedy",
             "duration": "12:14",
-            "view_count": "165354",
+            "view_count": "165513",
             "thumbnail_url": "https://i.ytimg.com/vi/0XTf3nAJ1nc/hqdefault.jpg"
         },
         {
@@ -331,7 +358,7 @@
             "channel_name": "유정 YUJEONG",
             "category": "People & Blogs",
             "duration": "23:34",
-            "view_count": "185581",
+            "view_count": "186105",
             "thumbnail_url": "https://i.ytimg.com/vi/co1FhEc3ewU/hqdefault.jpg"
         },
         {
@@ -340,17 +367,8 @@
             "channel_name": "김계정",
             "category": "People & Blogs",
             "duration": "11:45",
-            "view_count": "208423",
+            "view_count": "208919",
             "thumbnail_url": "https://i.ytimg.com/vi/9_ZWmRVWHfo/hqdefault.jpg"
-        },
-        {
-            "video_id": "cW6hi6iNpcE",
-            "title": "What is ALLDAY PROJECT?",
-            "channel_name": "THEBLACKLABEL",
-            "category": "Music",
-            "duration": "0:46",
-            "view_count": "165483",
-            "thumbnail_url": "https://i.ytimg.com/vi/cW6hi6iNpcE/hqdefault.jpg"
         },
         {
             "video_id": "58gb5Mc6zIQ",
@@ -358,26 +376,8 @@
             "channel_name": "일일칠 - 117",
             "category": "People & Blogs",
             "duration": "1:01:35",
-            "view_count": "2229999",
+            "view_count": "2235891",
             "thumbnail_url": "https://i.ytimg.com/vi/58gb5Mc6zIQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "cL_4urk60sM",
-            "title": "나의 로망 시칠리아 웨딩🪻이야기 - 근데 비 예보가 떴다..?🌧️Part 1.",
-            "channel_name": "mina in york 미나",
-            "category": "People & Blogs",
-            "duration": "29:33",
-            "view_count": "173967",
-            "thumbnail_url": "https://i.ytimg.com/vi/cL_4urk60sM/hqdefault.jpg"
-        },
-        {
-            "video_id": "hvmfzHt-Gvg",
-            "title": "도경수 Doh Kyung Soo The 1st full album [BLISS] Prologue",
-            "channel_name": "컴퍼니수수 Company Soosoo",
-            "category": "People & Blogs",
-            "duration": "0:34",
-            "view_count": "147994",
-            "thumbnail_url": "https://i.ytimg.com/vi/hvmfzHt-Gvg/hqdefault.jpg"
         }
     ]
 }
