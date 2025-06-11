@@ -1,13 +1,22 @@
 {
-    "scraped_time": "2025-06-11 12:13:33",
+    "scraped_time": "2025-06-11 13:23:17",
     "videos": [
+        {
+            "video_id": "8epr5_8mWxI",
+            "title": "[#WSWF/3회] 리더 계급 댄스 비디오 (Directed by RHTokyo) | ECHO! (Prod. WOOZI) | Mnet 250610 방송",
+            "channel_name": "The CHOOM (더 춤)",
+            "category": "Entertainment",
+            "duration": "5:45",
+            "view_count": "810376",
+            "thumbnail_url": "https://i.ytimg.com/vi/8epr5_8mWxI/hqdefault.jpg"
+        },
         {
             "video_id": "pifz9JH1Re8",
             "title": "QWER '눈물참기' Official MV",
             "channel_name": "QWER",
             "category": "Music",
             "duration": "5:03",
-            "view_count": "4196552",
+            "view_count": "4393689",
             "thumbnail_url": "https://i.ytimg.com/vi/pifz9JH1Re8/hqdefault.jpg"
         },
         {
@@ -16,7 +25,7 @@
             "channel_name": "뜬뜬 DdeunDdeun",
             "category": "Comedy",
             "duration": "1:41:40",
-            "view_count": "3021960",
+            "view_count": "3034427",
             "thumbnail_url": "https://i.ytimg.com/vi/ftmE4QjLDmk/hqdefault.jpg"
         },
         {
@@ -25,17 +34,8 @@
             "channel_name": "aespa",
             "category": "Music",
             "duration": "1:52",
-            "view_count": "12759948",
+            "view_count": "12800001",
             "thumbnail_url": "https://i.ytimg.com/vi/1dxDjcKg21o/hqdefault.jpg"
-        },
-        {
-            "video_id": "8epr5_8mWxI",
-            "title": "[#WSWF/3회] 리더 계급 댄스 비디오 (Directed by RHTokyo) | ECHO! (Prod. WOOZI) | Mnet 250610 방송",
-            "channel_name": "The CHOOM (더 춤)",
-            "category": "Entertainment",
-            "duration": "5:45",
-            "view_count": "749687",
-            "thumbnail_url": "https://i.ytimg.com/vi/8epr5_8mWxI/hqdefault.jpg"
         },
         {
             "video_id": "JMehW4VKBlg",
@@ -43,7 +43,7 @@
             "channel_name": "딩고 뮤직 / dingo music",
             "category": "Music",
             "duration": "20:32",
-            "view_count": "174681",
+            "view_count": "182192",
             "thumbnail_url": "https://i.ytimg.com/vi/JMehW4VKBlg/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "순자엄마",
             "category": "People & Blogs",
             "duration": "27:02",
-            "view_count": "760103",
+            "view_count": "763133",
             "thumbnail_url": "https://i.ytimg.com/vi/Ug4-icRq_cI/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "2:54",
-            "view_count": "5544726",
+            "view_count": "5646670",
             "thumbnail_url": "https://i.ytimg.com/vi/1KhOhW_O8-k/hqdefault.jpg"
         },
         {
@@ -70,8 +70,35 @@
             "channel_name": "잠골버스",
             "category": "Music",
             "duration": "6:18",
-            "view_count": "412490",
+            "view_count": "415738",
             "thumbnail_url": "https://i.ytimg.com/vi/HnyOnGTWIVM/hqdefault.jpg"
+        },
+        {
+            "video_id": "zSriKQYRnnY",
+            "title": "탑게이의 함부로 애틋한 보석 💎김우빈💎 | 홍석천의 보석함 시즌4 EP.1",
+            "channel_name": "홍석천의 보석함 ",
+            "category": "People & Blogs",
+            "duration": "32:02",
+            "view_count": "58096",
+            "thumbnail_url": "https://i.ytimg.com/vi/zSriKQYRnnY/hqdefault.jpg"
+        },
+        {
+            "video_id": "2KouAJwVaxA",
+            "title": "찰스엔터 마지막 소개팅 준비, 근데 이제 전남친을 곁들인…💔월간데이트 1월호와 함께한 실패 없는 소개팅 준비 편💪 (퍼스널컬러, 체형진단, 소개팅룩 쇼핑) [연애기회비용 EP.4]",
+            "channel_name": "iM금융그룹 공식유튜브 iM타운",
+            "category": "Entertainment",
+            "duration": "19:40",
+            "view_count": "113306",
+            "thumbnail_url": "https://i.ytimg.com/vi/2KouAJwVaxA/hqdefault.jpg"
+        },
+        {
+            "video_id": "WdtjKkT12EY",
+            "title": "QWER - 눈물참기ㅣ야외녹음실ㅣBeyond the StudioㅣDearㅣ쵸단 마젠타 히나 시연ㅣLIVE",
+            "channel_name": "1theK Live - 원더케이 라이브",
+            "category": "Music",
+            "duration": "4:09",
+            "view_count": "116969",
+            "thumbnail_url": "https://i.ytimg.com/vi/WdtjKkT12EY/hqdefault.jpg"
         },
         {
             "video_id": "52IyDIMyejQ",
@@ -79,7 +106,7 @@
             "channel_name": "KISS OF LIFE",
             "category": "Music",
             "duration": "3:38",
-            "view_count": "1090389",
+            "view_count": "1112524",
             "thumbnail_url": "https://i.ytimg.com/vi/52IyDIMyejQ/hqdefault.jpg"
         },
         {
@@ -88,7 +115,7 @@
             "channel_name": "izna (이즈나)",
             "category": "People & Blogs",
             "duration": "3:19",
-            "view_count": "7859386",
+            "view_count": "8144147",
             "thumbnail_url": "https://i.ytimg.com/vi/wLKpQpC3-Sw/hqdefault.jpg"
         },
         {
@@ -97,7 +124,7 @@
             "channel_name": "이대호 [RE:DAEHO]",
             "category": "Sports",
             "duration": "16:14",
-            "view_count": "438112",
+            "view_count": "446193",
             "thumbnail_url": "https://i.ytimg.com/vi/GI_-HNZFyb0/hqdefault.jpg"
         },
         {
@@ -106,7 +133,7 @@
             "channel_name": "쿠팡플레이 스포츠",
             "category": "Sports",
             "duration": "13:15",
-            "view_count": "3855718",
+            "view_count": "3858089",
             "thumbnail_url": "https://i.ytimg.com/vi/uw_X4usDCWE/hqdefault.jpg"
         },
         {
@@ -115,8 +142,17 @@
             "channel_name": "원지의하루",
             "category": "People & Blogs",
             "duration": "22:45",
-            "view_count": "387594",
+            "view_count": "391289",
             "thumbnail_url": "https://i.ytimg.com/vi/H_kg1s9bBJg/hqdefault.jpg"
+        },
+        {
+            "video_id": "AQozGQvrXb4",
+            "title": "🛠️ 중대.. 까지는 아니고 소대발표ㅣ퍼스널컬러 호갱되는 법ㅣ새끼 고양이들의 등장",
+            "channel_name": "deemd 딤디",
+            "category": "People & Blogs",
+            "duration": "22:43",
+            "view_count": "125818",
+            "thumbnail_url": "https://i.ytimg.com/vi/AQozGQvrXb4/hqdefault.jpg"
         },
         {
             "video_id": "QTBEFba0b88",
@@ -124,7 +160,7 @@
             "channel_name": "픽고 PICKGO",
             "category": "Entertainment",
             "duration": "10:16",
-            "view_count": "698217",
+            "view_count": "700133",
             "thumbnail_url": "https://i.ytimg.com/vi/QTBEFba0b88/hqdefault.jpg"
         },
         {
@@ -133,17 +169,8 @@
             "channel_name": "PLAVE 플레이브",
             "category": "Entertainment",
             "duration": "4:05",
-            "view_count": "476475",
+            "view_count": "480141",
             "thumbnail_url": "https://i.ytimg.com/vi/im_Yix01EKQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "PBuF4FVfkBk",
-            "title": "[UFC] 제카 사라기 vs 유주상",
-            "channel_name": "tvN SPORTS",
-            "category": "Sports",
-            "duration": "10:04",
-            "view_count": "1128375",
-            "thumbnail_url": "https://i.ytimg.com/vi/PBuF4FVfkBk/hqdefault.jpg"
         },
         {
             "video_id": "io3qBMNdhwo",
@@ -151,8 +178,17 @@
             "channel_name": "The CHOOM (더 춤)",
             "category": "Entertainment",
             "duration": "4:14",
-            "view_count": "566303",
+            "view_count": "601725",
             "thumbnail_url": "https://i.ytimg.com/vi/io3qBMNdhwo/hqdefault.jpg"
+        },
+        {
+            "video_id": "PBuF4FVfkBk",
+            "title": "[UFC] 제카 사라기 vs 유주상",
+            "channel_name": "tvN SPORTS",
+            "category": "Sports",
+            "duration": "10:04",
+            "view_count": "1130060",
+            "thumbnail_url": "https://i.ytimg.com/vi/PBuF4FVfkBk/hqdefault.jpg"
         },
         {
             "video_id": "ZJuaat_Gn5g",
@@ -160,8 +196,17 @@
             "channel_name": "Mozzarella Girl & Oppa",
             "category": "Comedy",
             "duration": "36:25",
-            "view_count": "1097473",
+            "view_count": "1102129",
             "thumbnail_url": "https://i.ytimg.com/vi/ZJuaat_Gn5g/hqdefault.jpg"
+        },
+        {
+            "video_id": "HNIQXP5FVEE",
+            "title": "Ep21. 큰아들 졸업식 아들 등판 ( 허락받음 ) / 미국 야구장 (바람의 손자 응원)",
+            "channel_name": "오연수 Yun Soo Oh",
+            "category": "People & Blogs",
+            "duration": "9:04",
+            "view_count": "71501",
+            "thumbnail_url": "https://i.ytimg.com/vi/HNIQXP5FVEE/hqdefault.jpg"
         },
         {
             "video_id": "qyGijILMRH4",
@@ -169,17 +214,8 @@
             "channel_name": "고재영",
             "category": "Entertainment",
             "duration": "21:25",
-            "view_count": "1803585",
+            "view_count": "1804842",
             "thumbnail_url": "https://i.ytimg.com/vi/qyGijILMRH4/hqdefault.jpg"
-        },
-        {
-            "video_id": "SAYBHEfVFJw",
-            "title": "버터 5000g으로 스테이크 누르기",
-            "channel_name": "먹어볼래TryToEat",
-            "category": "People & Blogs",
-            "duration": "8:30",
-            "view_count": "554824",
-            "thumbnail_url": "https://i.ytimg.com/vi/SAYBHEfVFJw/hqdefault.jpg"
         },
         {
             "video_id": "F4qFzuCA9Po",
@@ -187,8 +223,17 @@
             "channel_name": "Stray Kids Japan Official YouTube",
             "category": "Music",
             "duration": "4:18",
-            "view_count": "1766412",
+            "view_count": "1854424",
             "thumbnail_url": "https://i.ytimg.com/vi/F4qFzuCA9Po/hqdefault.jpg"
+        },
+        {
+            "video_id": "SAYBHEfVFJw",
+            "title": "버터 5000g으로 스테이크 누르기",
+            "channel_name": "먹어볼래TryToEat",
+            "category": "People & Blogs",
+            "duration": "8:30",
+            "view_count": "556231",
+            "thumbnail_url": "https://i.ytimg.com/vi/SAYBHEfVFJw/hqdefault.jpg"
         },
         {
             "video_id": "Cg-cRzubi2A",
@@ -196,7 +241,7 @@
             "channel_name": "짧은대본 ShortPaper",
             "category": "Entertainment",
             "duration": "9:18",
-            "view_count": "570397",
+            "view_count": "571607",
             "thumbnail_url": "https://i.ytimg.com/vi/Cg-cRzubi2A/hqdefault.jpg"
         },
         {
@@ -205,7 +250,7 @@
             "channel_name": "mina in york 미나",
             "category": "People & Blogs",
             "duration": "31:40",
-            "view_count": "112345",
+            "view_count": "113845",
             "thumbnail_url": "https://i.ytimg.com/vi/IktihF1LIRY/hqdefault.jpg"
         },
         {
@@ -214,7 +259,7 @@
             "channel_name": "윤택TV",
             "category": "Entertainment",
             "duration": "58:38",
-            "view_count": "196619",
+            "view_count": "198406",
             "thumbnail_url": "https://i.ytimg.com/vi/f5E1xHUEAt4/hqdefault.jpg"
         },
         {
@@ -223,7 +268,7 @@
             "channel_name": "은유 EUNYU",
             "category": "People & Blogs",
             "duration": "11:02",
-            "view_count": "141094",
+            "view_count": "142621",
             "thumbnail_url": "https://i.ytimg.com/vi/JbkinXAd0QY/hqdefault.jpg"
         },
         {
@@ -232,17 +277,8 @@
             "channel_name": "숏박스",
             "category": "Comedy",
             "duration": "8:03",
-            "view_count": "2930095",
+            "view_count": "2935757",
             "thumbnail_url": "https://i.ytimg.com/vi/0yuXohIsJks/hqdefault.jpg"
-        },
-        {
-            "video_id": "-0ICh3CmHVs",
-            "title": "[EN/JP] [#WSWF/3회 선공개] 리더 계급 메인 댄서? 뺏어줄게!",
-            "channel_name": "The CHOOM (더 춤)",
-            "category": "Entertainment",
-            "duration": "4:56",
-            "view_count": "1430890",
-            "thumbnail_url": "https://i.ytimg.com/vi/-0ICh3CmHVs/hqdefault.jpg"
         },
         {
             "video_id": "xgBLybiME88",
@@ -250,8 +286,17 @@
             "channel_name": "Tacosama 타코사마",
             "category": "People & Blogs",
             "duration": "41:49",
-            "view_count": "294294",
+            "view_count": "295967",
             "thumbnail_url": "https://i.ytimg.com/vi/xgBLybiME88/hqdefault.jpg"
+        },
+        {
+            "video_id": "-0ICh3CmHVs",
+            "title": "[EN/JP] [#WSWF/3회 선공개] 리더 계급 메인 댄서? 뺏어줄게!",
+            "channel_name": "The CHOOM (더 춤)",
+            "category": "Entertainment",
+            "duration": "4:56",
+            "view_count": "1432133",
+            "thumbnail_url": "https://i.ytimg.com/vi/-0ICh3CmHVs/hqdefault.jpg"
         },
         {
             "video_id": "zgFJovZCX6U",
@@ -259,7 +304,7 @@
             "channel_name": "골 때리는 그녀들 Shooting Stars",
             "category": "Entertainment",
             "duration": "5:13",
-            "view_count": "301035",
+            "view_count": "303861",
             "thumbnail_url": "https://i.ytimg.com/vi/zgFJovZCX6U/hqdefault.jpg"
         },
         {
@@ -268,7 +313,7 @@
             "channel_name": "언더월드 UNDER WORLD",
             "category": "Pets & Animals",
             "duration": "10:55",
-            "view_count": "1918766",
+            "view_count": "1922704",
             "thumbnail_url": "https://i.ytimg.com/vi/hGP0Bdvb4wI/hqdefault.jpg"
         },
         {
@@ -277,17 +322,8 @@
             "channel_name": "소비더머니",
             "category": "News & Politics",
             "duration": "13:18",
-            "view_count": "229885",
+            "view_count": "231203",
             "thumbnail_url": "https://i.ytimg.com/vi/c95y3wFVbAU/hqdefault.jpg"
-        },
-        {
-            "video_id": "VTSZq9m89Zk",
-            "title": "🔑키플레이어🔑 \"콘포토는 이제 유니폼 수선을 맡자\" 타율 꼴지 좌익수 주전에 분노하는 팬들😤😤 김혜성의 호수비+3루타 미국 현지 반응🔥🔥 | #야구한입 x SPOTV",
-            "channel_name": "스포일러 MLB",
-            "category": "Sports",
-            "duration": "9:03",
-            "view_count": "450366",
-            "thumbnail_url": "https://i.ytimg.com/vi/VTSZq9m89Zk/hqdefault.jpg"
         },
         {
             "video_id": "wi9dGvYlSus",
@@ -295,8 +331,17 @@
             "channel_name": "남서연SEOYEON",
             "category": "People & Blogs",
             "duration": "15:37",
-            "view_count": "252572",
+            "view_count": "253413",
             "thumbnail_url": "https://i.ytimg.com/vi/wi9dGvYlSus/hqdefault.jpg"
+        },
+        {
+            "video_id": "VTSZq9m89Zk",
+            "title": "🔑키플레이어🔑 \"콘포토는 이제 유니폼 수선을 맡자\" 타율 꼴지 좌익수 주전에 분노하는 팬들😤😤 김혜성의 호수비+3루타 미국 현지 반응🔥🔥 | #야구한입 x SPOTV",
+            "channel_name": "스포일러 MLB",
+            "category": "Sports",
+            "duration": "9:03",
+            "view_count": "451891",
+            "thumbnail_url": "https://i.ytimg.com/vi/VTSZq9m89Zk/hqdefault.jpg"
         },
         {
             "video_id": "KDgXaLtc3zM",
@@ -304,7 +349,7 @@
             "channel_name": "레오티비 LEOTV",
             "category": "Entertainment",
             "duration": "31:51",
-            "view_count": "187332",
+            "view_count": "188010",
             "thumbnail_url": "https://i.ytimg.com/vi/KDgXaLtc3zM/hqdefault.jpg"
         },
         {
@@ -313,7 +358,7 @@
             "channel_name": "보물섬",
             "category": "Comedy",
             "duration": "15:05",
-            "view_count": "1082526",
+            "view_count": "1084001",
             "thumbnail_url": "https://i.ytimg.com/vi/VByZ8iF3QIo/hqdefault.jpg"
         },
         {
@@ -322,7 +367,7 @@
             "channel_name": "SBS Drama",
             "category": "Entertainment",
             "duration": "14:59",
-            "view_count": "461376",
+            "view_count": "463296",
             "thumbnail_url": "https://i.ytimg.com/vi/oimU8MELrb0/hqdefault.jpg"
         },
         {
@@ -331,53 +376,8 @@
             "channel_name": "해쭈 [HAEJOO]",
             "category": "People & Blogs",
             "duration": "19:33",
-            "view_count": "546484",
+            "view_count": "547477",
             "thumbnail_url": "https://i.ytimg.com/vi/t7W_WikdAvs/hqdefault.jpg"
-        },
-        {
-            "video_id": "7Cwpeh2jnVI",
-            "title": "[#유퀴즈온더블럭] 선배들이 증언하는 광기의 희극인 김숙🔥 예측 불가 심부름 사건으로 '돌아이' 타이틀을 각인시킨 순간🤣",
-            "channel_name": "디글 클래식 :Diggle Classic",
-            "category": "Entertainment",
-            "duration": "17:36",
-            "view_count": "1004993",
-            "thumbnail_url": "https://i.ytimg.com/vi/7Cwpeh2jnVI/hqdefault.jpg"
-        },
-        {
-            "video_id": "0XTf3nAJ1nc",
-            "title": "초심으로 돌아갑니다.",
-            "channel_name": "코너Korner",
-            "category": "Comedy",
-            "duration": "12:14",
-            "view_count": "165513",
-            "thumbnail_url": "https://i.ytimg.com/vi/0XTf3nAJ1nc/hqdefault.jpg"
-        },
-        {
-            "video_id": "co1FhEc3ewU",
-            "title": "고등학교 친구랑 단 둘이 후쿠오카 2박3일 우정여행🇯🇵 규슈 유후인 투어까지! 뚜벅이들의 알찬 브이로그✈️ 크롬하츠, 히스테릭글래머 잔뜩 쇼핑하고•• 맛집투어에 키티 프리쿠라..💋",
-            "channel_name": "유정 YUJEONG",
-            "category": "People & Blogs",
-            "duration": "23:34",
-            "view_count": "186105",
-            "thumbnail_url": "https://i.ytimg.com/vi/co1FhEc3ewU/hqdefault.jpg"
-        },
-        {
-            "video_id": "9_ZWmRVWHfo",
-            "title": "딸 편지 읽고 오열하는 남편",
-            "channel_name": "김계정",
-            "category": "People & Blogs",
-            "duration": "11:45",
-            "view_count": "208919",
-            "thumbnail_url": "https://i.ytimg.com/vi/9_ZWmRVWHfo/hqdefault.jpg"
-        },
-        {
-            "video_id": "58gb5Mc6zIQ",
-            "title": "[덱스와 사나의 냉터뷰] 내 동생들 너무 귀여운고야...♥ l EP.13 지드래곤(G-DRAGON) 편",
-            "channel_name": "일일칠 - 117",
-            "category": "People & Blogs",
-            "duration": "1:01:35",
-            "view_count": "2235891",
-            "thumbnail_url": "https://i.ytimg.com/vi/58gb5Mc6zIQ/hqdefault.jpg"
         }
     ]
 }
