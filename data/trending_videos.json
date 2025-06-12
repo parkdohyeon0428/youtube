@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-06-12 21:27:19",
+    "scraped_time": "2025-06-12 22:28:18",
     "videos": [
         {
             "video_id": "STxG499vNBo",
@@ -7,17 +7,8 @@
             "channel_name": "쿠팡플레이 스포츠",
             "category": "Sports",
             "duration": "11:11",
-            "view_count": "2602660",
+            "view_count": "2615347",
             "thumbnail_url": "https://i.ytimg.com/vi/STxG499vNBo/hqdefault.jpg"
-        },
-        {
-            "video_id": "8epr5_8mWxI",
-            "title": "[#WSWF/3회] 차원이 다른 클래스 리더 계급 (Directed by RHTokyo) | ECHO! | Mnet 250610 방송",
-            "channel_name": "The CHOOM (더 춤)",
-            "category": "Entertainment",
-            "duration": "5:45",
-            "view_count": "1625610",
-            "thumbnail_url": "https://i.ytimg.com/vi/8epr5_8mWxI/hqdefault.jpg"
         },
         {
             "video_id": "QA7mQhSFbVc",
@@ -25,8 +16,17 @@
             "channel_name": "광 gwang series",
             "category": "People & Blogs",
             "duration": "19:19",
-            "view_count": "478996",
+            "view_count": "494348",
             "thumbnail_url": "https://i.ytimg.com/vi/QA7mQhSFbVc/hqdefault.jpg"
+        },
+        {
+            "video_id": "8epr5_8mWxI",
+            "title": "[#WSWF/3회] 차원이 다른 클래스 리더 계급 (Directed by RHTokyo) | ECHO! | Mnet 250610 방송",
+            "channel_name": "The CHOOM (더 춤)",
+            "category": "Entertainment",
+            "duration": "5:45",
+            "view_count": "1640132",
+            "thumbnail_url": "https://i.ytimg.com/vi/8epr5_8mWxI/hqdefault.jpg"
         },
         {
             "video_id": "bYzve4aYEHA",
@@ -34,7 +34,7 @@
             "channel_name": "KODE 코드",
             "category": "Entertainment",
             "duration": "20:39",
-            "view_count": "199312",
+            "view_count": "203545",
             "thumbnail_url": "https://i.ytimg.com/vi/bYzve4aYEHA/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "TVCHOSUN STAR",
             "category": "Entertainment",
             "duration": "40:19",
-            "view_count": "162612",
+            "view_count": "166751",
             "thumbnail_url": "https://i.ytimg.com/vi/FSMBwCEwAFQ/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "딩고 뮤직 / dingo music",
             "category": "Music",
             "duration": "20:32",
-            "view_count": "320924",
+            "view_count": "324809",
             "thumbnail_url": "https://i.ytimg.com/vi/JMehW4VKBlg/hqdefault.jpg"
         },
         {
@@ -61,17 +61,8 @@
             "channel_name": "마비노기 모바일",
             "category": "Gaming",
             "duration": "1:19",
-            "view_count": "75305",
+            "view_count": "76070",
             "thumbnail_url": "https://i.ytimg.com/vi/tD8JaVOzpOE/hqdefault.jpg"
-        },
-        {
-            "video_id": "l-kXtxq3Cco",
-            "title": "쏟아져오는 바람처럼 눈부시게 너란 빛이 비추더라 Be My Light",
-            "channel_name": "DOYOUNG - Topic",
-            "category": "Music",
-            "duration": "3:27",
-            "view_count": "375385",
-            "thumbnail_url": "https://i.ytimg.com/vi/l-kXtxq3Cco/hqdefault.jpg"
         },
         {
             "video_id": "Lgh2xrIyoEE",
@@ -79,8 +70,17 @@
             "channel_name": "데프콘TV",
             "category": "Entertainment",
             "duration": "31:17",
-            "view_count": "366189",
+            "view_count": "386698",
             "thumbnail_url": "https://i.ytimg.com/vi/Lgh2xrIyoEE/hqdefault.jpg"
+        },
+        {
+            "video_id": "l-kXtxq3Cco",
+            "title": "쏟아져오는 바람처럼 눈부시게 너란 빛이 비추더라 Be My Light",
+            "channel_name": "DOYOUNG - Topic",
+            "category": "Music",
+            "duration": "3:27",
+            "view_count": "380787",
+            "thumbnail_url": "https://i.ytimg.com/vi/l-kXtxq3Cco/hqdefault.jpg"
         },
         {
             "video_id": "pifz9JH1Re8",
@@ -88,17 +88,8 @@
             "channel_name": "QWER",
             "category": "Music",
             "duration": "5:03",
-            "view_count": "6889021",
+            "view_count": "6954895",
             "thumbnail_url": "https://i.ytimg.com/vi/pifz9JH1Re8/hqdefault.jpg"
-        },
-        {
-            "video_id": "1dxDjcKg21o",
-            "title": "aespa 에스파 'Dirty Work' Performance Video",
-            "channel_name": "aespa",
-            "category": "Music",
-            "duration": "1:52",
-            "view_count": "13866406",
-            "thumbnail_url": "https://i.ytimg.com/vi/1dxDjcKg21o/hqdefault.jpg"
         },
         {
             "video_id": "lcb1uUG3DkQ",
@@ -106,8 +97,17 @@
             "channel_name": "돌고래유괴단",
             "category": "Entertainment",
             "duration": "3:54",
-            "view_count": "371188",
+            "view_count": "378992",
             "thumbnail_url": "https://i.ytimg.com/vi/lcb1uUG3DkQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "1dxDjcKg21o",
+            "title": "aespa 에스파 'Dirty Work' Performance Video",
+            "channel_name": "aespa",
+            "category": "Music",
+            "duration": "1:52",
+            "view_count": "13903906",
+            "thumbnail_url": "https://i.ytimg.com/vi/1dxDjcKg21o/hqdefault.jpg"
         },
         {
             "video_id": "E1gn04R331I",
@@ -115,7 +115,7 @@
             "channel_name": "아빠하고 나하고",
             "category": "People & Blogs",
             "duration": "3:39",
-            "view_count": "317240",
+            "view_count": "318091",
             "thumbnail_url": "https://i.ytimg.com/vi/E1gn04R331I/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "뜬뜬 DdeunDdeun",
             "category": "Comedy",
             "duration": "1:41:40",
-            "view_count": "3333489",
+            "view_count": "3343840",
             "thumbnail_url": "https://i.ytimg.com/vi/ftmE4QjLDmk/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "삐루빼로",
             "category": "People & Blogs",
             "duration": "10:52",
-            "view_count": "304233",
+            "view_count": "309473",
             "thumbnail_url": "https://i.ytimg.com/vi/iKIAdwQveeM/hqdefault.jpg"
         },
         {
@@ -142,17 +142,8 @@
             "channel_name": "밉지않은 관종언니",
             "category": "People & Blogs",
             "duration": "29:38",
-            "view_count": "149245",
+            "view_count": "152225",
             "thumbnail_url": "https://i.ytimg.com/vi/ERyNoVNcXJ4/hqdefault.jpg"
-        },
-        {
-            "video_id": "GI_-HNZFyb0",
-            "title": "야구 선수를 키우는 학부모가 된 이대호의 조언",
-            "channel_name": "이대호 [RE:DAEHO]",
-            "category": "Sports",
-            "duration": "16:14",
-            "view_count": "587206",
-            "thumbnail_url": "https://i.ytimg.com/vi/GI_-HNZFyb0/hqdefault.jpg"
         },
         {
             "video_id": "WdtjKkT12EY",
@@ -160,8 +151,17 @@
             "channel_name": "1theK Live - 원더케이 라이브",
             "category": "Music",
             "duration": "4:09",
-            "view_count": "239810",
+            "view_count": "244807",
             "thumbnail_url": "https://i.ytimg.com/vi/WdtjKkT12EY/hqdefault.jpg"
+        },
+        {
+            "video_id": "GI_-HNZFyb0",
+            "title": "야구 선수를 키우는 학부모가 된 이대호의 조언",
+            "channel_name": "이대호 [RE:DAEHO]",
+            "category": "Sports",
+            "duration": "16:14",
+            "view_count": "590123",
+            "thumbnail_url": "https://i.ytimg.com/vi/GI_-HNZFyb0/hqdefault.jpg"
         },
         {
             "video_id": "gy4r1k767WU",
@@ -169,7 +169,7 @@
             "channel_name": "운동부 둘이 왔어요",
             "category": "Travel & Events",
             "duration": "18:57",
-            "view_count": "124122",
+            "view_count": "127288",
             "thumbnail_url": "https://i.ytimg.com/vi/gy4r1k767WU/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "디스패치 / Dispatch",
             "category": "Entertainment",
             "duration": "7:14",
-            "view_count": "1462700",
+            "view_count": "1467124",
             "thumbnail_url": "https://i.ytimg.com/vi/qu0h3JWY2LA/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "부라도커플 Burado_couple",
             "category": "People & Blogs",
             "duration": "11:08",
-            "view_count": "83237",
+            "view_count": "85533",
             "thumbnail_url": "https://i.ytimg.com/vi/g6OWvHv4nyE/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "순자엄마",
             "category": "People & Blogs",
             "duration": "27:02",
-            "view_count": "850599",
+            "view_count": "853221",
             "thumbnail_url": "https://i.ytimg.com/vi/Ug4-icRq_cI/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "아빠하고 나하고",
             "category": "People & Blogs",
             "duration": "1:35",
-            "view_count": "114625",
+            "view_count": "115288",
             "thumbnail_url": "https://i.ytimg.com/vi/dDGhBQBuwB8/hqdefault.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "2:54",
-            "view_count": "7716483",
+            "view_count": "7789492",
             "thumbnail_url": "https://i.ytimg.com/vi/1KhOhW_O8-k/hqdefault.jpg"
         },
         {
@@ -223,17 +223,8 @@
             "channel_name": "잠골버스",
             "category": "Music",
             "duration": "6:18",
-            "view_count": "507463",
+            "view_count": "510980",
             "thumbnail_url": "https://i.ytimg.com/vi/HnyOnGTWIVM/hqdefault.jpg"
-        },
-        {
-            "video_id": "nn5ozz6Gj7s",
-            "title": "부추와 두부를 이렇게 드세요! 영양가득 단백질 가득한 부추 요리 2가지",
-            "channel_name": "수리키친Suri",
-            "category": "People & Blogs",
-            "duration": "7:26",
-            "view_count": "176088",
-            "thumbnail_url": "https://i.ytimg.com/vi/nn5ozz6Gj7s/hqdefault.jpg"
         },
         {
             "video_id": "z-F75BQewSE",
@@ -241,17 +232,17 @@
             "channel_name": "[헝가리부부]김패밀리VLOG",
             "category": "People & Blogs",
             "duration": "19:39",
-            "view_count": "159801",
+            "view_count": "167041",
             "thumbnail_url": "https://i.ytimg.com/vi/z-F75BQewSE/hqdefault.jpg"
         },
         {
-            "video_id": "2KouAJwVaxA",
-            "title": "찰스엔터 마지막 소개팅 준비, 근데 이제 전남친을 곁들인…💔월간데이트 1월호와 함께한 실패 없는 소개팅 준비 편💪 (퍼스널컬러, 체형진단, 소개팅룩 쇼핑) [연애기회비용 EP.4]",
-            "channel_name": "iM금융그룹 공식유튜브 iM타운",
-            "category": "Entertainment",
-            "duration": "19:40",
-            "view_count": "175132",
-            "thumbnail_url": "https://i.ytimg.com/vi/2KouAJwVaxA/hqdefault.jpg"
+            "video_id": "nn5ozz6Gj7s",
+            "title": "부추와 두부를 이렇게 드세요! 영양가득 단백질 가득한 부추 요리 2가지",
+            "channel_name": "수리키친Suri",
+            "category": "People & Blogs",
+            "duration": "7:26",
+            "view_count": "177858",
+            "thumbnail_url": "https://i.ytimg.com/vi/nn5ozz6Gj7s/hqdefault.jpg"
         },
         {
             "video_id": "or2vs7Ntvrg",
@@ -259,17 +250,17 @@
             "channel_name": "픽잇 :Pick it",
             "category": "Entertainment",
             "duration": "15:42",
-            "view_count": "325113",
+            "view_count": "334855",
             "thumbnail_url": "https://i.ytimg.com/vi/or2vs7Ntvrg/hqdefault.jpg"
         },
         {
-            "video_id": "0yw2m-p5Tgs",
-            "title": "12년만에 싹 갈아엎은 새로운 디자인? 애플 WWDC25 공개 내용 총정리!",
-            "channel_name": "ITSub잇섭",
-            "category": "Science & Technology",
-            "duration": "16:25",
-            "view_count": "822009",
-            "thumbnail_url": "https://i.ytimg.com/vi/0yw2m-p5Tgs/hqdefault.jpg"
+            "video_id": "2KouAJwVaxA",
+            "title": "찰스엔터 마지막 소개팅 준비, 근데 이제 전남친을 곁들인…💔월간데이트 1월호와 함께한 실패 없는 소개팅 준비 편💪 (퍼스널컬러, 체형진단, 소개팅룩 쇼핑) [연애기회비용 EP.4]",
+            "channel_name": "iM금융그룹 공식유튜브 iM타운",
+            "category": "Entertainment",
+            "duration": "19:40",
+            "view_count": "177085",
+            "thumbnail_url": "https://i.ytimg.com/vi/2KouAJwVaxA/hqdefault.jpg"
         },
         {
             "video_id": "mIMikwkyo4s",
@@ -277,8 +268,17 @@
             "channel_name": "홍윤화 김민기 꽁냥꽁냥",
             "category": "Entertainment",
             "duration": "13:11",
-            "view_count": "108129",
+            "view_count": "112015",
             "thumbnail_url": "https://i.ytimg.com/vi/mIMikwkyo4s/hqdefault.jpg"
+        },
+        {
+            "video_id": "0yw2m-p5Tgs",
+            "title": "12년만에 싹 갈아엎은 새로운 디자인? 애플 WWDC25 공개 내용 총정리!",
+            "channel_name": "ITSub잇섭",
+            "category": "Science & Technology",
+            "duration": "16:25",
+            "view_count": "826151",
+            "thumbnail_url": "https://i.ytimg.com/vi/0yw2m-p5Tgs/hqdefault.jpg"
         },
         {
             "video_id": "bLM46o9Ps4c",
@@ -286,7 +286,7 @@
             "channel_name": "TVCHOSUN - TV조선",
             "category": "Entertainment",
             "duration": "6:36",
-            "view_count": "304325",
+            "view_count": "306520",
             "thumbnail_url": "https://i.ytimg.com/vi/bLM46o9Ps4c/hqdefault.jpg"
         },
         {
@@ -295,7 +295,7 @@
             "channel_name": "홍석천의 보석함 ",
             "category": "People & Blogs",
             "duration": "32:02",
-            "view_count": "128613",
+            "view_count": "130978",
             "thumbnail_url": "https://i.ytimg.com/vi/zSriKQYRnnY/hqdefault.jpg"
         },
         {
@@ -304,7 +304,7 @@
             "channel_name": "지피티",
             "category": "Sports",
             "duration": "23:30",
-            "view_count": "205322",
+            "view_count": "206941",
             "thumbnail_url": "https://i.ytimg.com/vi/1NftZaSKXys/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "총몇명",
             "category": "Film & Animation",
             "duration": "5:19",
-            "view_count": "740720",
+            "view_count": "755297",
             "thumbnail_url": "https://i.ytimg.com/vi/rO_WMto8m14/hqdefault.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "channel_name": "deemd 딤디",
             "category": "People & Blogs",
             "duration": "22:43",
-            "view_count": "190107",
+            "view_count": "191565",
             "thumbnail_url": "https://i.ytimg.com/vi/AQozGQvrXb4/hqdefault.jpg"
         },
         {
@@ -331,7 +331,7 @@
             "channel_name": "DaFuq!?Boom!",
             "category": "Entertainment",
             "duration": "7:19",
-            "view_count": "13711497",
+            "view_count": "13771945",
             "thumbnail_url": "https://i.ytimg.com/vi/zo4g2Ue-zEo/hqdefault.jpg"
         },
         {
@@ -340,7 +340,7 @@
             "channel_name": "원지의하루",
             "category": "People & Blogs",
             "duration": "22:45",
-            "view_count": "485892",
+            "view_count": "488037",
             "thumbnail_url": "https://i.ytimg.com/vi/H_kg1s9bBJg/hqdefault.jpg"
         },
         {
@@ -349,7 +349,7 @@
             "channel_name": "술익는집",
             "category": "Howto & Style",
             "duration": "17:20",
-            "view_count": "498954",
+            "view_count": "503230",
             "thumbnail_url": "https://i.ytimg.com/vi/Gc4vCdmDLNk/hqdefault.jpg"
         },
         {
@@ -358,7 +358,7 @@
             "channel_name": "킥서비스",
             "category": "Comedy",
             "duration": "4:20",
-            "view_count": "220305",
+            "view_count": "222653",
             "thumbnail_url": "https://i.ytimg.com/vi/l-HZaaMIip0/hqdefault.jpg"
         },
         {
@@ -367,7 +367,7 @@
             "channel_name": "Mozzarella Girl & Oppa",
             "category": "Comedy",
             "duration": "36:25",
-            "view_count": "1177288",
+            "view_count": "1179992",
             "thumbnail_url": "https://i.ytimg.com/vi/ZJuaat_Gn5g/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "mina in york 미나",
             "category": "People & Blogs",
             "duration": "31:40",
-            "view_count": "140020",
+            "view_count": "140857",
             "thumbnail_url": "https://i.ytimg.com/vi/IktihF1LIRY/hqdefault.jpg"
         }
     ]
