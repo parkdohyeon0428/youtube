@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-06-15 08:13:52",
+    "scraped_time": "2025-06-15 10:15:33",
     "videos": [
         {
             "video_id": "Qhm_lEfx2Jo",
@@ -7,17 +7,8 @@
             "channel_name": "tvN D ENT",
             "category": "Gaming",
             "duration": "17:37",
-            "view_count": "1678597",
+            "view_count": "1693662",
             "thumbnail_url": "https://i.ytimg.com/vi/Qhm_lEfx2Jo/hqdefault.jpg"
-        },
-        {
-            "video_id": "PSwZAjgDBQw",
-            "title": "일본 무인도 생존기 24시 - 오키나와(1)",
-            "channel_name": "곽튜브",
-            "category": "Travel & Events",
-            "duration": "36:28",
-            "view_count": "995701",
-            "thumbnail_url": "https://i.ytimg.com/vi/PSwZAjgDBQw/hqdefault.jpg"
         },
         {
             "video_id": "Kq7QkA2vxYc",
@@ -25,8 +16,17 @@
             "channel_name": "동네친구 강나미 [Kangnami]",
             "category": "Entertainment",
             "duration": "17:57",
-            "view_count": "1484548",
+            "view_count": "1499236",
             "thumbnail_url": "https://i.ytimg.com/vi/Kq7QkA2vxYc/hqdefault.jpg"
+        },
+        {
+            "video_id": "PSwZAjgDBQw",
+            "title": "일본 무인도 생존기 24시 - 오키나와(1)",
+            "channel_name": "곽튜브",
+            "category": "Travel & Events",
+            "duration": "36:28",
+            "view_count": "1000086",
+            "thumbnail_url": "https://i.ytimg.com/vi/PSwZAjgDBQw/hqdefault.jpg"
         },
         {
             "video_id": "1KzZnr1Zl0c",
@@ -34,7 +34,7 @@
             "channel_name": "SPOiler 스포일러",
             "category": "Sports",
             "duration": "19:20",
-            "view_count": "379775",
+            "view_count": "383082",
             "thumbnail_url": "https://i.ytimg.com/vi/1KzZnr1Zl0c/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "숏박스",
             "category": "Comedy",
             "duration": "8:36",
-            "view_count": "1928824",
+            "view_count": "1941652",
             "thumbnail_url": "https://i.ytimg.com/vi/9oBrILNOfd4/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "ALLDAY PROJECT",
             "category": "People & Blogs",
             "duration": "12:37",
-            "view_count": "757245",
+            "view_count": "766150",
             "thumbnail_url": "https://i.ytimg.com/vi/iVDmfi79CMk/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "BOYS II PLANET",
             "category": "Entertainment",
             "duration": "7:26",
-            "view_count": "3222404",
+            "view_count": "3229314",
             "thumbnail_url": "https://i.ytimg.com/vi/ndAQFk2n5g0/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "쿠팡플레이 스포츠",
             "category": "Sports",
             "duration": "11:11",
-            "view_count": "2767939",
+            "view_count": "2769043",
             "thumbnail_url": "https://i.ytimg.com/vi/STxG499vNBo/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "바로 그 고소영",
             "category": "People & Blogs",
             "duration": "21:30",
-            "view_count": "225539",
+            "view_count": "227631",
             "thumbnail_url": "https://i.ytimg.com/vi/OVTQNm9YGDE/hqdefault.jpg"
         },
         {
@@ -88,17 +88,8 @@
             "channel_name": "미미미누",
             "category": "Education",
             "duration": "27:36",
-            "view_count": "586002",
+            "view_count": "588821",
             "thumbnail_url": "https://i.ytimg.com/vi/EagYXvxMtPw/hqdefault.jpg"
-        },
-        {
-            "video_id": "H4H99b1CjPU",
-            "title": "ATEEZ(에이티즈) - 'Lemon Drop' Official MV",
-            "channel_name": "KQ ENTERTAINMENT",
-            "category": "Music",
-            "duration": "3:43",
-            "view_count": "14917865",
-            "thumbnail_url": "https://i.ytimg.com/vi/H4H99b1CjPU/hqdefault.jpg"
         },
         {
             "video_id": "TwfOTaEVt_w",
@@ -106,8 +97,17 @@
             "channel_name": "THEBLACKLABEL",
             "category": "Music",
             "duration": "0:31",
-            "view_count": "889503",
+            "view_count": "895326",
             "thumbnail_url": "https://i.ytimg.com/vi/TwfOTaEVt_w/hqdefault.jpg"
+        },
+        {
+            "video_id": "H4H99b1CjPU",
+            "title": "ATEEZ(에이티즈) - 'Lemon Drop' Official MV",
+            "channel_name": "KQ ENTERTAINMENT",
+            "category": "Music",
+            "duration": "3:43",
+            "view_count": "15123705",
+            "thumbnail_url": "https://i.ytimg.com/vi/H4H99b1CjPU/hqdefault.jpg"
         },
         {
             "video_id": "9sn8pjMECrw",
@@ -115,7 +115,7 @@
             "channel_name": "강쉪",
             "category": "Howto & Style",
             "duration": "10:09",
-            "view_count": "322021",
+            "view_count": "326842",
             "thumbnail_url": "https://i.ytimg.com/vi/9sn8pjMECrw/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "은지랑 이은지",
             "category": "People & Blogs",
             "duration": "28:30",
-            "view_count": "296009",
+            "view_count": "297587",
             "thumbnail_url": "https://i.ytimg.com/vi/IoRfKxDxn58/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "사나고 Sanago",
             "category": "Howto & Style",
             "duration": "12:01",
-            "view_count": "189725",
+            "view_count": "191974",
             "thumbnail_url": "https://i.ytimg.com/vi/uSfKhBpkyUs/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "TVCHOSUN STAR",
             "category": "Entertainment",
             "duration": "40:19",
-            "view_count": "313159",
+            "view_count": "316226",
             "thumbnail_url": "https://i.ytimg.com/vi/FSMBwCEwAFQ/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "wavve 웨이브",
             "category": "Entertainment",
             "duration": "5:26",
-            "view_count": "665654",
+            "view_count": "667125",
             "thumbnail_url": "https://i.ytimg.com/vi/h9AC0-x-HZc/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "과장말고 사장하자",
             "category": "Travel & Events",
             "duration": "25:09",
-            "view_count": "242719",
+            "view_count": "243585",
             "thumbnail_url": "https://i.ytimg.com/vi/vQ97f_b2CpE/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "KODE 코드",
             "category": "Entertainment",
             "duration": "20:39",
-            "view_count": "302942",
+            "view_count": "303510",
             "thumbnail_url": "https://i.ytimg.com/vi/bYzve4aYEHA/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "이 남자의 cook",
             "category": "Howto & Style",
             "duration": "1:58",
-            "view_count": "63285",
+            "view_count": "63780",
             "thumbnail_url": "https://i.ytimg.com/vi/lH7bRtdQZ9k/hqdefault.jpg"
         },
         {
@@ -187,17 +187,8 @@
             "channel_name": "노홍철",
             "category": "People & Blogs",
             "duration": "26:26",
-            "view_count": "252827",
+            "view_count": "255417",
             "thumbnail_url": "https://i.ytimg.com/vi/Tbf9ZEnb6us/hqdefault.jpg"
-        },
-        {
-            "video_id": "NfDdTUWUUKc",
-            "title": "유튜브 최초 신동엽과 떠나는 해외 여행 (ft.키링 돈생 매미킴)",
-            "channel_name": "추성훈 ChooSungHoon",
-            "category": "People & Blogs",
-            "duration": "55:51",
-            "view_count": "2001217",
-            "thumbnail_url": "https://i.ytimg.com/vi/NfDdTUWUUKc/hqdefault.jpg"
         },
         {
             "video_id": "8yliKIyKNSE",
@@ -205,7 +196,7 @@
             "channel_name": "LUCY - Topic",
             "category": "Music",
             "duration": "3:55",
-            "view_count": "170308",
+            "view_count": "171231",
             "thumbnail_url": "https://i.ytimg.com/vi/8yliKIyKNSE/hqdefault.jpg"
         },
         {
@@ -214,7 +205,7 @@
             "channel_name": "[상윤쓰]Sangyoon",
             "category": "Entertainment",
             "duration": "9:54",
-            "view_count": "240124",
+            "view_count": "241175",
             "thumbnail_url": "https://i.ytimg.com/vi/RZUJhDgK5sM/hqdefault.jpg"
         },
         {
@@ -223,8 +214,17 @@
             "channel_name": "야만스러운",
             "category": "Travel & Events",
             "duration": "36:32",
-            "view_count": "143255",
+            "view_count": "144000",
             "thumbnail_url": "https://i.ytimg.com/vi/QRwOjw67fD0/hqdefault.jpg"
+        },
+        {
+            "video_id": "NfDdTUWUUKc",
+            "title": "유튜브 최초 신동엽과 떠나는 해외 여행 (ft.키링 돈생 매미킴)",
+            "channel_name": "추성훈 ChooSungHoon",
+            "category": "People & Blogs",
+            "duration": "55:51",
+            "view_count": "2013086",
+            "thumbnail_url": "https://i.ytimg.com/vi/NfDdTUWUUKc/hqdefault.jpg"
         },
         {
             "video_id": "knRB7QROCKQ",
@@ -232,7 +232,7 @@
             "channel_name": "BOYS II PLANET",
             "category": "Entertainment",
             "duration": "7:38",
-            "view_count": "756658",
+            "view_count": "760341",
             "thumbnail_url": "https://i.ytimg.com/vi/knRB7QROCKQ/hqdefault.jpg"
         },
         {
@@ -241,7 +241,7 @@
             "channel_name": "데프콘TV",
             "category": "Entertainment",
             "duration": "31:17",
-            "view_count": "771326",
+            "view_count": "774985",
             "thumbnail_url": "https://i.ytimg.com/vi/Lgh2xrIyoEE/hqdefault.jpg"
         },
         {
@@ -250,7 +250,7 @@
             "channel_name": "예나러브 [Jun & Yena]",
             "category": "People & Blogs",
             "duration": "16:44",
-            "view_count": "163916",
+            "view_count": "164401",
             "thumbnail_url": "https://i.ytimg.com/vi/5R4Oqps32LQ/hqdefault.jpg"
         },
         {
@@ -259,7 +259,7 @@
             "channel_name": "Stray Kids",
             "category": "Music",
             "duration": "28:58",
-            "view_count": "855977",
+            "view_count": "862038",
             "thumbnail_url": "https://i.ytimg.com/vi/j5kzzdELskE/hqdefault.jpg"
         },
         {
@@ -268,7 +268,7 @@
             "channel_name": "딩고 뮤직 / dingo music",
             "category": "Music",
             "duration": "20:32",
-            "view_count": "441796",
+            "view_count": "442755",
             "thumbnail_url": "https://i.ytimg.com/vi/JMehW4VKBlg/hqdefault.jpg"
         },
         {
@@ -277,7 +277,7 @@
             "channel_name": "Gummy - Topic",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "378852",
+            "view_count": "382905",
             "thumbnail_url": "https://i.ytimg.com/vi/HLWgDKjg3lg/hqdefault.jpg"
         },
         {
@@ -286,7 +286,7 @@
             "channel_name": "돌고래유괴단",
             "category": "Entertainment",
             "duration": "3:54",
-            "view_count": "647735",
+            "view_count": "651770",
             "thumbnail_url": "https://i.ytimg.com/vi/lcb1uUG3DkQ/hqdefault.jpg"
         },
         {
@@ -295,7 +295,7 @@
             "channel_name": "DOYOUNG - Topic",
             "category": "Music",
             "duration": "3:27",
-            "view_count": "589104",
+            "view_count": "591633",
             "thumbnail_url": "https://i.ytimg.com/vi/l-kXtxq3Cco/hqdefault.jpg"
         },
         {
@@ -304,7 +304,7 @@
             "channel_name": "QWER",
             "category": "Music",
             "duration": "5:03",
-            "view_count": "9895259",
+            "view_count": "9923452",
             "thumbnail_url": "https://i.ytimg.com/vi/pifz9JH1Re8/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "1theK Live - 원더케이 라이브",
             "category": "Music",
             "duration": "4:09",
-            "view_count": "412152",
+            "view_count": "414799",
             "thumbnail_url": "https://i.ytimg.com/vi/WdtjKkT12EY/hqdefault.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "channel_name": "ITSub잇섭",
             "category": "Science & Technology",
             "duration": "16:25",
-            "view_count": "933785",
+            "view_count": "935260",
             "thumbnail_url": "https://i.ytimg.com/vi/0yw2m-p5Tgs/hqdefault.jpg"
         },
         {
@@ -331,7 +331,7 @@
             "channel_name": "삐루빼로",
             "category": "People & Blogs",
             "duration": "10:52",
-            "view_count": "427297",
+            "view_count": "427979",
             "thumbnail_url": "https://i.ytimg.com/vi/iKIAdwQveeM/hqdefault.jpg"
         },
         {
@@ -340,7 +340,7 @@
             "channel_name": "부라도커플 Burado_couple",
             "category": "People & Blogs",
             "duration": "11:08",
-            "view_count": "144473",
+            "view_count": "144824",
             "thumbnail_url": "https://i.ytimg.com/vi/g6OWvHv4nyE/hqdefault.jpg"
         },
         {
@@ -349,7 +349,7 @@
             "channel_name": "[헝가리부부]김패밀리VLOG",
             "category": "People & Blogs",
             "duration": "19:39",
-            "view_count": "247088",
+            "view_count": "248203",
             "thumbnail_url": "https://i.ytimg.com/vi/z-F75BQewSE/hqdefault.jpg"
         },
         {
@@ -358,7 +358,7 @@
             "channel_name": "잠골버스",
             "category": "Music",
             "duration": "6:18",
-            "view_count": "606493",
+            "view_count": "607207",
             "thumbnail_url": "https://i.ytimg.com/vi/HnyOnGTWIVM/hqdefault.jpg"
         },
         {
@@ -367,7 +367,7 @@
             "channel_name": "순자엄마",
             "category": "People & Blogs",
             "duration": "27:02",
-            "view_count": "921386",
+            "view_count": "922341",
             "thumbnail_url": "https://i.ytimg.com/vi/Ug4-icRq_cI/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "수리키친Suri",
             "category": "People & Blogs",
             "duration": "7:26",
-            "view_count": "212499",
+            "view_count": "213222",
             "thumbnail_url": "https://i.ytimg.com/vi/nn5ozz6Gj7s/hqdefault.jpg"
         }
     ]
