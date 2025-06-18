@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-06-18 22:29:18",
+    "scraped_time": "2025-06-18 23:13:52",
     "videos": [
         {
             "video_id": "_xOnGP_Js1A",
@@ -7,7 +7,7 @@
             "channel_name": "The CHOOM (더 춤)",
             "category": "Entertainment",
             "duration": "3:23",
-            "view_count": "4562568",
+            "view_count": "4670117",
             "thumbnail_url": "https://i.ytimg.com/vi/_xOnGP_Js1A/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "The CHOOM (더 춤)",
             "category": "Entertainment",
             "duration": "3:34",
-            "view_count": "3032366",
+            "view_count": "3094847",
             "thumbnail_url": "https://i.ytimg.com/vi/hljXtdjCDrE/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "THEBLACKLABEL",
             "category": "Music",
             "duration": "3:09",
-            "view_count": "6557461",
+            "view_count": "6600571",
             "thumbnail_url": "https://i.ytimg.com/vi/VjvzYjU1mY0/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "The CHOOM (더 춤)",
             "category": "Entertainment",
             "duration": "4:09",
-            "view_count": "1913063",
+            "view_count": "1948089",
             "thumbnail_url": "https://i.ytimg.com/vi/ACBRWNyL0xs/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "찰스엔터",
             "category": "People & Blogs",
             "duration": "28:41",
-            "view_count": "777783",
+            "view_count": "783121",
             "thumbnail_url": "https://i.ytimg.com/vi/ZCLO-lq_Zo4/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "우리의식탁 W TABLE",
             "category": "Howto & Style",
             "duration": "0:30",
-            "view_count": "109590",
+            "view_count": "110858",
             "thumbnail_url": "https://i.ytimg.com/vi/UvrwW-WStJ8/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "KBS 한국방송",
             "category": "Entertainment",
             "duration": "14:00",
-            "view_count": "934451",
+            "view_count": "943408",
             "thumbnail_url": "https://i.ytimg.com/vi/djN_Rf-qu5c/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "3:22",
-            "view_count": "14955109",
+            "view_count": "14975586",
             "thumbnail_url": "https://i.ytimg.com/vi/negtrQu5mTA/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "MBC Sports+",
             "category": "Sports",
             "duration": "13:27",
-            "view_count": "166867",
+            "view_count": "167203",
             "thumbnail_url": "https://i.ytimg.com/vi/tUHH4m8rKbg/hqdefault.jpg"
         },
         {
@@ -88,7 +88,7 @@
             "channel_name": "TVCHOSUN - TV조선",
             "category": "Entertainment",
             "duration": "0:32",
-            "view_count": "202363",
+            "view_count": "203517",
             "thumbnail_url": "https://i.ytimg.com/vi/dtw0JbUEs8k/hqdefault.jpg"
         },
         {
@@ -97,17 +97,8 @@
             "channel_name": "PLAVE 플레이브",
             "category": "Entertainment",
             "duration": "3:44",
-            "view_count": "7870236",
+            "view_count": "7964755",
             "thumbnail_url": "https://i.ytimg.com/vi/5eCFXT6Gnio/hqdefault.jpg"
-        },
-        {
-            "video_id": "6jlQkIgS40g",
-            "title": "엔하이픈(ENHYPEN)의 킬링보이스를 라이브로! - Bite Me, CRIMINAL LOVE, Polaroid Love, Bad Desire | 딩고뮤직 | Dingo Music",
-            "channel_name": "딩고 뮤직 / dingo music",
-            "category": "Music",
-            "duration": "20:46",
-            "view_count": "805792",
-            "thumbnail_url": "https://i.ytimg.com/vi/6jlQkIgS40g/hqdefault.jpg"
         },
         {
             "video_id": "aLgP-AyGXVE",
@@ -115,8 +106,17 @@
             "channel_name": "토모토모TomoTomo",
             "category": "People & Blogs",
             "duration": "46:39",
-            "view_count": "204499",
+            "view_count": "207916",
             "thumbnail_url": "https://i.ytimg.com/vi/aLgP-AyGXVE/hqdefault.jpg"
+        },
+        {
+            "video_id": "6jlQkIgS40g",
+            "title": "엔하이픈(ENHYPEN)의 킬링보이스를 라이브로! - Bite Me, CRIMINAL LOVE, Polaroid Love, Bad Desire | 딩고뮤직 | Dingo Music",
+            "channel_name": "딩고 뮤직 / dingo music",
+            "category": "Music",
+            "duration": "20:46",
+            "view_count": "815612",
+            "thumbnail_url": "https://i.ytimg.com/vi/6jlQkIgS40g/hqdefault.jpg"
         },
         {
             "video_id": "DnDGZJ2-Ubk",
@@ -124,7 +124,7 @@
             "channel_name": "집나간아들 Runaway Son",
             "category": "Howto & Style",
             "duration": "2:16",
-            "view_count": "364898",
+            "view_count": "367011",
             "thumbnail_url": "https://i.ytimg.com/vi/DnDGZJ2-Ubk/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "걍밍경",
             "category": "People & Blogs",
             "duration": "22:57",
-            "view_count": "697294",
+            "view_count": "699502",
             "thumbnail_url": "https://i.ytimg.com/vi/12p0U1VwZmE/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "sogyo table 소교식탁TV",
             "category": "People & Blogs",
             "duration": "5:44",
-            "view_count": "265825",
+            "view_count": "267242",
             "thumbnail_url": "https://i.ytimg.com/vi/wA3UsoCdWIA/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "BOYNEXTDOOR",
             "category": "Music",
             "duration": "26:55",
-            "view_count": "242619",
+            "view_count": "245241",
             "thumbnail_url": "https://i.ytimg.com/vi/2XdhtRwJ-HQ/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "풍자테레비",
             "category": "Entertainment",
             "duration": "22:17",
-            "view_count": "253749",
+            "view_count": "255176",
             "thumbnail_url": "https://i.ytimg.com/vi/LqalolxvBfA/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "고로케 : goroke",
             "category": "Entertainment",
             "duration": "16:36",
-            "view_count": "75898",
+            "view_count": "76656",
             "thumbnail_url": "https://i.ytimg.com/vi/834fuiFi5Mw/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "이자반",
             "category": "People & Blogs",
             "duration": "25:12",
-            "view_count": "154537",
+            "view_count": "155064",
             "thumbnail_url": "https://i.ytimg.com/vi/sz5IfjDBLBo/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "고로케 : goroke",
             "category": "Entertainment",
             "duration": "16:21",
-            "view_count": "100778",
+            "view_count": "101261",
             "thumbnail_url": "https://i.ytimg.com/vi/Poyu5TPIqLA/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "미자네 주막",
             "category": "Entertainment",
             "duration": "17:54",
-            "view_count": "672514",
+            "view_count": "674707",
             "thumbnail_url": "https://i.ytimg.com/vi/6Ld026bggCc/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "킥서비스",
             "category": "Comedy",
             "duration": "4:51",
-            "view_count": "278688",
+            "view_count": "280004",
             "thumbnail_url": "https://i.ytimg.com/vi/1ORQo6EdDK4/hqdefault.jpg"
         },
         {
@@ -214,17 +214,8 @@
             "channel_name": "나강 NAkANG",
             "category": "Travel & Events",
             "duration": "21:45",
-            "view_count": "180543",
+            "view_count": "181547",
             "thumbnail_url": "https://i.ytimg.com/vi/DH1ZmTiu1HU/hqdefault.jpg"
-        },
-        {
-            "video_id": "ZXAVV-xBXeI",
-            "title": "[2025 U.S.오픈] 모든 게 걸린 마지막 퍼트..온몸에 소름이 돋는 드라마 같은 우승_FR",
-            "channel_name": "SBS Golf",
-            "category": "Sports",
-            "duration": "8:38",
-            "view_count": "474312",
-            "thumbnail_url": "https://i.ytimg.com/vi/ZXAVV-xBXeI/hqdefault.jpg"
         },
         {
             "video_id": "eMCLXX4KrT0",
@@ -232,7 +223,7 @@
             "channel_name": "KANGDANIEL OFFICIAL",
             "category": "Music",
             "duration": "3:24",
-            "view_count": "7734050",
+            "view_count": "7815076",
             "thumbnail_url": "https://i.ytimg.com/vi/eMCLXX4KrT0/hqdefault.jpg"
         },
         {
@@ -241,8 +232,17 @@
             "channel_name": "마크툽(MAKTUB) - Topic",
             "category": "Music",
             "duration": "3:44",
-            "view_count": "165380",
+            "view_count": "166124",
             "thumbnail_url": "https://i.ytimg.com/vi/TX5jVkjgqgs/hqdefault.jpg"
+        },
+        {
+            "video_id": "ZXAVV-xBXeI",
+            "title": "[2025 U.S.오픈] 모든 게 걸린 마지막 퍼트..온몸에 소름이 돋는 드라마 같은 우승_FR",
+            "channel_name": "SBS Golf",
+            "category": "Sports",
+            "duration": "8:38",
+            "view_count": "474772",
+            "thumbnail_url": "https://i.ytimg.com/vi/ZXAVV-xBXeI/hqdefault.jpg"
         },
         {
             "video_id": "Xb96_61kMS8",
@@ -250,7 +250,7 @@
             "channel_name": "롯데엔터테인먼트",
             "category": "Film & Animation",
             "duration": "1:19",
-            "view_count": "249130",
+            "view_count": "251165",
             "thumbnail_url": "https://i.ytimg.com/vi/Xb96_61kMS8/hqdefault.jpg"
         },
         {
@@ -259,7 +259,7 @@
             "channel_name": "tvN Joy",
             "category": "Entertainment",
             "duration": "6:51",
-            "view_count": "1329081",
+            "view_count": "1329782",
             "thumbnail_url": "https://i.ytimg.com/vi/n2_DpP6cgp4/hqdefault.jpg"
         },
         {
@@ -268,7 +268,7 @@
             "channel_name": "숏박스",
             "category": "Comedy",
             "duration": "8:36",
-            "view_count": "2975623",
+            "view_count": "2981659",
             "thumbnail_url": "https://i.ytimg.com/vi/9oBrILNOfd4/hqdefault.jpg"
         },
         {
@@ -277,7 +277,7 @@
             "channel_name": "deemd 딤디",
             "category": "People & Blogs",
             "duration": "21:02",
-            "view_count": "173714",
+            "view_count": "174271",
             "thumbnail_url": "https://i.ytimg.com/vi/1QNkKk_i43w/hqdefault.jpg"
         },
         {
@@ -286,7 +286,7 @@
             "channel_name": "정찬성 Korean Zombie",
             "category": "Sports",
             "duration": "27:15",
-            "view_count": "221395",
+            "view_count": "221599",
             "thumbnail_url": "https://i.ytimg.com/vi/opwrsPtErHs/hqdefault.jpg"
         },
         {
@@ -295,7 +295,7 @@
             "channel_name": "픽잇 :Pick it",
             "category": "Entertainment",
             "duration": "14:38",
-            "view_count": "290912",
+            "view_count": "292189",
             "thumbnail_url": "https://i.ytimg.com/vi/s_Xrsctaduw/hqdefault.jpg"
         },
         {
@@ -304,17 +304,8 @@
             "channel_name": "쓰까르",
             "category": "People & Blogs",
             "duration": "15:00",
-            "view_count": "255631",
+            "view_count": "256246",
             "thumbnail_url": "https://i.ytimg.com/vi/4C2EvT_U4Qk/hqdefault.jpg"
-        },
-        {
-            "video_id": "lJcgjgIf2ys",
-            "title": "[#유퀴즈온더블럭] 가장 가슴 아팠던 이혼 판결💧 병상의 아내와 함께하기 위한 최후의 방법이었던 이혼😢",
-            "channel_name": "디글 :Diggle",
-            "category": "Entertainment",
-            "duration": "18:14",
-            "view_count": "436713",
-            "thumbnail_url": "https://i.ytimg.com/vi/lJcgjgIf2ys/hqdefault.jpg"
         },
         {
             "video_id": "uWT79Qq52sU",
@@ -322,7 +313,7 @@
             "channel_name": "Baby DONT Cry",
             "category": "People & Blogs",
             "duration": "2:58",
-            "view_count": "2042115",
+            "view_count": "2060542",
             "thumbnail_url": "https://i.ytimg.com/vi/uWT79Qq52sU/hqdefault.jpg"
         },
         {
@@ -331,8 +322,17 @@
             "channel_name": "한국개똥이[캄보디아생활]",
             "category": "People & Blogs",
             "duration": "20:36",
-            "view_count": "948340",
+            "view_count": "949650",
             "thumbnail_url": "https://i.ytimg.com/vi/fRdZinjTmcM/hqdefault.jpg"
+        },
+        {
+            "video_id": "lJcgjgIf2ys",
+            "title": "[#유퀴즈온더블럭] 가장 가슴 아팠던 이혼 판결💧 병상의 아내와 함께하기 위한 최후의 방법이었던 이혼😢",
+            "channel_name": "디글 :Diggle",
+            "category": "Entertainment",
+            "duration": "18:14",
+            "view_count": "438964",
+            "thumbnail_url": "https://i.ytimg.com/vi/lJcgjgIf2ys/hqdefault.jpg"
         },
         {
             "video_id": "ZNWbn49Wgq4",
@@ -340,7 +340,7 @@
             "channel_name": "쯔양밖정원",
             "category": "People & Blogs",
             "duration": "17:08",
-            "view_count": "447846",
+            "view_count": "449454",
             "thumbnail_url": "https://i.ytimg.com/vi/ZNWbn49Wgq4/hqdefault.jpg"
         },
         {
@@ -349,7 +349,7 @@
             "channel_name": "마리코리아TV🇰🇷まりこりあ",
             "category": "Travel & Events",
             "duration": "18:04",
-            "view_count": "337786",
+            "view_count": "339361",
             "thumbnail_url": "https://i.ytimg.com/vi/62cZtaPCfXs/hqdefault.jpg"
         },
         {
@@ -358,7 +358,7 @@
             "channel_name": "토모토모TomoTomo",
             "category": "People & Blogs",
             "duration": "20:28",
-            "view_count": "327939",
+            "view_count": "328240",
             "thumbnail_url": "https://i.ytimg.com/vi/uXszlxP9U_U/hqdefault.jpg"
         },
         {
@@ -367,7 +367,7 @@
             "channel_name": "미지수",
             "category": "People & Blogs",
             "duration": "14:28",
-            "view_count": "192463",
+            "view_count": "192610",
             "thumbnail_url": "https://i.ytimg.com/vi/SKFgHNb2G5E/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "띱 Deep",
             "category": "Comedy",
             "duration": "5:31",
-            "view_count": "1685648",
+            "view_count": "1687241",
             "thumbnail_url": "https://i.ytimg.com/vi/OCGbFY-VrYs/hqdefault.jpg"
         }
     ]
