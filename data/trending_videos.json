@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-06-22 01:15:26",
+    "scraped_time": "2025-06-22 02:10:48",
     "videos": [
         {
             "video_id": "_xOnGP_Js1A",
@@ -7,7 +7,7 @@
             "channel_name": "The CHOOM (더 춤)",
             "category": "Entertainment",
             "duration": "3:23",
-            "view_count": "11520930",
+            "view_count": "11566680",
             "thumbnail_url": "https://i.ytimg.com/vi/_xOnGP_Js1A/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "너덜트",
             "category": "Comedy",
             "duration": "14:17",
-            "view_count": "648944",
+            "view_count": "655959",
             "thumbnail_url": "https://i.ytimg.com/vi/RXVNkwHO_1U/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "The CHOOM (더 춤)",
             "category": "Entertainment",
             "duration": "3:34",
-            "view_count": "6451646",
+            "view_count": "6470349",
             "thumbnail_url": "https://i.ytimg.com/vi/hljXtdjCDrE/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "지편한세상 [Jeeseokjin World]",
             "category": "Entertainment",
             "duration": "25:19",
-            "view_count": "930102",
+            "view_count": "937752",
             "thumbnail_url": "https://i.ytimg.com/vi/0mp09CDD6cA/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "권또또 KWONTTOTTO",
             "category": "Entertainment",
             "duration": "10:24",
-            "view_count": "843723",
+            "view_count": "848476",
             "thumbnail_url": "https://i.ytimg.com/vi/nJmx7xihnu8/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "곽튜브",
             "category": "Travel & Events",
             "duration": "35:36",
-            "view_count": "759502",
+            "view_count": "762081",
             "thumbnail_url": "https://i.ytimg.com/vi/BPHO9bvSixQ/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "VIVINOS",
             "category": "Film & Animation",
             "duration": "0:22",
-            "view_count": "997687",
+            "view_count": "1003160",
             "thumbnail_url": "https://i.ytimg.com/vi/Z2at0Zk9AaE/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "디글 클래식 :Diggle Classic",
             "category": "Entertainment",
             "duration": "14:59",
-            "view_count": "420955",
+            "view_count": "427563",
             "thumbnail_url": "https://i.ytimg.com/vi/5IyD9IWHRNY/hqdefault.jpg"
         },
         {
@@ -79,26 +79,8 @@
             "channel_name": "라디오스타",
             "category": "People & Blogs",
             "duration": "18:12",
-            "view_count": "720238",
+            "view_count": "726232",
             "thumbnail_url": "https://i.ytimg.com/vi/K-6l4NYNfG4/hqdefault.jpg"
-        },
-        {
-            "video_id": "_Ya3T9nn5vo",
-            "title": "[#라디오스타] 연하는 생각해본 적 없던 김연아... 5살 어린 고우림에게 먼저 연락한 이유는?! l #고우림 MBC250618방송",
-            "channel_name": "라디오스타",
-            "category": "People & Blogs",
-            "duration": "16:39",
-            "view_count": "692352",
-            "thumbnail_url": "https://i.ytimg.com/vi/_Ya3T9nn5vo/hqdefault.jpg"
-        },
-        {
-            "video_id": "QVMYQAW108Q",
-            "title": "둘중 누가 더 라면 많이먹나 대결하는 뚱보들의 라최몇 대결하기ㅋㅋㅋㅋ",
-            "channel_name": "더블비",
-            "category": "Comedy",
-            "duration": "34:10",
-            "view_count": "629772",
-            "thumbnail_url": "https://i.ytimg.com/vi/QVMYQAW108Q/hqdefault.jpg"
         },
         {
             "video_id": "VjvzYjU1mY0",
@@ -106,8 +88,26 @@
             "channel_name": "THEBLACKLABEL",
             "category": "Music",
             "duration": "3:09",
-            "view_count": "12045938",
+            "view_count": "12084005",
             "thumbnail_url": "https://i.ytimg.com/vi/VjvzYjU1mY0/hqdefault.jpg"
+        },
+        {
+            "video_id": "QVMYQAW108Q",
+            "title": "둘중 누가 더 라면 많이먹나 대결하는 뚱보들의 라최몇 대결하기ㅋㅋㅋㅋ",
+            "channel_name": "더블비",
+            "category": "Comedy",
+            "duration": "34:10",
+            "view_count": "634202",
+            "thumbnail_url": "https://i.ytimg.com/vi/QVMYQAW108Q/hqdefault.jpg"
+        },
+        {
+            "video_id": "_Ya3T9nn5vo",
+            "title": "[#라디오스타] 연하는 생각해본 적 없던 김연아... 5살 어린 고우림에게 먼저 연락한 이유는?! l #고우림 MBC250618방송",
+            "channel_name": "라디오스타",
+            "category": "People & Blogs",
+            "duration": "16:39",
+            "view_count": "695966",
+            "thumbnail_url": "https://i.ytimg.com/vi/_Ya3T9nn5vo/hqdefault.jpg"
         },
         {
             "video_id": "IR2bnI12TZM",
@@ -115,7 +115,7 @@
             "channel_name": "할명수",
             "category": "Entertainment",
             "duration": "28:55",
-            "view_count": "458159",
+            "view_count": "463756",
             "thumbnail_url": "https://i.ytimg.com/vi/IR2bnI12TZM/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "조선의 사랑꾼",
             "category": "People & Blogs",
             "duration": "2:06",
-            "view_count": "217001",
+            "view_count": "220612",
             "thumbnail_url": "https://i.ytimg.com/vi/PFGHnXgfqUs/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "The CHOOM (더 춤)",
             "category": "Entertainment",
             "duration": "3:35",
-            "view_count": "4044111",
+            "view_count": "4058044",
             "thumbnail_url": "https://i.ytimg.com/vi/lYhRN5ft-Eg/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "인디애나 주영 Indiana Jooyoung",
             "category": "Entertainment",
             "duration": "21:28",
-            "view_count": "270963",
+            "view_count": "272144",
             "thumbnail_url": "https://i.ytimg.com/vi/zQHoWTIe9Lg/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:44",
-            "view_count": "4026009",
+            "view_count": "4044006",
             "thumbnail_url": "https://i.ytimg.com/vi/n7kFRxFIPrI/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "스프 : 스튜디오 프로미스나인",
             "category": "Entertainment",
             "duration": "12:58",
-            "view_count": "250116",
+            "view_count": "251590",
             "thumbnail_url": "https://i.ytimg.com/vi/MPOBoYS-Auc/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "프응TV Honeybeefather",
             "category": "People & Blogs",
             "duration": "16:50",
-            "view_count": "274849",
+            "view_count": "275982",
             "thumbnail_url": "https://i.ytimg.com/vi/Bihjoabb7Ko/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "재친구(Jae friends) | ST7",
             "category": "Entertainment",
             "duration": "39:25",
-            "view_count": "400257",
+            "view_count": "403089",
             "thumbnail_url": "https://i.ytimg.com/vi/UyBw5N_2YlU/hqdefault.jpg"
         },
         {
@@ -187,8 +187,17 @@
             "channel_name": "찰스엔터",
             "category": "People & Blogs",
             "duration": "28:41",
-            "view_count": "1120423",
+            "view_count": "1122240",
             "thumbnail_url": "https://i.ytimg.com/vi/ZCLO-lq_Zo4/hqdefault.jpg"
+        },
+        {
+            "video_id": "4zOU8s-lkL8",
+            "title": "망원동 가다 with 코먹",
+            "channel_name": "밈PD",
+            "category": "Music",
+            "duration": "13:05",
+            "view_count": "111820",
+            "thumbnail_url": "https://i.ytimg.com/vi/4zOU8s-lkL8/hqdefault.jpg"
         },
         {
             "video_id": "6Muex9Wlm1w",
@@ -196,7 +205,7 @@
             "channel_name": "MBCentertainment",
             "category": "Entertainment",
             "duration": "4:03",
-            "view_count": "337389",
+            "view_count": "337627",
             "thumbnail_url": "https://i.ytimg.com/vi/6Muex9Wlm1w/hqdefault.jpg"
         },
         {
@@ -205,17 +214,8 @@
             "channel_name": "LoL Esports",
             "category": "Gaming",
             "duration": "1:03",
-            "view_count": "115367",
+            "view_count": "116056",
             "thumbnail_url": "https://i.ytimg.com/vi/1t7HX7ugwTQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "4zOU8s-lkL8",
-            "title": "망원동 가다 with 코먹",
-            "channel_name": "밈PD",
-            "category": "Music",
-            "duration": "13:05",
-            "view_count": "110116",
-            "thumbnail_url": "https://i.ytimg.com/vi/4zOU8s-lkL8/hqdefault.jpg"
         },
         {
             "video_id": "WXbBipLj89Q",
@@ -223,7 +223,7 @@
             "channel_name": "민음사TV",
             "category": "People & Blogs",
             "duration": "40:57",
-            "view_count": "120421",
+            "view_count": "121556",
             "thumbnail_url": "https://i.ytimg.com/vi/WXbBipLj89Q/hqdefault.jpg"
         },
         {
@@ -232,7 +232,7 @@
             "channel_name": "STUDIO CHOOM [스튜디오 춤]",
             "category": "Entertainment",
             "duration": "3:31",
-            "view_count": "1551138",
+            "view_count": "1561394",
             "thumbnail_url": "https://i.ytimg.com/vi/mLQBjeERh9E/hqdefault.jpg"
         },
         {
@@ -241,17 +241,8 @@
             "channel_name": "숏박스",
             "category": "Comedy",
             "duration": "7:12",
-            "view_count": "1692076",
+            "view_count": "1701114",
             "thumbnail_url": "https://i.ytimg.com/vi/-MRAyLUkahk/hqdefault.jpg"
-        },
-        {
-            "video_id": "9MLzDZv_K4E",
-            "title": "준호 아빠의 단호한 훈육에 단단히 삐진 순둥이 정우?!  [슈퍼맨이 돌아왔다/The Return of Superman] | KBS 250618 방송",
-            "channel_name": "KBS Entertain",
-            "category": "Entertainment",
-            "duration": "5:05",
-            "view_count": "491085",
-            "thumbnail_url": "https://i.ytimg.com/vi/9MLzDZv_K4E/hqdefault.jpg"
         },
         {
             "video_id": "44ZAw1-figc",
@@ -259,8 +250,17 @@
             "channel_name": "양장금주부",
             "category": "Howto & Style",
             "duration": "3:29",
-            "view_count": "198719",
+            "view_count": "199219",
             "thumbnail_url": "https://i.ytimg.com/vi/44ZAw1-figc/hqdefault.jpg"
+        },
+        {
+            "video_id": "9MLzDZv_K4E",
+            "title": "준호 아빠의 단호한 훈육에 단단히 삐진 순둥이 정우?!  [슈퍼맨이 돌아왔다/The Return of Superman] | KBS 250618 방송",
+            "channel_name": "KBS Entertain",
+            "category": "Entertainment",
+            "duration": "5:05",
+            "view_count": "491992",
+            "thumbnail_url": "https://i.ytimg.com/vi/9MLzDZv_K4E/hqdefault.jpg"
         },
         {
             "video_id": "4xfJYmcgdt4",
@@ -268,7 +268,7 @@
             "channel_name": "남보라의 인생극장",
             "category": "People & Blogs",
             "duration": "22:55",
-            "view_count": "479364",
+            "view_count": "482350",
             "thumbnail_url": "https://i.ytimg.com/vi/4xfJYmcgdt4/hqdefault.jpg"
         },
         {
@@ -277,7 +277,7 @@
             "channel_name": "Mozzarella Girl & Oppa",
             "category": "Comedy",
             "duration": "45:38",
-            "view_count": "691007",
+            "view_count": "691817",
             "thumbnail_url": "https://i.ytimg.com/vi/McvjXXDXOWw/hqdefault.jpg"
         },
         {
@@ -286,7 +286,7 @@
             "channel_name": "예나러브 [Jun & Yena]",
             "category": "People & Blogs",
             "duration": "18:44",
-            "view_count": "181405",
+            "view_count": "181855",
             "thumbnail_url": "https://i.ytimg.com/vi/Ugarxgpxj4A/hqdefault.jpg"
         },
         {
@@ -295,7 +295,7 @@
             "channel_name": "sogyo table 소교식탁TV",
             "category": "People & Blogs",
             "duration": "4:55",
-            "view_count": "207587",
+            "view_count": "207851",
             "thumbnail_url": "https://i.ytimg.com/vi/KCl6SrHQ5jI/hqdefault.jpg"
         },
         {
@@ -304,7 +304,7 @@
             "channel_name": "iM금융그룹 공식유튜브 iM타운",
             "category": "Entertainment",
             "duration": "28:51",
-            "view_count": "133740",
+            "view_count": "133881",
             "thumbnail_url": "https://i.ytimg.com/vi/kr-TIT1C8t4/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "RISABAE",
             "category": "Howto & Style",
             "duration": "19:03",
-            "view_count": "337541",
+            "view_count": "338578",
             "thumbnail_url": "https://i.ytimg.com/vi/J8yiHiDc2vc/hqdefault.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "channel_name": "KBS 한국방송",
             "category": "Entertainment",
             "duration": "14:00",
-            "view_count": "2517445",
+            "view_count": "2524747",
             "thumbnail_url": "https://i.ytimg.com/vi/djN_Rf-qu5c/hqdefault.jpg"
         },
         {
@@ -331,7 +331,7 @@
             "channel_name": "정근우의 야구인생",
             "category": "Sports",
             "duration": "36:12",
-            "view_count": "109543",
+            "view_count": "109877",
             "thumbnail_url": "https://i.ytimg.com/vi/VD2y6OGJ58s/hqdefault.jpg"
         },
         {
@@ -340,7 +340,7 @@
             "channel_name": "우리의식탁 W TABLE",
             "category": "Howto & Style",
             "duration": "0:30",
-            "view_count": "148689",
+            "view_count": "148906",
             "thumbnail_url": "https://i.ytimg.com/vi/UvrwW-WStJ8/hqdefault.jpg"
         },
         {
@@ -349,7 +349,7 @@
             "channel_name": "깡주은",
             "category": "People & Blogs",
             "duration": "24:54",
-            "view_count": "320234",
+            "view_count": "321841",
             "thumbnail_url": "https://i.ytimg.com/vi/3oN5aNoQeHQ/hqdefault.jpg"
         },
         {
@@ -358,7 +358,7 @@
             "channel_name": "규진",
             "category": "People & Blogs",
             "duration": "17:34",
-            "view_count": "103511",
+            "view_count": "104057",
             "thumbnail_url": "https://i.ytimg.com/vi/OboURbgBG0A/hqdefault.jpg"
         },
         {
@@ -367,7 +367,7 @@
             "channel_name": "집나간아들 Runaway Son",
             "category": "Howto & Style",
             "duration": "2:16",
-            "view_count": "501865",
+            "view_count": "502548",
             "thumbnail_url": "https://i.ytimg.com/vi/DnDGZJ2-Ubk/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "무니키친MoonyKitchen",
             "category": "Howto & Style",
             "duration": "8:26",
-            "view_count": "171064",
+            "view_count": "171366",
             "thumbnail_url": "https://i.ytimg.com/vi/qn8OrBF_aho/hqdefault.jpg"
         }
     ]
