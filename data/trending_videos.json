@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-06-26 17:19:17",
+    "scraped_time": "2025-06-26 18:15:36",
     "videos": [
         {
             "video_id": "r1QapH1SIAI",
@@ -7,7 +7,7 @@
             "channel_name": "fromis_9",
             "category": "Music",
             "duration": "3:28",
-            "view_count": "1214745",
+            "view_count": "1235675",
             "thumbnail_url": "https://i.ytimg.com/vi/r1QapH1SIAI/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "STUDIO CHOOM [스튜디오 춤]",
             "category": "Entertainment",
             "duration": "2:58",
-            "view_count": "1453101",
+            "view_count": "1481538",
             "thumbnail_url": "https://i.ytimg.com/vi/dw6VBKM9IFc/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "ALLDAY PROJECT",
             "category": "People & Blogs",
             "duration": "3:07",
-            "view_count": "1808000",
+            "view_count": "1827365",
             "thumbnail_url": "https://i.ytimg.com/vi/r62I7NOKcPo/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "THEBLACKLABEL",
             "category": "Music",
             "duration": "2:46",
-            "view_count": "6641118",
+            "view_count": "6686662",
             "thumbnail_url": "https://i.ytimg.com/vi/mhKCRnUKp5U/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "0:27",
-            "view_count": "761646",
+            "view_count": "798087",
             "thumbnail_url": "https://i.ytimg.com/vi/n-XNk2rBhTA/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "새니 SENI",
             "category": "People & Blogs",
             "duration": "17:15",
-            "view_count": "162071",
+            "view_count": "165642",
             "thumbnail_url": "https://i.ytimg.com/vi/XPUWbB39QK8/hqdefault.jpg"
         },
         {
@@ -61,35 +61,8 @@
             "channel_name": "동네스타K",
             "category": "Entertainment",
             "duration": "27:30",
-            "view_count": "417173",
+            "view_count": "423033",
             "thumbnail_url": "https://i.ytimg.com/vi/Tip5SobvVd0/hqdefault.jpg"
-        },
-        {
-            "video_id": "-ovEZXLJX_Y",
-            "title": "에겐녀 잡아먹는 테토녀 ❤ | 프로미스나인 송하영 & ITZY 류진 [셀폰KODE]",
-            "channel_name": "KODE 코드",
-            "category": "Entertainment",
-            "duration": "23:16",
-            "view_count": "235796",
-            "thumbnail_url": "https://i.ytimg.com/vi/-ovEZXLJX_Y/hqdefault.jpg"
-        },
-        {
-            "video_id": "lXeR1_aQsgw",
-            "title": "ALLDAY PROJECT - ‘WICKED’ PERFORMANCE VIDEO (VER. B - BASEMENT)",
-            "channel_name": "THEBLACKLABEL",
-            "category": "Music",
-            "duration": "2:54",
-            "view_count": "1525605",
-            "thumbnail_url": "https://i.ytimg.com/vi/lXeR1_aQsgw/hqdefault.jpg"
-        },
-        {
-            "video_id": "wDUJasBRipU",
-            "title": "(SUB) \"목포는 신선하지가 않으면 뺨을 쎄려버리니까\" | 목포 워크샵, 목포 최고의 해장국, 밑반찬 미친 포차, 박지현 전화 연결 [나래식] EP.40",
-            "channel_name": "나래식",
-            "category": "Entertainment",
-            "duration": "40:47",
-            "view_count": "280776",
-            "thumbnail_url": "https://i.ytimg.com/vi/wDUJasBRipU/hqdefault.jpg"
         },
         {
             "video_id": "8YiR9v3sOpk",
@@ -97,8 +70,35 @@
             "channel_name": "BLACKPINK",
             "category": "Music",
             "duration": "0:28",
-            "view_count": "1171459",
+            "view_count": "1317035",
             "thumbnail_url": "https://i.ytimg.com/vi/8YiR9v3sOpk/hqdefault.jpg"
+        },
+        {
+            "video_id": "-ovEZXLJX_Y",
+            "title": "에겐녀 잡아먹는 테토녀 ❤ | 프로미스나인 송하영 & ITZY 류진 [셀폰KODE]",
+            "channel_name": "KODE 코드",
+            "category": "Entertainment",
+            "duration": "23:16",
+            "view_count": "242545",
+            "thumbnail_url": "https://i.ytimg.com/vi/-ovEZXLJX_Y/hqdefault.jpg"
+        },
+        {
+            "video_id": "wDUJasBRipU",
+            "title": "(SUB) \"목포는 신선하지가 않으면 뺨을 쎄려버리니까\" | 목포 워크샵, 목포 최고의 해장국, 밑반찬 미친 포차, 박지현 전화 연결 [나래식] EP.40",
+            "channel_name": "나래식",
+            "category": "Entertainment",
+            "duration": "40:47",
+            "view_count": "293098",
+            "thumbnail_url": "https://i.ytimg.com/vi/wDUJasBRipU/hqdefault.jpg"
+        },
+        {
+            "video_id": "lXeR1_aQsgw",
+            "title": "ALLDAY PROJECT - ‘WICKED’ PERFORMANCE VIDEO (VER. B - BASEMENT)",
+            "channel_name": "THEBLACKLABEL",
+            "category": "Music",
+            "duration": "2:54",
+            "view_count": "1530994",
+            "thumbnail_url": "https://i.ytimg.com/vi/lXeR1_aQsgw/hqdefault.jpg"
         },
         {
             "video_id": "uMh6SvK4388",
@@ -106,7 +106,7 @@
             "channel_name": "찰스엔터",
             "category": "People & Blogs",
             "duration": "31:13",
-            "view_count": "875464",
+            "view_count": "878127",
             "thumbnail_url": "https://i.ytimg.com/vi/uMh6SvK4388/hqdefault.jpg"
         },
         {
@@ -115,7 +115,7 @@
             "channel_name": "Sony Pictures Animation",
             "category": "Film & Animation",
             "duration": "3:19",
-            "view_count": "2951474",
+            "view_count": "3028644",
             "thumbnail_url": "https://i.ytimg.com/vi/yebNIHKAC4A/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "The CHOOM (더 춤)",
             "category": "Entertainment",
             "duration": "1:27",
-            "view_count": "2276240",
+            "view_count": "2297849",
             "thumbnail_url": "https://i.ytimg.com/vi/t7RN-R5DnZM/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "The CHOOM (더 춤)",
             "category": "Entertainment",
             "duration": "1:29",
-            "view_count": "2190193",
+            "view_count": "2209539",
             "thumbnail_url": "https://i.ytimg.com/vi/OQPYfEi-nyA/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "NB couple엔비커플",
             "category": "Entertainment",
             "duration": "24:48",
-            "view_count": "710523",
+            "view_count": "723022",
             "thumbnail_url": "https://i.ytimg.com/vi/qXvG7omfzuk/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "tvN SPORTS",
             "category": "Sports",
             "duration": "15:25",
-            "view_count": "1976292",
+            "view_count": "1978130",
             "thumbnail_url": "https://i.ytimg.com/vi/j43QeLwRNAY/hqdefault.jpg"
         },
         {
@@ -160,17 +160,8 @@
             "channel_name": "리그 오브 레전드",
             "category": "Gaming",
             "duration": "2:04",
-            "view_count": "140196",
+            "view_count": "150045",
             "thumbnail_url": "https://i.ytimg.com/vi/Hchuy-xrtV0/hqdefault.jpg"
-        },
-        {
-            "video_id": "EZrvieOjij0",
-            "title": "[#WSWF] 〈댄스 필름 미션〉메인 구간 투표 | AG SQUAD(에이지 스쿼드)",
-            "channel_name": "The CHOOM (더 춤)",
-            "category": "Entertainment",
-            "duration": "1:28",
-            "view_count": "1363265",
-            "thumbnail_url": "https://i.ytimg.com/vi/EZrvieOjij0/hqdefault.jpg"
         },
         {
             "video_id": "1xhi2mi5cfk",
@@ -178,8 +169,17 @@
             "channel_name": "Netflix Family",
             "category": "Entertainment",
             "duration": "2:03",
-            "view_count": "501120",
+            "view_count": "521081",
             "thumbnail_url": "https://i.ytimg.com/vi/1xhi2mi5cfk/hqdefault.jpg"
+        },
+        {
+            "video_id": "EZrvieOjij0",
+            "title": "[#WSWF] 〈댄스 필름 미션〉메인 구간 투표 | AG SQUAD(에이지 스쿼드)",
+            "channel_name": "The CHOOM (더 춤)",
+            "category": "Entertainment",
+            "duration": "1:28",
+            "view_count": "1373124",
+            "thumbnail_url": "https://i.ytimg.com/vi/EZrvieOjij0/hqdefault.jpg"
         },
         {
             "video_id": "1ZhYGDtcquM",
@@ -187,7 +187,7 @@
             "channel_name": "운동부 둘이 왔어요",
             "category": "Travel & Events",
             "duration": "24:52",
-            "view_count": "113856",
+            "view_count": "117278",
             "thumbnail_url": "https://i.ytimg.com/vi/1ZhYGDtcquM/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "딩고 뮤직 / dingo music",
             "category": "Music",
             "duration": "20:33",
-            "view_count": "799629",
+            "view_count": "807811",
             "thumbnail_url": "https://i.ytimg.com/vi/zjMkPY8N73I/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "정리마켓",
             "category": "Howto & Style",
             "duration": "22:12",
-            "view_count": "87614",
+            "view_count": "89196",
             "thumbnail_url": "https://i.ytimg.com/vi/NZl9QTdbC68/hqdefault.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "channel_name": "효연의 레벨업 Hyo's Level Up",
             "category": "Entertainment",
             "duration": "26:09",
-            "view_count": "268473",
+            "view_count": "274651",
             "thumbnail_url": "https://i.ytimg.com/vi/pf9j1V9zf_w/hqdefault.jpg"
         },
         {
@@ -223,7 +223,7 @@
             "channel_name": "킹키는 킹키야",
             "category": "Entertainment",
             "duration": "17:43",
-            "view_count": "192705",
+            "view_count": "194925",
             "thumbnail_url": "https://i.ytimg.com/vi/AuvW7ORGcFA/hqdefault.jpg"
         },
         {
@@ -232,7 +232,7 @@
             "channel_name": "fromis_9",
             "category": "Music",
             "duration": "0:23",
-            "view_count": "112394",
+            "view_count": "112788",
             "thumbnail_url": "https://i.ytimg.com/vi/Km6TsKQngHY/hqdefault.jpg"
         },
         {
@@ -241,7 +241,7 @@
             "channel_name": "미자네 주막",
             "category": "Entertainment",
             "duration": "20:39",
-            "view_count": "500089",
+            "view_count": "502277",
             "thumbnail_url": "https://i.ytimg.com/vi/SKnk_8uszWQ/hqdefault.jpg"
         },
         {
@@ -250,7 +250,7 @@
             "channel_name": "딩고 스튜디오 / dingo studio",
             "category": "Entertainment",
             "duration": "16:35",
-            "view_count": "466450",
+            "view_count": "472104",
             "thumbnail_url": "https://i.ytimg.com/vi/cO79GxP8v2I/hqdefault.jpg"
         },
         {
@@ -259,7 +259,7 @@
             "channel_name": "TVING",
             "category": "Entertainment",
             "duration": "0:46",
-            "view_count": "136113",
+            "view_count": "138547",
             "thumbnail_url": "https://i.ytimg.com/vi/Yz_wQBt7B2o/hqdefault.jpg"
         },
         {
@@ -268,17 +268,8 @@
             "channel_name": "소피아패밀리(Sophia family)",
             "category": "People & Blogs",
             "duration": "20:07",
-            "view_count": "494300",
+            "view_count": "497818",
             "thumbnail_url": "https://i.ytimg.com/vi/hUejw1cOxxQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "qs2t1G_2_C0",
-            "title": "별무리 기행 PV: 「별하늘 우화•2」|〈붕괴: 스타레일〉",
-            "channel_name": "붕괴: 스타레일",
-            "category": "Entertainment",
-            "duration": "5:07",
-            "view_count": "148084",
-            "thumbnail_url": "https://i.ytimg.com/vi/qs2t1G_2_C0/hqdefault.jpg"
         },
         {
             "video_id": "pe_ejTiIcSs",
@@ -286,8 +277,17 @@
             "channel_name": "MrBeast",
             "category": "Entertainment",
             "duration": "36:50",
-            "view_count": "126945915",
+            "view_count": "127230277",
             "thumbnail_url": "https://i.ytimg.com/vi/pe_ejTiIcSs/hqdefault.jpg"
+        },
+        {
+            "video_id": "qs2t1G_2_C0",
+            "title": "별무리 기행 PV: 「별하늘 우화•2」|〈붕괴: 스타레일〉",
+            "channel_name": "붕괴: 스타레일",
+            "category": "Entertainment",
+            "duration": "5:07",
+            "view_count": "148462",
+            "thumbnail_url": "https://i.ytimg.com/vi/qs2t1G_2_C0/hqdefault.jpg"
         },
         {
             "video_id": "_u7-iUKo1ec",
@@ -295,7 +295,7 @@
             "channel_name": "MBN MUSIC",
             "category": "Music",
             "duration": "2:58",
-            "view_count": "191885",
+            "view_count": "196085",
             "thumbnail_url": "https://i.ytimg.com/vi/_u7-iUKo1ec/hqdefault.jpg"
         },
         {
@@ -304,7 +304,7 @@
             "channel_name": "현주투성이",
             "category": "People & Blogs",
             "duration": "24:27",
-            "view_count": "217918",
+            "view_count": "218711",
             "thumbnail_url": "https://i.ytimg.com/vi/ydhgw5jv-q0/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "유노-Yuno",
             "category": "People & Blogs",
             "duration": "12:35",
-            "view_count": "518846",
+            "view_count": "521132",
             "thumbnail_url": "https://i.ytimg.com/vi/HRkJxi4_12I/hqdefault.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "channel_name": "흥삶이네 Heungsam's Life",
             "category": "People & Blogs",
             "duration": "22:03",
-            "view_count": "174388",
+            "view_count": "175902",
             "thumbnail_url": "https://i.ytimg.com/vi/ZoJo5UmO298/hqdefault.jpg"
         },
         {
@@ -331,7 +331,7 @@
             "channel_name": "예보링 ",
             "category": "People & Blogs",
             "duration": "12:48",
-            "view_count": "281202",
+            "view_count": "281718",
             "thumbnail_url": "https://i.ytimg.com/vi/LKYP54weO2w/hqdefault.jpg"
         },
         {
@@ -340,7 +340,7 @@
             "channel_name": "deemd 딤디",
             "category": "People & Blogs",
             "duration": "20:23",
-            "view_count": "179240",
+            "view_count": "179788",
             "thumbnail_url": "https://i.ytimg.com/vi/G_li-ZsZ-Dk/hqdefault.jpg"
         },
         {
@@ -349,7 +349,7 @@
             "channel_name": "ぱく家(박가네)",
             "category": "Entertainment",
             "duration": "26:43",
-            "view_count": "639486",
+            "view_count": "640548",
             "thumbnail_url": "https://i.ytimg.com/vi/1ucf9PzyyJo/hqdefault.jpg"
         },
         {
@@ -358,7 +358,7 @@
             "channel_name": "너덜트",
             "category": "Comedy",
             "duration": "14:17",
-            "view_count": "1200626",
+            "view_count": "1202944",
             "thumbnail_url": "https://i.ytimg.com/vi/RXVNkwHO_1U/hqdefault.jpg"
         },
         {
@@ -367,7 +367,7 @@
             "channel_name": "어쩔수없는윤화",
             "category": "People & Blogs",
             "duration": "9:11",
-            "view_count": "189828",
+            "view_count": "190375",
             "thumbnail_url": "https://i.ytimg.com/vi/AIVhAZlbgis/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "생각없이사는연",
             "category": "People & Blogs",
             "duration": "13:42",
-            "view_count": "268852",
+            "view_count": "269238",
             "thumbnail_url": "https://i.ytimg.com/vi/7qqALe1_HjQ/hqdefault.jpg"
         }
     ]
