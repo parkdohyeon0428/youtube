@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-06-27 20:12:15",
+    "scraped_time": "2025-06-27 21:27:42",
     "videos": [
         {
             "video_id": "35HYy4pDzmc",
@@ -7,7 +7,7 @@
             "channel_name": "Mnet K-POP",
             "category": "Entertainment",
             "duration": "3:35",
-            "view_count": "2078288",
+            "view_count": "2144504",
             "thumbnail_url": "https://i.ytimg.com/vi/35HYy4pDzmc/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Mnet K-POP",
             "category": "Entertainment",
             "duration": "4:17",
-            "view_count": "1035050",
+            "view_count": "1065633",
             "thumbnail_url": "https://i.ytimg.com/vi/6bpXiwdDqvY/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "곽튜브",
             "category": "Travel & Events",
             "duration": "44:01",
-            "view_count": "620071",
+            "view_count": "639320",
             "thumbnail_url": "https://i.ytimg.com/vi/khfmV5wL2io/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "자유부인 한가인",
             "category": "People & Blogs",
             "duration": "29:03",
-            "view_count": "454846",
+            "view_count": "468927",
             "thumbnail_url": "https://i.ytimg.com/vi/r_XJB-HAmkU/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "미야옹철의 냥냥펀치",
             "category": "Pets & Animals",
             "duration": "15:33",
-            "view_count": "501361",
+            "view_count": "518419",
             "thumbnail_url": "https://i.ytimg.com/vi/PUzgVTytfk0/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "fromis_9",
             "category": "Music",
             "duration": "3:28",
-            "view_count": "3769406",
+            "view_count": "3827626",
             "thumbnail_url": "https://i.ytimg.com/vi/r1QapH1SIAI/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "Sony Pictures Animation",
             "category": "Film & Animation",
             "duration": "2:00",
-            "view_count": "2073211",
+            "view_count": "2146097",
             "thumbnail_url": "https://i.ytimg.com/vi/cWppAbqm9I8/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "STUDIO CHOOM [스튜디오 춤]",
             "category": "Entertainment",
             "duration": "2:58",
-            "view_count": "1971514",
+            "view_count": "1995222",
             "thumbnail_url": "https://i.ytimg.com/vi/dw6VBKM9IFc/hqdefault.jpg"
         },
         {
@@ -79,17 +79,8 @@
             "channel_name": "은지랑 이은지",
             "category": "People & Blogs",
             "duration": "19:00",
-            "view_count": "200561",
+            "view_count": "207918",
             "thumbnail_url": "https://i.ytimg.com/vi/yOFi-VaOwyY/hqdefault.jpg"
-        },
-        {
-            "video_id": "n-XNk2rBhTA",
-            "title": "aespa 에스파 'Dirty Work' MV Teaser",
-            "channel_name": "SMTOWN",
-            "category": "Music",
-            "duration": "0:27",
-            "view_count": "1230568",
-            "thumbnail_url": "https://i.ytimg.com/vi/n-XNk2rBhTA/hqdefault.jpg"
         },
         {
             "video_id": "3rjhFUvZRas",
@@ -97,26 +88,17 @@
             "channel_name": "지식해적단",
             "category": "Science & Technology",
             "duration": "15:09",
-            "view_count": "244792",
+            "view_count": "254851",
             "thumbnail_url": "https://i.ytimg.com/vi/3rjhFUvZRas/hqdefault.jpg"
         },
         {
-            "video_id": "HpUaqpcXM84",
-            "title": "\"저한테 언제 설레신 거예요?\"ㅣEP.5 프로미스나인ㅣ미방분",
-            "channel_name": "미미미누",
-            "category": "Education",
-            "duration": "31:40",
-            "view_count": "432154",
-            "thumbnail_url": "https://i.ytimg.com/vi/HpUaqpcXM84/hqdefault.jpg"
-        },
-        {
-            "video_id": "8YiR9v3sOpk",
-            "title": "BLACKPINK WORLD TOUR [DEADLINE] TRAILER",
-            "channel_name": "BLACKPINK",
+            "video_id": "n-XNk2rBhTA",
+            "title": "aespa 에스파 'Dirty Work' MV Teaser",
+            "channel_name": "SMTOWN",
             "category": "Music",
-            "duration": "0:28",
-            "view_count": "3013851",
-            "thumbnail_url": "https://i.ytimg.com/vi/8YiR9v3sOpk/hqdefault.jpg"
+            "duration": "0:27",
+            "view_count": "1234703",
+            "thumbnail_url": "https://i.ytimg.com/vi/n-XNk2rBhTA/hqdefault.jpg"
         },
         {
             "video_id": "Vd65l451KI4",
@@ -124,8 +106,26 @@
             "channel_name": "리본 프로젝트 - Re:born project",
             "category": "People & Blogs",
             "duration": "4:58",
-            "view_count": "95562",
+            "view_count": "101522",
             "thumbnail_url": "https://i.ytimg.com/vi/Vd65l451KI4/hqdefault.jpg"
+        },
+        {
+            "video_id": "8YiR9v3sOpk",
+            "title": "BLACKPINK WORLD TOUR [DEADLINE] TRAILER",
+            "channel_name": "BLACKPINK",
+            "category": "Music",
+            "duration": "0:28",
+            "view_count": "3054606",
+            "thumbnail_url": "https://i.ytimg.com/vi/8YiR9v3sOpk/hqdefault.jpg"
+        },
+        {
+            "video_id": "HpUaqpcXM84",
+            "title": "\"저한테 언제 설레신 거예요?\"ㅣEP.5 프로미스나인ㅣ미방분",
+            "channel_name": "미미미누",
+            "category": "Education",
+            "duration": "31:40",
+            "view_count": "446629",
+            "thumbnail_url": "https://i.ytimg.com/vi/HpUaqpcXM84/hqdefault.jpg"
         },
         {
             "video_id": "9b99MNewcgo",
@@ -133,7 +133,7 @@
             "channel_name": "A급 장영란",
             "category": "Entertainment",
             "duration": "24:28",
-            "view_count": "506777",
+            "view_count": "515464",
             "thumbnail_url": "https://i.ytimg.com/vi/9b99MNewcgo/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "디글 :Diggle",
             "category": "Entertainment",
             "duration": "16:46",
-            "view_count": "528519",
+            "view_count": "544058",
             "thumbnail_url": "https://i.ytimg.com/vi/v1_iDY1Qfy4/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "M2",
             "category": "Entertainment",
             "duration": "3:23",
-            "view_count": "233336",
+            "view_count": "238155",
             "thumbnail_url": "https://i.ytimg.com/vi/0ZD56ukjn54/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "THEBLACKLABEL",
             "category": "Music",
             "duration": "2:46",
-            "view_count": "7512061",
+            "view_count": "7565443",
             "thumbnail_url": "https://i.ytimg.com/vi/mhKCRnUKp5U/hqdefault.jpg"
         },
         {
@@ -169,17 +169,8 @@
             "channel_name": "나래식",
             "category": "Entertainment",
             "duration": "40:47",
-            "view_count": "444722",
+            "view_count": "454488",
             "thumbnail_url": "https://i.ytimg.com/vi/wDUJasBRipU/hqdefault.jpg"
-        },
-        {
-            "video_id": "XPUWbB39QK8",
-            "title": "결혼 Q&A 💍 | 예비남편 직업? 나이차이? 3일 만에 사귄 썰? 첫 만남 자만추 썰! 결혼 결심한 계기? 자녀 계획? 이상형? 어린 나이 결혼? 퇴사 반응? | 새니",
-            "channel_name": "새니 SENI",
-            "category": "People & Blogs",
-            "duration": "17:15",
-            "view_count": "203622",
-            "thumbnail_url": "https://i.ytimg.com/vi/XPUWbB39QK8/hqdefault.jpg"
         },
         {
             "video_id": "72XuWu9XDUg",
@@ -187,8 +178,17 @@
             "channel_name": "권또또 KWONTTOTTO",
             "category": "Entertainment",
             "duration": "12:25",
-            "view_count": "424949",
+            "view_count": "437489",
             "thumbnail_url": "https://i.ytimg.com/vi/72XuWu9XDUg/hqdefault.jpg"
+        },
+        {
+            "video_id": "XPUWbB39QK8",
+            "title": "결혼 Q&A 💍 | 예비남편 직업? 나이차이? 3일 만에 사귄 썰? 첫 만남 자만추 썰! 결혼 결심한 계기? 자녀 계획? 이상형? 어린 나이 결혼? 퇴사 반응? | 새니",
+            "channel_name": "새니 SENI",
+            "category": "People & Blogs",
+            "duration": "17:15",
+            "view_count": "205481",
+            "thumbnail_url": "https://i.ytimg.com/vi/XPUWbB39QK8/hqdefault.jpg"
         },
         {
             "video_id": "-ovEZXLJX_Y",
@@ -196,26 +196,8 @@
             "channel_name": "KODE 코드",
             "category": "Entertainment",
             "duration": "23:16",
-            "view_count": "321050",
+            "view_count": "324498",
             "thumbnail_url": "https://i.ytimg.com/vi/-ovEZXLJX_Y/hqdefault.jpg"
-        },
-        {
-            "video_id": "r62I7NOKcPo",
-            "title": "ALLDAY PROJECT - 'FAMOUS' DANCE PRACTICE VIDEO",
-            "channel_name": "ALLDAY PROJECT",
-            "category": "People & Blogs",
-            "duration": "3:07",
-            "view_count": "2134272",
-            "thumbnail_url": "https://i.ytimg.com/vi/r62I7NOKcPo/hqdefault.jpg"
-        },
-        {
-            "video_id": "yebNIHKAC4A",
-            "title": "“Golden” Official Lyric Video | KPop Demon Hunters | Sony Animation",
-            "channel_name": "Sony Pictures Animation",
-            "category": "Film & Animation",
-            "duration": "3:19",
-            "view_count": "4944313",
-            "thumbnail_url": "https://i.ytimg.com/vi/yebNIHKAC4A/hqdefault.jpg"
         },
         {
             "video_id": "engr8PvZ98Q",
@@ -223,26 +205,26 @@
             "channel_name": "강쉪",
             "category": "Howto & Style",
             "duration": "12:30",
-            "view_count": "84164",
+            "view_count": "86130",
             "thumbnail_url": "https://i.ytimg.com/vi/engr8PvZ98Q/hqdefault.jpg"
         },
         {
-            "video_id": "Tip5SobvVd0",
-            "title": "프로미스나인 5인조 컴백기념 인기 비결 푼다ㅋ 트림😮‍💨방구💨응가💩 (ft.너에게 닿기를)ㅣ동네스타K쇼 EP.9",
-            "channel_name": "동네스타K",
-            "category": "Entertainment",
-            "duration": "27:30",
-            "view_count": "542727",
-            "thumbnail_url": "https://i.ytimg.com/vi/Tip5SobvVd0/hqdefault.jpg"
+            "video_id": "yebNIHKAC4A",
+            "title": "“Golden” Official Lyric Video | KPop Demon Hunters | Sony Animation",
+            "channel_name": "Sony Pictures Animation",
+            "category": "Film & Animation",
+            "duration": "3:19",
+            "view_count": "5041158",
+            "thumbnail_url": "https://i.ytimg.com/vi/yebNIHKAC4A/hqdefault.jpg"
         },
         {
-            "video_id": "zR1YgcwbkUE",
-            "title": "고베규 인생 맛집 찾아 떠난 길치 아조씨 ft.내돈생 GD",
-            "channel_name": "추성훈 ChooSungHoon",
+            "video_id": "r62I7NOKcPo",
+            "title": "ALLDAY PROJECT - 'FAMOUS' DANCE PRACTICE VIDEO",
+            "channel_name": "ALLDAY PROJECT",
             "category": "People & Blogs",
-            "duration": "37:11",
-            "view_count": "1300696",
-            "thumbnail_url": "https://i.ytimg.com/vi/zR1YgcwbkUE/hqdefault.jpg"
+            "duration": "3:07",
+            "view_count": "2149792",
+            "thumbnail_url": "https://i.ytimg.com/vi/r62I7NOKcPo/hqdefault.jpg"
         },
         {
             "video_id": "WKVcSrMiuOU",
@@ -250,17 +232,17 @@
             "channel_name": "Stray Kids",
             "category": "Music",
             "duration": "28:35",
-            "view_count": "913124",
+            "view_count": "932359",
             "thumbnail_url": "https://i.ytimg.com/vi/WKVcSrMiuOU/hqdefault.jpg"
         },
         {
-            "video_id": "m6HAPvKPNIc",
-            "title": "죄송합니다. 결국 이렇게 되었습니다.",
-            "channel_name": "계곡은개골개골",
-            "category": "Travel & Events",
-            "duration": "25:56",
-            "view_count": "215643",
-            "thumbnail_url": "https://i.ytimg.com/vi/m6HAPvKPNIc/hqdefault.jpg"
+            "video_id": "Tip5SobvVd0",
+            "title": "프로미스나인 5인조 컴백기념 인기 비결 푼다ㅋ 트림😮‍💨방구💨응가💩 (ft.너에게 닿기를)ㅣ동네스타K쇼 EP.9",
+            "channel_name": "동네스타K",
+            "category": "Entertainment",
+            "duration": "27:30",
+            "view_count": "546637",
+            "thumbnail_url": "https://i.ytimg.com/vi/Tip5SobvVd0/hqdefault.jpg"
         },
         {
             "video_id": "-IWZMMGLjJE",
@@ -268,8 +250,26 @@
             "channel_name": "유 퀴즈 온 더 튜브",
             "category": "Entertainment",
             "duration": "19:15",
-            "view_count": "584777",
+            "view_count": "604755",
             "thumbnail_url": "https://i.ytimg.com/vi/-IWZMMGLjJE/hqdefault.jpg"
+        },
+        {
+            "video_id": "m6HAPvKPNIc",
+            "title": "죄송합니다. 결국 이렇게 되었습니다.",
+            "channel_name": "계곡은개골개골",
+            "category": "Travel & Events",
+            "duration": "25:56",
+            "view_count": "222709",
+            "thumbnail_url": "https://i.ytimg.com/vi/m6HAPvKPNIc/hqdefault.jpg"
+        },
+        {
+            "video_id": "zR1YgcwbkUE",
+            "title": "고베규 인생 맛집 찾아 떠난 길치 아조씨 ft.내돈생 GD",
+            "channel_name": "추성훈 ChooSungHoon",
+            "category": "People & Blogs",
+            "duration": "37:11",
+            "view_count": "1343094",
+            "thumbnail_url": "https://i.ytimg.com/vi/zR1YgcwbkUE/hqdefault.jpg"
         },
         {
             "video_id": "eny0BqmSwmM",
@@ -277,7 +277,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "3:02",
-            "view_count": "1830550",
+            "view_count": "1864073",
             "thumbnail_url": "https://i.ytimg.com/vi/eny0BqmSwmM/hqdefault.jpg"
         },
         {
@@ -286,7 +286,7 @@
             "channel_name": "The CHOOM (더 춤)",
             "category": "Entertainment",
             "duration": "1:27",
-            "view_count": "2685319",
+            "view_count": "2700702",
             "thumbnail_url": "https://i.ytimg.com/vi/t7RN-R5DnZM/hqdefault.jpg"
         },
         {
@@ -295,7 +295,7 @@
             "channel_name": "찰스엔터",
             "category": "People & Blogs",
             "duration": "31:13",
-            "view_count": "924031",
+            "view_count": "925999",
             "thumbnail_url": "https://i.ytimg.com/vi/uMh6SvK4388/hqdefault.jpg"
         },
         {
@@ -304,7 +304,7 @@
             "channel_name": "리그 오브 레전드",
             "category": "Gaming",
             "duration": "2:04",
-            "view_count": "311433",
+            "view_count": "319047",
             "thumbnail_url": "https://i.ytimg.com/vi/Hchuy-xrtV0/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "The CHOOM (더 춤)",
             "category": "Entertainment",
             "duration": "1:29",
-            "view_count": "2504074",
+            "view_count": "2514374",
             "thumbnail_url": "https://i.ytimg.com/vi/OQPYfEi-nyA/hqdefault.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "channel_name": "NB couple엔비커플",
             "category": "Entertainment",
             "duration": "24:48",
-            "view_count": "889968",
+            "view_count": "895927",
             "thumbnail_url": "https://i.ytimg.com/vi/qXvG7omfzuk/hqdefault.jpg"
         },
         {
@@ -331,7 +331,7 @@
             "channel_name": "정리마켓",
             "category": "Howto & Style",
             "duration": "22:12",
-            "view_count": "126885",
+            "view_count": "128455",
             "thumbnail_url": "https://i.ytimg.com/vi/NZl9QTdbC68/hqdefault.jpg"
         },
         {
@@ -340,7 +340,7 @@
             "channel_name": "킹키는 킹키야",
             "category": "Entertainment",
             "duration": "17:43",
-            "view_count": "227779",
+            "view_count": "228833",
             "thumbnail_url": "https://i.ytimg.com/vi/AuvW7ORGcFA/hqdefault.jpg"
         },
         {
@@ -349,7 +349,7 @@
             "channel_name": "소피아패밀리(Sophia family)",
             "category": "People & Blogs",
             "duration": "20:07",
-            "view_count": "560703",
+            "view_count": "563368",
             "thumbnail_url": "https://i.ytimg.com/vi/hUejw1cOxxQ/hqdefault.jpg"
         },
         {
@@ -358,17 +358,8 @@
             "channel_name": "MrBeast",
             "category": "Entertainment",
             "duration": "36:50",
-            "view_count": "134258572",
+            "view_count": "134547196",
             "thumbnail_url": "https://i.ytimg.com/vi/pe_ejTiIcSs/hqdefault.jpg"
-        },
-        {
-            "video_id": "HRkJxi4_12I",
-            "title": "\"누가 더 빨리 먹을까?\" 괴물짜장 vs 짜장면 빨리 먹기 대결🔥",
-            "channel_name": "유노-Yuno",
-            "category": "People & Blogs",
-            "duration": "12:35",
-            "view_count": "568920",
-            "thumbnail_url": "https://i.ytimg.com/vi/HRkJxi4_12I/hqdefault.jpg"
         },
         {
             "video_id": "ydhgw5jv-q0",
@@ -376,8 +367,17 @@
             "channel_name": "현주투성이",
             "category": "People & Blogs",
             "duration": "24:27",
-            "view_count": "231444",
+            "view_count": "232634",
             "thumbnail_url": "https://i.ytimg.com/vi/ydhgw5jv-q0/hqdefault.jpg"
+        },
+        {
+            "video_id": "HRkJxi4_12I",
+            "title": "\"누가 더 빨리 먹을까?\" 괴물짜장 vs 짜장면 빨리 먹기 대결🔥",
+            "channel_name": "유노-Yuno",
+            "category": "People & Blogs",
+            "duration": "12:35",
+            "view_count": "572472",
+            "thumbnail_url": "https://i.ytimg.com/vi/HRkJxi4_12I/hqdefault.jpg"
         }
     ]
 }
