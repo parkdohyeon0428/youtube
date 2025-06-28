@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-06-28 16:12:37",
+    "scraped_time": "2025-06-28 17:16:59",
     "videos": [
         {
             "video_id": "M2WTUoy4y6E",
@@ -7,7 +7,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:10",
-            "view_count": "16144511",
+            "view_count": "16309282",
             "thumbnail_url": "https://i.ytimg.com/vi/M2WTUoy4y6E/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Mnet K-POP",
             "category": "Entertainment",
             "duration": "3:35",
-            "view_count": "2649689",
+            "view_count": "2675763",
             "thumbnail_url": "https://i.ytimg.com/vi/35HYy4pDzmc/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "Mnet K-POP",
             "category": "Entertainment",
             "duration": "4:17",
-            "view_count": "1318449",
+            "view_count": "1331512",
             "thumbnail_url": "https://i.ytimg.com/vi/6bpXiwdDqvY/hqdefault.jpg"
         },
         {
@@ -34,17 +34,8 @@
             "channel_name": "곽튜브",
             "category": "Travel & Events",
             "duration": "44:01",
-            "view_count": "755135",
+            "view_count": "761345",
             "thumbnail_url": "https://i.ytimg.com/vi/khfmV5wL2io/hqdefault.jpg"
-        },
-        {
-            "video_id": "PUzgVTytfk0",
-            "title": "고양이 걸그룹 불화설💥춘봉첨지와 칠복이의 미래는?ㅣ미야옹철의 가정방문",
-            "channel_name": "미야옹철의 냥냥펀치",
-            "category": "Pets & Animals",
-            "duration": "15:33",
-            "view_count": "625559",
-            "thumbnail_url": "https://i.ytimg.com/vi/PUzgVTytfk0/hqdefault.jpg"
         },
         {
             "video_id": "43iIgI-PIAg",
@@ -52,8 +43,17 @@
             "channel_name": "할명수",
             "category": "Entertainment",
             "duration": "23:34",
-            "view_count": "346833",
+            "view_count": "357868",
             "thumbnail_url": "https://i.ytimg.com/vi/43iIgI-PIAg/hqdefault.jpg"
+        },
+        {
+            "video_id": "PUzgVTytfk0",
+            "title": "고양이 걸그룹 불화설💥춘봉첨지와 칠복이의 미래는?ㅣ미야옹철의 가정방문",
+            "channel_name": "미야옹철의 냥냥펀치",
+            "category": "Pets & Animals",
+            "duration": "15:33",
+            "view_count": "632353",
+            "thumbnail_url": "https://i.ytimg.com/vi/PUzgVTytfk0/hqdefault.jpg"
         },
         {
             "video_id": "r_XJB-HAmkU",
@@ -61,7 +61,7 @@
             "channel_name": "자유부인 한가인",
             "category": "People & Blogs",
             "duration": "29:03",
-            "view_count": "559640",
+            "view_count": "566422",
             "thumbnail_url": "https://i.ytimg.com/vi/r_XJB-HAmkU/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "Sony Pictures Animation",
             "category": "Film & Animation",
             "duration": "2:00",
-            "view_count": "3077438",
+            "view_count": "3128663",
             "thumbnail_url": "https://i.ytimg.com/vi/cWppAbqm9I8/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "유노-Yuno",
             "category": "People & Blogs",
             "duration": "15:19",
-            "view_count": "248366",
+            "view_count": "270375",
             "thumbnail_url": "https://i.ytimg.com/vi/sJyH4FGT0Wg/hqdefault.jpg"
         },
         {
@@ -88,7 +88,7 @@
             "channel_name": "DAY6",
             "category": "People & Blogs",
             "duration": "2:35",
-            "view_count": "165216",
+            "view_count": "170426",
             "thumbnail_url": "https://i.ytimg.com/vi/68Eynt2P63Q/hqdefault.jpg"
         },
         {
@@ -97,17 +97,8 @@
             "channel_name": "이 남자의 cook",
             "category": "Howto & Style",
             "duration": "2:01",
-            "view_count": "76088",
+            "view_count": "78184",
             "thumbnail_url": "https://i.ytimg.com/vi/dE1TUOjvavo/hqdefault.jpg"
-        },
-        {
-            "video_id": "r1QapH1SIAI",
-            "title": "fromis_9 (프로미스나인) 'LIKE YOU BETTER' MV",
-            "channel_name": "fromis_9",
-            "category": "Music",
-            "duration": "3:28",
-            "view_count": "5577409",
-            "thumbnail_url": "https://i.ytimg.com/vi/r1QapH1SIAI/hqdefault.jpg"
         },
         {
             "video_id": "mQ6OrKsGDgU",
@@ -115,17 +106,17 @@
             "channel_name": "여단오_yeodano",
             "category": "People & Blogs",
             "duration": "12:37",
-            "view_count": "120216",
+            "view_count": "126836",
             "thumbnail_url": "https://i.ytimg.com/vi/mQ6OrKsGDgU/hqdefault.jpg"
         },
         {
-            "video_id": "3rjhFUvZRas",
-            "title": "💀 산지 70%의 나라… 여기서 어떻게 살아남았을까? / 💀 한반도 지형 눈물의 리뷰",
-            "channel_name": "지식해적단",
-            "category": "Science & Technology",
-            "duration": "15:09",
-            "view_count": "308376",
-            "thumbnail_url": "https://i.ytimg.com/vi/3rjhFUvZRas/hqdefault.jpg"
+            "video_id": "r1QapH1SIAI",
+            "title": "fromis_9 (프로미스나인) 'LIKE YOU BETTER' MV",
+            "channel_name": "fromis_9",
+            "category": "Music",
+            "duration": "3:28",
+            "view_count": "5895854",
+            "thumbnail_url": "https://i.ytimg.com/vi/r1QapH1SIAI/hqdefault.jpg"
         },
         {
             "video_id": "KlWAPOwab0c",
@@ -133,17 +124,17 @@
             "channel_name": "뭉치의 개팔상팔",
             "category": "Pets & Animals",
             "duration": "7:13",
-            "view_count": "708517",
+            "view_count": "740051",
             "thumbnail_url": "https://i.ytimg.com/vi/KlWAPOwab0c/hqdefault.jpg"
         },
         {
-            "video_id": "dw6VBKM9IFc",
-            "title": "ALLDAY PROJECT(올데이 프로젝트) 'WICKED' (4K) | STUDIO CHOOM ORIGINAL",
-            "channel_name": "STUDIO CHOOM [스튜디오 춤]",
-            "category": "Entertainment",
-            "duration": "2:58",
-            "view_count": "2317074",
-            "thumbnail_url": "https://i.ytimg.com/vi/dw6VBKM9IFc/hqdefault.jpg"
+            "video_id": "3rjhFUvZRas",
+            "title": "💀 산지 70%의 나라… 여기서 어떻게 살아남았을까? / 💀 한반도 지형 눈물의 리뷰",
+            "channel_name": "지식해적단",
+            "category": "Science & Technology",
+            "duration": "15:09",
+            "view_count": "311524",
+            "thumbnail_url": "https://i.ytimg.com/vi/3rjhFUvZRas/hqdefault.jpg"
         },
         {
             "video_id": "16jnZFsEzmU",
@@ -151,8 +142,17 @@
             "channel_name": "NCT 127",
             "category": "Music",
             "duration": "33:12",
-            "view_count": "235372",
+            "view_count": "246471",
             "thumbnail_url": "https://i.ytimg.com/vi/16jnZFsEzmU/hqdefault.jpg"
+        },
+        {
+            "video_id": "dw6VBKM9IFc",
+            "title": "ALLDAY PROJECT(올데이 프로젝트) 'WICKED' (4K) | STUDIO CHOOM ORIGINAL",
+            "channel_name": "STUDIO CHOOM [스튜디오 춤]",
+            "category": "Entertainment",
+            "duration": "2:58",
+            "view_count": "2333355",
+            "thumbnail_url": "https://i.ytimg.com/vi/dw6VBKM9IFc/hqdefault.jpg"
         },
         {
             "video_id": "671qlQWRhto",
@@ -160,7 +160,7 @@
             "channel_name": "바로 그 고소영",
             "category": "People & Blogs",
             "duration": "16:14",
-            "view_count": "152988",
+            "view_count": "156866",
             "thumbnail_url": "https://i.ytimg.com/vi/671qlQWRhto/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "리본 프로젝트 - Re:born project",
             "category": "People & Blogs",
             "duration": "4:58",
-            "view_count": "137270",
+            "view_count": "139546",
             "thumbnail_url": "https://i.ytimg.com/vi/Vd65l451KI4/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "컴퍼니수수 Company Soosoo",
             "category": "People & Blogs",
             "duration": "1:45",
-            "view_count": "196903",
+            "view_count": "202334",
             "thumbnail_url": "https://i.ytimg.com/vi/ODaPuNcYCC0/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "과장말고 사장하자",
             "category": "Travel & Events",
             "duration": "22:08",
-            "view_count": "125560",
+            "view_count": "128580",
             "thumbnail_url": "https://i.ytimg.com/vi/MHIT1-TWTu0/hqdefault.jpg"
         },
         {
@@ -196,17 +196,8 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "0:27",
-            "view_count": "1266090",
+            "view_count": "1267195",
             "thumbnail_url": "https://i.ytimg.com/vi/n-XNk2rBhTA/hqdefault.jpg"
-        },
-        {
-            "video_id": "8YiR9v3sOpk",
-            "title": "BLACKPINK WORLD TOUR [DEADLINE] TRAILER",
-            "channel_name": "BLACKPINK",
-            "category": "Music",
-            "duration": "0:28",
-            "view_count": "3450337",
-            "thumbnail_url": "https://i.ytimg.com/vi/8YiR9v3sOpk/hqdefault.jpg"
         },
         {
             "video_id": "AX0jQYaIeDc",
@@ -214,8 +205,17 @@
             "channel_name": "Alex Warren",
             "category": "Music",
             "duration": "3:41",
-            "view_count": "2730155",
+            "view_count": "2796284",
             "thumbnail_url": "https://i.ytimg.com/vi/AX0jQYaIeDc/hqdefault.jpg"
+        },
+        {
+            "video_id": "8YiR9v3sOpk",
+            "title": "BLACKPINK WORLD TOUR [DEADLINE] TRAILER",
+            "channel_name": "BLACKPINK",
+            "category": "Music",
+            "duration": "0:28",
+            "view_count": "3467964",
+            "thumbnail_url": "https://i.ytimg.com/vi/8YiR9v3sOpk/hqdefault.jpg"
         },
         {
             "video_id": "9b99MNewcgo",
@@ -223,17 +223,8 @@
             "channel_name": "A급 장영란",
             "category": "Entertainment",
             "duration": "24:28",
-            "view_count": "608672",
+            "view_count": "615910",
             "thumbnail_url": "https://i.ytimg.com/vi/9b99MNewcgo/hqdefault.jpg"
-        },
-        {
-            "video_id": "yOFi-VaOwyY",
-            "title": "[Eng] 기쁘다 퀸가비 오셨네🔥은지튼튼한테 잡도리 당하러 몸소 등장한 가비 l 디바마을 퀸가비, 재쓰비, 스월파 근황토크",
-            "channel_name": "은지랑 이은지",
-            "category": "People & Blogs",
-            "duration": "19:00",
-            "view_count": "239745",
-            "thumbnail_url": "https://i.ytimg.com/vi/yOFi-VaOwyY/hqdefault.jpg"
         },
         {
             "video_id": "UWIkDgmSznU",
@@ -241,8 +232,17 @@
             "channel_name": "투머치 김호영",
             "category": "Entertainment",
             "duration": "19:41",
-            "view_count": "175417",
+            "view_count": "177979",
             "thumbnail_url": "https://i.ytimg.com/vi/UWIkDgmSznU/hqdefault.jpg"
+        },
+        {
+            "video_id": "yOFi-VaOwyY",
+            "title": "[Eng] 기쁘다 퀸가비 오셨네🔥은지튼튼한테 잡도리 당하러 몸소 등장한 가비 l 디바마을 퀸가비, 재쓰비, 스월파 근황토크",
+            "channel_name": "은지랑 이은지",
+            "category": "People & Blogs",
+            "duration": "19:00",
+            "view_count": "241220",
+            "thumbnail_url": "https://i.ytimg.com/vi/yOFi-VaOwyY/hqdefault.jpg"
         },
         {
             "video_id": "tMd8ea7cQbU",
@@ -250,7 +250,7 @@
             "channel_name": "사나고 Sanago",
             "category": "Howto & Style",
             "duration": "14:40",
-            "view_count": "100917",
+            "view_count": "103537",
             "thumbnail_url": "https://i.ytimg.com/vi/tMd8ea7cQbU/hqdefault.jpg"
         },
         {
@@ -259,7 +259,7 @@
             "channel_name": "강쉪",
             "category": "Howto & Style",
             "duration": "12:30",
-            "view_count": "108516",
+            "view_count": "110864",
             "thumbnail_url": "https://i.ytimg.com/vi/engr8PvZ98Q/hqdefault.jpg"
         },
         {
@@ -268,7 +268,7 @@
             "channel_name": "한혜진 Han Hye Jin",
             "category": "Entertainment",
             "duration": "24:13",
-            "view_count": "135660",
+            "view_count": "136599",
             "thumbnail_url": "https://i.ytimg.com/vi/h9R-WaMwr7Q/hqdefault.jpg"
         },
         {
@@ -277,8 +277,17 @@
             "channel_name": "THEBLACKLABEL",
             "category": "Music",
             "duration": "2:46",
-            "view_count": "8079837",
+            "view_count": "8120780",
             "thumbnail_url": "https://i.ytimg.com/vi/mhKCRnUKp5U/hqdefault.jpg"
+        },
+        {
+            "video_id": "m6HAPvKPNIc",
+            "title": "죄송합니다. 결국 이렇게 되었습니다.",
+            "channel_name": "계곡은개골개골",
+            "category": "Travel & Events",
+            "duration": "25:56",
+            "view_count": "284172",
+            "thumbnail_url": "https://i.ytimg.com/vi/m6HAPvKPNIc/hqdefault.jpg"
         },
         {
             "video_id": "wDUJasBRipU",
@@ -286,7 +295,7 @@
             "channel_name": "나래식",
             "category": "Entertainment",
             "duration": "40:47",
-            "view_count": "570211",
+            "view_count": "577295",
             "thumbnail_url": "https://i.ytimg.com/vi/wDUJasBRipU/hqdefault.jpg"
         },
         {
@@ -295,17 +304,8 @@
             "channel_name": "Sony Pictures Animation",
             "category": "Film & Animation",
             "duration": "3:19",
-            "view_count": "6511337",
+            "view_count": "6586451",
             "thumbnail_url": "https://i.ytimg.com/vi/yebNIHKAC4A/hqdefault.jpg"
-        },
-        {
-            "video_id": "m6HAPvKPNIc",
-            "title": "죄송합니다. 결국 이렇게 되었습니다.",
-            "channel_name": "계곡은개골개골",
-            "category": "Travel & Events",
-            "duration": "25:56",
-            "view_count": "280359",
-            "thumbnail_url": "https://i.ytimg.com/vi/m6HAPvKPNIc/hqdefault.jpg"
         },
         {
             "video_id": "WKVcSrMiuOU",
@@ -313,7 +313,7 @@
             "channel_name": "Stray Kids",
             "category": "Music",
             "duration": "28:35",
-            "view_count": "1150587",
+            "view_count": "1158335",
             "thumbnail_url": "https://i.ytimg.com/vi/WKVcSrMiuOU/hqdefault.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "channel_name": "새니 SENI",
             "category": "People & Blogs",
             "duration": "17:15",
-            "view_count": "228324",
+            "view_count": "229218",
             "thumbnail_url": "https://i.ytimg.com/vi/XPUWbB39QK8/hqdefault.jpg"
         },
         {
@@ -331,7 +331,7 @@
             "channel_name": "동네스타K",
             "category": "Entertainment",
             "duration": "27:30",
-            "view_count": "629382",
+            "view_count": "632279",
             "thumbnail_url": "https://i.ytimg.com/vi/Tip5SobvVd0/hqdefault.jpg"
         },
         {
@@ -340,7 +340,7 @@
             "channel_name": "찰스엔터",
             "category": "People & Blogs",
             "duration": "31:13",
-            "view_count": "945588",
+            "view_count": "947045",
             "thumbnail_url": "https://i.ytimg.com/vi/uMh6SvK4388/hqdefault.jpg"
         },
         {
@@ -349,7 +349,7 @@
             "channel_name": "NB couple엔비커플",
             "category": "Entertainment",
             "duration": "24:48",
-            "view_count": "967782",
+            "view_count": "971404",
             "thumbnail_url": "https://i.ytimg.com/vi/qXvG7omfzuk/hqdefault.jpg"
         },
         {
@@ -358,7 +358,7 @@
             "channel_name": "정리마켓",
             "category": "Howto & Style",
             "duration": "22:12",
-            "view_count": "146480",
+            "view_count": "147498",
             "thumbnail_url": "https://i.ytimg.com/vi/NZl9QTdbC68/hqdefault.jpg"
         },
         {
@@ -367,7 +367,7 @@
             "channel_name": "미미미누",
             "category": "Education",
             "duration": "31:40",
-            "view_count": "540886",
+            "view_count": "547518",
             "thumbnail_url": "https://i.ytimg.com/vi/HpUaqpcXM84/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "권또또 KWONTTOTTO",
             "category": "Entertainment",
             "duration": "12:25",
-            "view_count": "516099",
+            "view_count": "520980",
             "thumbnail_url": "https://i.ytimg.com/vi/72XuWu9XDUg/hqdefault.jpg"
         }
     ]
