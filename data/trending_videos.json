@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-07-01 15:21:27",
+    "scraped_time": "2025-07-01 16:15:34",
     "videos": [
         {
             "video_id": "80qpfeBklWc",
@@ -7,7 +7,7 @@
             "channel_name": "ENA 이엔에이",
             "category": "Entertainment",
             "duration": "15:45",
-            "view_count": "2517576",
+            "view_count": "2562020",
             "thumbnail_url": "https://i.ytimg.com/vi/80qpfeBklWc/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "ROAD FIGHTING CHAMPIONSHIP",
             "category": "Sports",
             "duration": "8:27",
-            "view_count": "1392725",
+            "view_count": "1400771",
             "thumbnail_url": "https://i.ytimg.com/vi/EbxCy2GEPIs/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "SBSKPOP X INKIGAYO",
             "category": "Entertainment",
             "duration": "3:25",
-            "view_count": "965559",
+            "view_count": "976504",
             "thumbnail_url": "https://i.ytimg.com/vi/katO8j29gJw/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "tvN SPORTS",
             "category": "Sports",
             "duration": "16:39",
-            "view_count": "1473828",
+            "view_count": "1479475",
             "thumbnail_url": "https://i.ytimg.com/vi/4J7EqOB9sTo/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "SPOTV",
             "category": "Sports",
             "duration": "8:40",
-            "view_count": "1699165",
+            "view_count": "1701700",
             "thumbnail_url": "https://i.ytimg.com/vi/4Xoko2oDMOY/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:10",
-            "view_count": "24545732",
+            "view_count": "24627497",
             "thumbnail_url": "https://i.ytimg.com/vi/M2WTUoy4y6E/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "MBC 미스터리 : 심야괴담회 X 서프라이즈",
             "category": "Entertainment",
             "duration": "17:22",
-            "view_count": "152316",
+            "view_count": "157999",
             "thumbnail_url": "https://i.ytimg.com/vi/LSZEAUi0mRY/hqdefault.jpg"
         },
         {
@@ -70,17 +70,8 @@
             "channel_name": "MBCkpop",
             "category": "Music",
             "duration": "3:13",
-            "view_count": "1745376",
+            "view_count": "1753006",
             "thumbnail_url": "https://i.ytimg.com/vi/JYUkm-a-c6A/hqdefault.jpg"
-        },
-        {
-            "video_id": "-ZZfsK32sJQ",
-            "title": "에스파 vs 에스피에이엠! 참지 않는 닝닝이 이번에도 참지 않는 토크쇼 | 딱대 EP40 닝닝 from 에스파(aespa)",
-            "channel_name": "빠더너스 BDNS",
-            "category": "Comedy",
-            "duration": "28:54",
-            "view_count": "1092075",
-            "thumbnail_url": "https://i.ytimg.com/vi/-ZZfsK32sJQ/hqdefault.jpg"
         },
         {
             "video_id": "j69-8ig0Cic",
@@ -88,7 +79,7 @@
             "channel_name": "여단오_yeodano",
             "category": "People & Blogs",
             "duration": "24:27",
-            "view_count": "176151",
+            "view_count": "181951",
             "thumbnail_url": "https://i.ytimg.com/vi/j69-8ig0Cic/hqdefault.jpg"
         },
         {
@@ -97,7 +88,7 @@
             "channel_name": "SBS Radio 에라오",
             "category": "Music",
             "duration": "2:50",
-            "view_count": "585066",
+            "view_count": "594197",
             "thumbnail_url": "https://i.ytimg.com/vi/crMU6ftjGe0/hqdefault.jpg"
         },
         {
@@ -106,7 +97,7 @@
             "channel_name": "SBSKPOP X INKIGAYO",
             "category": "Entertainment",
             "duration": "2:58",
-            "view_count": "691241",
+            "view_count": "698601",
             "thumbnail_url": "https://i.ytimg.com/vi/0xtCZrITyak/hqdefault.jpg"
         },
         {
@@ -115,8 +106,17 @@
             "channel_name": "양장금주부",
             "category": "Howto & Style",
             "duration": "5:21",
-            "view_count": "402479",
+            "view_count": "408120",
             "thumbnail_url": "https://i.ytimg.com/vi/sljZmiEHlAU/hqdefault.jpg"
+        },
+        {
+            "video_id": "-ZZfsK32sJQ",
+            "title": "에스파 vs 에스피에이엠! 참지 않는 닝닝이 이번에도 참지 않는 토크쇼 | 딱대 EP40 닝닝 from 에스파(aespa)",
+            "channel_name": "빠더너스 BDNS",
+            "category": "Comedy",
+            "duration": "28:54",
+            "view_count": "1105600",
+            "thumbnail_url": "https://i.ytimg.com/vi/-ZZfsK32sJQ/hqdefault.jpg"
         },
         {
             "video_id": "1ej3oSnd2Mw",
@@ -124,7 +124,7 @@
             "channel_name": "딸을 위한 레시피 Recipes for daughters",
             "category": "Howto & Style",
             "duration": "4:43",
-            "view_count": "233649",
+            "view_count": "240399",
             "thumbnail_url": "https://i.ytimg.com/vi/1ej3oSnd2Mw/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "웃고리즘",
             "category": "Comedy",
             "duration": "6:49",
-            "view_count": "433982",
+            "view_count": "441123",
             "thumbnail_url": "https://i.ytimg.com/vi/sSKYKgTdi34/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "소피아패밀리(Sophia family)",
             "category": "People & Blogs",
             "duration": "17:49",
-            "view_count": "254308",
+            "view_count": "257806",
             "thumbnail_url": "https://i.ytimg.com/vi/OB7CR-COHqI/hqdefault.jpg"
         },
         {
@@ -151,17 +151,8 @@
             "channel_name": "이영자 TV",
             "category": "People & Blogs",
             "duration": "18:28",
-            "view_count": "334123",
+            "view_count": "339795",
             "thumbnail_url": "https://i.ytimg.com/vi/exjVTKXNuSk/hqdefault.jpg"
-        },
-        {
-            "video_id": "M7UQdamDf8U",
-            "title": "전여친 트라우마",
-            "channel_name": "픽고 PICKGO",
-            "category": "Entertainment",
-            "duration": "10:15",
-            "view_count": "664119",
-            "thumbnail_url": "https://i.ytimg.com/vi/M7UQdamDf8U/hqdefault.jpg"
         },
         {
             "video_id": "AN1-HonwJeY",
@@ -169,8 +160,26 @@
             "channel_name": "타일러 볼까요?",
             "category": "Education",
             "duration": "15:15",
-            "view_count": "129658",
+            "view_count": "140048",
             "thumbnail_url": "https://i.ytimg.com/vi/AN1-HonwJeY/hqdefault.jpg"
+        },
+        {
+            "video_id": "M7UQdamDf8U",
+            "title": "전여친 트라우마",
+            "channel_name": "픽고 PICKGO",
+            "category": "Entertainment",
+            "duration": "10:15",
+            "view_count": "667149",
+            "thumbnail_url": "https://i.ytimg.com/vi/M7UQdamDf8U/hqdefault.jpg"
+        },
+        {
+            "video_id": "3FlHdyKdJDc",
+            "title": "첫 차, 첫 사고, 첫 튜닝 (세계여행을 위한 준비) - 한국 타스만",
+            "channel_name": "노마드션 No mad Shaun",
+            "category": "Travel & Events",
+            "duration": "20:50",
+            "view_count": "758322",
+            "thumbnail_url": "https://i.ytimg.com/vi/3FlHdyKdJDc/hqdefault.jpg"
         },
         {
             "video_id": "q78BoYraoZU",
@@ -178,8 +187,17 @@
             "channel_name": "짧은대본 ShortPaper",
             "category": "Entertainment",
             "duration": "9:06",
-            "view_count": "490314",
+            "view_count": "492332",
             "thumbnail_url": "https://i.ytimg.com/vi/q78BoYraoZU/hqdefault.jpg"
+        },
+        {
+            "video_id": "Q9Q4BJe2lzg",
+            "title": "유병재 ver. 𝗟𝗚 𝗧𝗪𝗜𝗡𝗦 응원가 제안 회신서.pdf [엘코더]",
+            "channel_name": "LGTWINSTV",
+            "category": "Sports",
+            "duration": "8:23",
+            "view_count": "104886",
+            "thumbnail_url": "https://i.ytimg.com/vi/Q9Q4BJe2lzg/hqdefault.jpg"
         },
         {
             "video_id": "NQHyHuj5Uys",
@@ -187,7 +205,7 @@
             "channel_name": "엠뚜루마뚜루 : MBC 공식 종합 채널",
             "category": "Entertainment",
             "duration": "17:26",
-            "view_count": "722545",
+            "view_count": "728855",
             "thumbnail_url": "https://i.ytimg.com/vi/NQHyHuj5Uys/hqdefault.jpg"
         },
         {
@@ -196,8 +214,17 @@
             "channel_name": "테크몽 Techmong",
             "category": "Science & Technology",
             "duration": "14:39",
-            "view_count": "363015",
+            "view_count": "366645",
             "thumbnail_url": "https://i.ytimg.com/vi/XJGN1o4bA7A/hqdefault.jpg"
+        },
+        {
+            "video_id": "VoqFtV2F5p4",
+            "title": "30주에 이대로 응급제왕이요..? 2박3일 입원생활",
+            "channel_name": "김키미kimmy kim",
+            "category": "Entertainment",
+            "duration": "19:23",
+            "view_count": "227188",
+            "thumbnail_url": "https://i.ytimg.com/vi/VoqFtV2F5p4/hqdefault.jpg"
         },
         {
             "video_id": "GUabT3DL0s4",
@@ -205,8 +232,26 @@
             "channel_name": "SBS Radio 에라오",
             "category": "Music",
             "duration": "26:35",
-            "view_count": "258497",
+            "view_count": "261969",
             "thumbnail_url": "https://i.ytimg.com/vi/GUabT3DL0s4/hqdefault.jpg"
+        },
+        {
+            "video_id": "wawtxoCuwl0",
+            "title": "Gameboy",
+            "channel_name": "KATSEYE - Topic",
+            "category": "Music",
+            "duration": "3:06",
+            "view_count": "612617",
+            "thumbnail_url": "https://i.ytimg.com/vi/wawtxoCuwl0/hqdefault.jpg"
+        },
+        {
+            "video_id": "0F1ybPfoLbQ",
+            "title": "고작 가위바위보에 인생 걸기 게임!! 당일치기로 알래스카 가서 연어 잡기ㄷㄷ ㅋㅋㅋㅋㅋㅋㅋ",
+            "channel_name": "보물섬",
+            "category": "Comedy",
+            "duration": "36:49",
+            "view_count": "491519",
+            "thumbnail_url": "https://i.ytimg.com/vi/0F1ybPfoLbQ/hqdefault.jpg"
         },
         {
             "video_id": "7hP_e9kyczw",
@@ -214,7 +259,7 @@
             "channel_name": "붕괴: 스타레일",
             "category": "Entertainment",
             "duration": "3:24",
-            "view_count": "223852",
+            "view_count": "225780",
             "thumbnail_url": "https://i.ytimg.com/vi/7hP_e9kyczw/hqdefault.jpg"
         },
         {
@@ -223,7 +268,7 @@
             "channel_name": "Mnet K-POP",
             "category": "Entertainment",
             "duration": "3:35",
-            "view_count": "3344887",
+            "view_count": "3352149",
             "thumbnail_url": "https://i.ytimg.com/vi/35HYy4pDzmc/hqdefault.jpg"
         },
         {
@@ -232,7 +277,7 @@
             "channel_name": "김숙티비kimsookTV",
             "category": "Entertainment",
             "duration": "14:29",
-            "view_count": "147450",
+            "view_count": "153617",
             "thumbnail_url": "https://i.ytimg.com/vi/7Q_ywFkxK-g/hqdefault.jpg"
         },
         {
@@ -241,7 +286,7 @@
             "channel_name": "M2",
             "category": "Entertainment",
             "duration": "3:17",
-            "view_count": "818300",
+            "view_count": "821107",
             "thumbnail_url": "https://i.ytimg.com/vi/NCRCilAGN8Q/hqdefault.jpg"
         },
         {
@@ -250,7 +295,7 @@
             "channel_name": "KBS 레전드 케이팝",
             "category": "Music",
             "duration": "7:00",
-            "view_count": "423537",
+            "view_count": "427152",
             "thumbnail_url": "https://i.ytimg.com/vi/WFRjwRUegJw/hqdefault.jpg"
         },
         {
@@ -259,7 +304,7 @@
             "channel_name": "강 지",
             "category": "Gaming",
             "duration": "10:57",
-            "view_count": "319961",
+            "view_count": "322676",
             "thumbnail_url": "https://i.ytimg.com/vi/BmTE8IXKBKk/hqdefault.jpg"
         },
         {
@@ -268,17 +313,17 @@
             "channel_name": "VIVINOS",
             "category": "Film & Animation",
             "duration": "8:05",
-            "view_count": "4473077",
+            "view_count": "4486196",
             "thumbnail_url": "https://i.ytimg.com/vi/e8lSYc3WvJ8/hqdefault.jpg"
         },
         {
-            "video_id": "6bpXiwdDqvY",
-            "title": "'최초 공개' ALLDAY PROJECT - WICKED #엠카운트다운 EP.894 | Mnet 250626 방송",
-            "channel_name": "Mnet K-POP",
-            "category": "Entertainment",
-            "duration": "4:17",
-            "view_count": "1698444",
-            "thumbnail_url": "https://i.ytimg.com/vi/6bpXiwdDqvY/hqdefault.jpg"
+            "video_id": "t8O5ESGIM8E",
+            "title": "[박수홍 행복해다홍] 재이 돌봐줄 시터 이모 고용했습니다. 참하고 미인..180초 임우일",
+            "channel_name": "박수홍 행복해다홍",
+            "category": "Travel & Events",
+            "duration": "15:19",
+            "view_count": "460380",
+            "thumbnail_url": "https://i.ytimg.com/vi/t8O5ESGIM8E/hqdefault.jpg"
         },
         {
             "video_id": "f8NifgGccRs",
@@ -286,8 +331,17 @@
             "channel_name": "BEATPELLA HOUSE",
             "category": "Music",
             "duration": "2:49",
-            "view_count": "394790",
+            "view_count": "405338",
             "thumbnail_url": "https://i.ytimg.com/vi/f8NifgGccRs/hqdefault.jpg"
+        },
+        {
+            "video_id": "6bpXiwdDqvY",
+            "title": "'최초 공개' ALLDAY PROJECT - WICKED #엠카운트다운 EP.894 | Mnet 250626 방송",
+            "channel_name": "Mnet K-POP",
+            "category": "Entertainment",
+            "duration": "4:17",
+            "view_count": "1702292",
+            "thumbnail_url": "https://i.ytimg.com/vi/6bpXiwdDqvY/hqdefault.jpg"
         },
         {
             "video_id": "-wSdMDB-Svc",
@@ -295,7 +349,7 @@
             "channel_name": "마리코리아TV🇰🇷まりこりあ",
             "category": "Travel & Events",
             "duration": "17:12",
-            "view_count": "301142",
+            "view_count": "304616",
             "thumbnail_url": "https://i.ytimg.com/vi/-wSdMDB-Svc/hqdefault.jpg"
         },
         {
@@ -304,7 +358,7 @@
             "channel_name": "뭉치의 개팔상팔",
             "category": "Pets & Animals",
             "duration": "7:13",
-            "view_count": "2021113",
+            "view_count": "2024132",
             "thumbnail_url": "https://i.ytimg.com/vi/KlWAPOwab0c/hqdefault.jpg"
         },
         {
@@ -313,7 +367,7 @@
             "channel_name": "tvN Joy",
             "category": "Entertainment",
             "duration": "17:58",
-            "view_count": "830619",
+            "view_count": "835588",
             "thumbnail_url": "https://i.ytimg.com/vi/CjTn-Un9UgE/hqdefault.jpg"
         },
         {
@@ -322,62 +376,8 @@
             "channel_name": "스파쉬바 spa_sheba",
             "category": "People & Blogs",
             "duration": "24:37",
-            "view_count": "192332",
+            "view_count": "194486",
             "thumbnail_url": "https://i.ytimg.com/vi/OqBvF0p8bv4/hqdefault.jpg"
-        },
-        {
-            "video_id": "sMFrr3wKHsg",
-            "title": "아찔했던 14시간 비행후 첫 식사는 바로…? | 본가를 본 가족들의 반응🙀 | 공항아침, 기내식, 한국도착, 집 구경, 첫 식사",
-            "channel_name": "인디애나 주영 Indiana Jooyoung",
-            "category": "Entertainment",
-            "duration": "17:49",
-            "view_count": "478429",
-            "thumbnail_url": "https://i.ytimg.com/vi/sMFrr3wKHsg/hqdefault.jpg"
-        },
-        {
-            "video_id": "zJdGceABe0M",
-            "title": "백지영♥정석원 부부가 꼭두새벽부터 딸과 함께 등교하는 이유?",
-            "channel_name": "백지영 Baek Z Young",
-            "category": "People & Blogs",
-            "duration": "21:53",
-            "view_count": "768682",
-            "thumbnail_url": "https://i.ytimg.com/vi/zJdGceABe0M/hqdefault.jpg"
-        },
-        {
-            "video_id": "t8O5ESGIM8E",
-            "title": "[박수홍 행복해다홍] 재이 돌봐줄 시터 이모 고용했습니다. 참하고 미인..180초 임우일",
-            "channel_name": "박수홍 행복해다홍",
-            "category": "Travel & Events",
-            "duration": "15:19",
-            "view_count": "456825",
-            "thumbnail_url": "https://i.ytimg.com/vi/t8O5ESGIM8E/hqdefault.jpg"
-        },
-        {
-            "video_id": "cWppAbqm9I8",
-            "title": "\"Your Idol\" | Official Song Clip | KPop Demon Hunters | Sony Animation",
-            "channel_name": "Sony Pictures Animation",
-            "category": "Film & Animation",
-            "duration": "2:00",
-            "view_count": "7037174",
-            "thumbnail_url": "https://i.ytimg.com/vi/cWppAbqm9I8/hqdefault.jpg"
-        },
-        {
-            "video_id": "sJyH4FGT0Wg",
-            "title": "200만 유튜버가 구독자들 몰래 차린 식당에서 최고 매출 내드리고 왔습니다🔥 (with.보물섬-현석님, 재넌)",
-            "channel_name": "유노-Yuno",
-            "category": "People & Blogs",
-            "duration": "15:19",
-            "view_count": "639074",
-            "thumbnail_url": "https://i.ytimg.com/vi/sJyH4FGT0Wg/hqdefault.jpg"
-        },
-        {
-            "video_id": "Ao2uMvAvdkE",
-            "title": "여기서 이러는 사람들은 너희뿐이야",
-            "channel_name": "김아내",
-            "category": "People & Blogs",
-            "duration": "11:26",
-            "view_count": "135829",
-            "thumbnail_url": "https://i.ytimg.com/vi/Ao2uMvAvdkE/hqdefault.jpg"
         }
     ]
 }
