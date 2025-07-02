@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-07-02 23:13:49",
+    "scraped_time": "2025-07-03 00:15:02",
     "videos": [
         {
             "video_id": "Z1wIq4X2Ko0",
@@ -7,7 +7,7 @@
             "channel_name": "TEO 테오",
             "category": "Entertainment",
             "duration": "38:15",
-            "view_count": "764726",
+            "view_count": "782464",
             "thumbnail_url": "https://i.ytimg.com/vi/Z1wIq4X2Ko0/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "ENA 이엔에이",
             "category": "Entertainment",
             "duration": "15:45",
-            "view_count": "3522033",
+            "view_count": "3551166",
             "thumbnail_url": "https://i.ytimg.com/vi/80qpfeBklWc/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "BABYMONSTER",
             "category": "People & Blogs",
             "duration": "2:35",
-            "view_count": "11596431",
+            "view_count": "11984566",
             "thumbnail_url": "https://i.ytimg.com/vi/xn8mQqz2xmM/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "MBN MUSIC",
             "category": "Music",
             "duration": "3:02",
-            "view_count": "170513",
+            "view_count": "177054",
             "thumbnail_url": "https://i.ytimg.com/vi/gREizcLA6oM/hqdefault.jpg"
         },
         {
@@ -43,17 +43,8 @@
             "channel_name": "노마드션 No mad Shaun",
             "category": "Travel & Events",
             "duration": "36:15",
-            "view_count": "569748",
+            "view_count": "579696",
             "thumbnail_url": "https://i.ytimg.com/vi/Ji_Tm4NQq68/hqdefault.jpg"
-        },
-        {
-            "video_id": "8ZpL_uXnYGQ",
-            "title": "[#WSWF] 〈글로벌 아티스트 퍼포먼스 미션〉| BUMSUP(범접)",
-            "channel_name": "The CHOOM (더 춤)",
-            "category": "Entertainment",
-            "duration": "2:56",
-            "view_count": "1665857",
-            "thumbnail_url": "https://i.ytimg.com/vi/8ZpL_uXnYGQ/hqdefault.jpg"
         },
         {
             "video_id": "tirco8BBkVQ",
@@ -61,17 +52,17 @@
             "channel_name": "짠한형 신동엽",
             "category": "Entertainment",
             "duration": "51:03",
-            "view_count": "955351",
+            "view_count": "975037",
             "thumbnail_url": "https://i.ytimg.com/vi/tirco8BBkVQ/hqdefault.jpg"
         },
         {
-            "video_id": "EbxCy2GEPIs",
-            "title": "윤형빈 (YOON HYUNG-BIN) vs 밴쯔 (BANZZ) [FULL FIGHT] [굽네 ROAD FC 073]",
-            "channel_name": "ROAD FIGHTING CHAMPIONSHIP",
-            "category": "Sports",
-            "duration": "8:27",
-            "view_count": "1518901",
-            "thumbnail_url": "https://i.ytimg.com/vi/EbxCy2GEPIs/hqdefault.jpg"
+            "video_id": "8ZpL_uXnYGQ",
+            "title": "[#WSWF] 〈글로벌 아티스트 퍼포먼스 미션〉| BUMSUP(범접)",
+            "channel_name": "The CHOOM (더 춤)",
+            "category": "Entertainment",
+            "duration": "2:56",
+            "view_count": "1734428",
+            "thumbnail_url": "https://i.ytimg.com/vi/8ZpL_uXnYGQ/hqdefault.jpg"
         },
         {
             "video_id": "fZH6FOaZYq4",
@@ -79,8 +70,17 @@
             "channel_name": "땅끝마을 임선생",
             "category": "Howto & Style",
             "duration": "7:01",
-            "view_count": "140476",
+            "view_count": "142956",
             "thumbnail_url": "https://i.ytimg.com/vi/fZH6FOaZYq4/hqdefault.jpg"
+        },
+        {
+            "video_id": "EbxCy2GEPIs",
+            "title": "윤형빈 (YOON HYUNG-BIN) vs 밴쯔 (BANZZ) [FULL FIGHT] [굽네 ROAD FC 073]",
+            "channel_name": "ROAD FIGHTING CHAMPIONSHIP",
+            "category": "Sports",
+            "duration": "8:27",
+            "view_count": "1522306",
+            "thumbnail_url": "https://i.ytimg.com/vi/EbxCy2GEPIs/hqdefault.jpg"
         },
         {
             "video_id": "q3NQlrduBdE",
@@ -88,17 +88,8 @@
             "channel_name": "BOYNEXTDOOR",
             "category": "Music",
             "duration": "29:09",
-            "view_count": "337725",
+            "view_count": "344547",
             "thumbnail_url": "https://i.ytimg.com/vi/q3NQlrduBdE/hqdefault.jpg"
-        },
-        {
-            "video_id": "katO8j29gJw",
-            "title": "ALLDAY PROJECT - FAMOUS | SBS 250629 방송",
-            "channel_name": "SBSKPOP X INKIGAYO",
-            "category": "Entertainment",
-            "duration": "3:25",
-            "view_count": "1198464",
-            "thumbnail_url": "https://i.ytimg.com/vi/katO8j29gJw/hqdefault.jpg"
         },
         {
             "video_id": "-DYg4IjGLUk",
@@ -106,8 +97,17 @@
             "channel_name": "The CHOOM (더 춤)",
             "category": "Entertainment",
             "duration": "2:55",
-            "view_count": "1506908",
+            "view_count": "1566265",
             "thumbnail_url": "https://i.ytimg.com/vi/-DYg4IjGLUk/hqdefault.jpg"
+        },
+        {
+            "video_id": "katO8j29gJw",
+            "title": "ALLDAY PROJECT - FAMOUS | SBS 250629 방송",
+            "channel_name": "SBSKPOP X INKIGAYO",
+            "category": "Entertainment",
+            "duration": "3:25",
+            "view_count": "1205008",
+            "thumbnail_url": "https://i.ytimg.com/vi/katO8j29gJw/hqdefault.jpg"
         },
         {
             "video_id": "zN8K_uE1LYg",
@@ -115,17 +115,8 @@
             "channel_name": "AniplusTV",
             "category": "Film & Animation",
             "duration": "1:31",
-            "view_count": "190777",
+            "view_count": "194659",
             "thumbnail_url": "https://i.ytimg.com/vi/zN8K_uE1LYg/hqdefault.jpg"
-        },
-        {
-            "video_id": "LSZEAUi0mRY",
-            "title": "🆕 [#어둑시니Pick 시즌5] 연천 폐온천 한밤 기이한 풍덩 소리 ＂여기 맞아.. 여기 맞다고..!!＂ #심야괴담회 #심괴 #어둑시니 MBC250629방송",
-            "channel_name": "MBC 미스터리 : 심야괴담회 X 서프라이즈",
-            "category": "Entertainment",
-            "duration": "17:22",
-            "view_count": "252246",
-            "thumbnail_url": "https://i.ytimg.com/vi/LSZEAUi0mRY/hqdefault.jpg"
         },
         {
             "video_id": "da68UOXfQ_s",
@@ -133,8 +124,17 @@
             "channel_name": "The CHOOM (더 춤)",
             "category": "Entertainment",
             "duration": "3:01",
-            "view_count": "1408040",
+            "view_count": "1456893",
             "thumbnail_url": "https://i.ytimg.com/vi/da68UOXfQ_s/hqdefault.jpg"
+        },
+        {
+            "video_id": "LSZEAUi0mRY",
+            "title": "🆕 [#어둑시니Pick 시즌5] 연천 폐온천 한밤 기이한 풍덩 소리 ＂여기 맞아.. 여기 맞다고..!!＂ #심야괴담회 #심괴 #어둑시니 MBC250629방송",
+            "channel_name": "MBC 미스터리 : 심야괴담회 X 서프라이즈",
+            "category": "Entertainment",
+            "duration": "17:22",
+            "view_count": "255210",
+            "thumbnail_url": "https://i.ytimg.com/vi/LSZEAUi0mRY/hqdefault.jpg"
         },
         {
             "video_id": "EGl-C6VZvDg",
@@ -142,7 +142,7 @@
             "channel_name": "이 남자의 cook",
             "category": "Howto & Style",
             "duration": "1:43",
-            "view_count": "79441",
+            "view_count": "82144",
             "thumbnail_url": "https://i.ytimg.com/vi/EGl-C6VZvDg/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:10",
-            "view_count": "27179083",
+            "view_count": "27278867",
             "thumbnail_url": "https://i.ytimg.com/vi/M2WTUoy4y6E/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "tvN SPORTS",
             "category": "Sports",
             "duration": "16:39",
-            "view_count": "1567494",
+            "view_count": "1569742",
             "thumbnail_url": "https://i.ytimg.com/vi/4J7EqOB9sTo/hqdefault.jpg"
         },
         {
@@ -169,17 +169,8 @@
             "channel_name": "sogyo table 소교식탁TV",
             "category": "People & Blogs",
             "duration": "5:06",
-            "view_count": "249310",
+            "view_count": "253376",
             "thumbnail_url": "https://i.ytimg.com/vi/rp5hC_1oNnU/hqdefault.jpg"
-        },
-        {
-            "video_id": "4Xoko2oDMOY",
-            "title": "[ROAD FC 073] 윤형빈 vs 밴쯔 하이라이트 (06.28)",
-            "channel_name": "SPOTV",
-            "category": "Sports",
-            "duration": "8:40",
-            "view_count": "1748388",
-            "thumbnail_url": "https://i.ytimg.com/vi/4Xoko2oDMOY/hqdefault.jpg"
         },
         {
             "video_id": "j69-8ig0Cic",
@@ -187,8 +178,17 @@
             "channel_name": "여단오_yeodano",
             "category": "People & Blogs",
             "duration": "24:27",
-            "view_count": "248597",
+            "view_count": "250116",
             "thumbnail_url": "https://i.ytimg.com/vi/j69-8ig0Cic/hqdefault.jpg"
+        },
+        {
+            "video_id": "4Xoko2oDMOY",
+            "title": "[ROAD FC 073] 윤형빈 vs 밴쯔 하이라이트 (06.28)",
+            "channel_name": "SPOTV",
+            "category": "Sports",
+            "duration": "8:40",
+            "view_count": "1750107",
+            "thumbnail_url": "https://i.ytimg.com/vi/4Xoko2oDMOY/hqdefault.jpg"
         },
         {
             "video_id": "JVBS0hfq7JA",
@@ -196,7 +196,7 @@
             "channel_name": "미연zip MIYEON ",
             "category": "Entertainment",
             "duration": "38:05",
-            "view_count": "155298",
+            "view_count": "158859",
             "thumbnail_url": "https://i.ytimg.com/vi/JVBS0hfq7JA/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "SBS Radio 에라오",
             "category": "Music",
             "duration": "2:50",
-            "view_count": "794130",
+            "view_count": "800221",
             "thumbnail_url": "https://i.ytimg.com/vi/crMU6ftjGe0/hqdefault.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "channel_name": "MBCkpop",
             "category": "Music",
             "duration": "3:13",
-            "view_count": "1949932",
+            "view_count": "1958917",
             "thumbnail_url": "https://i.ytimg.com/vi/JYUkm-a-c6A/hqdefault.jpg"
         },
         {
@@ -223,7 +223,7 @@
             "channel_name": "슛포러브",
             "category": "Sports",
             "duration": "17:23",
-            "view_count": "873591",
+            "view_count": "880099",
             "thumbnail_url": "https://i.ytimg.com/vi/gw-SHEEksNE/hqdefault.jpg"
         },
         {
@@ -232,7 +232,7 @@
             "channel_name": "웃고리즘",
             "category": "Comedy",
             "duration": "6:49",
-            "view_count": "638572",
+            "view_count": "650292",
             "thumbnail_url": "https://i.ytimg.com/vi/sSKYKgTdi34/hqdefault.jpg"
         },
         {
@@ -241,7 +241,7 @@
             "channel_name": "초코우유 Chocouyu",
             "category": "Travel & Events",
             "duration": "12:12",
-            "view_count": "160478",
+            "view_count": "161438",
             "thumbnail_url": "https://i.ytimg.com/vi/lBXoYRaaRJw/hqdefault.jpg"
         },
         {
@@ -250,7 +250,7 @@
             "channel_name": "타일러 볼까요?",
             "category": "Education",
             "duration": "15:15",
-            "view_count": "259915",
+            "view_count": "263866",
             "thumbnail_url": "https://i.ytimg.com/vi/AN1-HonwJeY/hqdefault.jpg"
         },
         {
@@ -259,7 +259,7 @@
             "channel_name": "양장금주부",
             "category": "Howto & Style",
             "duration": "5:21",
-            "view_count": "497948",
+            "view_count": "499343",
             "thumbnail_url": "https://i.ytimg.com/vi/sljZmiEHlAU/hqdefault.jpg"
         },
         {
@@ -268,7 +268,7 @@
             "channel_name": "딸을 위한 레시피 Recipes for daughters",
             "category": "Howto & Style",
             "duration": "4:43",
-            "view_count": "329400",
+            "view_count": "331377",
             "thumbnail_url": "https://i.ytimg.com/vi/1ej3oSnd2Mw/hqdefault.jpg"
         },
         {
@@ -277,7 +277,7 @@
             "channel_name": "SBSKPOP X INKIGAYO",
             "category": "Entertainment",
             "duration": "2:58",
-            "view_count": "822666",
+            "view_count": "826572",
             "thumbnail_url": "https://i.ytimg.com/vi/0xtCZrITyak/hqdefault.jpg"
         },
         {
@@ -286,17 +286,8 @@
             "channel_name": "소피아패밀리(Sophia family)",
             "category": "People & Blogs",
             "duration": "17:49",
-            "view_count": "308407",
+            "view_count": "310125",
             "thumbnail_url": "https://i.ytimg.com/vi/OB7CR-COHqI/hqdefault.jpg"
-        },
-        {
-            "video_id": "F4cHG-Dlql0",
-            "title": "오가 오천리 사는! 이장순 씨의 평행선 + 니나노 [전국 노래자랑/Korea Sings] | KBS 250629 방송",
-            "channel_name": "KBS 레전드 케이팝",
-            "category": "Music",
-            "duration": "10:14",
-            "view_count": "394909",
-            "thumbnail_url": "https://i.ytimg.com/vi/F4cHG-Dlql0/hqdefault.jpg"
         },
         {
             "video_id": "VoqFtV2F5p4",
@@ -304,8 +295,17 @@
             "channel_name": "김키미kimmy kim",
             "category": "Entertainment",
             "duration": "19:23",
-            "view_count": "330364",
+            "view_count": "334649",
             "thumbnail_url": "https://i.ytimg.com/vi/VoqFtV2F5p4/hqdefault.jpg"
+        },
+        {
+            "video_id": "F4cHG-Dlql0",
+            "title": "오가 오천리 사는! 이장순 씨의 평행선 + 니나노 [전국 노래자랑/Korea Sings] | KBS 250629 방송",
+            "channel_name": "KBS 레전드 케이팝",
+            "category": "Music",
+            "duration": "10:14",
+            "view_count": "401213",
+            "thumbnail_url": "https://i.ytimg.com/vi/F4cHG-Dlql0/hqdefault.jpg"
         },
         {
             "video_id": "exjVTKXNuSk",
@@ -313,17 +313,8 @@
             "channel_name": "이영자 TV",
             "category": "People & Blogs",
             "duration": "18:28",
-            "view_count": "422449",
+            "view_count": "423885",
             "thumbnail_url": "https://i.ytimg.com/vi/exjVTKXNuSk/hqdefault.jpg"
-        },
-        {
-            "video_id": "NQHyHuj5Uys",
-            "title": "[나혼자산다] 누가 조식을 8인분이나 먹어요ㅋㅋㅋㅋ🤣 녹진한 카이막의 美친 맛에 먹신 강림한 이장우🌴 | #전현무 #박나래 #이장우 #팜유 MBC250627방송",
-            "channel_name": "엠뚜루마뚜루 : MBC 공식 종합 채널",
-            "category": "Entertainment",
-            "duration": "17:26",
-            "view_count": "858498",
-            "thumbnail_url": "https://i.ytimg.com/vi/NQHyHuj5Uys/hqdefault.jpg"
         },
         {
             "video_id": "akl_j4YfEqU",
@@ -331,8 +322,17 @@
             "channel_name": "ENA 이엔에이",
             "category": "Entertainment",
             "duration": "14:01",
-            "view_count": "977476",
+            "view_count": "986084",
             "thumbnail_url": "https://i.ytimg.com/vi/akl_j4YfEqU/hqdefault.jpg"
+        },
+        {
+            "video_id": "NQHyHuj5Uys",
+            "title": "[나혼자산다] 누가 조식을 8인분이나 먹어요ㅋㅋㅋㅋ🤣 녹진한 카이막의 美친 맛에 먹신 강림한 이장우🌴 | #전현무 #박나래 #이장우 #팜유 MBC250627방송",
+            "channel_name": "엠뚜루마뚜루 : MBC 공식 종합 채널",
+            "category": "Entertainment",
+            "duration": "17:26",
+            "view_count": "862344",
+            "thumbnail_url": "https://i.ytimg.com/vi/NQHyHuj5Uys/hqdefault.jpg"
         },
         {
             "video_id": "UpQaDt1X8Pk",
@@ -340,17 +340,8 @@
             "channel_name": "kiu기우쌤",
             "category": "Howto & Style",
             "duration": "14:29",
-            "view_count": "273064",
+            "view_count": "278062",
             "thumbnail_url": "https://i.ytimg.com/vi/UpQaDt1X8Pk/hqdefault.jpg"
-        },
-        {
-            "video_id": "-ZZfsK32sJQ",
-            "title": "에스파 vs 에스피에이엠! 참지 않는 닝닝이 이번에도 참지 않는 토크쇼 | 딱대 EP40 닝닝 from 에스파(aespa)",
-            "channel_name": "빠더너스 BDNS",
-            "category": "Comedy",
-            "duration": "28:54",
-            "view_count": "1353666",
-            "thumbnail_url": "https://i.ytimg.com/vi/-ZZfsK32sJQ/hqdefault.jpg"
         },
         {
             "video_id": "f8d8RfvF-lM",
@@ -358,8 +349,17 @@
             "channel_name": "CKOONY",
             "category": "Entertainment",
             "duration": "13:02",
-            "view_count": "284148",
+            "view_count": "286520",
             "thumbnail_url": "https://i.ytimg.com/vi/f8d8RfvF-lM/hqdefault.jpg"
+        },
+        {
+            "video_id": "-ZZfsK32sJQ",
+            "title": "에스파 vs 에스피에이엠! 참지 않는 닝닝이 이번에도 참지 않는 토크쇼 | 딱대 EP40 닝닝 from 에스파(aespa)",
+            "channel_name": "빠더너스 BDNS",
+            "category": "Comedy",
+            "duration": "28:54",
+            "view_count": "1362718",
+            "thumbnail_url": "https://i.ytimg.com/vi/-ZZfsK32sJQ/hqdefault.jpg"
         },
         {
             "video_id": "M7UQdamDf8U",
@@ -367,7 +367,7 @@
             "channel_name": "픽고 PICKGO",
             "category": "Entertainment",
             "duration": "10:15",
-            "view_count": "723174",
+            "view_count": "725141",
             "thumbnail_url": "https://i.ytimg.com/vi/M7UQdamDf8U/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "보물섬",
             "category": "Comedy",
             "duration": "36:49",
-            "view_count": "679357",
+            "view_count": "684534",
             "thumbnail_url": "https://i.ytimg.com/vi/0F1ybPfoLbQ/hqdefault.jpg"
         }
     ]
