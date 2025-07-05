@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-07-05 16:12:47",
+    "scraped_time": "2025-07-05 17:17:18",
     "videos": [
         {
             "video_id": "BZQVZamC7q4",
@@ -7,7 +7,7 @@
             "channel_name": "M2",
             "category": "Entertainment",
             "duration": "6:23",
-            "view_count": "1296398",
+            "view_count": "1309783",
             "thumbnail_url": "https://i.ytimg.com/vi/BZQVZamC7q4/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "너덜트",
             "category": "Comedy",
             "duration": "19:22",
-            "view_count": "898737",
+            "view_count": "912612",
             "thumbnail_url": "https://i.ytimg.com/vi/-FOIB76ZksQ/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "임영웅",
             "category": "Music",
             "duration": "2:20",
-            "view_count": "554214",
+            "view_count": "564148",
             "thumbnail_url": "https://i.ytimg.com/vi/-2UChG-X1Bk/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "정동원(JD1)",
             "category": "Entertainment",
             "duration": "19:14",
-            "view_count": "519156",
+            "view_count": "525226",
             "thumbnail_url": "https://i.ytimg.com/vi/DkWH0i9iVtM/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "찰스엔터",
             "category": "People & Blogs",
             "duration": "17:10",
-            "view_count": "1130266",
+            "view_count": "1136467",
             "thumbnail_url": "https://i.ytimg.com/vi/vlPv--1Gnxc/hqdefault.jpg"
         },
         {
@@ -52,17 +52,8 @@
             "channel_name": "BLACKPINK",
             "category": "Music",
             "duration": "0:18",
-            "view_count": "1975934",
+            "view_count": "2054098",
             "thumbnail_url": "https://i.ytimg.com/vi/j6tqePTqU8A/hqdefault.jpg"
-        },
-        {
-            "video_id": "l0E1Px2-E00",
-            "title": "새 집 첫 집들이를 사돈들이랑 한다면?",
-            "channel_name": "순자엄마",
-            "category": "People & Blogs",
-            "duration": "26:58",
-            "view_count": "524133",
-            "thumbnail_url": "https://i.ytimg.com/vi/l0E1Px2-E00/hqdefault.jpg"
         },
         {
             "video_id": "pprQ5c5VYlM",
@@ -70,8 +61,17 @@
             "channel_name": "Mnet K-POP",
             "category": "Entertainment",
             "duration": "5:29",
-            "view_count": "2208745",
+            "view_count": "2226308",
             "thumbnail_url": "https://i.ytimg.com/vi/pprQ5c5VYlM/hqdefault.jpg"
+        },
+        {
+            "video_id": "l0E1Px2-E00",
+            "title": "새 집 첫 집들이를 사돈들이랑 한다면?",
+            "channel_name": "순자엄마",
+            "category": "People & Blogs",
+            "duration": "26:58",
+            "view_count": "529724",
+            "thumbnail_url": "https://i.ytimg.com/vi/l0E1Px2-E00/hqdefault.jpg"
         },
         {
             "video_id": "t2UKvttEfnY",
@@ -79,7 +79,7 @@
             "channel_name": "골 때리는 그녀들 Shooting Stars",
             "category": "Entertainment",
             "duration": "23:31",
-            "view_count": "602662",
+            "view_count": "605230",
             "thumbnail_url": "https://i.ytimg.com/vi/t2UKvttEfnY/hqdefault.jpg"
         },
         {
@@ -88,17 +88,8 @@
             "channel_name": "원지의하루",
             "category": "People & Blogs",
             "duration": "24:48",
-            "view_count": "403995",
+            "view_count": "411187",
             "thumbnail_url": "https://i.ytimg.com/vi/UBUa16-gSXM/hqdefault.jpg"
-        },
-        {
-            "video_id": "WdHz7LJTYdM",
-            "title": "[#유퀴즈온더블럭] 신인만 떴다 하면 ‘이효리 비켜~!’하던 그 시절🤣 데뷔 28년 차에도 비킬 기미가 안 보이는 슈퍼스타 이효리✨",
-            "channel_name": "디글 :Diggle",
-            "category": "Entertainment",
-            "duration": "17:47",
-            "view_count": "975613",
-            "thumbnail_url": "https://i.ytimg.com/vi/WdHz7LJTYdM/hqdefault.jpg"
         },
         {
             "video_id": "sv4uy0u-sPk",
@@ -106,8 +97,17 @@
             "channel_name": "감스트GAMST",
             "category": "People & Blogs",
             "duration": "8:29",
-            "view_count": "1641252",
+            "view_count": "1653185",
             "thumbnail_url": "https://i.ytimg.com/vi/sv4uy0u-sPk/hqdefault.jpg"
+        },
+        {
+            "video_id": "WdHz7LJTYdM",
+            "title": "[#유퀴즈온더블럭] 신인만 떴다 하면 ‘이효리 비켜~!’하던 그 시절🤣 데뷔 28년 차에도 비킬 기미가 안 보이는 슈퍼스타 이효리✨",
+            "channel_name": "디글 :Diggle",
+            "category": "Entertainment",
+            "duration": "17:47",
+            "view_count": "983041",
+            "thumbnail_url": "https://i.ytimg.com/vi/WdHz7LJTYdM/hqdefault.jpg"
         },
         {
             "video_id": "xQ1Ixq1MV9o",
@@ -115,7 +115,7 @@
             "channel_name": "180초",
             "category": "Comedy",
             "duration": "10:46",
-            "view_count": "1031107",
+            "view_count": "1037958",
             "thumbnail_url": "https://i.ytimg.com/vi/xQ1Ixq1MV9o/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "TVING",
             "category": "Entertainment",
             "duration": "31:40",
-            "view_count": "847524",
+            "view_count": "855031",
             "thumbnail_url": "https://i.ytimg.com/vi/NDYpoWIwmFc/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "TEO 테오",
             "category": "Entertainment",
             "duration": "38:15",
-            "view_count": "1226823",
+            "view_count": "1233627",
             "thumbnail_url": "https://i.ytimg.com/vi/Z1wIq4X2Ko0/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "나래식",
             "category": "Entertainment",
             "duration": "29:04",
-            "view_count": "839594",
+            "view_count": "846720",
             "thumbnail_url": "https://i.ytimg.com/vi/FEOmPfulP0k/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "터틀이주미",
             "category": "People & Blogs",
             "duration": "24:16",
-            "view_count": "425113",
+            "view_count": "431758",
             "thumbnail_url": "https://i.ytimg.com/vi/-vdsHsCkTJ4/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "밴쯔",
             "category": "Entertainment",
             "duration": "1:47",
-            "view_count": "983291",
+            "view_count": "989019",
             "thumbnail_url": "https://i.ytimg.com/vi/BqLoczjNStQ/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "우와한 비디오",
             "category": "People & Blogs",
             "duration": "14:58",
-            "view_count": "831641",
+            "view_count": "847584",
             "thumbnail_url": "https://i.ytimg.com/vi/nlzmvsbfuBM/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "ootb STUDIO",
             "category": "Entertainment",
             "duration": "29:58",
-            "view_count": "876522",
+            "view_count": "894062",
             "thumbnail_url": "https://i.ytimg.com/vi/nVJIIWdwx60/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "함께해요 맛나요리",
             "category": "Howto & Style",
             "duration": "6:13",
-            "view_count": "679055",
+            "view_count": "681033",
             "thumbnail_url": "https://i.ytimg.com/vi/RqEacZsLZY8/hqdefault.jpg"
         },
         {
@@ -196,17 +196,8 @@
             "channel_name": "휘토피아 htopia",
             "category": "Travel & Events",
             "duration": "53:41",
-            "view_count": "384304",
+            "view_count": "386268",
             "thumbnail_url": "https://i.ytimg.com/vi/qRKqZ1wyM2Q/hqdefault.jpg"
-        },
-        {
-            "video_id": "xn8mQqz2xmM",
-            "title": "BABYMONSTER - ‘HOT SAUCE’ M/V",
-            "channel_name": "BABYMONSTER",
-            "category": "People & Blogs",
-            "duration": "2:35",
-            "view_count": "27867872",
-            "thumbnail_url": "https://i.ytimg.com/vi/xn8mQqz2xmM/hqdefault.jpg"
         },
         {
             "video_id": "0vtzevXxW8o",
@@ -214,8 +205,17 @@
             "channel_name": "이넉살",
             "category": "Howto & Style",
             "duration": "24:28",
-            "view_count": "402649",
+            "view_count": "410356",
             "thumbnail_url": "https://i.ytimg.com/vi/0vtzevXxW8o/hqdefault.jpg"
+        },
+        {
+            "video_id": "xn8mQqz2xmM",
+            "title": "BABYMONSTER - ‘HOT SAUCE’ M/V",
+            "channel_name": "BABYMONSTER",
+            "category": "People & Blogs",
+            "duration": "2:35",
+            "view_count": "28221414",
+            "thumbnail_url": "https://i.ytimg.com/vi/xn8mQqz2xmM/hqdefault.jpg"
         },
         {
             "video_id": "c24AxOF-iqE",
@@ -223,17 +223,8 @@
             "channel_name": "스브스 예능맛집",
             "category": "Entertainment",
             "duration": "7:34",
-            "view_count": "492326",
+            "view_count": "494292",
             "thumbnail_url": "https://i.ytimg.com/vi/c24AxOF-iqE/hqdefault.jpg"
-        },
-        {
-            "video_id": "80qpfeBklWc",
-            "title": "[SUB] 사회의 쓴맛을 본 사랑이의 눈물💦 오열하는 딸의 모습에 같이 울컥한 야노 시호 #내아이의사생활 EP.27",
-            "channel_name": "ENA 이엔에이",
-            "category": "Entertainment",
-            "duration": "15:45",
-            "view_count": "4149907",
-            "thumbnail_url": "https://i.ytimg.com/vi/80qpfeBklWc/hqdefault.jpg"
         },
         {
             "video_id": "IskBwYNMfaM",
@@ -241,8 +232,17 @@
             "channel_name": "덱스101",
             "category": "People & Blogs",
             "duration": "26:22",
-            "view_count": "289977",
+            "view_count": "293484",
             "thumbnail_url": "https://i.ytimg.com/vi/IskBwYNMfaM/hqdefault.jpg"
+        },
+        {
+            "video_id": "80qpfeBklWc",
+            "title": "[SUB] 사회의 쓴맛을 본 사랑이의 눈물💦 오열하는 딸의 모습에 같이 울컥한 야노 시호 #내아이의사생활 EP.27",
+            "channel_name": "ENA 이엔에이",
+            "category": "Entertainment",
+            "duration": "15:45",
+            "view_count": "4156456",
+            "thumbnail_url": "https://i.ytimg.com/vi/80qpfeBklWc/hqdefault.jpg"
         },
         {
             "video_id": "tirco8BBkVQ",
@@ -250,7 +250,7 @@
             "channel_name": "짠한형 신동엽",
             "category": "Entertainment",
             "duration": "51:03",
-            "view_count": "1371969",
+            "view_count": "1378284",
             "thumbnail_url": "https://i.ytimg.com/vi/tirco8BBkVQ/hqdefault.jpg"
         },
         {
@@ -259,7 +259,7 @@
             "channel_name": "멜봉 네덜란드 MelBong",
             "category": "People & Blogs",
             "duration": "14:01",
-            "view_count": "241481",
+            "view_count": "244631",
             "thumbnail_url": "https://i.ytimg.com/vi/z277l7ohyAc/hqdefault.jpg"
         },
         {
@@ -268,7 +268,7 @@
             "channel_name": "The CHOOM (더 춤)",
             "category": "Entertainment",
             "duration": "2:56",
-            "view_count": "2785696",
+            "view_count": "2795638",
             "thumbnail_url": "https://i.ytimg.com/vi/8ZpL_uXnYGQ/hqdefault.jpg"
         },
         {
@@ -277,7 +277,7 @@
             "channel_name": "혜진쓰 Hyejin's",
             "category": "People & Blogs",
             "duration": "19:04",
-            "view_count": "573054",
+            "view_count": "576034",
             "thumbnail_url": "https://i.ytimg.com/vi/Ci0bwGzNWKg/hqdefault.jpg"
         },
         {
@@ -286,7 +286,7 @@
             "channel_name": "AniplusTV",
             "category": "Film & Animation",
             "duration": "1:31",
-            "view_count": "352847",
+            "view_count": "356780",
             "thumbnail_url": "https://i.ytimg.com/vi/zN8K_uE1LYg/hqdefault.jpg"
         },
         {
@@ -295,7 +295,7 @@
             "channel_name": "김나영의 nofilterTV(노필터티비)",
             "category": "People & Blogs",
             "duration": "15:45",
-            "view_count": "197018",
+            "view_count": "197980",
             "thumbnail_url": "https://i.ytimg.com/vi/yQuFmTIr7Ek/hqdefault.jpg"
         },
         {
@@ -304,7 +304,7 @@
             "channel_name": "Jaehee 재희",
             "category": "People & Blogs",
             "duration": "16:30",
-            "view_count": "274901",
+            "view_count": "278509",
             "thumbnail_url": "https://i.ytimg.com/vi/LC5LerLvaMc/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "The CHOOM (더 춤)",
             "category": "Entertainment",
             "duration": "2:55",
-            "view_count": "2646616",
+            "view_count": "2665586",
             "thumbnail_url": "https://i.ytimg.com/vi/-DYg4IjGLUk/hqdefault.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "channel_name": "땅끝마을 임선생",
             "category": "Howto & Style",
             "duration": "7:01",
-            "view_count": "182822",
+            "view_count": "183298",
             "thumbnail_url": "https://i.ytimg.com/vi/fZH6FOaZYq4/hqdefault.jpg"
         },
         {
@@ -331,17 +331,8 @@
             "channel_name": "The CHOOM (더 춤)",
             "category": "Entertainment",
             "duration": "3:01",
-            "view_count": "2433931",
+            "view_count": "2446802",
             "thumbnail_url": "https://i.ytimg.com/vi/da68UOXfQ_s/hqdefault.jpg"
-        },
-        {
-            "video_id": "Ji_Tm4NQq68",
-            "title": "여동생과 단둘이 3박4일 울릉도 여행하기 - 울릉도",
-            "channel_name": "노마드션 No mad Shaun",
-            "category": "Travel & Events",
-            "duration": "36:15",
-            "view_count": "751662",
-            "thumbnail_url": "https://i.ytimg.com/vi/Ji_Tm4NQq68/hqdefault.jpg"
         },
         {
             "video_id": "JVBS0hfq7JA",
@@ -349,8 +340,17 @@
             "channel_name": "미연zip MIYEON ",
             "category": "Entertainment",
             "duration": "38:05",
-            "view_count": "249339",
+            "view_count": "250801",
             "thumbnail_url": "https://i.ytimg.com/vi/JVBS0hfq7JA/hqdefault.jpg"
+        },
+        {
+            "video_id": "Ji_Tm4NQq68",
+            "title": "여동생과 단둘이 3박4일 울릉도 여행하기 - 울릉도",
+            "channel_name": "노마드션 No mad Shaun",
+            "category": "Travel & Events",
+            "duration": "36:15",
+            "view_count": "754555",
+            "thumbnail_url": "https://i.ytimg.com/vi/Ji_Tm4NQq68/hqdefault.jpg"
         },
         {
             "video_id": "EGl-C6VZvDg",
@@ -358,7 +358,7 @@
             "channel_name": "이 남자의 cook",
             "category": "Howto & Style",
             "duration": "1:43",
-            "view_count": "120310",
+            "view_count": "120580",
             "thumbnail_url": "https://i.ytimg.com/vi/EGl-C6VZvDg/hqdefault.jpg"
         },
         {
@@ -367,7 +367,7 @@
             "channel_name": "sogyo table 소교식탁TV",
             "category": "People & Blogs",
             "duration": "5:06",
-            "view_count": "315491",
+            "view_count": "315865",
             "thumbnail_url": "https://i.ytimg.com/vi/rp5hC_1oNnU/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "여단오_yeodano",
             "category": "People & Blogs",
             "duration": "24:27",
-            "view_count": "291381",
+            "view_count": "292073",
             "thumbnail_url": "https://i.ytimg.com/vi/j69-8ig0Cic/hqdefault.jpg"
         }
     ]
