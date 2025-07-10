@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-07-10 12:17:54",
+    "scraped_time": "2025-07-10 13:27:07",
     "videos": [
         {
             "video_id": "naPNQAbGsPs",
@@ -7,7 +7,7 @@
             "channel_name": "KODE 코드",
             "category": "Entertainment",
             "duration": "26:08",
-            "view_count": "404191",
+            "view_count": "421248",
             "thumbnail_url": "https://i.ytimg.com/vi/naPNQAbGsPs/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "짠한형 신동엽",
             "category": "Entertainment",
             "duration": "51:00",
-            "view_count": "1087532",
+            "view_count": "1095243",
             "thumbnail_url": "https://i.ytimg.com/vi/3CSoZyJJaQY/hqdefault.jpg"
         },
         {
@@ -25,17 +25,8 @@
             "channel_name": "쿠팡플레이 스포츠",
             "category": "Sports",
             "duration": "10:59",
-            "view_count": "1553802",
+            "view_count": "1558070",
             "thumbnail_url": "https://i.ytimg.com/vi/txOn0Y_WGYs/hqdefault.jpg"
-        },
-        {
-            "video_id": "BJv2uKk0pQQ",
-            "title": "재입대했습니다",
-            "channel_name": "충주시",
-            "category": "알 수 없음",
-            "duration": "8:47",
-            "view_count": "925822",
-            "thumbnail_url": "https://i.ytimg.com/vi/BJv2uKk0pQQ/hqdefault.jpg"
         },
         {
             "video_id": "ooaQjgmz08I",
@@ -43,8 +34,17 @@
             "channel_name": "총몇명",
             "category": "Film & Animation",
             "duration": "4:43",
-            "view_count": "673569",
+            "view_count": "685344",
             "thumbnail_url": "https://i.ytimg.com/vi/ooaQjgmz08I/hqdefault.jpg"
+        },
+        {
+            "video_id": "BJv2uKk0pQQ",
+            "title": "재입대했습니다",
+            "channel_name": "충주시",
+            "category": "알 수 없음",
+            "duration": "8:47",
+            "view_count": "931750",
+            "thumbnail_url": "https://i.ytimg.com/vi/BJv2uKk0pQQ/hqdefault.jpg"
         },
         {
             "video_id": "yxi-It_od_k",
@@ -52,7 +52,7 @@
             "channel_name": "김진짜 Real KIM",
             "category": "Sports",
             "duration": "12:31",
-            "view_count": "372325",
+            "view_count": "374398",
             "thumbnail_url": "https://i.ytimg.com/vi/yxi-It_od_k/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "유 퀴즈 온 더 튜브",
             "category": "Entertainment",
             "duration": "2:01",
-            "view_count": "906077",
+            "view_count": "921725",
             "thumbnail_url": "https://i.ytimg.com/vi/zY46Bk9RBBI/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "TEO 테오",
             "category": "Entertainment",
             "duration": "36:16",
-            "view_count": "420175",
+            "view_count": "425486",
             "thumbnail_url": "https://i.ytimg.com/vi/ArowH8Skw0k/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "팔숙이 palsook",
             "category": "Howto & Style",
             "duration": "2:48",
-            "view_count": "358860",
+            "view_count": "360994",
             "thumbnail_url": "https://i.ytimg.com/vi/MAV6MWoG1qA/hqdefault.jpg"
         },
         {
@@ -88,7 +88,7 @@
             "channel_name": "BLACKPINK",
             "category": "Music",
             "duration": "0:31",
-            "view_count": "4859603",
+            "view_count": "4880314",
             "thumbnail_url": "https://i.ytimg.com/vi/VSlfs3s5mtk/hqdefault.jpg"
         },
         {
@@ -97,7 +97,7 @@
             "channel_name": "Mhz 므흐즈",
             "category": "Music",
             "duration": "2:42",
-            "view_count": "394374",
+            "view_count": "398162",
             "thumbnail_url": "https://i.ytimg.com/vi/w_c_M1H4XqM/hqdefault.jpg"
         },
         {
@@ -106,7 +106,7 @@
             "channel_name": "스포타임",
             "category": "Sports",
             "duration": "3:19",
-            "view_count": "1269675",
+            "view_count": "1270675",
             "thumbnail_url": "https://i.ytimg.com/vi/Ob6cgGUAPPA/hqdefault.jpg"
         },
         {
@@ -115,7 +115,7 @@
             "channel_name": "걍밍경",
             "category": "People & Blogs",
             "duration": "34:01",
-            "view_count": "1049967",
+            "view_count": "1053349",
             "thumbnail_url": "https://i.ytimg.com/vi/mw_WSY2Ro04/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "콜미진 callmejin",
             "category": "People & Blogs",
             "duration": "19:39",
-            "view_count": "293953",
+            "view_count": "295554",
             "thumbnail_url": "https://i.ytimg.com/vi/2_TwZ76eWx0/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "홍석천의 보석함 ",
             "category": "People & Blogs",
             "duration": "29:05",
-            "view_count": "363408",
+            "view_count": "366640",
             "thumbnail_url": "https://i.ytimg.com/vi/oBPZ_n0KDx4/hqdefault.jpg"
         },
         {
@@ -142,17 +142,8 @@
             "channel_name": "HUNTR/X - Topic",
             "category": "Music",
             "duration": "3:15",
-            "view_count": "6154067",
+            "view_count": "6211327",
             "thumbnail_url": "https://i.ytimg.com/vi/9_bTl2vvYQg/hqdefault.jpg"
-        },
-        {
-            "video_id": "P6PwUs7uVq0",
-            "title": "[SUB] 과감하게 안경 버린 사랑이의 당당한 워킹! 엄마 야노 시호의 필승 포즈까지 갓벽 소화✨ #내아이의사생활 EP.28",
-            "channel_name": "ENA 이엔에이",
-            "category": "Entertainment",
-            "duration": "8:30",
-            "view_count": "1148291",
-            "thumbnail_url": "https://i.ytimg.com/vi/P6PwUs7uVq0/hqdefault.jpg"
         },
         {
             "video_id": "SGqjLQZnluU",
@@ -160,8 +151,17 @@
             "channel_name": "파뿌리",
             "category": "Entertainment",
             "duration": "26:41",
-            "view_count": "475471",
+            "view_count": "479211",
             "thumbnail_url": "https://i.ytimg.com/vi/SGqjLQZnluU/hqdefault.jpg"
+        },
+        {
+            "video_id": "P6PwUs7uVq0",
+            "title": "[SUB] 과감하게 안경 버린 사랑이의 당당한 워킹! 엄마 야노 시호의 필승 포즈까지 갓벽 소화✨ #내아이의사생활 EP.28",
+            "channel_name": "ENA 이엔에이",
+            "category": "Entertainment",
+            "duration": "8:30",
+            "view_count": "1151084",
+            "thumbnail_url": "https://i.ytimg.com/vi/P6PwUs7uVq0/hqdefault.jpg"
         },
         {
             "video_id": "aIY1jJ8e_98",
@@ -169,7 +169,7 @@
             "channel_name": "EBSDocumentary (EBS 다큐)",
             "category": "Entertainment",
             "duration": "26:52",
-            "view_count": "958845",
+            "view_count": "963773",
             "thumbnail_url": "https://i.ytimg.com/vi/aIY1jJ8e_98/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "Mozzarella Girl & Oppa",
             "category": "Comedy",
             "duration": "33:32",
-            "view_count": "450893",
+            "view_count": "453310",
             "thumbnail_url": "https://i.ytimg.com/vi/g-QL6BE9X3U/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "요정재형",
             "category": "Entertainment",
             "duration": "57:36",
-            "view_count": "622520",
+            "view_count": "625065",
             "thumbnail_url": "https://i.ytimg.com/vi/R3AnAhBg7i4/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "엔조이커플enjoycouple",
             "category": "Entertainment",
             "duration": "9:30",
-            "view_count": "1298109",
+            "view_count": "1298707",
             "thumbnail_url": "https://i.ytimg.com/vi/vgaGrnQrIKI/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "소피아패밀리(Sophia family)",
             "category": "People & Blogs",
             "duration": "17:12",
-            "view_count": "301462",
+            "view_count": "301911",
             "thumbnail_url": "https://i.ytimg.com/vi/2zTDA_Z9TME/hqdefault.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "channel_name": "미란이네 알렉스",
             "category": "People & Blogs",
             "duration": "30:47",
-            "view_count": "248849",
+            "view_count": "252825",
             "thumbnail_url": "https://i.ytimg.com/vi/FDNSbZSj2EU/hqdefault.jpg"
         },
         {
@@ -223,7 +223,7 @@
             "channel_name": "BPM Entertainment",
             "category": "Entertainment",
             "duration": "3:11",
-            "view_count": "3213032",
+            "view_count": "3280823",
             "thumbnail_url": "https://i.ytimg.com/vi/gjHcbWTXqEY/hqdefault.jpg"
         },
         {
@@ -232,7 +232,7 @@
             "channel_name": "14F 일사에프",
             "category": "News & Politics",
             "duration": "2:18",
-            "view_count": "287774",
+            "view_count": "289617",
             "thumbnail_url": "https://i.ytimg.com/vi/H7Haf8G4hgY/hqdefault.jpg"
         },
         {
@@ -241,7 +241,7 @@
             "channel_name": "성시경 SUNG SI KYUNG",
             "category": "Entertainment",
             "duration": "32:05",
-            "view_count": "486396",
+            "view_count": "489676",
             "thumbnail_url": "https://i.ytimg.com/vi/dBjCfY2fKQc/hqdefault.jpg"
         },
         {
@@ -250,17 +250,8 @@
             "channel_name": "초코우유 Chocouyu",
             "category": "Travel & Events",
             "duration": "12:46",
-            "view_count": "198027",
+            "view_count": "198435",
             "thumbnail_url": "https://i.ytimg.com/vi/oHQKSgBHjWA/hqdefault.jpg"
-        },
-        {
-            "video_id": "FWAdfuPpLOc",
-            "title": "World's Fastest Car Vs Cheetah!",
-            "channel_name": "MrBeast",
-            "category": "Entertainment",
-            "duration": "20:37",
-            "view_count": "82115184",
-            "thumbnail_url": "https://i.ytimg.com/vi/FWAdfuPpLOc/hqdefault.jpg"
         },
         {
             "video_id": "LLV0uJHKHAI",
@@ -268,8 +259,17 @@
             "channel_name": "디글 클래식 :Diggle Classic",
             "category": "Entertainment",
             "duration": "17:25",
-            "view_count": "724863",
+            "view_count": "729742",
             "thumbnail_url": "https://i.ytimg.com/vi/LLV0uJHKHAI/hqdefault.jpg"
+        },
+        {
+            "video_id": "FWAdfuPpLOc",
+            "title": "World's Fastest Car Vs Cheetah!",
+            "channel_name": "MrBeast",
+            "category": "Entertainment",
+            "duration": "20:37",
+            "view_count": "82274289",
+            "thumbnail_url": "https://i.ytimg.com/vi/FWAdfuPpLOc/hqdefault.jpg"
         },
         {
             "video_id": "pOtAqTN42wU",
@@ -277,7 +277,7 @@
             "channel_name": "Tacosama 타코사마",
             "category": "People & Blogs",
             "duration": "28:32",
-            "view_count": "194002",
+            "view_count": "195469",
             "thumbnail_url": "https://i.ytimg.com/vi/pOtAqTN42wU/hqdefault.jpg"
         },
         {
@@ -286,7 +286,7 @@
             "channel_name": "방판뮤직 어디든 가요",
             "category": "Entertainment",
             "duration": "4:19",
-            "view_count": "478226",
+            "view_count": "481737",
             "thumbnail_url": "https://i.ytimg.com/vi/V7HS1-O2jeA/hqdefault.jpg"
         },
         {
@@ -295,7 +295,7 @@
             "channel_name": "SSG랜더스",
             "category": "Sports",
             "duration": "32:32",
-            "view_count": "135353",
+            "view_count": "135966",
             "thumbnail_url": "https://i.ytimg.com/vi/3SMCAMiWBDc/hqdefault.jpg"
         },
         {
@@ -304,7 +304,7 @@
             "channel_name": "컴퍼니수수 Company Soosoo",
             "category": "People & Blogs",
             "duration": "2:48",
-            "view_count": "565057",
+            "view_count": "568498",
             "thumbnail_url": "https://i.ytimg.com/vi/JESHGc9PXNg/hqdefault.jpg"
         },
         {
@@ -313,17 +313,8 @@
             "channel_name": "SBSKPOP X INKIGAYO",
             "category": "Entertainment",
             "duration": "3:06",
-            "view_count": "1117125",
+            "view_count": "1121126",
             "thumbnail_url": "https://i.ytimg.com/vi/02i-L0D9QXk/hqdefault.jpg"
-        },
-        {
-            "video_id": "I0GkWo4tS3o",
-            "title": "감자를 이렇게 드세요! 한끼 식사로 건강하고 맛있는 감자 요리 2가지👍💯",
-            "channel_name": "수리키친Suri",
-            "category": "People & Blogs",
-            "duration": "6:15",
-            "view_count": "440030",
-            "thumbnail_url": "https://i.ytimg.com/vi/I0GkWo4tS3o/hqdefault.jpg"
         },
         {
             "video_id": "tCzvWJYhw4o",
@@ -331,8 +322,17 @@
             "channel_name": "진돌",
             "category": "Entertainment",
             "duration": "15:18",
-            "view_count": "239665",
+            "view_count": "240126",
             "thumbnail_url": "https://i.ytimg.com/vi/tCzvWJYhw4o/hqdefault.jpg"
+        },
+        {
+            "video_id": "I0GkWo4tS3o",
+            "title": "감자를 이렇게 드세요! 한끼 식사로 건강하고 맛있는 감자 요리 2가지👍💯",
+            "channel_name": "수리키친Suri",
+            "category": "People & Blogs",
+            "duration": "6:15",
+            "view_count": "441124",
+            "thumbnail_url": "https://i.ytimg.com/vi/I0GkWo4tS3o/hqdefault.jpg"
         },
         {
             "video_id": "kFSvjev1iQU",
@@ -340,17 +340,17 @@
             "channel_name": "백지영 Baek Z Young",
             "category": "People & Blogs",
             "duration": "23:22",
-            "view_count": "599151",
+            "view_count": "600761",
             "thumbnail_url": "https://i.ytimg.com/vi/kFSvjev1iQU/hqdefault.jpg"
         },
         {
-            "video_id": "DhPewVaFQgw",
-            "title": "올스타전 축하 메시지가 도착했습니다🥳🎉 [위즈티비]",
-            "channel_name": "kt wiz - 위즈TV",
-            "category": "Sports",
-            "duration": "10:06",
-            "view_count": "101018",
-            "thumbnail_url": "https://i.ytimg.com/vi/DhPewVaFQgw/hqdefault.jpg"
+            "video_id": "2qdCIJG8cYk",
+            "title": "하다하다 미국으로 즉흥 여행!?🫢 출국 전날 비행기 끊고 떠난 요세미티 국립공원 캠핑카 여행!🏔️🏔️",
+            "channel_name": "김숙티비kimsookTV",
+            "category": "Entertainment",
+            "duration": "21:37",
+            "view_count": "286201",
+            "thumbnail_url": "https://i.ytimg.com/vi/2qdCIJG8cYk/hqdefault.jpg"
         },
         {
             "video_id": "YYHk_f95dEc",
@@ -358,7 +358,7 @@
             "channel_name": "픽고 PICKGO",
             "category": "Entertainment",
             "duration": "10:58",
-            "view_count": "622191",
+            "view_count": "622619",
             "thumbnail_url": "https://i.ytimg.com/vi/YYHk_f95dEc/hqdefault.jpg"
         },
         {
@@ -367,7 +367,7 @@
             "channel_name": "NB couple엔비커플",
             "category": "Entertainment",
             "duration": "30:02",
-            "view_count": "434311",
+            "view_count": "435189",
             "thumbnail_url": "https://i.ytimg.com/vi/Zipmlipa0xc/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "카리나의 삶",
             "category": "People & Blogs",
             "duration": "15:20",
-            "view_count": "301994",
+            "view_count": "302923",
             "thumbnail_url": "https://i.ytimg.com/vi/5WTcIhUfsvk/hqdefault.jpg"
         }
     ]
