@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-07-16 17:20:02",
+    "scraped_time": "2025-07-16 18:19:32",
     "videos": [
         {
             "video_id": "F28lRubLEKs",
@@ -7,7 +7,7 @@
             "channel_name": "딩고 뮤직 / dingo music",
             "category": "Music",
             "duration": "25:38",
-            "view_count": "912937",
+            "view_count": "951620",
             "thumbnail_url": "https://i.ytimg.com/vi/F28lRubLEKs/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "TVCHOSUN - TV조선",
             "category": "Entertainment",
             "duration": "4:50",
-            "view_count": "585182",
+            "view_count": "598096",
             "thumbnail_url": "https://i.ytimg.com/vi/dIXHBInDWN8/hqdefault.jpg"
         },
         {
@@ -25,8 +25,17 @@
             "channel_name": "피식대학Psick Univ",
             "category": "Comedy",
             "duration": "31:34",
-            "view_count": "1311199",
+            "view_count": "1320506",
             "thumbnail_url": "https://i.ytimg.com/vi/zugjrxbwOHk/hqdefault.jpg"
+        },
+        {
+            "video_id": "cFz7elnR4o0",
+            "title": "자대배치",
+            "channel_name": "충주시",
+            "category": "알 수 없음",
+            "duration": "5:09",
+            "view_count": "562765",
+            "thumbnail_url": "https://i.ytimg.com/vi/cFz7elnR4o0/hqdefault.jpg"
         },
         {
             "video_id": "jQVVGzVJywo",
@@ -34,7 +43,7 @@
             "channel_name": "유병재",
             "category": "Comedy",
             "duration": "36:57",
-            "view_count": "608198",
+            "view_count": "619670",
             "thumbnail_url": "https://i.ytimg.com/vi/jQVVGzVJywo/hqdefault.jpg"
         },
         {
@@ -43,7 +52,7 @@
             "channel_name": "터틀이주미",
             "category": "People & Blogs",
             "duration": "23:32",
-            "view_count": "215659",
+            "view_count": "222875",
             "thumbnail_url": "https://i.ytimg.com/vi/9jV9QXoQoPU/hqdefault.jpg"
         },
         {
@@ -52,17 +61,8 @@
             "channel_name": "이민정 MJ",
             "category": "People & Blogs",
             "duration": "18:07",
-            "view_count": "361398",
+            "view_count": "373165",
             "thumbnail_url": "https://i.ytimg.com/vi/O5mwx-i5SuY/hqdefault.jpg"
-        },
-        {
-            "video_id": "DyY-gNeKYVI",
-            "title": "영상이 늦어진 이유입니다",
-            "channel_name": "보겸TV",
-            "category": "Entertainment",
-            "duration": "11:35",
-            "view_count": "2457818",
-            "thumbnail_url": "https://i.ytimg.com/vi/DyY-gNeKYVI/hqdefault.jpg"
         },
         {
             "video_id": "BOhBOZCRpwM",
@@ -70,8 +70,17 @@
             "channel_name": "TWICE",
             "category": "Music",
             "duration": "43:00",
-            "view_count": "899546",
+            "view_count": "934879",
             "thumbnail_url": "https://i.ytimg.com/vi/BOhBOZCRpwM/hqdefault.jpg"
+        },
+        {
+            "video_id": "DyY-gNeKYVI",
+            "title": "영상이 늦어진 이유입니다",
+            "channel_name": "보겸TV",
+            "category": "Entertainment",
+            "duration": "11:35",
+            "view_count": "2468545",
+            "thumbnail_url": "https://i.ytimg.com/vi/DyY-gNeKYVI/hqdefault.jpg"
         },
         {
             "video_id": "CgCVZdcKcqY",
@@ -79,17 +88,8 @@
             "channel_name": "BLACKPINK",
             "category": "Music",
             "duration": "3:14",
-            "view_count": "62677606",
+            "view_count": "62932863",
             "thumbnail_url": "https://i.ytimg.com/vi/CgCVZdcKcqY/hqdefault.jpg"
-        },
-        {
-            "video_id": "xHPakHfvY3k",
-            "title": "💢여름엔 호박을 ✔기름에 볶지말고 ✔이렇게 드세요❗여름철 밥도둑입니다💯",
-            "channel_name": "양장금주부",
-            "category": "Howto & Style",
-            "duration": "4:02",
-            "view_count": "706180",
-            "thumbnail_url": "https://i.ytimg.com/vi/xHPakHfvY3k/hqdefault.jpg"
         },
         {
             "video_id": "O_WGMNXEU2M",
@@ -97,8 +97,26 @@
             "channel_name": "TVCHOSUN - TV조선",
             "category": "Entertainment",
             "duration": "3:51",
-            "view_count": "449159",
+            "view_count": "458846",
             "thumbnail_url": "https://i.ytimg.com/vi/O_WGMNXEU2M/hqdefault.jpg"
+        },
+        {
+            "video_id": "xHPakHfvY3k",
+            "title": "💢여름엔 호박을 ✔기름에 볶지말고 ✔이렇게 드세요❗여름철 밥도둑입니다💯",
+            "channel_name": "양장금주부",
+            "category": "Howto & Style",
+            "duration": "4:02",
+            "view_count": "714767",
+            "thumbnail_url": "https://i.ytimg.com/vi/xHPakHfvY3k/hqdefault.jpg"
+        },
+        {
+            "video_id": "6NsJS5DuBqE",
+            "title": "요요 김경은 일주일 -5kg 다이어트 간다.",
+            "channel_name": "다나나",
+            "category": "People & Blogs",
+            "duration": "37:05",
+            "view_count": "629318",
+            "thumbnail_url": "https://i.ytimg.com/vi/6NsJS5DuBqE/hqdefault.jpg"
         },
         {
             "video_id": "scWk8rFzOWY",
@@ -106,7 +124,7 @@
             "channel_name": "TVCHOSUN JOY",
             "category": "Entertainment",
             "duration": "17:07",
-            "view_count": "175848",
+            "view_count": "179466",
             "thumbnail_url": "https://i.ytimg.com/vi/scWk8rFzOWY/hqdefault.jpg"
         },
         {
@@ -115,7 +133,7 @@
             "channel_name": "초코우유 Chocouyu",
             "category": "Travel & Events",
             "duration": "13:34",
-            "view_count": "209622",
+            "view_count": "211655",
             "thumbnail_url": "https://i.ytimg.com/vi/Rwzg1QbUqQE/hqdefault.jpg"
         },
         {
@@ -124,8 +142,17 @@
             "channel_name": "라꼰즈 | Rakkonz",
             "category": "Entertainment",
             "duration": "52:55",
-            "view_count": "231780",
+            "view_count": "236021",
             "thumbnail_url": "https://i.ytimg.com/vi/h5Qzl8-SfDA/hqdefault.jpg"
+        },
+        {
+            "video_id": "Lx9OvlpBsb0",
+            "title": "걷기 힘들어진 쌍둥이 막달..😵거의 다 왔다!💪🏻대체 배가 어디까지 나오는걸까..?",
+            "channel_name": "김키미kimmy kim",
+            "category": "Entertainment",
+            "duration": "13:23",
+            "view_count": "288413",
+            "thumbnail_url": "https://i.ytimg.com/vi/Lx9OvlpBsb0/hqdefault.jpg"
         },
         {
             "video_id": "k3SUT-M2Frg",
@@ -133,7 +160,7 @@
             "channel_name": "BOYS II PLANET",
             "category": "Entertainment",
             "duration": "6:50",
-            "view_count": "671878",
+            "view_count": "679151",
             "thumbnail_url": "https://i.ytimg.com/vi/k3SUT-M2Frg/hqdefault.jpg"
         },
         {
@@ -142,7 +169,7 @@
             "channel_name": "NCT DREAM - Topic",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "217134",
+            "view_count": "222051",
             "thumbnail_url": "https://i.ytimg.com/vi/mpDyMFVr554/hqdefault.jpg"
         },
         {
@@ -151,17 +178,8 @@
             "channel_name": "TEO 테오",
             "category": "Entertainment",
             "duration": "35:25",
-            "view_count": "256872",
+            "view_count": "265391",
             "thumbnail_url": "https://i.ytimg.com/vi/GG-tWfn2-oI/hqdefault.jpg"
-        },
-        {
-            "video_id": "ELwSbTJZ43s",
-            "title": "새로운 식구가 생겼습니다...",
-            "channel_name": "배말랭",
-            "category": "Comedy",
-            "duration": "11:27",
-            "view_count": "382427",
-            "thumbnail_url": "https://i.ytimg.com/vi/ELwSbTJZ43s/hqdefault.jpg"
         },
         {
             "video_id": "-1wQk-Lwkic",
@@ -169,8 +187,17 @@
             "channel_name": "송가인",
             "category": "Entertainment",
             "duration": "18:46",
-            "view_count": "272558",
+            "view_count": "275942",
             "thumbnail_url": "https://i.ytimg.com/vi/-1wQk-Lwkic/hqdefault.jpg"
+        },
+        {
+            "video_id": "ELwSbTJZ43s",
+            "title": "새로운 식구가 생겼습니다...",
+            "channel_name": "배말랭",
+            "category": "Comedy",
+            "duration": "11:27",
+            "view_count": "384192",
+            "thumbnail_url": "https://i.ytimg.com/vi/ELwSbTJZ43s/hqdefault.jpg"
         },
         {
             "video_id": "zuWGKxncL0k",
@@ -178,7 +205,7 @@
             "channel_name": "픽고 PICKGO",
             "category": "Entertainment",
             "duration": "16:14",
-            "view_count": "1297885",
+            "view_count": "1303847",
             "thumbnail_url": "https://i.ytimg.com/vi/zuWGKxncL0k/hqdefault.jpg"
         },
         {
@@ -187,7 +214,7 @@
             "channel_name": "파뿌리",
             "category": "Entertainment",
             "duration": "53:40",
-            "view_count": "669407",
+            "view_count": "673185",
             "thumbnail_url": "https://i.ytimg.com/vi/zOnEALzLhNE/hqdefault.jpg"
         },
         {
@@ -196,7 +223,7 @@
             "channel_name": "AKMU",
             "category": "Music",
             "duration": "4:01",
-            "view_count": "228344",
+            "view_count": "231982",
             "thumbnail_url": "https://i.ytimg.com/vi/bMrwm7TXWAo/hqdefault.jpg"
         },
         {
@@ -205,17 +232,8 @@
             "channel_name": "먹어볼래TryToEat",
             "category": "People & Blogs",
             "duration": "9:02",
-            "view_count": "244406",
+            "view_count": "246928",
             "thumbnail_url": "https://i.ytimg.com/vi/OFSZKpCkt4k/hqdefault.jpg"
-        },
-        {
-            "video_id": "BRyjRd4Q9WY",
-            "title": "한국에 정말 오고 싶어 하는 그리스 처남에게 인생 첫 컵라면 해줬을 때 반응ㅋㅋㅋ",
-            "channel_name": "소피아패밀리(Sophia family)",
-            "category": "People & Blogs",
-            "duration": "20:56",
-            "view_count": "280245",
-            "thumbnail_url": "https://i.ytimg.com/vi/BRyjRd4Q9WY/hqdefault.jpg"
         },
         {
             "video_id": "FSX6aXlg8nE",
@@ -223,17 +241,17 @@
             "channel_name": "YOOTRUE ON AIR",
             "category": "Howto & Style",
             "duration": "20:22",
-            "view_count": "118253",
+            "view_count": "119055",
             "thumbnail_url": "https://i.ytimg.com/vi/FSX6aXlg8nE/hqdefault.jpg"
         },
         {
-            "video_id": "gToUkFHNq0M",
-            "title": "빌보드 장악한 '케이팝 데몬 헌터스' OST 작곡가 EJAE 단독 인터뷰★ / 스브스뉴스",
-            "channel_name": "스브스뉴스 SUBUSUNEWS",
-            "category": "News & Politics",
-            "duration": "8:17",
-            "view_count": "400542",
-            "thumbnail_url": "https://i.ytimg.com/vi/gToUkFHNq0M/hqdefault.jpg"
+            "video_id": "BRyjRd4Q9WY",
+            "title": "한국에 정말 오고 싶어 하는 그리스 처남에게 인생 첫 컵라면 해줬을 때 반응ㅋㅋㅋ",
+            "channel_name": "소피아패밀리(Sophia family)",
+            "category": "People & Blogs",
+            "duration": "20:56",
+            "view_count": "281166",
+            "thumbnail_url": "https://i.ytimg.com/vi/BRyjRd4Q9WY/hqdefault.jpg"
         },
         {
             "video_id": "Q8y4WKRNpyc",
@@ -241,7 +259,7 @@
             "channel_name": "조유리 JO YURI",
             "category": "Entertainment",
             "duration": "3:33",
-            "view_count": "2427730",
+            "view_count": "2510685",
             "thumbnail_url": "https://i.ytimg.com/vi/Q8y4WKRNpyc/hqdefault.jpg"
         },
         {
@@ -250,7 +268,7 @@
             "channel_name": "인생84",
             "category": "People & Blogs",
             "duration": "29:30",
-            "view_count": "1387311",
+            "view_count": "1392473",
             "thumbnail_url": "https://i.ytimg.com/vi/p96B2NYFGTM/hqdefault.jpg"
         },
         {
@@ -259,7 +277,7 @@
             "channel_name": "officialpsy",
             "category": "Entertainment",
             "duration": "3:01",
-            "view_count": "810372",
+            "view_count": "840645",
             "thumbnail_url": "https://i.ytimg.com/vi/XIKz-AyYPCw/hqdefault.jpg"
         },
         {
@@ -268,8 +286,26 @@
             "channel_name": "요정재형",
             "category": "Entertainment",
             "duration": "55:56",
-            "view_count": "432319",
+            "view_count": "436630",
             "thumbnail_url": "https://i.ytimg.com/vi/FZTPk_1r-Xs/hqdefault.jpg"
+        },
+        {
+            "video_id": "gToUkFHNq0M",
+            "title": "빌보드 장악한 '케이팝 데몬 헌터스' OST 작곡가 EJAE 단독 인터뷰★ / 스브스뉴스",
+            "channel_name": "스브스뉴스 SUBUSUNEWS",
+            "category": "News & Politics",
+            "duration": "8:17",
+            "view_count": "405893",
+            "thumbnail_url": "https://i.ytimg.com/vi/gToUkFHNq0M/hqdefault.jpg"
+        },
+        {
+            "video_id": "ROHlOLX3l6c",
+            "title": "제한 시간 60분! 성공자 0명인 스테이크 도전먹방🔥",
+            "channel_name": "유노-Yuno",
+            "category": "People & Blogs",
+            "duration": "12:44",
+            "view_count": "335674",
+            "thumbnail_url": "https://i.ytimg.com/vi/ROHlOLX3l6c/hqdefault.jpg"
         },
         {
             "video_id": "3pOMtatLefQ",
@@ -277,7 +313,7 @@
             "channel_name": "잡식맨 JOBXICMAN",
             "category": "Entertainment",
             "duration": "15:59",
-            "view_count": "179158",
+            "view_count": "180121",
             "thumbnail_url": "https://i.ytimg.com/vi/3pOMtatLefQ/hqdefault.jpg"
         },
         {
@@ -286,17 +322,8 @@
             "channel_name": "MBCkpop",
             "category": "Music",
             "duration": "3:17",
-            "view_count": "795942",
+            "view_count": "800308",
             "thumbnail_url": "https://i.ytimg.com/vi/TUd1VQGaCQM/hqdefault.jpg"
-        },
-        {
-            "video_id": "ROHlOLX3l6c",
-            "title": "제한 시간 60분! 성공자 0명인 스테이크 도전먹방🔥",
-            "channel_name": "유노-Yuno",
-            "category": "People & Blogs",
-            "duration": "12:44",
-            "view_count": "331478",
-            "thumbnail_url": "https://i.ytimg.com/vi/ROHlOLX3l6c/hqdefault.jpg"
         },
         {
             "video_id": "cIMzRdVQI3E",
@@ -304,7 +331,7 @@
             "channel_name": "TVING SPORTS",
             "category": "Sports",
             "duration": "23:57",
-            "view_count": "551256",
+            "view_count": "551746",
             "thumbnail_url": "https://i.ytimg.com/vi/cIMzRdVQI3E/hqdefault.jpg"
         },
         {
@@ -313,7 +340,7 @@
             "channel_name": "짧은대본 ShortPaper",
             "category": "Entertainment",
             "duration": "8:37",
-            "view_count": "619863",
+            "view_count": "621527",
             "thumbnail_url": "https://i.ytimg.com/vi/IWYIbvzdRkM/hqdefault.jpg"
         },
         {
@@ -322,7 +349,7 @@
             "channel_name": "놀면 뭐하니?",
             "category": "Entertainment",
             "duration": "15:23",
-            "view_count": "1422726",
+            "view_count": "1426183",
             "thumbnail_url": "https://i.ytimg.com/vi/Ba61oQIizck/hqdefault.jpg"
         },
         {
@@ -331,7 +358,7 @@
             "channel_name": "미란이네 알렉스",
             "category": "People & Blogs",
             "duration": "19:14",
-            "view_count": "197489",
+            "view_count": "198496",
             "thumbnail_url": "https://i.ytimg.com/vi/94FFWfrMq5s/hqdefault.jpg"
         },
         {
@@ -340,7 +367,7 @@
             "channel_name": "엠뚜루마뚜루 : MBC 공식 종합 채널",
             "category": "Entertainment",
             "duration": "16:17",
-            "view_count": "1188214",
+            "view_count": "1193374",
             "thumbnail_url": "https://i.ytimg.com/vi/i44rfd5DMX4/hqdefault.jpg"
         },
         {
@@ -349,35 +376,8 @@
             "channel_name": "현주투성이",
             "category": "People & Blogs",
             "duration": "22:01",
-            "view_count": "246094",
+            "view_count": "247239",
             "thumbnail_url": "https://i.ytimg.com/vi/8Dds0jeGGj8/hqdefault.jpg"
-        },
-        {
-            "video_id": "LaN4u4Wqi-w",
-            "title": "웨딩드레스 입은 모습 처음 본 일본인 남친이 자꾸 눈물 흘리는 vlog 세상에 하나뿐인 웨딩촬영 💍 11시간 촬영한 결과 공개 👰‍♀️",
-            "channel_name": "Tacosama 타코사마",
-            "category": "People & Blogs",
-            "duration": "30:56",
-            "view_count": "238484",
-            "thumbnail_url": "https://i.ytimg.com/vi/LaN4u4Wqi-w/hqdefault.jpg"
-        },
-        {
-            "video_id": "w0kTDiyor8E",
-            "title": "한국인 두 명이서 6안타를 기록한 경기가 있습니다.ㅣ5분 하이라이트 (07.12)",
-            "channel_name": "SPOTV",
-            "category": "Sports",
-            "duration": "6:06",
-            "view_count": "456492",
-            "thumbnail_url": "https://i.ytimg.com/vi/w0kTDiyor8E/hqdefault.jpg"
-        },
-        {
-            "video_id": "CVnjjuX_B6I",
-            "title": "[🇦🇺vlog] 어린이집 등원..?!육아하랴 가족들 만나랴 정신없이 보낸 6월의 깨알 일상 브이로그",
-            "channel_name": "해쭈 [HAEJOO]",
-            "category": "People & Blogs",
-            "duration": "15:12",
-            "view_count": "314224",
-            "thumbnail_url": "https://i.ytimg.com/vi/CVnjjuX_B6I/hqdefault.jpg"
         }
     ]
 }
