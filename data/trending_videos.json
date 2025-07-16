@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-07-16 21:29:48",
+    "scraped_time": "2025-07-16 22:33:16",
     "videos": [
         {
             "video_id": "F28lRubLEKs",
@@ -7,7 +7,7 @@
             "channel_name": "딩고 뮤직 / dingo music",
             "category": "Music",
             "duration": "25:38",
-            "view_count": "1048953",
+            "view_count": "1088726",
             "thumbnail_url": "https://i.ytimg.com/vi/F28lRubLEKs/hqdefault.jpg"
         },
         {
@@ -16,17 +16,8 @@
             "channel_name": "TVCHOSUN - TV조선",
             "category": "Entertainment",
             "duration": "4:50",
-            "view_count": "625756",
+            "view_count": "634479",
             "thumbnail_url": "https://i.ytimg.com/vi/dIXHBInDWN8/hqdefault.jpg"
-        },
-        {
-            "video_id": "zugjrxbwOHk",
-            "title": "[한글자막] 올데이 프로젝트 애니, 타잔, 베일리에게 인급동 어떻게 가냐고 묻다",
-            "channel_name": "피식대학Psick Univ",
-            "category": "Comedy",
-            "duration": "31:34",
-            "view_count": "1348059",
-            "thumbnail_url": "https://i.ytimg.com/vi/zugjrxbwOHk/hqdefault.jpg"
         },
         {
             "video_id": "BOhBOZCRpwM",
@@ -34,7 +25,7 @@
             "channel_name": "TWICE",
             "category": "Music",
             "duration": "43:00",
-            "view_count": "1036109",
+            "view_count": "1073543",
             "thumbnail_url": "https://i.ytimg.com/vi/BOhBOZCRpwM/hqdefault.jpg"
         },
         {
@@ -43,7 +34,7 @@
             "channel_name": "유병재",
             "category": "Comedy",
             "duration": "36:57",
-            "view_count": "656870",
+            "view_count": "671205",
             "thumbnail_url": "https://i.ytimg.com/vi/jQVVGzVJywo/hqdefault.jpg"
         },
         {
@@ -52,8 +43,17 @@
             "channel_name": "터틀이주미",
             "category": "People & Blogs",
             "duration": "23:32",
-            "view_count": "243013",
+            "view_count": "250767",
             "thumbnail_url": "https://i.ytimg.com/vi/9jV9QXoQoPU/hqdefault.jpg"
+        },
+        {
+            "video_id": "zugjrxbwOHk",
+            "title": "[한글자막] 올데이 프로젝트 애니, 타잔, 베일리에게 인급동 어떻게 가냐고 묻다",
+            "channel_name": "피식대학Psick Univ",
+            "category": "Comedy",
+            "duration": "31:34",
+            "view_count": "1360083",
+            "thumbnail_url": "https://i.ytimg.com/vi/zugjrxbwOHk/hqdefault.jpg"
         },
         {
             "video_id": "O5mwx-i5SuY",
@@ -61,17 +61,8 @@
             "channel_name": "이민정 MJ",
             "category": "People & Blogs",
             "duration": "18:07",
-            "view_count": "397328",
+            "view_count": "405373",
             "thumbnail_url": "https://i.ytimg.com/vi/O5mwx-i5SuY/hqdefault.jpg"
-        },
-        {
-            "video_id": "cFz7elnR4o0",
-            "title": "자대배치",
-            "channel_name": "충주시",
-            "category": "알 수 없음",
-            "duration": "5:09",
-            "view_count": "590971",
-            "thumbnail_url": "https://i.ytimg.com/vi/cFz7elnR4o0/hqdefault.jpg"
         },
         {
             "video_id": "DyY-gNeKYVI",
@@ -79,7 +70,7 @@
             "channel_name": "보겸TV",
             "category": "Entertainment",
             "duration": "11:35",
-            "view_count": "2494803",
+            "view_count": "2504270",
             "thumbnail_url": "https://i.ytimg.com/vi/DyY-gNeKYVI/hqdefault.jpg"
         },
         {
@@ -88,7 +79,7 @@
             "channel_name": "TVCHOSUN - TV조선",
             "category": "Entertainment",
             "duration": "3:51",
-            "view_count": "482226",
+            "view_count": "490655",
             "thumbnail_url": "https://i.ytimg.com/vi/O_WGMNXEU2M/hqdefault.jpg"
         },
         {
@@ -97,8 +88,17 @@
             "channel_name": "TVCHOSUN JOY",
             "category": "Entertainment",
             "duration": "17:07",
-            "view_count": "190403",
+            "view_count": "198190",
             "thumbnail_url": "https://i.ytimg.com/vi/scWk8rFzOWY/hqdefault.jpg"
+        },
+        {
+            "video_id": "cFz7elnR4o0",
+            "title": "자대배치",
+            "channel_name": "충주시",
+            "category": "알 수 없음",
+            "duration": "5:09",
+            "view_count": "600658",
+            "thumbnail_url": "https://i.ytimg.com/vi/cFz7elnR4o0/hqdefault.jpg"
         },
         {
             "video_id": "CgCVZdcKcqY",
@@ -106,7 +106,7 @@
             "channel_name": "BLACKPINK",
             "category": "Music",
             "duration": "3:14",
-            "view_count": "63656765",
+            "view_count": "63962614",
             "thumbnail_url": "https://i.ytimg.com/vi/CgCVZdcKcqY/hqdefault.jpg"
         },
         {
@@ -115,7 +115,7 @@
             "channel_name": "양장금주부",
             "category": "Howto & Style",
             "duration": "4:02",
-            "view_count": "733543",
+            "view_count": "739554",
             "thumbnail_url": "https://i.ytimg.com/vi/xHPakHfvY3k/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "다나나",
             "category": "People & Blogs",
             "duration": "37:05",
-            "view_count": "640088",
+            "view_count": "645354",
             "thumbnail_url": "https://i.ytimg.com/vi/6NsJS5DuBqE/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "초코우유 Chocouyu",
             "category": "Travel & Events",
             "duration": "13:34",
-            "view_count": "216401",
+            "view_count": "218026",
             "thumbnail_url": "https://i.ytimg.com/vi/Rwzg1QbUqQE/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "라꼰즈 | Rakkonz",
             "category": "Entertainment",
             "duration": "52:55",
-            "view_count": "250453",
+            "view_count": "256129",
             "thumbnail_url": "https://i.ytimg.com/vi/h5Qzl8-SfDA/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "김키미kimmy kim",
             "category": "Entertainment",
             "duration": "13:23",
-            "view_count": "297159",
+            "view_count": "300531",
             "thumbnail_url": "https://i.ytimg.com/vi/Lx9OvlpBsb0/hqdefault.jpg"
         },
         {
@@ -160,17 +160,8 @@
             "channel_name": "BOYS II PLANET",
             "category": "Entertainment",
             "duration": "6:50",
-            "view_count": "698167",
+            "view_count": "705967",
             "thumbnail_url": "https://i.ytimg.com/vi/k3SUT-M2Frg/hqdefault.jpg"
-        },
-        {
-            "video_id": "GG-tWfn2-oI",
-            "title": "[SUB] 영광아 형이 알아서 할게 | EP. 99 김남길 김영광 | 살롱드립2",
-            "channel_name": "TEO 테오",
-            "category": "Entertainment",
-            "duration": "35:25",
-            "view_count": "290156",
-            "thumbnail_url": "https://i.ytimg.com/vi/GG-tWfn2-oI/hqdefault.jpg"
         },
         {
             "video_id": "mpDyMFVr554",
@@ -178,17 +169,17 @@
             "channel_name": "NCT DREAM - Topic",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "237301",
+            "view_count": "242101",
             "thumbnail_url": "https://i.ytimg.com/vi/mpDyMFVr554/hqdefault.jpg"
         },
         {
-            "video_id": "ELwSbTJZ43s",
-            "title": "새로운 식구가 생겼습니다...",
-            "channel_name": "배말랭",
-            "category": "Comedy",
-            "duration": "11:27",
-            "view_count": "389738",
-            "thumbnail_url": "https://i.ytimg.com/vi/ELwSbTJZ43s/hqdefault.jpg"
+            "video_id": "GG-tWfn2-oI",
+            "title": "[SUB] 영광아 형이 알아서 할게 | EP. 99 김남길 김영광 | 살롱드립2",
+            "channel_name": "TEO 테오",
+            "category": "Entertainment",
+            "duration": "35:25",
+            "view_count": "299396",
+            "thumbnail_url": "https://i.ytimg.com/vi/GG-tWfn2-oI/hqdefault.jpg"
         },
         {
             "video_id": "-1wQk-Lwkic",
@@ -196,8 +187,17 @@
             "channel_name": "송가인",
             "category": "Entertainment",
             "duration": "18:46",
-            "view_count": "284089",
+            "view_count": "287016",
             "thumbnail_url": "https://i.ytimg.com/vi/-1wQk-Lwkic/hqdefault.jpg"
+        },
+        {
+            "video_id": "ELwSbTJZ43s",
+            "title": "새로운 식구가 생겼습니다...",
+            "channel_name": "배말랭",
+            "category": "Comedy",
+            "duration": "11:27",
+            "view_count": "391822",
+            "thumbnail_url": "https://i.ytimg.com/vi/ELwSbTJZ43s/hqdefault.jpg"
         },
         {
             "video_id": "zuWGKxncL0k",
@@ -205,7 +205,7 @@
             "channel_name": "픽고 PICKGO",
             "category": "Entertainment",
             "duration": "16:14",
-            "view_count": "1319262",
+            "view_count": "1326077",
             "thumbnail_url": "https://i.ytimg.com/vi/zuWGKxncL0k/hqdefault.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "channel_name": "파뿌리",
             "category": "Entertainment",
             "duration": "53:40",
-            "view_count": "686662",
+            "view_count": "690949",
             "thumbnail_url": "https://i.ytimg.com/vi/zOnEALzLhNE/hqdefault.jpg"
         },
         {
@@ -223,7 +223,7 @@
             "channel_name": "AKMU",
             "category": "Music",
             "duration": "4:01",
-            "view_count": "242247",
+            "view_count": "246708",
             "thumbnail_url": "https://i.ytimg.com/vi/bMrwm7TXWAo/hqdefault.jpg"
         },
         {
@@ -232,8 +232,17 @@
             "channel_name": "먹어볼래TryToEat",
             "category": "People & Blogs",
             "duration": "9:02",
-            "view_count": "256492",
+            "view_count": "261161",
             "thumbnail_url": "https://i.ytimg.com/vi/OFSZKpCkt4k/hqdefault.jpg"
+        },
+        {
+            "video_id": "Q8y4WKRNpyc",
+            "title": "조유리 (JO YURI) | '이제 안녕! (Farewell for now!)' MV",
+            "channel_name": "조유리 JO YURI",
+            "category": "Entertainment",
+            "duration": "3:33",
+            "view_count": "2864355",
+            "thumbnail_url": "https://i.ytimg.com/vi/Q8y4WKRNpyc/hqdefault.jpg"
         },
         {
             "video_id": "FSX6aXlg8nE",
@@ -241,7 +250,7 @@
             "channel_name": "YOOTRUE ON AIR",
             "category": "Howto & Style",
             "duration": "20:22",
-            "view_count": "121690",
+            "view_count": "122810",
             "thumbnail_url": "https://i.ytimg.com/vi/FSX6aXlg8nE/hqdefault.jpg"
         },
         {
@@ -250,17 +259,8 @@
             "channel_name": "소피아패밀리(Sophia family)",
             "category": "People & Blogs",
             "duration": "20:56",
-            "view_count": "284316",
+            "view_count": "285628",
             "thumbnail_url": "https://i.ytimg.com/vi/BRyjRd4Q9WY/hqdefault.jpg"
-        },
-        {
-            "video_id": "Q8y4WKRNpyc",
-            "title": "조유리 (JO YURI) | '이제 안녕! (Farewell for now!)' MV",
-            "channel_name": "조유리 JO YURI",
-            "category": "Entertainment",
-            "duration": "3:33",
-            "view_count": "2775481",
-            "thumbnail_url": "https://i.ytimg.com/vi/Q8y4WKRNpyc/hqdefault.jpg"
         },
         {
             "video_id": "XIKz-AyYPCw",
@@ -268,26 +268,8 @@
             "channel_name": "officialpsy",
             "category": "Entertainment",
             "duration": "3:01",
-            "view_count": "920567",
+            "view_count": "958641",
             "thumbnail_url": "https://i.ytimg.com/vi/XIKz-AyYPCw/hqdefault.jpg"
-        },
-        {
-            "video_id": "p96B2NYFGTM",
-            "title": "한혜진의 하루",
-            "channel_name": "인생84",
-            "category": "People & Blogs",
-            "duration": "29:30",
-            "view_count": "1408930",
-            "thumbnail_url": "https://i.ytimg.com/vi/p96B2NYFGTM/hqdefault.jpg"
-        },
-        {
-            "video_id": "FZTPk_1r-Xs",
-            "title": "이 영상은 검색해도 안 나오는 도쿄 맛집을 포함하고 있습니다.",
-            "channel_name": "요정재형",
-            "category": "Entertainment",
-            "duration": "55:56",
-            "view_count": "448987",
-            "thumbnail_url": "https://i.ytimg.com/vi/FZTPk_1r-Xs/hqdefault.jpg"
         },
         {
             "video_id": "ROHlOLX3l6c",
@@ -295,8 +277,26 @@
             "channel_name": "유노-Yuno",
             "category": "People & Blogs",
             "duration": "12:44",
-            "view_count": "352794",
+            "view_count": "358897",
             "thumbnail_url": "https://i.ytimg.com/vi/ROHlOLX3l6c/hqdefault.jpg"
+        },
+        {
+            "video_id": "FZTPk_1r-Xs",
+            "title": "이 영상은 검색해도 안 나오는 도쿄 맛집을 포함하고 있습니다.",
+            "channel_name": "요정재형",
+            "category": "Entertainment",
+            "duration": "55:56",
+            "view_count": "453738",
+            "thumbnail_url": "https://i.ytimg.com/vi/FZTPk_1r-Xs/hqdefault.jpg"
+        },
+        {
+            "video_id": "p96B2NYFGTM",
+            "title": "한혜진의 하루",
+            "channel_name": "인생84",
+            "category": "People & Blogs",
+            "duration": "29:30",
+            "view_count": "1414717",
+            "thumbnail_url": "https://i.ytimg.com/vi/p96B2NYFGTM/hqdefault.jpg"
         },
         {
             "video_id": "3pOMtatLefQ",
@@ -304,7 +304,7 @@
             "channel_name": "잡식맨 JOBXICMAN",
             "category": "Entertainment",
             "duration": "15:59",
-            "view_count": "183683",
+            "view_count": "185367",
             "thumbnail_url": "https://i.ytimg.com/vi/3pOMtatLefQ/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "MBCkpop",
             "category": "Music",
             "duration": "3:17",
-            "view_count": "811195",
+            "view_count": "816435",
             "thumbnail_url": "https://i.ytimg.com/vi/TUd1VQGaCQM/hqdefault.jpg"
         },
         {
@@ -322,17 +322,8 @@
             "channel_name": "TVING SPORTS",
             "category": "Sports",
             "duration": "23:57",
-            "view_count": "553077",
+            "view_count": "553645",
             "thumbnail_url": "https://i.ytimg.com/vi/cIMzRdVQI3E/hqdefault.jpg"
-        },
-        {
-            "video_id": "IWYIbvzdRkM",
-            "title": "전남친 같은 사람 (SUB)",
-            "channel_name": "짧은대본 ShortPaper",
-            "category": "Entertainment",
-            "duration": "8:37",
-            "view_count": "626486",
-            "thumbnail_url": "https://i.ytimg.com/vi/IWYIbvzdRkM/hqdefault.jpg"
         },
         {
             "video_id": "i44rfd5DMX4",
@@ -340,17 +331,17 @@
             "channel_name": "엠뚜루마뚜루 : MBC 공식 종합 채널",
             "category": "Entertainment",
             "duration": "16:17",
-            "view_count": "1210682",
+            "view_count": "1216855",
             "thumbnail_url": "https://i.ytimg.com/vi/i44rfd5DMX4/hqdefault.jpg"
         },
         {
-            "video_id": "94FFWfrMq5s",
-            "title": "이 정도로 자주 오시면 외우는 것이 인지상정",
-            "channel_name": "미란이네 알렉스",
-            "category": "People & Blogs",
-            "duration": "19:14",
-            "view_count": "201636",
-            "thumbnail_url": "https://i.ytimg.com/vi/94FFWfrMq5s/hqdefault.jpg"
+            "video_id": "IWYIbvzdRkM",
+            "title": "전남친 같은 사람 (SUB)",
+            "channel_name": "짧은대본 ShortPaper",
+            "category": "Entertainment",
+            "duration": "8:37",
+            "view_count": "628603",
+            "thumbnail_url": "https://i.ytimg.com/vi/IWYIbvzdRkM/hqdefault.jpg"
         },
         {
             "video_id": "Ba61oQIizck",
@@ -358,8 +349,17 @@
             "channel_name": "놀면 뭐하니?",
             "category": "Entertainment",
             "duration": "15:23",
-            "view_count": "1438364",
+            "view_count": "1444170",
             "thumbnail_url": "https://i.ytimg.com/vi/Ba61oQIizck/hqdefault.jpg"
+        },
+        {
+            "video_id": "94FFWfrMq5s",
+            "title": "이 정도로 자주 오시면 외우는 것이 인지상정",
+            "channel_name": "미란이네 알렉스",
+            "category": "People & Blogs",
+            "duration": "19:14",
+            "view_count": "202953",
+            "thumbnail_url": "https://i.ytimg.com/vi/94FFWfrMq5s/hqdefault.jpg"
         },
         {
             "video_id": "9_Z-p5kMTjc",
@@ -367,7 +367,7 @@
             "channel_name": "엠뚜루마뚜루 : MBC 공식 종합 채널",
             "category": "Entertainment",
             "duration": "17:30",
-            "view_count": "1038164",
+            "view_count": "1045603",
             "thumbnail_url": "https://i.ytimg.com/vi/9_Z-p5kMTjc/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "현주투성이",
             "category": "People & Blogs",
             "duration": "22:01",
-            "view_count": "250948",
+            "view_count": "252348",
             "thumbnail_url": "https://i.ytimg.com/vi/8Dds0jeGGj8/hqdefault.jpg"
         }
     ]
