@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-07-20 04:10:27",
+    "scraped_time": "2025-07-20 05:15:05",
     "videos": [
         {
             "video_id": "5DtkOKAWqBY",
@@ -7,7 +7,7 @@
             "channel_name": "KBS Entertain",
             "category": "Entertainment",
             "duration": "7:54",
-            "view_count": "779248",
+            "view_count": "789739",
             "thumbnail_url": "https://i.ytimg.com/vi/5DtkOKAWqBY/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "너덜트",
             "category": "Comedy",
             "duration": "10:09",
-            "view_count": "2039944",
+            "view_count": "2050282",
             "thumbnail_url": "https://i.ytimg.com/vi/HaYNqWBaanI/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "KBS Entertain",
             "category": "Entertainment",
             "duration": "2:46",
-            "view_count": "494449",
+            "view_count": "499099",
             "thumbnail_url": "https://i.ytimg.com/vi/uI-TENZs0l0/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "it's Live",
             "category": "Entertainment",
             "duration": "4:36",
-            "view_count": "924729",
+            "view_count": "932667",
             "thumbnail_url": "https://i.ytimg.com/vi/t5H15KX9L9w/hqdefault.jpg"
         },
         {
@@ -43,17 +43,8 @@
             "channel_name": "빡다혜dahye",
             "category": "Music",
             "duration": "3:12",
-            "view_count": "614756",
+            "view_count": "622336",
             "thumbnail_url": "https://i.ytimg.com/vi/huqUnIVAjHg/hqdefault.jpg"
-        },
-        {
-            "video_id": "j3WBiS68Kco",
-            "title": "[나 혼자 산다] 조이의 제부는 제대로 된 사랑꾼💓 축가 고민하는 조이, MBC 250718 방송",
-            "channel_name": "MBCentertainment",
-            "category": "Entertainment",
-            "duration": "3:08",
-            "view_count": "343320",
-            "thumbnail_url": "https://i.ytimg.com/vi/j3WBiS68Kco/hqdefault.jpg"
         },
         {
             "video_id": "L7JSaIBnqZs",
@@ -61,17 +52,8 @@
             "channel_name": "EPIK HIGH",
             "category": "Entertainment",
             "duration": "36:18",
-            "view_count": "653158",
+            "view_count": "656299",
             "thumbnail_url": "https://i.ytimg.com/vi/L7JSaIBnqZs/hqdefault.jpg"
-        },
-        {
-            "video_id": "BeAtKTtf-ZE",
-            "title": "[무공해] 강하늘이랑 무조건 공감합니다",
-            "channel_name": "유병재",
-            "category": "Comedy",
-            "duration": "30:00",
-            "view_count": "357648",
-            "thumbnail_url": "https://i.ytimg.com/vi/BeAtKTtf-ZE/hqdefault.jpg"
         },
         {
             "video_id": "bIdqszRr0QA",
@@ -79,8 +61,17 @@
             "channel_name": "Mnet TV",
             "category": "Entertainment",
             "duration": "4:11",
-            "view_count": "169040",
+            "view_count": "171857",
             "thumbnail_url": "https://i.ytimg.com/vi/bIdqszRr0QA/hqdefault.jpg"
+        },
+        {
+            "video_id": "BeAtKTtf-ZE",
+            "title": "[무공해] 강하늘이랑 무조건 공감합니다",
+            "channel_name": "유병재",
+            "category": "Comedy",
+            "duration": "30:00",
+            "view_count": "360162",
+            "thumbnail_url": "https://i.ytimg.com/vi/BeAtKTtf-ZE/hqdefault.jpg"
         },
         {
             "video_id": "we76LsvjdVM",
@@ -88,8 +79,17 @@
             "channel_name": "홍석천이원일",
             "category": "Entertainment",
             "duration": "29:16",
-            "view_count": "385538",
+            "view_count": "387471",
             "thumbnail_url": "https://i.ytimg.com/vi/we76LsvjdVM/hqdefault.jpg"
+        },
+        {
+            "video_id": "j3WBiS68Kco",
+            "title": "[나 혼자 산다] 조이의 제부는 제대로 된 사랑꾼💓 축가 고민하는 조이, MBC 250718 방송",
+            "channel_name": "MBCentertainment",
+            "category": "Entertainment",
+            "duration": "3:08",
+            "view_count": "346972",
+            "thumbnail_url": "https://i.ytimg.com/vi/j3WBiS68Kco/hqdefault.jpg"
         },
         {
             "video_id": "DI0Hd2R8LXA",
@@ -97,7 +97,7 @@
             "channel_name": "흙심인대호",
             "category": "Entertainment",
             "duration": "25:39",
-            "view_count": "877033",
+            "view_count": "885920",
             "thumbnail_url": "https://i.ytimg.com/vi/DI0Hd2R8LXA/hqdefault.jpg"
         },
         {
@@ -106,7 +106,7 @@
             "channel_name": "김완선 TV",
             "category": "Howto & Style",
             "duration": "17:50",
-            "view_count": "228382",
+            "view_count": "229795",
             "thumbnail_url": "https://i.ytimg.com/vi/G2upAYr57yQ/hqdefault.jpg"
         },
         {
@@ -115,17 +115,8 @@
             "channel_name": "채널십오야",
             "category": "Entertainment",
             "duration": "45:55",
-            "view_count": "475332",
+            "view_count": "478512",
             "thumbnail_url": "https://i.ytimg.com/vi/uPEMBR_aFK8/hqdefault.jpg"
-        },
-        {
-            "video_id": "1pmBv0AqqI4",
-            "title": "시골로 떠난 프로미스나인? 두 도시 Girl 나경 채영의 엉망진창 촌캉스 l 리틀포레스트 l 깡촌캉스 l 여름체험  [성수기 EP.5]",
-            "channel_name": "MUSINSA TV",
-            "category": "Entertainment",
-            "duration": "24:41",
-            "view_count": "158097",
-            "thumbnail_url": "https://i.ytimg.com/vi/1pmBv0AqqI4/hqdefault.jpg"
         },
         {
             "video_id": "Q4dXnNySzeA",
@@ -133,7 +124,7 @@
             "channel_name": "DSPmedia",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "163110",
+            "view_count": "164331",
             "thumbnail_url": "https://i.ytimg.com/vi/Q4dXnNySzeA/hqdefault.jpg"
         },
         {
@@ -142,8 +133,17 @@
             "channel_name": "솔라시도 solarsido",
             "category": "People & Blogs",
             "duration": "1:56",
-            "view_count": "444672",
+            "view_count": "449578",
             "thumbnail_url": "https://i.ytimg.com/vi/THkxkhBWrdA/hqdefault.jpg"
+        },
+        {
+            "video_id": "1pmBv0AqqI4",
+            "title": "시골로 떠난 프로미스나인? 두 도시 Girl 나경 채영의 엉망진창 촌캉스 l 리틀포레스트 l 깡촌캉스 l 여름체험  [성수기 EP.5]",
+            "channel_name": "MUSINSA TV",
+            "category": "Entertainment",
+            "duration": "24:41",
+            "view_count": "159211",
+            "thumbnail_url": "https://i.ytimg.com/vi/1pmBv0AqqI4/hqdefault.jpg"
         },
         {
             "video_id": "mW90rw8vfP0",
@@ -151,17 +151,8 @@
             "channel_name": "권순일 of 어반자카파 UrbanKwon",
             "category": "Music",
             "duration": "3:13",
-            "view_count": "204738",
+            "view_count": "207357",
             "thumbnail_url": "https://i.ytimg.com/vi/mW90rw8vfP0/hqdefault.jpg"
-        },
-        {
-            "video_id": "MkRmw7IRbmg",
-            "title": "원신｜5.8 버전 특별 방송",
-            "channel_name": "원신",
-            "category": "Entertainment",
-            "duration": "39:49",
-            "view_count": "113824",
-            "thumbnail_url": "https://i.ytimg.com/vi/MkRmw7IRbmg/hqdefault.jpg"
         },
         {
             "video_id": "yAnYRtv6vo0",
@@ -169,8 +160,17 @@
             "channel_name": "이미숙_숙스러운 미숙씨",
             "category": "People & Blogs",
             "duration": "26:32",
-            "view_count": "347504",
+            "view_count": "348398",
             "thumbnail_url": "https://i.ytimg.com/vi/yAnYRtv6vo0/hqdefault.jpg"
+        },
+        {
+            "video_id": "MkRmw7IRbmg",
+            "title": "원신｜5.8 버전 특별 방송",
+            "channel_name": "원신",
+            "category": "Entertainment",
+            "duration": "39:49",
+            "view_count": "113930",
+            "thumbnail_url": "https://i.ytimg.com/vi/MkRmw7IRbmg/hqdefault.jpg"
         },
         {
             "video_id": "ePlIj2XZipM",
@@ -178,7 +178,7 @@
             "channel_name": "박다혜dahye",
             "category": "Music",
             "duration": "3:11",
-            "view_count": "459030",
+            "view_count": "462832",
             "thumbnail_url": "https://i.ytimg.com/vi/ePlIj2XZipM/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "1theK (원더케이)",
             "category": "Music",
             "duration": "3:43",
-            "view_count": "125266",
+            "view_count": "125631",
             "thumbnail_url": "https://i.ytimg.com/vi/qRNFkdTE7sU/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "준호 지민",
             "category": "Entertainment",
             "duration": "15:36",
-            "view_count": "389969",
+            "view_count": "391092",
             "thumbnail_url": "https://i.ytimg.com/vi/y3W1ew1pamY/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "지유롭게",
             "category": "People & Blogs",
             "duration": "21:34",
-            "view_count": "149132",
+            "view_count": "149836",
             "thumbnail_url": "https://i.ytimg.com/vi/Pb5g0T4SojE/hqdefault.jpg"
         },
         {
@@ -214,17 +214,8 @@
             "channel_name": "딩고 뮤직 / dingo music",
             "category": "Music",
             "duration": "25:38",
-            "view_count": "2367614",
+            "view_count": "2373706",
             "thumbnail_url": "https://i.ytimg.com/vi/F28lRubLEKs/hqdefault.jpg"
-        },
-        {
-            "video_id": "uFq9f511Mus",
-            "title": "살어리 살어리랏다 캠핑에 살어리랏다 | 헝아랑 캠핑⛺️",
-            "channel_name": "임영웅",
-            "category": "People & Blogs",
-            "duration": "18:08",
-            "view_count": "340560",
-            "thumbnail_url": "https://i.ytimg.com/vi/uFq9f511Mus/hqdefault.jpg"
         },
         {
             "video_id": "YPAdOIuMo9c",
@@ -232,7 +223,7 @@
             "channel_name": "미미미누",
             "category": "Education",
             "duration": "24:49",
-            "view_count": "1009276",
+            "view_count": "1010200",
             "thumbnail_url": "https://i.ytimg.com/vi/YPAdOIuMo9c/hqdefault.jpg"
         },
         {
@@ -241,8 +232,17 @@
             "channel_name": "AKMU",
             "category": "Music",
             "duration": "3:50",
-            "view_count": "573059",
+            "view_count": "575506",
             "thumbnail_url": "https://i.ytimg.com/vi/19oT04OuBhg/hqdefault.jpg"
+        },
+        {
+            "video_id": "uFq9f511Mus",
+            "title": "살어리 살어리랏다 캠핑에 살어리랏다 | 헝아랑 캠핑⛺️",
+            "channel_name": "임영웅",
+            "category": "People & Blogs",
+            "duration": "18:08",
+            "view_count": "341207",
+            "thumbnail_url": "https://i.ytimg.com/vi/uFq9f511Mus/hqdefault.jpg"
         },
         {
             "video_id": "b9CCJMJGHJQ",
@@ -250,7 +250,7 @@
             "channel_name": "aespa - Topic",
             "category": "Music",
             "duration": "3:02",
-            "view_count": "1161306",
+            "view_count": "1165823",
             "thumbnail_url": "https://i.ytimg.com/vi/b9CCJMJGHJQ/hqdefault.jpg"
         },
         {
@@ -259,17 +259,8 @@
             "channel_name": "A급 장영란",
             "category": "Entertainment",
             "duration": "21:22",
-            "view_count": "415979",
+            "view_count": "416520",
             "thumbnail_url": "https://i.ytimg.com/vi/gL7xQ6EYtXY/hqdefault.jpg"
-        },
-        {
-            "video_id": "LuCHi6Vi1KU",
-            "title": "[EN] 부성애란 이런 걸까...? | 대배우스윙스 EP.05",
-            "channel_name": "M드로메다 스튜디오",
-            "category": "Entertainment",
-            "duration": "29:56",
-            "view_count": "1051835",
-            "thumbnail_url": "https://i.ytimg.com/vi/LuCHi6Vi1KU/hqdefault.jpg"
         },
         {
             "video_id": "J-ak9ngomuQ",
@@ -277,8 +268,17 @@
             "channel_name": "육식맨 YOOXICMAN",
             "category": "Entertainment",
             "duration": "31:05",
-            "view_count": "444178",
+            "view_count": "444834",
             "thumbnail_url": "https://i.ytimg.com/vi/J-ak9ngomuQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "LuCHi6Vi1KU",
+            "title": "[EN] 부성애란 이런 걸까...? | 대배우스윙스 EP.05",
+            "channel_name": "M드로메다 스튜디오",
+            "category": "Entertainment",
+            "duration": "29:56",
+            "view_count": "1053659",
+            "thumbnail_url": "https://i.ytimg.com/vi/LuCHi6Vi1KU/hqdefault.jpg"
         },
         {
             "video_id": "YQ3rs9uy0pM",
@@ -286,7 +286,7 @@
             "channel_name": "ITSub잇섭",
             "category": "Science & Technology",
             "duration": "21:49",
-            "view_count": "1414777",
+            "view_count": "1415665",
             "thumbnail_url": "https://i.ytimg.com/vi/YQ3rs9uy0pM/hqdefault.jpg"
         },
         {
@@ -295,7 +295,7 @@
             "channel_name": "JAYKEEOUT 제이키아웃",
             "category": "Entertainment",
             "duration": "27:55",
-            "view_count": "527619",
+            "view_count": "529339",
             "thumbnail_url": "https://i.ytimg.com/vi/Si1qBzqpWxY/hqdefault.jpg"
         },
         {
@@ -304,7 +304,7 @@
             "channel_name": "김대석 셰프TV",
             "category": "Howto & Style",
             "duration": "9:36",
-            "view_count": "470714",
+            "view_count": "470953",
             "thumbnail_url": "https://i.ytimg.com/vi/TALCucXOgiQ/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "함께해요 맛나요리",
             "category": "Howto & Style",
             "duration": "8:19",
-            "view_count": "495999",
+            "view_count": "496504",
             "thumbnail_url": "https://i.ytimg.com/vi/9WHKq152AbQ/hqdefault.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "channel_name": "총몇명",
             "category": "Film & Animation",
             "duration": "4:36",
-            "view_count": "1145281",
+            "view_count": "1146540",
             "thumbnail_url": "https://i.ytimg.com/vi/vFn11YkgX4M/hqdefault.jpg"
         },
         {
@@ -331,7 +331,7 @@
             "channel_name": "미란이네 알렉스",
             "category": "People & Blogs",
             "duration": "33:56",
-            "view_count": "430879",
+            "view_count": "431194",
             "thumbnail_url": "https://i.ytimg.com/vi/aCcEtVHU-uA/hqdefault.jpg"
         },
         {
@@ -340,7 +340,7 @@
             "channel_name": "일주어터",
             "category": "People & Blogs",
             "duration": "25:10",
-            "view_count": "239120",
+            "view_count": "239451",
             "thumbnail_url": "https://i.ytimg.com/vi/cM6DXASs9Is/hqdefault.jpg"
         },
         {
@@ -349,7 +349,7 @@
             "channel_name": "술익는집",
             "category": "Howto & Style",
             "duration": "8:49",
-            "view_count": "175939",
+            "view_count": "176183",
             "thumbnail_url": "https://i.ytimg.com/vi/7a3U-iBzs7g/hqdefault.jpg"
         },
         {
@@ -358,7 +358,7 @@
             "channel_name": "다나나",
             "category": "People & Blogs",
             "duration": "37:05",
-            "view_count": "796825",
+            "view_count": "797899",
             "thumbnail_url": "https://i.ytimg.com/vi/6NsJS5DuBqE/hqdefault.jpg"
         },
         {
@@ -367,7 +367,7 @@
             "channel_name": "보겸TV",
             "category": "Entertainment",
             "duration": "11:35",
-            "view_count": "2734758",
+            "view_count": "2735923",
             "thumbnail_url": "https://i.ytimg.com/vi/DyY-gNeKYVI/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "김키미kimmy kim",
             "category": "Entertainment",
             "duration": "13:23",
-            "view_count": "413499",
+            "view_count": "414015",
             "thumbnail_url": "https://i.ytimg.com/vi/Lx9OvlpBsb0/hqdefault.jpg"
         }
     ]
