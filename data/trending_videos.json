@@ -1,13 +1,22 @@
 {
-    "scraped_time": "2025-07-20 13:37:08",
+    "scraped_time": "2025-07-20 14:19:59",
     "videos": [
+        {
+            "video_id": "AuaABDWFs_8",
+            "title": "GOLDEN Covered by IVE ANYUJIN",
+            "channel_name": "IVE",
+            "category": "Entertainment",
+            "duration": "1:39",
+            "view_count": "1032980",
+            "thumbnail_url": "https://i.ytimg.com/vi/AuaABDWFs_8/hqdefault.jpg"
+        },
         {
             "video_id": "5DtkOKAWqBY",
             "title": "임시완 축하공연 BSA OPENING PERFORMANCE [제4회 청룡시리즈어워즈] [제4회 청룡시리즈어워즈] | KBS 250718 방송",
             "channel_name": "KBS Entertain",
             "category": "Entertainment",
             "duration": "7:54",
-            "view_count": "873000",
+            "view_count": "882528",
             "thumbnail_url": "https://i.ytimg.com/vi/5DtkOKAWqBY/hqdefault.jpg"
         },
         {
@@ -16,8 +25,26 @@
             "channel_name": "너덜트",
             "category": "Comedy",
             "duration": "10:09",
-            "view_count": "2135104",
+            "view_count": "2150014",
             "thumbnail_url": "https://i.ytimg.com/vi/HaYNqWBaanI/hqdefault.jpg"
+        },
+        {
+            "video_id": "C0xp4lVBkTU",
+            "title": "마음 없이 하는 연애",
+            "channel_name": "픽고 PICKGO",
+            "category": "Entertainment",
+            "duration": "9:41",
+            "view_count": "569686",
+            "thumbnail_url": "https://i.ytimg.com/vi/C0xp4lVBkTU/hqdefault.jpg"
+        },
+        {
+            "video_id": "ruAa6lkEZhg",
+            "title": "행복해요",
+            "channel_name": "띱 Deep",
+            "category": "Comedy",
+            "duration": "5:19",
+            "view_count": "1061791",
+            "thumbnail_url": "https://i.ytimg.com/vi/ruAa6lkEZhg/hqdefault.jpg"
         },
         {
             "video_id": "t5H15KX9L9w",
@@ -25,7 +52,7 @@
             "channel_name": "it's Live",
             "category": "Entertainment",
             "duration": "4:36",
-            "view_count": "984053",
+            "view_count": "991349",
             "thumbnail_url": "https://i.ytimg.com/vi/t5H15KX9L9w/hqdefault.jpg"
         },
         {
@@ -34,8 +61,26 @@
             "channel_name": "KBS Entertain",
             "category": "Entertainment",
             "duration": "2:46",
-            "view_count": "535474",
+            "view_count": "539526",
             "thumbnail_url": "https://i.ytimg.com/vi/uI-TENZs0l0/hqdefault.jpg"
+        },
+        {
+            "video_id": "lAC6tgv4lb0",
+            "title": "해외여행까지 와서 각방을 쓰게 될 줄은 몰랐다",
+            "channel_name": "김계정",
+            "category": "People & Blogs",
+            "duration": "16:08",
+            "view_count": "200056",
+            "thumbnail_url": "https://i.ytimg.com/vi/lAC6tgv4lb0/hqdefault.jpg"
+        },
+        {
+            "video_id": "1zngbwDLNoo",
+            "title": "[놀면 뭐하니?] 나뭇잎한테 분량 다 뺏겨버린 비인기인 허경환 | #놀면뭐하니? #유재석 MBC250719방송",
+            "channel_name": "놀면 뭐하니?",
+            "category": "Entertainment",
+            "duration": "18:39",
+            "view_count": "356576",
+            "thumbnail_url": "https://i.ytimg.com/vi/1zngbwDLNoo/hqdefault.jpg"
         },
         {
             "video_id": "huqUnIVAjHg",
@@ -43,8 +88,17 @@
             "channel_name": "빡다혜dahye",
             "category": "Music",
             "duration": "3:12",
-            "view_count": "683917",
+            "view_count": "692410",
             "thumbnail_url": "https://i.ytimg.com/vi/huqUnIVAjHg/hqdefault.jpg"
+        },
+        {
+            "video_id": "djEpMAdQiAs",
+            "title": "한국인 사위를 둔 일본 장모님과 와이프의 진짜 속마음을 들어봤다",
+            "channel_name": "헤이킨heykin'couple",
+            "category": "People & Blogs",
+            "duration": "14:48",
+            "view_count": "308852",
+            "thumbnail_url": "https://i.ytimg.com/vi/djEpMAdQiAs/hqdefault.jpg"
         },
         {
             "video_id": "bIdqszRr0QA",
@@ -52,7 +106,7 @@
             "channel_name": "Mnet TV",
             "category": "Entertainment",
             "duration": "4:11",
-            "view_count": "203034",
+            "view_count": "208845",
             "thumbnail_url": "https://i.ytimg.com/vi/bIdqszRr0QA/hqdefault.jpg"
         },
         {
@@ -61,17 +115,8 @@
             "channel_name": "EPIK HIGH",
             "category": "Entertainment",
             "duration": "36:18",
-            "view_count": "687096",
+            "view_count": "692172",
             "thumbnail_url": "https://i.ytimg.com/vi/L7JSaIBnqZs/hqdefault.jpg"
-        },
-        {
-            "video_id": "BeAtKTtf-ZE",
-            "title": "[무공해] 강하늘이랑 무조건 공감합니다",
-            "channel_name": "유병재",
-            "category": "Comedy",
-            "duration": "30:00",
-            "view_count": "381499",
-            "thumbnail_url": "https://i.ytimg.com/vi/BeAtKTtf-ZE/hqdefault.jpg"
         },
         {
             "video_id": "we76LsvjdVM",
@@ -79,8 +124,26 @@
             "channel_name": "홍석천이원일",
             "category": "Entertainment",
             "duration": "29:16",
-            "view_count": "417513",
+            "view_count": "422702",
             "thumbnail_url": "https://i.ytimg.com/vi/we76LsvjdVM/hqdefault.jpg"
+        },
+        {
+            "video_id": "BeAtKTtf-ZE",
+            "title": "[무공해] 강하늘이랑 무조건 공감합니다",
+            "channel_name": "유병재",
+            "category": "Comedy",
+            "duration": "30:00",
+            "view_count": "385914",
+            "thumbnail_url": "https://i.ytimg.com/vi/BeAtKTtf-ZE/hqdefault.jpg"
+        },
+        {
+            "video_id": "X0PQZoJ2d2M",
+            "title": "[#음중직캠] ALLDAY PROJECT (올데이 프로젝트) – FAMOUS 1위 직캠 | 쇼! 음악중심 | MBC250719",
+            "channel_name": "MBCkpop",
+            "category": "Music",
+            "duration": "5:55",
+            "view_count": "451592",
+            "thumbnail_url": "https://i.ytimg.com/vi/X0PQZoJ2d2M/hqdefault.jpg"
         },
         {
             "video_id": "DI0Hd2R8LXA",
@@ -88,7 +151,7 @@
             "channel_name": "흙심인대호",
             "category": "Entertainment",
             "duration": "25:39",
-            "view_count": "962135",
+            "view_count": "972942",
             "thumbnail_url": "https://i.ytimg.com/vi/DI0Hd2R8LXA/hqdefault.jpg"
         },
         {
@@ -97,8 +160,53 @@
             "channel_name": "김완선 TV",
             "category": "Howto & Style",
             "duration": "17:50",
-            "view_count": "255302",
+            "view_count": "257568",
             "thumbnail_url": "https://i.ytimg.com/vi/G2upAYr57yQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "NQQaCYsQ4J4",
+            "title": "🔗윤도현X이찬혁 - 파노라마ㅣ이찬혁 ➡ YBㅣ#라이브와이어 5화 | Mnet 250718 방송",
+            "channel_name": "Mnet TV",
+            "category": "Entertainment",
+            "duration": "3:33",
+            "view_count": "164706",
+            "thumbnail_url": "https://i.ytimg.com/vi/NQQaCYsQ4J4/hqdefault.jpg"
+        },
+        {
+            "video_id": "1K3mLImIrpA",
+            "title": "요트까지 동원한 손태영♥권상우 럭셔리 이태리 가족여행 최종화 (+또 한번 이별)",
+            "channel_name": "Mrs.뉴저지 손태영",
+            "category": "People & Blogs",
+            "duration": "22:02",
+            "view_count": "216068",
+            "thumbnail_url": "https://i.ytimg.com/vi/1K3mLImIrpA/hqdefault.jpg"
+        },
+        {
+            "video_id": "AcNAKRujdPU",
+            "title": "OSAKA Ojo Gang FASHION - Interview STYLING - No Edit - 자막이 있어 - ENG SUBS",
+            "channel_name": "IBUKI IMATA",
+            "category": "Entertainment",
+            "duration": "16:13",
+            "view_count": "147534",
+            "thumbnail_url": "https://i.ytimg.com/vi/AcNAKRujdPU/hqdefault.jpg"
+        },
+        {
+            "video_id": "_Y25jp1LMyw",
+            "title": "[선공개] 장훈이는 대회 경험이 어떻게 돼? 어마어마한 농구 커리어로 서장훈 누른(!) 박정은🏀 ㅋㅋ | 아는 형님 491회",
+            "channel_name": "아는형님 Knowingbros",
+            "category": "Entertainment",
+            "duration": "4:35",
+            "view_count": "215319",
+            "thumbnail_url": "https://i.ytimg.com/vi/_Y25jp1LMyw/hqdefault.jpg"
+        },
+        {
+            "video_id": "Tuud70SDkks",
+            "title": "엄마를 그리워하는 튀르키예 아내를 위해서 장모님 한국에 초대했습니다",
+            "channel_name": "이패밀리 [Lee Family]",
+            "category": "Comedy",
+            "duration": "19:04",
+            "view_count": "123445",
+            "thumbnail_url": "https://i.ytimg.com/vi/Tuud70SDkks/hqdefault.jpg"
         },
         {
             "video_id": "1pmBv0AqqI4",
@@ -106,7 +214,7 @@
             "channel_name": "MUSINSA TV",
             "category": "Entertainment",
             "duration": "24:41",
-            "view_count": "173569",
+            "view_count": "175954",
             "thumbnail_url": "https://i.ytimg.com/vi/1pmBv0AqqI4/hqdefault.jpg"
         },
         {
@@ -115,7 +223,7 @@
             "channel_name": "DSPmedia",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "174931",
+            "view_count": "177244",
             "thumbnail_url": "https://i.ytimg.com/vi/Q4dXnNySzeA/hqdefault.jpg"
         },
         {
@@ -124,7 +232,7 @@
             "channel_name": "솔라시도 solarsido",
             "category": "People & Blogs",
             "duration": "1:56",
-            "view_count": "481682",
+            "view_count": "485871",
             "thumbnail_url": "https://i.ytimg.com/vi/THkxkhBWrdA/hqdefault.jpg"
         },
         {
@@ -133,17 +241,8 @@
             "channel_name": "권순일 of 어반자카파 UrbanKwon",
             "category": "Music",
             "duration": "3:13",
-            "view_count": "231053",
+            "view_count": "233933",
             "thumbnail_url": "https://i.ytimg.com/vi/mW90rw8vfP0/hqdefault.jpg"
-        },
-        {
-            "video_id": "uPEMBR_aFK8",
-            "title": "[익산 따라가기] 한여름에 콩나물국밥 한그릇 때리고 낮3시에 호프집 오픈런ㅣ🍜🚶맛따라 멋따라 대명이따라",
-            "channel_name": "채널십오야",
-            "category": "Entertainment",
-            "duration": "45:55",
-            "view_count": "526266",
-            "thumbnail_url": "https://i.ytimg.com/vi/uPEMBR_aFK8/hqdefault.jpg"
         },
         {
             "video_id": "j3WBiS68Kco",
@@ -151,7 +250,7 @@
             "channel_name": "MBCentertainment",
             "category": "Entertainment",
             "duration": "3:08",
-            "view_count": "371335",
+            "view_count": "374786",
             "thumbnail_url": "https://i.ytimg.com/vi/j3WBiS68Kco/hqdefault.jpg"
         },
         {
@@ -160,8 +259,17 @@
             "channel_name": "이미숙_숙스러운 미숙씨",
             "category": "People & Blogs",
             "duration": "26:32",
-            "view_count": "364649",
+            "view_count": "365900",
             "thumbnail_url": "https://i.ytimg.com/vi/yAnYRtv6vo0/hqdefault.jpg"
+        },
+        {
+            "video_id": "uPEMBR_aFK8",
+            "title": "[익산 따라가기] 한여름에 콩나물국밥 한그릇 때리고 낮3시에 호프집 오픈런ㅣ🍜🚶맛따라 멋따라 대명이따라",
+            "channel_name": "채널십오야",
+            "category": "Entertainment",
+            "duration": "45:55",
+            "view_count": "535000",
+            "thumbnail_url": "https://i.ytimg.com/vi/uPEMBR_aFK8/hqdefault.jpg"
         },
         {
             "video_id": "ePlIj2XZipM",
@@ -169,7 +277,7 @@
             "channel_name": "박다혜dahye",
             "category": "Music",
             "duration": "3:11",
-            "view_count": "488616",
+            "view_count": "491660",
             "thumbnail_url": "https://i.ytimg.com/vi/ePlIj2XZipM/hqdefault.jpg"
         },
         {
@@ -178,7 +286,7 @@
             "channel_name": "원신",
             "category": "Entertainment",
             "duration": "39:49",
-            "view_count": "114628",
+            "view_count": "114721",
             "thumbnail_url": "https://i.ytimg.com/vi/MkRmw7IRbmg/hqdefault.jpg"
         },
         {
@@ -187,26 +295,8 @@
             "channel_name": "1theK (원더케이)",
             "category": "Music",
             "duration": "3:43",
-            "view_count": "135947",
+            "view_count": "137209",
             "thumbnail_url": "https://i.ytimg.com/vi/qRNFkdTE7sU/hqdefault.jpg"
-        },
-        {
-            "video_id": "y3W1ew1pamY",
-            "title": "눈부셨던 하루💖축하 메시지 모음.zip💌 [준호 지민 EP.21]",
-            "channel_name": "준호 지민",
-            "category": "Entertainment",
-            "duration": "15:36",
-            "view_count": "406100",
-            "thumbnail_url": "https://i.ytimg.com/vi/y3W1ew1pamY/hqdefault.jpg"
-        },
-        {
-            "video_id": "F28lRubLEKs",
-            "title": "SUPER JUNIOR (슈퍼주니어)의 킬링보이스를 라이브로! – 쏘리 쏘리, U, Miracle, Express Mode, 로꾸거, 너라고, | 딩고뮤직 | Dingo Music",
-            "channel_name": "딩고 뮤직 / dingo music",
-            "category": "Music",
-            "duration": "25:38",
-            "view_count": "2415956",
-            "thumbnail_url": "https://i.ytimg.com/vi/F28lRubLEKs/hqdefault.jpg"
         },
         {
             "video_id": "Pb5g0T4SojE",
@@ -214,17 +304,8 @@
             "channel_name": "지유롭게",
             "category": "People & Blogs",
             "duration": "21:34",
-            "view_count": "156716",
+            "view_count": "157826",
             "thumbnail_url": "https://i.ytimg.com/vi/Pb5g0T4SojE/hqdefault.jpg"
-        },
-        {
-            "video_id": "19oT04OuBhg",
-            "title": "이찬혁 (LEE CHANHYUK) - '멸종위기사랑' M/V",
-            "channel_name": "AKMU",
-            "category": "Music",
-            "duration": "3:50",
-            "view_count": "597561",
-            "thumbnail_url": "https://i.ytimg.com/vi/19oT04OuBhg/hqdefault.jpg"
         },
         {
             "video_id": "YPAdOIuMo9c",
@@ -232,35 +313,8 @@
             "channel_name": "미미미누",
             "category": "Education",
             "duration": "24:49",
-            "view_count": "1023590",
+            "view_count": "1026692",
             "thumbnail_url": "https://i.ytimg.com/vi/YPAdOIuMo9c/hqdefault.jpg"
-        },
-        {
-            "video_id": "b9CCJMJGHJQ",
-            "title": "Dark Arts",
-            "channel_name": "aespa - Topic",
-            "category": "Music",
-            "duration": "3:02",
-            "view_count": "1230295",
-            "thumbnail_url": "https://i.ytimg.com/vi/b9CCJMJGHJQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "uFq9f511Mus",
-            "title": "살어리 살어리랏다 캠핑에 살어리랏다 | 헝아랑 캠핑⛺️",
-            "channel_name": "임영웅",
-            "category": "People & Blogs",
-            "duration": "18:08",
-            "view_count": "356161",
-            "thumbnail_url": "https://i.ytimg.com/vi/uFq9f511Mus/hqdefault.jpg"
-        },
-        {
-            "video_id": "gL7xQ6EYtXY",
-            "title": "장영란도 혀를 내두른 '도합 90세 신혼부부'의 상상초월 연애스토리 (미자네 주막,개그맨 김태현)",
-            "channel_name": "A급 장영란",
-            "category": "Entertainment",
-            "duration": "21:22",
-            "view_count": "425998",
-            "thumbnail_url": "https://i.ytimg.com/vi/gL7xQ6EYtXY/hqdefault.jpg"
         },
         {
             "video_id": "J-ak9ngomuQ",
@@ -268,7 +322,7 @@
             "channel_name": "육식맨 YOOXICMAN",
             "category": "Entertainment",
             "duration": "31:05",
-            "view_count": "451515",
+            "view_count": "452902",
             "thumbnail_url": "https://i.ytimg.com/vi/J-ak9ngomuQ/hqdefault.jpg"
         },
         {
@@ -277,7 +331,7 @@
             "channel_name": "JAYKEEOUT 제이키아웃",
             "category": "Entertainment",
             "duration": "27:55",
-            "view_count": "539081",
+            "view_count": "540336",
             "thumbnail_url": "https://i.ytimg.com/vi/Si1qBzqpWxY/hqdefault.jpg"
         },
         {
@@ -286,7 +340,7 @@
             "channel_name": "ITSub잇섭",
             "category": "Science & Technology",
             "duration": "21:49",
-            "view_count": "1427228",
+            "view_count": "1428589",
             "thumbnail_url": "https://i.ytimg.com/vi/YQ3rs9uy0pM/hqdefault.jpg"
         },
         {
@@ -295,17 +349,8 @@
             "channel_name": "김대석 셰프TV",
             "category": "Howto & Style",
             "duration": "9:36",
-            "view_count": "474492",
+            "view_count": "474946",
             "thumbnail_url": "https://i.ytimg.com/vi/TALCucXOgiQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "LuCHi6Vi1KU",
-            "title": "[EN] 부성애란 이런 걸까...? | 대배우스윙스 EP.05",
-            "channel_name": "M드로메다 스튜디오",
-            "category": "Entertainment",
-            "duration": "29:56",
-            "view_count": "1068320",
-            "thumbnail_url": "https://i.ytimg.com/vi/LuCHi6Vi1KU/hqdefault.jpg"
         },
         {
             "video_id": "9WHKq152AbQ",
@@ -313,7 +358,7 @@
             "channel_name": "함께해요 맛나요리",
             "category": "Howto & Style",
             "duration": "8:19",
-            "view_count": "499072",
+            "view_count": "499613",
             "thumbnail_url": "https://i.ytimg.com/vi/9WHKq152AbQ/hqdefault.jpg"
         },
         {
@@ -322,7 +367,7 @@
             "channel_name": "총몇명",
             "category": "Film & Animation",
             "duration": "4:36",
-            "view_count": "1156144",
+            "view_count": "1157901",
             "thumbnail_url": "https://i.ytimg.com/vi/vFn11YkgX4M/hqdefault.jpg"
         },
         {
@@ -331,53 +376,8 @@
             "channel_name": "미란이네 알렉스",
             "category": "People & Blogs",
             "duration": "33:56",
-            "view_count": "436771",
+            "view_count": "437712",
             "thumbnail_url": "https://i.ytimg.com/vi/aCcEtVHU-uA/hqdefault.jpg"
-        },
-        {
-            "video_id": "cM6DXASs9Is",
-            "title": "스위치온 다이어트가 끝났습니다. 몇 kg 빠졌을까요?",
-            "channel_name": "일주어터",
-            "category": "People & Blogs",
-            "duration": "25:10",
-            "view_count": "241829",
-            "thumbnail_url": "https://i.ytimg.com/vi/cM6DXASs9Is/hqdefault.jpg"
-        },
-        {
-            "video_id": "7a3U-iBzs7g",
-            "title": "이제는 강을 건너버린 유부남의 실험실",
-            "channel_name": "술익는집",
-            "category": "Howto & Style",
-            "duration": "8:49",
-            "view_count": "177582",
-            "thumbnail_url": "https://i.ytimg.com/vi/7a3U-iBzs7g/hqdefault.jpg"
-        },
-        {
-            "video_id": "6NsJS5DuBqE",
-            "title": "요요 김경은 일주일 -5kg 다이어트 간다.",
-            "channel_name": "다나나",
-            "category": "People & Blogs",
-            "duration": "37:05",
-            "view_count": "803751",
-            "thumbnail_url": "https://i.ytimg.com/vi/6NsJS5DuBqE/hqdefault.jpg"
-        },
-        {
-            "video_id": "DyY-gNeKYVI",
-            "title": "영상이 늦어진 이유입니다",
-            "channel_name": "보겸TV",
-            "category": "Entertainment",
-            "duration": "11:35",
-            "view_count": "2743316",
-            "thumbnail_url": "https://i.ytimg.com/vi/DyY-gNeKYVI/hqdefault.jpg"
-        },
-        {
-            "video_id": "Lx9OvlpBsb0",
-            "title": "걷기 힘들어진 쌍둥이 막달..😵거의 다 왔다!💪🏻대체 배가 어디까지 나오는걸까..?",
-            "channel_name": "김키미kimmy kim",
-            "category": "Entertainment",
-            "duration": "13:23",
-            "view_count": "417172",
-            "thumbnail_url": "https://i.ytimg.com/vi/Lx9OvlpBsb0/hqdefault.jpg"
         }
     ]
 }
