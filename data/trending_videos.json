@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-07-27 23:12:43",
+    "scraped_time": "2025-07-28 00:13:40",
     "videos": [
         {
             "video_id": "qEZfb_XQtmg",
@@ -7,7 +7,7 @@
             "channel_name": "Sohyang",
             "category": "Music",
             "duration": "3:12",
-            "view_count": "288809",
+            "view_count": "302851",
             "thumbnail_url": "https://i.ytimg.com/vi/qEZfb_XQtmg/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "기묘한 케이지",
             "category": "Entertainment",
             "duration": "13:05",
-            "view_count": "126882",
+            "view_count": "128942",
             "thumbnail_url": "https://i.ytimg.com/vi/C90u0hBa5jA/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "5:57:06",
-            "view_count": "2465884",
+            "view_count": "2487896",
             "thumbnail_url": "https://i.ytimg.com/vi/gHsa0mBF8vw/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "HUNTR/X - Topic",
             "category": "Music",
             "duration": "2:57",
-            "view_count": "1122958",
+            "view_count": "1141120",
             "thumbnail_url": "https://i.ytimg.com/vi/bAYfwpU6guo/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "1:51",
-            "view_count": "2298631",
+            "view_count": "2306729",
             "thumbnail_url": "https://i.ytimg.com/vi/Kubud_aEkN0/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "Wolf",
             "category": "Gaming",
             "duration": "1:06:19",
-            "view_count": "515571",
+            "view_count": "519167",
             "thumbnail_url": "https://i.ytimg.com/vi/5dvPcKL2280/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "바다 BADA",
             "category": "Entertainment",
             "duration": "3:05",
-            "view_count": "1521808",
+            "view_count": "1533715",
             "thumbnail_url": "https://i.ytimg.com/vi/UJNVGZzyAcs/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:48",
-            "view_count": "331055",
+            "view_count": "331833",
             "thumbnail_url": "https://i.ytimg.com/vi/wSut0ei9G2k/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "20:21",
-            "view_count": "375366",
+            "view_count": "380802",
             "thumbnail_url": "https://i.ytimg.com/vi/q6TiXZKbHXU/hqdefault.jpg"
         },
         {
@@ -88,26 +88,8 @@
             "channel_name": "ardenBcho",
             "category": "People & Blogs",
             "duration": "2:45",
-            "view_count": "340128",
+            "view_count": "357095",
             "thumbnail_url": "https://i.ytimg.com/vi/K5cOvVrHo0Q/hqdefault.jpg"
-        },
-        {
-            "video_id": "uYRSG2k8taI",
-            "title": "감스트 GTA5 복귀!!!",
-            "channel_name": "감스트GAMST",
-            "category": "Gaming",
-            "duration": "15:41",
-            "view_count": "407193",
-            "thumbnail_url": "https://i.ytimg.com/vi/uYRSG2k8taI/hqdefault.jpg"
-        },
-        {
-            "video_id": "PKT-y0e--Zc",
-            "title": "GOLDEN - HUNTR/X (KPop Demon Hunters) Cover by AILEE 에일리",
-            "channel_name": "[에일리 OFFICIAL] aileemusic",
-            "category": "Music",
-            "duration": "3:25",
-            "view_count": "1281157",
-            "thumbnail_url": "https://i.ytimg.com/vi/PKT-y0e--Zc/hqdefault.jpg"
         },
         {
             "video_id": "Z2Oz1XQwq3Y",
@@ -115,8 +97,26 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "28:29",
-            "view_count": "107531",
+            "view_count": "117544",
             "thumbnail_url": "https://i.ytimg.com/vi/Z2Oz1XQwq3Y/hqdefault.jpg"
+        },
+        {
+            "video_id": "PKT-y0e--Zc",
+            "title": "GOLDEN - HUNTR/X (KPop Demon Hunters) Cover by AILEE 에일리",
+            "channel_name": "[에일리 OFFICIAL] aileemusic",
+            "category": "Music",
+            "duration": "3:25",
+            "view_count": "1294419",
+            "thumbnail_url": "https://i.ytimg.com/vi/PKT-y0e--Zc/hqdefault.jpg"
+        },
+        {
+            "video_id": "uYRSG2k8taI",
+            "title": "감스트 GTA5 복귀!!!",
+            "channel_name": "감스트GAMST",
+            "category": "Gaming",
+            "duration": "15:41",
+            "view_count": "414068",
+            "thumbnail_url": "https://i.ytimg.com/vi/uYRSG2k8taI/hqdefault.jpg"
         },
         {
             "video_id": "slUTl_CtMR0",
@@ -124,62 +124,8 @@
             "channel_name": "Monday Kiz - Topic",
             "category": "Music",
             "duration": "4:19",
-            "view_count": "12193",
+            "view_count": "16955",
             "thumbnail_url": "https://i.ytimg.com/vi/slUTl_CtMR0/hqdefault.jpg"
-        },
-        {
-            "video_id": "QMB5fT8WDxM",
-            "title": "(※실제상황) 구독자 만났는데 자기 누나 소개시켜준다고 초대함;;;",
-            "channel_name": "혜안",
-            "category": "Gaming",
-            "duration": "16:20",
-            "view_count": "244059",
-            "thumbnail_url": "https://i.ytimg.com/vi/QMB5fT8WDxM/hqdefault.jpg"
-        },
-        {
-            "video_id": "YiaLz_jlT-8",
-            "title": "Kinda Like",
-            "channel_name": "Bruklin - Topic",
-            "category": "Music",
-            "duration": "2:44",
-            "view_count": "632443",
-            "thumbnail_url": "https://i.ytimg.com/vi/YiaLz_jlT-8/hqdefault.jpg"
-        },
-        {
-            "video_id": "8SE470RjeFw",
-            "title": "잼못타 커플 미션 실패!? 백현과 모양몬 진짜 데이트했습니다..",
-            "channel_name": "백앤아",
-            "category": "Gaming",
-            "duration": "14:28",
-            "view_count": "415323",
-            "thumbnail_url": "https://i.ytimg.com/vi/8SE470RjeFw/hqdefault.jpg"
-        },
-        {
-            "video_id": "q6RZvFy3DD4",
-            "title": "Sweet Escape",
-            "channel_name": "Velvet Funk - Topic",
-            "category": "Music",
-            "duration": "2:58",
-            "view_count": "248959",
-            "thumbnail_url": "https://i.ytimg.com/vi/q6RZvFy3DD4/hqdefault.jpg"
-        },
-        {
-            "video_id": "RIKWPKj2AD4",
-            "title": "강화의 신 팡이요, 새로운 역사를 쓰다 \"샤타포스 2화\" [팡이요,  메이플스토리]",
-            "channel_name": "팡이요",
-            "category": "Gaming",
-            "duration": "16:02",
-            "view_count": "348273",
-            "thumbnail_url": "https://i.ytimg.com/vi/RIKWPKj2AD4/hqdefault.jpg"
-        },
-        {
-            "video_id": "0u1KSKZ02yw",
-            "title": "Love Is Gone (with JOSHUA of SEVENTEEN)",
-            "channel_name": "SLANDER - Topic",
-            "category": "Music",
-            "duration": "2:59",
-            "view_count": "296908",
-            "thumbnail_url": "https://i.ytimg.com/vi/0u1KSKZ02yw/hqdefault.jpg"
         },
         {
             "video_id": "fPjd5LqVugQ",
@@ -187,8 +133,62 @@
             "channel_name": "타튜브 [TATUBE]",
             "category": "Gaming",
             "duration": "17:51",
-            "view_count": "75102",
+            "view_count": "88095",
             "thumbnail_url": "https://i.ytimg.com/vi/fPjd5LqVugQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "YiaLz_jlT-8",
+            "title": "Kinda Like",
+            "channel_name": "Bruklin - Topic",
+            "category": "Music",
+            "duration": "2:44",
+            "view_count": "637084",
+            "thumbnail_url": "https://i.ytimg.com/vi/YiaLz_jlT-8/hqdefault.jpg"
+        },
+        {
+            "video_id": "QMB5fT8WDxM",
+            "title": "(※실제상황) 구독자 만났는데 자기 누나 소개시켜준다고 초대함;;;",
+            "channel_name": "혜안",
+            "category": "Gaming",
+            "duration": "16:20",
+            "view_count": "247761",
+            "thumbnail_url": "https://i.ytimg.com/vi/QMB5fT8WDxM/hqdefault.jpg"
+        },
+        {
+            "video_id": "q6RZvFy3DD4",
+            "title": "Sweet Escape",
+            "channel_name": "Velvet Funk - Topic",
+            "category": "Music",
+            "duration": "2:58",
+            "view_count": "255271",
+            "thumbnail_url": "https://i.ytimg.com/vi/q6RZvFy3DD4/hqdefault.jpg"
+        },
+        {
+            "video_id": "8SE470RjeFw",
+            "title": "잼못타 커플 미션 실패!? 백현과 모양몬 진짜 데이트했습니다..",
+            "channel_name": "백앤아",
+            "category": "Gaming",
+            "duration": "14:28",
+            "view_count": "422303",
+            "thumbnail_url": "https://i.ytimg.com/vi/8SE470RjeFw/hqdefault.jpg"
+        },
+        {
+            "video_id": "0u1KSKZ02yw",
+            "title": "Love Is Gone (with JOSHUA of SEVENTEEN)",
+            "channel_name": "SLANDER - Topic",
+            "category": "Music",
+            "duration": "2:59",
+            "view_count": "301111",
+            "thumbnail_url": "https://i.ytimg.com/vi/0u1KSKZ02yw/hqdefault.jpg"
+        },
+        {
+            "video_id": "RIKWPKj2AD4",
+            "title": "강화의 신 팡이요, 새로운 역사를 쓰다 \"샤타포스 2화\" [팡이요,  메이플스토리]",
+            "channel_name": "팡이요",
+            "category": "Gaming",
+            "duration": "16:02",
+            "view_count": "350612",
+            "thumbnail_url": "https://i.ytimg.com/vi/RIKWPKj2AD4/hqdefault.jpg"
         },
         {
             "video_id": "_YpDYkTuzyc",
@@ -196,7 +196,7 @@
             "channel_name": "KATSEYE - Topic",
             "category": "Music",
             "duration": "3:06",
-            "view_count": "434502",
+            "view_count": "440651",
             "thumbnail_url": "https://i.ytimg.com/vi/_YpDYkTuzyc/hqdefault.jpg"
         },
         {
@@ -205,26 +205,8 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "22:00",
-            "view_count": "205555",
+            "view_count": "208481",
             "thumbnail_url": "https://i.ytimg.com/vi/NoSfqSVPJPU/hqdefault.jpg"
-        },
-        {
-            "video_id": "9rWdaL5Q3u0",
-            "title": "Floating Free (Korean Ver.) (Floating Free (Korean Ver.))",
-            "channel_name": "Solar - Topic",
-            "category": "Music",
-            "duration": "3:25",
-            "view_count": "54422",
-            "thumbnail_url": "https://i.ytimg.com/vi/9rWdaL5Q3u0/hqdefault.jpg"
-        },
-        {
-            "video_id": "5s4Uhfb_C_Q",
-            "title": "맛있게 떨어지기 위해 점수를 올리는 사나이",
-            "channel_name": "이상호",
-            "category": "Gaming",
-            "duration": "22:54",
-            "view_count": "236899",
-            "thumbnail_url": "https://i.ytimg.com/vi/5s4Uhfb_C_Q/hqdefault.jpg"
         },
         {
             "video_id": "CMNEELCR8Sw",
@@ -232,44 +214,26 @@
             "channel_name": "10CM - Topic",
             "category": "Music",
             "duration": "4:20",
-            "view_count": "139217",
+            "view_count": "142248",
             "thumbnail_url": "https://i.ytimg.com/vi/CMNEELCR8Sw/hqdefault.jpg"
         },
         {
-            "video_id": "2ZXumNR-XQY",
-            "title": "새로운 용암 시크릿들이 쏟아진다!!? 신규 이스터에그 소환들도 등장!!! ㄷㄷ;; 역대급 업데이트 와 ㅋㅋㅋㅋㅋㅋㅋㅋ (로블록스 브레인롯훔치기)",
-            "channel_name": "쉐어TV",
+            "video_id": "5s4Uhfb_C_Q",
+            "title": "맛있게 떨어지기 위해 점수를 올리는 사나이",
+            "channel_name": "이상호",
             "category": "Gaming",
-            "duration": "20:27",
-            "view_count": "294469",
-            "thumbnail_url": "https://i.ytimg.com/vi/2ZXumNR-XQY/hqdefault.jpg"
+            "duration": "22:54",
+            "view_count": "240572",
+            "thumbnail_url": "https://i.ytimg.com/vi/5s4Uhfb_C_Q/hqdefault.jpg"
         },
         {
-            "video_id": "_PZ-ot4FIyg",
-            "title": "Star",
-            "channel_name": "Halsoon - Topic",
+            "video_id": "9rWdaL5Q3u0",
+            "title": "Floating Free (Korean Ver.) (Floating Free (Korean Ver.))",
+            "channel_name": "Solar - Topic",
             "category": "Music",
-            "duration": "2:47",
-            "view_count": "109061",
-            "thumbnail_url": "https://i.ytimg.com/vi/_PZ-ot4FIyg/hqdefault.jpg"
-        },
-        {
-            "video_id": "se6KT5oYzAU",
-            "title": "\"T1의 MSI 패배가 만든 홈그라운드 승리\"",
-            "channel_name": "프로관전러 P.S",
-            "category": "Gaming",
-            "duration": "23:35",
-            "view_count": "247319",
-            "thumbnail_url": "https://i.ytimg.com/vi/se6KT5oYzAU/hqdefault.jpg"
-        },
-        {
-            "video_id": "xwDDQggm92E",
-            "title": "All of It Lost Its Meaning (Feat. Hollow Young, 김승민)",
-            "channel_name": "Ourealgoat - Topic",
-            "category": "Music",
-            "duration": "3:58",
-            "view_count": "18152",
-            "thumbnail_url": "https://i.ytimg.com/vi/xwDDQggm92E/hqdefault.jpg"
+            "duration": "3:25",
+            "view_count": "55727",
+            "thumbnail_url": "https://i.ytimg.com/vi/9rWdaL5Q3u0/hqdefault.jpg"
         },
         {
             "video_id": "J8tQ6UNoj8c",
@@ -277,8 +241,44 @@
             "channel_name": "우주하마",
             "category": "Gaming",
             "duration": "41:41",
-            "view_count": "128406",
+            "view_count": "139669",
             "thumbnail_url": "https://i.ytimg.com/vi/J8tQ6UNoj8c/hqdefault.jpg"
+        },
+        {
+            "video_id": "_PZ-ot4FIyg",
+            "title": "Star",
+            "channel_name": "Halsoon - Topic",
+            "category": "Music",
+            "duration": "2:47",
+            "view_count": "112230",
+            "thumbnail_url": "https://i.ytimg.com/vi/_PZ-ot4FIyg/hqdefault.jpg"
+        },
+        {
+            "video_id": "0SkZEVInd3w",
+            "title": "펍지 네이션스 컵 2025 파이널 스테이지 3일차 l PNC 2025 l 배틀그라운드",
+            "channel_name": "배틀그라운드 이스포츠",
+            "category": "Gaming",
+            "duration": "5:30:01",
+            "view_count": "124466",
+            "thumbnail_url": "https://i.ytimg.com/vi/0SkZEVInd3w/hqdefault.jpg"
+        },
+        {
+            "video_id": "xwDDQggm92E",
+            "title": "All of It Lost Its Meaning (Feat. Hollow Young, 김승민)",
+            "channel_name": "Ourealgoat - Topic",
+            "category": "Music",
+            "duration": "3:58",
+            "view_count": "18661",
+            "thumbnail_url": "https://i.ytimg.com/vi/xwDDQggm92E/hqdefault.jpg"
+        },
+        {
+            "video_id": "LGdRymaxx78",
+            "title": "ONE. STILL. FOREVER",
+            "channel_name": "T1",
+            "category": "Gaming",
+            "duration": "1:26",
+            "view_count": "37905",
+            "thumbnail_url": "https://i.ytimg.com/vi/LGdRymaxx78/hqdefault.jpg"
         },
         {
             "video_id": "ugPQ6aTf86c",
@@ -286,17 +286,17 @@
             "channel_name": "Sandeul - Topic",
             "category": "Music",
             "duration": "3:40",
-            "view_count": "86239",
+            "view_count": "88617",
             "thumbnail_url": "https://i.ytimg.com/vi/ugPQ6aTf86c/hqdefault.jpg"
         },
         {
-            "video_id": "8HPxW8b4dGE",
-            "title": "챌린저 구간에서 만난 의문의 유나라 장인",
-            "channel_name": "클리드",
+            "video_id": "n1rR8oq1Y08",
+            "title": "새롭게 추가된 소환방법으로 숨은 이스터에그 찾아보기!!!! 온갖 브레인 총 출동 ㅋㅋㅋㅋㅋㅋ(로블록스 브레인롯훔치기)",
+            "channel_name": "쉐어TV",
             "category": "Gaming",
-            "duration": "20:49",
-            "view_count": "173299",
-            "thumbnail_url": "https://i.ytimg.com/vi/8HPxW8b4dGE/hqdefault.jpg"
+            "duration": "17:02",
+            "view_count": "96662",
+            "thumbnail_url": "https://i.ytimg.com/vi/n1rR8oq1Y08/hqdefault.jpg"
         },
         {
             "video_id": "nZ3fRiYsH2k",
@@ -304,17 +304,17 @@
             "channel_name": "mgk - Topic",
             "category": "Music",
             "duration": "3:24",
-            "view_count": "165462",
+            "view_count": "168823",
             "thumbnail_url": "https://i.ytimg.com/vi/nZ3fRiYsH2k/hqdefault.jpg"
         },
         {
-            "video_id": "p0j10Isj__8",
-            "title": "이번 업뎃은 진짜 레전드..... 1% 오염된 구미호와 레인보우 고요 블라썸까지!! (로블록스 그로우 어 가든)",
-            "channel_name": "말량",
+            "video_id": "se6KT5oYzAU",
+            "title": "\"T1의 MSI 패배가 만든 홈그라운드 승리\"",
+            "channel_name": "프로관전러 P.S",
             "category": "Gaming",
-            "duration": "27:37",
-            "view_count": "75546",
-            "thumbnail_url": "https://i.ytimg.com/vi/p0j10Isj__8/hqdefault.jpg"
+            "duration": "23:35",
+            "view_count": "249619",
+            "thumbnail_url": "https://i.ytimg.com/vi/se6KT5oYzAU/hqdefault.jpg"
         },
         {
             "video_id": "7iA1-q2Enzw",
@@ -322,26 +322,8 @@
             "channel_name": "PENOMECO - Topic",
             "category": "Music",
             "duration": "3:10",
-            "view_count": "37607",
+            "view_count": "38265",
             "thumbnail_url": "https://i.ytimg.com/vi/7iA1-q2Enzw/hqdefault.jpg"
-        },
-        {
-            "video_id": "UUIfRhPWnAI",
-            "title": "게임 시작 2분만에 건물로 상대를 일 못하게 만들었더니 눈 뒤집혀버린 상대ㅋㅋ",
-            "channel_name": "[ALTUBE] 김성현TV",
-            "category": "Gaming",
-            "duration": "23:57",
-            "view_count": "159952",
-            "thumbnail_url": "https://i.ytimg.com/vi/UUIfRhPWnAI/hqdefault.jpg"
-        },
-        {
-            "video_id": "BI9Ue6JwJic",
-            "title": "DECO*27 - チェリーポップ feat. 初音ミク",
-            "channel_name": "DECO*27",
-            "category": "Music",
-            "duration": "2:23",
-            "view_count": "1251606",
-            "thumbnail_url": "https://i.ytimg.com/vi/BI9Ue6JwJic/hqdefault.jpg"
         },
         {
             "video_id": "xReuRGNhQFw",
@@ -349,8 +331,44 @@
             "channel_name": "김왼팔",
             "category": "Gaming",
             "duration": "26:00",
-            "view_count": "43050",
+            "view_count": "54696",
             "thumbnail_url": "https://i.ytimg.com/vi/xReuRGNhQFw/hqdefault.jpg"
+        },
+        {
+            "video_id": "M7FOgxCdr1g",
+            "title": "That Place, That Time",
+            "channel_name": "LEE CHANGSUB - Topic",
+            "category": "Music",
+            "duration": "3:44",
+            "view_count": "6857",
+            "thumbnail_url": "https://i.ytimg.com/vi/M7FOgxCdr1g/hqdefault.jpg"
+        },
+        {
+            "video_id": "8HPxW8b4dGE",
+            "title": "챌린저 구간에서 만난 의문의 유나라 장인",
+            "channel_name": "클리드",
+            "category": "Gaming",
+            "duration": "20:49",
+            "view_count": "176052",
+            "thumbnail_url": "https://i.ytimg.com/vi/8HPxW8b4dGE/hqdefault.jpg"
+        },
+        {
+            "video_id": "BI9Ue6JwJic",
+            "title": "DECO*27 - チェリーポップ feat. 初音ミク",
+            "channel_name": "DECO*27",
+            "category": "Music",
+            "duration": "2:23",
+            "view_count": "1270918",
+            "thumbnail_url": "https://i.ytimg.com/vi/BI9Ue6JwJic/hqdefault.jpg"
+        },
+        {
+            "video_id": "p0j10Isj__8",
+            "title": "이번 업뎃은 진짜 레전드..... 1% 오염된 구미호와 레인보우 고요 블라썸까지!! (로블록스 그로우 어 가든)",
+            "channel_name": "말량",
+            "category": "Gaming",
+            "duration": "27:37",
+            "view_count": "78466",
+            "thumbnail_url": "https://i.ytimg.com/vi/p0j10Isj__8/hqdefault.jpg"
         },
         {
             "video_id": "hv0c8ez-slo",
@@ -358,26 +376,8 @@
             "channel_name": "Jo Hyun Ah (Urban Zakapa) - Topic",
             "category": "Music",
             "duration": "4:47",
-            "view_count": "68161",
+            "view_count": "68913",
             "thumbnail_url": "https://i.ytimg.com/vi/hv0c8ez-slo/hqdefault.jpg"
-        },
-        {
-            "video_id": "hjzy-NOne-E",
-            "title": "사이온이 강심 1000스택을 쌓으면 생기는 일😱😱",
-            "channel_name": "전략적죽음",
-            "category": "Gaming",
-            "duration": "26:29",
-            "view_count": "147455",
-            "thumbnail_url": "https://i.ytimg.com/vi/hjzy-NOne-E/hqdefault.jpg"
-        },
-        {
-            "video_id": "raxubB2G2p8",
-            "title": "F*cked Up",
-            "channel_name": "SAAY - Topic",
-            "category": "Music",
-            "duration": "3:44",
-            "view_count": "35252",
-            "thumbnail_url": "https://i.ytimg.com/vi/raxubB2G2p8/hqdefault.jpg"
         }
     ]
 }
