@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-07-29 05:17:04",
+    "scraped_time": "2025-07-29 06:13:55",
     "videos": [
         {
             "video_id": "slUTl_CtMR0",
@@ -7,17 +7,17 @@
             "channel_name": "Monday Kiz - Topic",
             "category": "Music",
             "duration": "4:19",
-            "view_count": "181749",
+            "view_count": "183150",
             "thumbnail_url": "https://i.ytimg.com/vi/slUTl_CtMR0/hqdefault.jpg"
         },
         {
-            "video_id": "nb_fFj_0rq8",
-            "title": "Avatar: Fire and Ash | Official Trailer",
-            "channel_name": "Avatar",
-            "category": "Entertainment",
-            "duration": "2:26",
-            "view_count": "3843853",
-            "thumbnail_url": "https://i.ytimg.com/vi/nb_fFj_0rq8/hqdefault.jpg"
+            "video_id": "oZhbp6pnHaQ",
+            "title": "[아바타: 불과 재] 예고편",
+            "channel_name": "20th Century Studios Korea",
+            "category": "Film & Animation",
+            "duration": "2:34",
+            "view_count": "75860",
+            "thumbnail_url": "https://i.ytimg.com/vi/oZhbp6pnHaQ/hqdefault.jpg"
         },
         {
             "video_id": "gHsa0mBF8vw",
@@ -25,7 +25,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "5:57:06",
-            "view_count": "2549000",
+            "view_count": "2549397",
             "thumbnail_url": "https://i.ytimg.com/vi/gHsa0mBF8vw/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "스튜디오 드리밍 [Dreaming]",
             "category": "Entertainment",
             "duration": "4:49",
-            "view_count": "252198",
+            "view_count": "253571",
             "thumbnail_url": "https://i.ytimg.com/vi/1pa_njF9neg/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "8:21",
-            "view_count": "91651",
+            "view_count": "93386",
             "thumbnail_url": "https://i.ytimg.com/vi/9PTggcDIYdM/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "코마",
             "category": "Gaming",
             "duration": "1:10:34",
-            "view_count": "505372",
+            "view_count": "510794",
             "thumbnail_url": "https://i.ytimg.com/vi/nYWywvkJLJ4/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "Sohyang",
             "category": "Music",
             "duration": "3:12",
-            "view_count": "496609",
+            "view_count": "498705",
             "thumbnail_url": "https://i.ytimg.com/vi/qEZfb_XQtmg/hqdefault.jpg"
         },
         {
@@ -70,26 +70,8 @@
             "channel_name": "기묘한 케이지",
             "category": "Entertainment",
             "duration": "13:05",
-            "view_count": "158179",
+            "view_count": "158396",
             "thumbnail_url": "https://i.ytimg.com/vi/C90u0hBa5jA/hqdefault.jpg"
-        },
-        {
-            "video_id": "5wzIkDue3RM",
-            "title": "일곱 번 넘어져도 여덟 번 일어난다",
-            "channel_name": "우융",
-            "category": "Gaming",
-            "duration": "1:06:04",
-            "view_count": "198366",
-            "thumbnail_url": "https://i.ytimg.com/vi/5wzIkDue3RM/hqdefault.jpg"
-        },
-        {
-            "video_id": "76DgtsHTy6U",
-            "title": "NCT WISH 엔시티 위시 '내 얘길 들어봐' @Practice Room",
-            "channel_name": "NCT WISH",
-            "category": "Music",
-            "duration": "1:39",
-            "view_count": "114088",
-            "thumbnail_url": "https://i.ytimg.com/vi/76DgtsHTy6U/hqdefault.jpg"
         },
         {
             "video_id": "A9PTupopqcM",
@@ -97,8 +79,26 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "22:49",
-            "view_count": "244120",
+            "view_count": "257388",
             "thumbnail_url": "https://i.ytimg.com/vi/A9PTupopqcM/hqdefault.jpg"
+        },
+        {
+            "video_id": "76DgtsHTy6U",
+            "title": "NCT WISH 엔시티 위시 '내 얘길 들어봐' @Practice Room",
+            "channel_name": "NCT WISH",
+            "category": "Music",
+            "duration": "1:39",
+            "view_count": "115354",
+            "thumbnail_url": "https://i.ytimg.com/vi/76DgtsHTy6U/hqdefault.jpg"
+        },
+        {
+            "video_id": "5wzIkDue3RM",
+            "title": "일곱 번 넘어져도 여덟 번 일어난다",
+            "channel_name": "우융",
+            "category": "Gaming",
+            "duration": "1:06:04",
+            "view_count": "202402",
+            "thumbnail_url": "https://i.ytimg.com/vi/5wzIkDue3RM/hqdefault.jpg"
         },
         {
             "video_id": "g2d1QmEz8wo",
@@ -106,7 +106,7 @@
             "channel_name": "TWICE - Topic",
             "category": "Music",
             "duration": "3:01",
-            "view_count": "323310",
+            "view_count": "329851",
             "thumbnail_url": "https://i.ytimg.com/vi/g2d1QmEz8wo/hqdefault.jpg"
         },
         {
@@ -115,7 +115,7 @@
             "channel_name": "Wolf",
             "category": "Gaming",
             "duration": "45:11",
-            "view_count": "260464",
+            "view_count": "262531",
             "thumbnail_url": "https://i.ytimg.com/vi/xHhXtFXyhzo/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "ENHYPEN - Topic",
             "category": "Music",
             "duration": "3:07",
-            "view_count": "326526",
+            "view_count": "332165",
             "thumbnail_url": "https://i.ytimg.com/vi/L_Ll_NzHMFw/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "겜브링 GGAM BRING",
             "category": "Gaming",
             "duration": "13:40",
-            "view_count": "165175",
+            "view_count": "165954",
             "thumbnail_url": "https://i.ytimg.com/vi/MrlbiEmujAg/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "ardenBcho",
             "category": "People & Blogs",
             "duration": "2:45",
-            "view_count": "635906",
+            "view_count": "642896",
             "thumbnail_url": "https://i.ytimg.com/vi/K5cOvVrHo0Q/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "T1",
             "category": "Gaming",
             "duration": "1:26",
-            "view_count": "995954",
+            "view_count": "999884",
             "thumbnail_url": "https://i.ytimg.com/vi/LGdRymaxx78/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "HUNTR/X - Topic",
             "category": "Music",
             "duration": "2:57",
-            "view_count": "1463372",
+            "view_count": "1469776",
             "thumbnail_url": "https://i.ytimg.com/vi/bAYfwpU6guo/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "49:24",
-            "view_count": "94105",
+            "view_count": "96735",
             "thumbnail_url": "https://i.ytimg.com/vi/-9xrHvpw3aQ/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "솔지Soul_G",
             "category": "Entertainment",
             "duration": "2:08",
-            "view_count": "58020",
+            "view_count": "62792",
             "thumbnail_url": "https://i.ytimg.com/vi/cvXrrhongyg/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "말량",
             "category": "Gaming",
             "duration": "23:22",
-            "view_count": "111896",
+            "view_count": "112336",
             "thumbnail_url": "https://i.ytimg.com/vi/NaGBylWzC-0/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "ourmemoriestonight",
             "category": "Music",
             "duration": "2:47",
-            "view_count": "258457",
+            "view_count": "271558",
             "thumbnail_url": "https://i.ytimg.com/vi/mq0QVgHR5yo/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "인피쉰",
             "category": "Gaming",
             "duration": "5:11:27",
-            "view_count": "123220",
+            "view_count": "124083",
             "thumbnail_url": "https://i.ytimg.com/vi/4gR2KWhCg_o/hqdefault.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "channel_name": "WOODZ",
             "category": "Music",
             "duration": "3:52",
-            "view_count": "30408",
+            "view_count": "32958",
             "thumbnail_url": "https://i.ytimg.com/vi/im6Df9xTRno/hqdefault.jpg"
         },
         {
@@ -223,7 +223,7 @@
             "channel_name": "Eagles TV",
             "category": "Sports",
             "duration": "23:39",
-            "view_count": "124542",
+            "view_count": "125712",
             "thumbnail_url": "https://i.ytimg.com/vi/5GsND5bDrc0/hqdefault.jpg"
         },
         {
@@ -232,7 +232,7 @@
             "channel_name": "바다 BADA",
             "category": "Entertainment",
             "duration": "3:05",
-            "view_count": "1708138",
+            "view_count": "1710071",
             "thumbnail_url": "https://i.ytimg.com/vi/UJNVGZzyAcs/hqdefault.jpg"
         },
         {
@@ -241,7 +241,7 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "51:42",
-            "view_count": "185470",
+            "view_count": "186331",
             "thumbnail_url": "https://i.ytimg.com/vi/6IfYRBQC61c/hqdefault.jpg"
         },
         {
@@ -250,26 +250,8 @@
             "channel_name": "Terry - Topic",
             "category": "Music",
             "duration": "3:03",
-            "view_count": "14200",
+            "view_count": "14286",
             "thumbnail_url": "https://i.ytimg.com/vi/Slxao6remF8/hqdefault.jpg"
-        },
-        {
-            "video_id": "605khJxiFcA",
-            "title": "5초 안에 시간을 뛰어넘는 보드게임ㅋㅋ",
-            "channel_name": "왈도쿤",
-            "category": "Gaming",
-            "duration": "16:54",
-            "view_count": "113068",
-            "thumbnail_url": "https://i.ytimg.com/vi/605khJxiFcA/hqdefault.jpg"
-        },
-        {
-            "video_id": "PKT-y0e--Zc",
-            "title": "GOLDEN - HUNTR/X (KPop Demon Hunters) Cover by AILEE 에일리",
-            "channel_name": "[에일리 OFFICIAL] aileemusic",
-            "category": "Music",
-            "duration": "3:25",
-            "view_count": "1516701",
-            "thumbnail_url": "https://i.ytimg.com/vi/PKT-y0e--Zc/hqdefault.jpg"
         },
         {
             "video_id": "d9uyJjkYx_g",
@@ -277,8 +259,26 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "20:22",
-            "view_count": "154326",
+            "view_count": "158560",
             "thumbnail_url": "https://i.ytimg.com/vi/d9uyJjkYx_g/hqdefault.jpg"
+        },
+        {
+            "video_id": "PKT-y0e--Zc",
+            "title": "GOLDEN - HUNTR/X (KPop Demon Hunters) Cover by AILEE 에일리",
+            "channel_name": "[에일리 OFFICIAL] aileemusic",
+            "category": "Music",
+            "duration": "3:25",
+            "view_count": "1520829",
+            "thumbnail_url": "https://i.ytimg.com/vi/PKT-y0e--Zc/hqdefault.jpg"
+        },
+        {
+            "video_id": "605khJxiFcA",
+            "title": "5초 안에 시간을 뛰어넘는 보드게임ㅋㅋ",
+            "channel_name": "왈도쿤",
+            "category": "Gaming",
+            "duration": "16:54",
+            "view_count": "115420",
+            "thumbnail_url": "https://i.ytimg.com/vi/605khJxiFcA/hqdefault.jpg"
         },
         {
             "video_id": "xwDDQggm92E",
@@ -286,7 +286,7 @@
             "channel_name": "Ourealgoat - Topic",
             "category": "Music",
             "duration": "3:58",
-            "view_count": "38668",
+            "view_count": "38751",
             "thumbnail_url": "https://i.ytimg.com/vi/xwDDQggm92E/hqdefault.jpg"
         },
         {
@@ -295,26 +295,8 @@
             "channel_name": "타튜브 [TATUBE]",
             "category": "Gaming",
             "duration": "17:51",
-            "view_count": "186798",
+            "view_count": "187271",
             "thumbnail_url": "https://i.ytimg.com/vi/fPjd5LqVugQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "CsCgX0Cm44g",
-            "title": "2323 - NGHIÊM TỔNG prod. MAI CẢNH DỊ & ĐẠI TRƯỢNG FU",
-            "channel_name": "MCK // Nger",
-            "category": "Music",
-            "duration": "2:53",
-            "view_count": "1323736",
-            "thumbnail_url": "https://i.ytimg.com/vi/CsCgX0Cm44g/hqdefault.jpg"
-        },
-        {
-            "video_id": "Z2Oz1XQwq3Y",
-            "title": "곤충버전 *경찰과 도둑* 포식자를 피해 식량을 훔쳐라!🐜",
-            "channel_name": "잠뜰 TV",
-            "category": "Gaming",
-            "duration": "28:29",
-            "view_count": "214158",
-            "thumbnail_url": "https://i.ytimg.com/vi/Z2Oz1XQwq3Y/hqdefault.jpg"
         },
         {
             "video_id": "73IA9HNYlr8",
@@ -322,8 +304,26 @@
             "channel_name": "이영현 LEE YOUNG HYUN OFFICIAL",
             "category": "Entertainment",
             "duration": "4:01",
-            "view_count": "35636",
+            "view_count": "37369",
             "thumbnail_url": "https://i.ytimg.com/vi/73IA9HNYlr8/hqdefault.jpg"
+        },
+        {
+            "video_id": "Z2Oz1XQwq3Y",
+            "title": "곤충버전 *경찰과 도둑* 포식자를 피해 식량을 훔쳐라!🐜",
+            "channel_name": "잠뜰 TV",
+            "category": "Gaming",
+            "duration": "28:29",
+            "view_count": "214554",
+            "thumbnail_url": "https://i.ytimg.com/vi/Z2Oz1XQwq3Y/hqdefault.jpg"
+        },
+        {
+            "video_id": "CsCgX0Cm44g",
+            "title": "2323 - NGHIÊM TỔNG prod. MAI CẢNH DỊ & ĐẠI TRƯỢNG FU",
+            "channel_name": "MCK // Nger",
+            "category": "Music",
+            "duration": "2:53",
+            "view_count": "1336455",
+            "thumbnail_url": "https://i.ytimg.com/vi/CsCgX0Cm44g/hqdefault.jpg"
         },
         {
             "video_id": "J8tQ6UNoj8c",
@@ -331,7 +331,7 @@
             "channel_name": "우주하마",
             "category": "Gaming",
             "duration": "41:41",
-            "view_count": "340502",
+            "view_count": "341921",
             "thumbnail_url": "https://i.ytimg.com/vi/J8tQ6UNoj8c/hqdefault.jpg"
         },
         {
@@ -340,7 +340,7 @@
             "channel_name": "Marinosaurio",
             "category": "Music",
             "duration": "3:13",
-            "view_count": "180181",
+            "view_count": "184429",
             "thumbnail_url": "https://i.ytimg.com/vi/F0DBC7GFkzI/hqdefault.jpg"
         },
         {
@@ -349,7 +349,7 @@
             "channel_name": "이도원",
             "category": "Gaming",
             "duration": "18:16",
-            "view_count": "95346",
+            "view_count": "98026",
             "thumbnail_url": "https://i.ytimg.com/vi/DkZh_-tU6Ls/hqdefault.jpg"
         },
         {
@@ -358,17 +358,17 @@
             "channel_name": "Bruklin - Topic",
             "category": "Music",
             "duration": "2:44",
-            "view_count": "757199",
+            "view_count": "759653",
             "thumbnail_url": "https://i.ytimg.com/vi/YiaLz_jlT-8/hqdefault.jpg"
         },
         {
-            "video_id": "xReuRGNhQFw",
-            "title": "괴물 사슴 피해 1000일 동안 생존해 봤습니다..",
-            "channel_name": "김왼팔",
+            "video_id": "JFRHje3fBzo",
+            "title": "온갖 재밌는 요소는 다 때려박은 나혼렙 + 이세카이",
+            "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
-            "duration": "26:00",
-            "view_count": "170985",
-            "thumbnail_url": "https://i.ytimg.com/vi/xReuRGNhQFw/hqdefault.jpg"
+            "duration": "17:51",
+            "view_count": "91417",
+            "thumbnail_url": "https://i.ytimg.com/vi/JFRHje3fBzo/hqdefault.jpg"
         },
         {
             "video_id": "pHJHxrrllT0",
@@ -376,7 +376,7 @@
             "channel_name": "GENIE MUSIC",
             "category": "Music",
             "duration": "3:44",
-            "view_count": "24518",
+            "view_count": "24649",
             "thumbnail_url": "https://i.ytimg.com/vi/pHJHxrrllT0/hqdefault.jpg"
         }
     ]
