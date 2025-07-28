@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-07-28 21:31:01",
+    "scraped_time": "2025-07-28 22:35:23",
     "videos": [
         {
             "video_id": "slUTl_CtMR0",
@@ -7,7 +7,7 @@
             "channel_name": "Monday Kiz - Topic",
             "category": "Music",
             "duration": "4:19",
-            "view_count": "143971",
+            "view_count": "151607",
             "thumbnail_url": "https://i.ytimg.com/vi/slUTl_CtMR0/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "8:21",
-            "view_count": "43019",
+            "view_count": "51485",
             "thumbnail_url": "https://i.ytimg.com/vi/9PTggcDIYdM/hqdefault.jpg"
         },
         {
@@ -25,17 +25,17 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "5:57:06",
-            "view_count": "2547740",
+            "view_count": "2549129",
             "thumbnail_url": "https://i.ytimg.com/vi/gHsa0mBF8vw/hqdefault.jpg"
         },
         {
-            "video_id": "qEZfb_XQtmg",
-            "title": "Golden, 골든 커버 소향+소향 cover (Sohyang+Sohyang)Thank you EJAE!!",
-            "channel_name": "Sohyang",
-            "category": "Music",
-            "duration": "3:12",
-            "view_count": "432595",
-            "thumbnail_url": "https://i.ytimg.com/vi/qEZfb_XQtmg/hqdefault.jpg"
+            "video_id": "1pa_njF9neg",
+            "title": "[Official] 먼데이 키즈, 이이경 - '운명 (2025)' MV",
+            "channel_name": "스튜디오 드리밍 [Dreaming]",
+            "category": "Entertainment",
+            "duration": "4:49",
+            "view_count": "215869",
+            "thumbnail_url": "https://i.ytimg.com/vi/1pa_njF9neg/hqdefault.jpg"
         },
         {
             "video_id": "C90u0hBa5jA",
@@ -43,7 +43,7 @@
             "channel_name": "기묘한 케이지",
             "category": "Entertainment",
             "duration": "13:05",
-            "view_count": "151352",
+            "view_count": "152229",
             "thumbnail_url": "https://i.ytimg.com/vi/C90u0hBa5jA/hqdefault.jpg"
         },
         {
@@ -52,35 +52,17 @@
             "channel_name": "코마",
             "category": "Gaming",
             "duration": "1:10:34",
-            "view_count": "327818",
+            "view_count": "360622",
             "thumbnail_url": "https://i.ytimg.com/vi/nYWywvkJLJ4/hqdefault.jpg"
         },
         {
-            "video_id": "g2d1QmEz8wo",
-            "title": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
-            "channel_name": "TWICE - Topic",
+            "video_id": "qEZfb_XQtmg",
+            "title": "Golden, 골든 커버 소향+소향 cover (Sohyang+Sohyang)Thank you EJAE!!",
+            "channel_name": "Sohyang",
             "category": "Music",
-            "duration": "3:01",
-            "view_count": "265983",
-            "thumbnail_url": "https://i.ytimg.com/vi/g2d1QmEz8wo/hqdefault.jpg"
-        },
-        {
-            "video_id": "jf8guMV2VgA",
-            "title": "달달무",
-            "channel_name": "괴물쥐 유튜브",
-            "category": "Gaming",
-            "duration": "19:28",
-            "view_count": "341093",
-            "thumbnail_url": "https://i.ytimg.com/vi/jf8guMV2VgA/hqdefault.jpg"
-        },
-        {
-            "video_id": "76DgtsHTy6U",
-            "title": "NCT WISH 엔시티 위시 '내 얘길 들어봐' @Practice Room",
-            "channel_name": "NCT WISH",
-            "category": "Music",
-            "duration": "1:39",
-            "view_count": "62131",
-            "thumbnail_url": "https://i.ytimg.com/vi/76DgtsHTy6U/hqdefault.jpg"
+            "duration": "3:12",
+            "view_count": "441284",
+            "thumbnail_url": "https://i.ytimg.com/vi/qEZfb_XQtmg/hqdefault.jpg"
         },
         {
             "video_id": "5wzIkDue3RM",
@@ -88,17 +70,35 @@
             "channel_name": "우융",
             "category": "Gaming",
             "duration": "1:06:04",
-            "view_count": "101171",
+            "view_count": "115465",
             "thumbnail_url": "https://i.ytimg.com/vi/5wzIkDue3RM/hqdefault.jpg"
         },
         {
-            "video_id": "L_Ll_NzHMFw",
-            "title": "Echoes",
-            "channel_name": "ENHYPEN - Topic",
+            "video_id": "76DgtsHTy6U",
+            "title": "NCT WISH 엔시티 위시 '내 얘길 들어봐' @Practice Room",
+            "channel_name": "NCT WISH",
             "category": "Music",
-            "duration": "3:07",
-            "view_count": "249373",
-            "thumbnail_url": "https://i.ytimg.com/vi/L_Ll_NzHMFw/hqdefault.jpg"
+            "duration": "1:39",
+            "view_count": "71564",
+            "thumbnail_url": "https://i.ytimg.com/vi/76DgtsHTy6U/hqdefault.jpg"
+        },
+        {
+            "video_id": "jf8guMV2VgA",
+            "title": "달달무",
+            "channel_name": "괴물쥐 유튜브",
+            "category": "Gaming",
+            "duration": "19:28",
+            "view_count": "347229",
+            "thumbnail_url": "https://i.ytimg.com/vi/jf8guMV2VgA/hqdefault.jpg"
+        },
+        {
+            "video_id": "g2d1QmEz8wo",
+            "title": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
+            "channel_name": "TWICE - Topic",
+            "category": "Music",
+            "duration": "3:01",
+            "view_count": "274140",
+            "thumbnail_url": "https://i.ytimg.com/vi/g2d1QmEz8wo/hqdefault.jpg"
         },
         {
             "video_id": "xHhXtFXyhzo",
@@ -106,17 +106,17 @@
             "channel_name": "Wolf",
             "category": "Gaming",
             "duration": "45:11",
-            "view_count": "194674",
+            "view_count": "206614",
             "thumbnail_url": "https://i.ytimg.com/vi/xHhXtFXyhzo/hqdefault.jpg"
         },
         {
-            "video_id": "bAYfwpU6guo",
-            "title": "Golden (David Guetta REM/X)",
-            "channel_name": "HUNTR/X - Topic",
+            "video_id": "L_Ll_NzHMFw",
+            "title": "Echoes",
+            "channel_name": "ENHYPEN - Topic",
             "category": "Music",
-            "duration": "2:57",
-            "view_count": "1399687",
-            "thumbnail_url": "https://i.ytimg.com/vi/bAYfwpU6guo/hqdefault.jpg"
+            "duration": "3:07",
+            "view_count": "259588",
+            "thumbnail_url": "https://i.ytimg.com/vi/L_Ll_NzHMFw/hqdefault.jpg"
         },
         {
             "video_id": "LGdRymaxx78",
@@ -124,7 +124,7 @@
             "channel_name": "T1",
             "category": "Gaming",
             "duration": "1:26",
-            "view_count": "933439",
+            "view_count": "944338",
             "thumbnail_url": "https://i.ytimg.com/vi/LGdRymaxx78/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "ardenBcho",
             "category": "People & Blogs",
             "duration": "2:45",
-            "view_count": "562282",
+            "view_count": "570463",
             "thumbnail_url": "https://i.ytimg.com/vi/K5cOvVrHo0Q/hqdefault.jpg"
         },
         {
@@ -142,8 +142,26 @@
             "channel_name": "겜브링 GGAM BRING",
             "category": "Gaming",
             "duration": "13:40",
-            "view_count": "90160",
+            "view_count": "108581",
             "thumbnail_url": "https://i.ytimg.com/vi/MrlbiEmujAg/hqdefault.jpg"
+        },
+        {
+            "video_id": "bAYfwpU6guo",
+            "title": "Golden (David Guetta REM/X)",
+            "channel_name": "HUNTR/X - Topic",
+            "category": "Music",
+            "duration": "2:57",
+            "view_count": "1409533",
+            "thumbnail_url": "https://i.ytimg.com/vi/bAYfwpU6guo/hqdefault.jpg"
+        },
+        {
+            "video_id": "NaGBylWzC-0",
+            "title": "세상에서 제일 \"오래 살아남는 생존자\"가 되었습니다ㅋㅋㅋ 초거대 무적 나무기지도 지어버렸어요... (로블록스 99나이트인더포레스트)",
+            "channel_name": "말량",
+            "category": "Gaming",
+            "duration": "23:22",
+            "view_count": "82004",
+            "thumbnail_url": "https://i.ytimg.com/vi/NaGBylWzC-0/hqdefault.jpg"
         },
         {
             "video_id": "UJNVGZzyAcs",
@@ -151,26 +169,8 @@
             "channel_name": "바다 BADA",
             "category": "Entertainment",
             "duration": "3:05",
-            "view_count": "1658174",
+            "view_count": "1665290",
             "thumbnail_url": "https://i.ytimg.com/vi/UJNVGZzyAcs/hqdefault.jpg"
-        },
-        {
-            "video_id": "fPjd5LqVugQ",
-            "title": "뉴비?들의 카카오 칼국수 데카먹방",
-            "channel_name": "타튜브 [TATUBE]",
-            "category": "Gaming",
-            "duration": "17:51",
-            "view_count": "177313",
-            "thumbnail_url": "https://i.ytimg.com/vi/fPjd5LqVugQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "PKT-y0e--Zc",
-            "title": "GOLDEN - HUNTR/X (KPop Demon Hunters) Cover by AILEE 에일리",
-            "channel_name": "[에일리 OFFICIAL] aileemusic",
-            "category": "Music",
-            "duration": "3:25",
-            "view_count": "1449959",
-            "thumbnail_url": "https://i.ytimg.com/vi/PKT-y0e--Zc/hqdefault.jpg"
         },
         {
             "video_id": "6IfYRBQC61c",
@@ -178,7 +178,7 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "51:42",
-            "view_count": "157347",
+            "view_count": "162508",
             "thumbnail_url": "https://i.ytimg.com/vi/6IfYRBQC61c/hqdefault.jpg"
         },
         {
@@ -187,8 +187,26 @@
             "channel_name": "Terry - Topic",
             "category": "Music",
             "duration": "3:03",
-            "view_count": "11391",
+            "view_count": "12055",
             "thumbnail_url": "https://i.ytimg.com/vi/Slxao6remF8/hqdefault.jpg"
+        },
+        {
+            "video_id": "fPjd5LqVugQ",
+            "title": "뉴비?들의 카카오 칼국수 데카먹방",
+            "channel_name": "타튜브 [TATUBE]",
+            "category": "Gaming",
+            "duration": "17:51",
+            "view_count": "179237",
+            "thumbnail_url": "https://i.ytimg.com/vi/fPjd5LqVugQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "PKT-y0e--Zc",
+            "title": "GOLDEN - HUNTR/X (KPop Demon Hunters) Cover by AILEE 에일리",
+            "channel_name": "[에일리 OFFICIAL] aileemusic",
+            "category": "Music",
+            "duration": "3:25",
+            "view_count": "1458687",
+            "thumbnail_url": "https://i.ytimg.com/vi/PKT-y0e--Zc/hqdefault.jpg"
         },
         {
             "video_id": "Z2Oz1XQwq3Y",
@@ -196,7 +214,7 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "28:29",
-            "view_count": "198299",
+            "view_count": "201376",
             "thumbnail_url": "https://i.ytimg.com/vi/Z2Oz1XQwq3Y/hqdefault.jpg"
         },
         {
@@ -205,26 +223,8 @@
             "channel_name": "Ourealgoat - Topic",
             "category": "Music",
             "duration": "3:58",
-            "view_count": "35482",
+            "view_count": "36214",
             "thumbnail_url": "https://i.ytimg.com/vi/xwDDQggm92E/hqdefault.jpg"
-        },
-        {
-            "video_id": "NaGBylWzC-0",
-            "title": "세상에서 제일 \"오래 살아남는 생존자\"가 되었습니다ㅋㅋㅋ 초거대 무적 나무기지도 지어버렸어요... (로블록스 99나이트인더포레스트)",
-            "channel_name": "말량",
-            "category": "Gaming",
-            "duration": "23:22",
-            "view_count": "69982",
-            "thumbnail_url": "https://i.ytimg.com/vi/NaGBylWzC-0/hqdefault.jpg"
-        },
-        {
-            "video_id": "F0DBC7GFkzI",
-            "title": "Huntrix - GOLDEN (sub. español + lyrics) | Kpop Demon Hunters",
-            "channel_name": "Marinosaurio",
-            "category": "Music",
-            "duration": "3:13",
-            "view_count": "150291",
-            "thumbnail_url": "https://i.ytimg.com/vi/F0DBC7GFkzI/hqdefault.jpg"
         },
         {
             "video_id": "J8tQ6UNoj8c",
@@ -232,7 +232,7 @@
             "channel_name": "우주하마",
             "category": "Gaming",
             "duration": "41:41",
-            "view_count": "301007",
+            "view_count": "306779",
             "thumbnail_url": "https://i.ytimg.com/vi/J8tQ6UNoj8c/hqdefault.jpg"
         },
         {
@@ -241,8 +241,26 @@
             "channel_name": "ourmemoriestonight",
             "category": "Music",
             "duration": "2:47",
-            "view_count": "154052",
+            "view_count": "165080",
             "thumbnail_url": "https://i.ytimg.com/vi/mq0QVgHR5yo/hqdefault.jpg"
+        },
+        {
+            "video_id": "5GsND5bDrc0",
+            "title": "한화vs롯데, 구단 최초 콜라보 성사! 투수 문현빈 & 타자 김서현(?)의 컴투스프로야구V25 맞대결🔥",
+            "channel_name": "Eagles TV",
+            "category": "Sports",
+            "duration": "23:39",
+            "view_count": "76909",
+            "thumbnail_url": "https://i.ytimg.com/vi/5GsND5bDrc0/hqdefault.jpg"
+        },
+        {
+            "video_id": "F0DBC7GFkzI",
+            "title": "Huntrix - GOLDEN (sub. español + lyrics) | Kpop Demon Hunters",
+            "channel_name": "Marinosaurio",
+            "category": "Music",
+            "duration": "3:13",
+            "view_count": "153823",
+            "thumbnail_url": "https://i.ytimg.com/vi/F0DBC7GFkzI/hqdefault.jpg"
         },
         {
             "video_id": "xReuRGNhQFw",
@@ -250,17 +268,17 @@
             "channel_name": "김왼팔",
             "category": "Gaming",
             "duration": "26:00",
-            "view_count": "159855",
+            "view_count": "162799",
             "thumbnail_url": "https://i.ytimg.com/vi/xReuRGNhQFw/hqdefault.jpg"
         },
         {
-            "video_id": "YiaLz_jlT-8",
-            "title": "Kinda Like",
-            "channel_name": "Bruklin - Topic",
+            "video_id": "CsCgX0Cm44g",
+            "title": "2323 - NGHIÊM TỔNG prod. MAI CẢNH DỊ & ĐẠI TRƯỢNG FU",
+            "channel_name": "MCK // Nger",
             "category": "Music",
-            "duration": "2:44",
-            "view_count": "727653",
-            "thumbnail_url": "https://i.ytimg.com/vi/YiaLz_jlT-8/hqdefault.jpg"
+            "duration": "2:53",
+            "view_count": "1005399",
+            "thumbnail_url": "https://i.ytimg.com/vi/CsCgX0Cm44g/hqdefault.jpg"
         },
         {
             "video_id": "D_GZnImHAlE",
@@ -268,17 +286,17 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "16:50",
-            "view_count": "217950",
+            "view_count": "221471",
             "thumbnail_url": "https://i.ytimg.com/vi/D_GZnImHAlE/hqdefault.jpg"
         },
         {
-            "video_id": "q6RZvFy3DD4",
-            "title": "Sweet Escape",
-            "channel_name": "Velvet Funk - Topic",
+            "video_id": "YiaLz_jlT-8",
+            "title": "Kinda Like",
+            "channel_name": "Bruklin - Topic",
             "category": "Music",
-            "duration": "2:58",
-            "view_count": "362120",
-            "thumbnail_url": "https://i.ytimg.com/vi/q6RZvFy3DD4/hqdefault.jpg"
+            "duration": "2:44",
+            "view_count": "732215",
+            "thumbnail_url": "https://i.ytimg.com/vi/YiaLz_jlT-8/hqdefault.jpg"
         },
         {
             "video_id": "n1rR8oq1Y08",
@@ -286,7 +304,7 @@
             "channel_name": "쉐어TV",
             "category": "Gaming",
             "duration": "17:02",
-            "view_count": "187640",
+            "view_count": "189958",
             "thumbnail_url": "https://i.ytimg.com/vi/n1rR8oq1Y08/hqdefault.jpg"
         },
         {
@@ -295,8 +313,26 @@
             "channel_name": "YENI - Topic",
             "category": "Music",
             "duration": "3:23",
-            "view_count": "19346",
+            "view_count": "20011",
             "thumbnail_url": "https://i.ytimg.com/vi/YszXlNIYbS0/hqdefault.jpg"
+        },
+        {
+            "video_id": "48DhQfowV88",
+            "title": "싸가지 없이 게임해 봤습니다ㅋㅋ",
+            "channel_name": "[ALTUBE] 김성현TV",
+            "category": "Gaming",
+            "duration": "31:06",
+            "view_count": "80023",
+            "thumbnail_url": "https://i.ytimg.com/vi/48DhQfowV88/hqdefault.jpg"
+        },
+        {
+            "video_id": "q6RZvFy3DD4",
+            "title": "Sweet Escape",
+            "channel_name": "Velvet Funk - Topic",
+            "category": "Music",
+            "duration": "2:58",
+            "view_count": "365613",
+            "thumbnail_url": "https://i.ytimg.com/vi/q6RZvFy3DD4/hqdefault.jpg"
         },
         {
             "video_id": "uIeST7CA5A4",
@@ -304,26 +340,8 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "26:33",
-            "view_count": "196889",
+            "view_count": "199550",
             "thumbnail_url": "https://i.ytimg.com/vi/uIeST7CA5A4/hqdefault.jpg"
-        },
-        {
-            "video_id": "CsCgX0Cm44g",
-            "title": "2323 - NGHIÊM TỔNG prod. MAI CẢNH DỊ & ĐẠI TRƯỢNG FU",
-            "channel_name": "MCK // Nger",
-            "category": "Music",
-            "duration": "2:53",
-            "view_count": "962799",
-            "thumbnail_url": "https://i.ytimg.com/vi/CsCgX0Cm44g/hqdefault.jpg"
-        },
-        {
-            "video_id": "5GsND5bDrc0",
-            "title": "한화vs롯데, 구단 최초 콜라보 성사! 투수 문현빈 & 타자 김서현(?)의 컴투스프로야구V25 맞대결🔥",
-            "channel_name": "Eagles TV",
-            "category": "Sports",
-            "duration": "23:39",
-            "view_count": "65842",
-            "thumbnail_url": "https://i.ytimg.com/vi/5GsND5bDrc0/hqdefault.jpg"
         },
         {
             "video_id": "pHJHxrrllT0",
@@ -331,26 +349,8 @@
             "channel_name": "GENIE MUSIC",
             "category": "Music",
             "duration": "3:44",
-            "view_count": "19779",
+            "view_count": "20703",
             "thumbnail_url": "https://i.ytimg.com/vi/pHJHxrrllT0/hqdefault.jpg"
-        },
-        {
-            "video_id": "uYRSG2k8taI",
-            "title": "감스트 GTA5 복귀!!!",
-            "channel_name": "감스트GAMST",
-            "category": "Gaming",
-            "duration": "15:41",
-            "view_count": "523117",
-            "thumbnail_url": "https://i.ytimg.com/vi/uYRSG2k8taI/hqdefault.jpg"
-        },
-        {
-            "video_id": "9rWdaL5Q3u0",
-            "title": "Floating Free (Korean Ver.) (Floating Free (Korean Ver.))",
-            "channel_name": "Solar - Topic",
-            "category": "Music",
-            "duration": "3:25",
-            "view_count": "86642",
-            "thumbnail_url": "https://i.ytimg.com/vi/9rWdaL5Q3u0/hqdefault.jpg"
         },
         {
             "video_id": "25JlzpH5Kds",
@@ -358,7 +358,7 @@
             "channel_name": "두치와뿌꾸",
             "category": "Gaming",
             "duration": "15:44",
-            "view_count": "80038",
+            "view_count": "83409",
             "thumbnail_url": "https://i.ytimg.com/vi/25JlzpH5Kds/hqdefault.jpg"
         },
         {
@@ -367,17 +367,17 @@
             "channel_name": "Park Bo-Gum - Topic",
             "category": "Music",
             "duration": "3:08",
-            "view_count": "53567",
+            "view_count": "54654",
             "thumbnail_url": "https://i.ytimg.com/vi/gEDtbt5-wtU/hqdefault.jpg"
         },
         {
-            "video_id": "tCI7trtmt24",
-            "title": "이게 왜 니 서폿템이야",
-            "channel_name": "Official dopa",
+            "video_id": "uYRSG2k8taI",
+            "title": "감스트 GTA5 복귀!!!",
+            "channel_name": "감스트GAMST",
             "category": "Gaming",
-            "duration": "39:32",
-            "view_count": "240989",
-            "thumbnail_url": "https://i.ytimg.com/vi/tCI7trtmt24/hqdefault.jpg"
+            "duration": "15:41",
+            "view_count": "526506",
+            "thumbnail_url": "https://i.ytimg.com/vi/uYRSG2k8taI/hqdefault.jpg"
         }
     ]
 }
