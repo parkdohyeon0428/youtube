@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-07-29 18:20:09",
+    "scraped_time": "2025-07-29 19:16:04",
     "videos": [
         {
             "video_id": "slUTl_CtMR0",
@@ -7,7 +7,7 @@
             "channel_name": "Monday Kiz - Topic",
             "category": "Music",
             "duration": "4:19",
-            "view_count": "287038",
+            "view_count": "297043",
             "thumbnail_url": "https://i.ytimg.com/vi/slUTl_CtMR0/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "20th Century Studios Korea",
             "category": "Film & Animation",
             "duration": "2:34",
-            "view_count": "573893",
+            "view_count": "596289",
             "thumbnail_url": "https://i.ytimg.com/vi/oZhbp6pnHaQ/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "코마",
             "category": "Gaming",
             "duration": "1:10:34",
-            "view_count": "660718",
+            "view_count": "671194",
             "thumbnail_url": "https://i.ytimg.com/vi/nYWywvkJLJ4/hqdefault.jpg"
         },
         {
@@ -34,17 +34,17 @@
             "channel_name": "스튜디오 드리밍 [Dreaming]",
             "category": "Entertainment",
             "duration": "4:49",
-            "view_count": "301665",
+            "view_count": "309244",
             "thumbnail_url": "https://i.ytimg.com/vi/1pa_njF9neg/hqdefault.jpg"
         },
         {
-            "video_id": "9PTggcDIYdM",
-            "title": "아니 인조인간이 왜 예쁜건데.. ≪프레데터: 죽음의 땅≫ 2차 예고편 떡밥 총정리",
+            "video_id": "1VE1GmxNlZc",
+            "title": "드디어 공개된 ≪아바타3: 불과 재≫ 공식 예고편 떡밥 총정리",
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
-            "duration": "8:21",
-            "view_count": "116089",
-            "thumbnail_url": "https://i.ytimg.com/vi/9PTggcDIYdM/hqdefault.jpg"
+            "duration": "8:39",
+            "view_count": "54263",
+            "thumbnail_url": "https://i.ytimg.com/vi/1VE1GmxNlZc/hqdefault.jpg"
         },
         {
             "video_id": "gHsa0mBF8vw",
@@ -52,7 +52,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "5:57:06",
-            "view_count": "2554446",
+            "view_count": "2554962",
             "thumbnail_url": "https://i.ytimg.com/vi/gHsa0mBF8vw/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "NCT WISH",
             "category": "Music",
             "duration": "1:39",
-            "view_count": "142250",
+            "view_count": "144237",
             "thumbnail_url": "https://i.ytimg.com/vi/76DgtsHTy6U/hqdefault.jpg"
         },
         {
@@ -70,26 +70,8 @@
             "channel_name": "기묘한 케이지",
             "category": "Entertainment",
             "duration": "13:05",
-            "view_count": "164631",
+            "view_count": "165065",
             "thumbnail_url": "https://i.ytimg.com/vi/C90u0hBa5jA/hqdefault.jpg"
-        },
-        {
-            "video_id": "A9PTupopqcM",
-            "title": "처음 맛보는 문도",
-            "channel_name": "괴물쥐 유튜브",
-            "category": "Gaming",
-            "duration": "22:49",
-            "view_count": "384253",
-            "thumbnail_url": "https://i.ytimg.com/vi/A9PTupopqcM/hqdefault.jpg"
-        },
-        {
-            "video_id": "qEZfb_XQtmg",
-            "title": "Golden, 골든 커버 소향+소향 cover (Sohyang+Sohyang)Thank you EJAE!!",
-            "channel_name": "Sohyang",
-            "category": "Music",
-            "duration": "3:12",
-            "view_count": "551958",
-            "thumbnail_url": "https://i.ytimg.com/vi/qEZfb_XQtmg/hqdefault.jpg"
         },
         {
             "video_id": "5wzIkDue3RM",
@@ -97,8 +79,26 @@
             "channel_name": "우융",
             "category": "Gaming",
             "duration": "1:06:04",
-            "view_count": "311272",
+            "view_count": "319265",
             "thumbnail_url": "https://i.ytimg.com/vi/5wzIkDue3RM/hqdefault.jpg"
+        },
+        {
+            "video_id": "qEZfb_XQtmg",
+            "title": "Golden, 골든 커버 소향+소향 cover (Sohyang+Sohyang)Thank you EJAE!!",
+            "channel_name": "Sohyang",
+            "category": "Music",
+            "duration": "3:12",
+            "view_count": "556774",
+            "thumbnail_url": "https://i.ytimg.com/vi/qEZfb_XQtmg/hqdefault.jpg"
+        },
+        {
+            "video_id": "A9PTupopqcM",
+            "title": "처음 맛보는 문도",
+            "channel_name": "괴물쥐 유튜브",
+            "category": "Gaming",
+            "duration": "22:49",
+            "view_count": "391318",
+            "thumbnail_url": "https://i.ytimg.com/vi/A9PTupopqcM/hqdefault.jpg"
         },
         {
             "video_id": "g2d1QmEz8wo",
@@ -106,7 +106,7 @@
             "channel_name": "TWICE - Topic",
             "category": "Music",
             "duration": "3:01",
-            "view_count": "426964",
+            "view_count": "433698",
             "thumbnail_url": "https://i.ytimg.com/vi/g2d1QmEz8wo/hqdefault.jpg"
         },
         {
@@ -115,7 +115,7 @@
             "channel_name": "쉐어TV",
             "category": "Gaming",
             "duration": "16:38",
-            "view_count": "133601",
+            "view_count": "154519",
             "thumbnail_url": "https://i.ytimg.com/vi/VGdLg-C7cbQ/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "솔지Soul_G",
             "category": "Entertainment",
             "duration": "2:08",
-            "view_count": "136205",
+            "view_count": "140718",
             "thumbnail_url": "https://i.ytimg.com/vi/cvXrrhongyg/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "겜브링 GGAM BRING",
             "category": "Gaming",
             "duration": "13:40",
-            "view_count": "253042",
+            "view_count": "256398",
             "thumbnail_url": "https://i.ytimg.com/vi/MrlbiEmujAg/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "BLACKPINK",
             "category": "Music",
             "duration": "3:08",
-            "view_count": "718233",
+            "view_count": "823993",
             "thumbnail_url": "https://i.ytimg.com/vi/P169hsXjYQs/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "Wolf",
             "category": "Gaming",
             "duration": "45:11",
-            "view_count": "290287",
+            "view_count": "292046",
             "thumbnail_url": "https://i.ytimg.com/vi/xHhXtFXyhzo/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "WOODZ",
             "category": "Music",
             "duration": "3:52",
-            "view_count": "75754",
+            "view_count": "80130",
             "thumbnail_url": "https://i.ytimg.com/vi/im6Df9xTRno/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "말량",
             "category": "Gaming",
             "duration": "23:22",
-            "view_count": "171569",
+            "view_count": "174756",
             "thumbnail_url": "https://i.ytimg.com/vi/NaGBylWzC-0/hqdefault.jpg"
         },
         {
@@ -178,26 +178,8 @@
             "channel_name": "ENHYPEN - Topic",
             "category": "Music",
             "duration": "3:07",
-            "view_count": "409444",
+            "view_count": "417305",
             "thumbnail_url": "https://i.ytimg.com/vi/L_Ll_NzHMFw/hqdefault.jpg"
-        },
-        {
-            "video_id": "-9xrHvpw3aQ",
-            "title": "자기 자신을 저그전 스페셜리스트로 칭하는 상대, 곧바로 알파고를 숨도 못 쉬게 압박하기 시작하는데!?ㄷㄷ",
-            "channel_name": "[ALTUBE] 김성현TV",
-            "category": "Gaming",
-            "duration": "49:24",
-            "view_count": "130088",
-            "thumbnail_url": "https://i.ytimg.com/vi/-9xrHvpw3aQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "JznqHjmszj4",
-            "title": "Within Your Orbit",
-            "channel_name": "Lee Minhyuk - Topic",
-            "category": "Music",
-            "duration": "3:42",
-            "view_count": "14554",
-            "thumbnail_url": "https://i.ytimg.com/vi/JznqHjmszj4/hqdefault.jpg"
         },
         {
             "video_id": "T8l-5tIzV_I",
@@ -205,8 +187,26 @@
             "channel_name": "승상싱",
             "category": "Gaming",
             "duration": "10:14",
-            "view_count": "92844",
+            "view_count": "114913",
             "thumbnail_url": "https://i.ytimg.com/vi/T8l-5tIzV_I/hqdefault.jpg"
+        },
+        {
+            "video_id": "JznqHjmszj4",
+            "title": "Within Your Orbit",
+            "channel_name": "Lee Minhyuk - Topic",
+            "category": "Music",
+            "duration": "3:42",
+            "view_count": "15767",
+            "thumbnail_url": "https://i.ytimg.com/vi/JznqHjmszj4/hqdefault.jpg"
+        },
+        {
+            "video_id": "-9xrHvpw3aQ",
+            "title": "자기 자신을 저그전 스페셜리스트로 칭하는 상대, 곧바로 알파고를 숨도 못 쉬게 압박하기 시작하는데!?ㄷㄷ",
+            "channel_name": "[ALTUBE] 김성현TV",
+            "category": "Gaming",
+            "duration": "49:24",
+            "view_count": "131756",
+            "thumbnail_url": "https://i.ytimg.com/vi/-9xrHvpw3aQ/hqdefault.jpg"
         },
         {
             "video_id": "K5cOvVrHo0Q",
@@ -214,7 +214,7 @@
             "channel_name": "ardenBcho",
             "category": "People & Blogs",
             "duration": "2:45",
-            "view_count": "725475",
+            "view_count": "730827",
             "thumbnail_url": "https://i.ytimg.com/vi/K5cOvVrHo0Q/hqdefault.jpg"
         },
         {
@@ -223,7 +223,7 @@
             "channel_name": "스맵",
             "category": "Gaming",
             "duration": "24:54",
-            "view_count": "95968",
+            "view_count": "105182",
             "thumbnail_url": "https://i.ytimg.com/vi/hS6bNBgDrg0/hqdefault.jpg"
         },
         {
@@ -232,7 +232,7 @@
             "channel_name": "Hebi.",
             "category": "Music",
             "duration": "4:01",
-            "view_count": "56965",
+            "view_count": "115726",
             "thumbnail_url": "https://i.ytimg.com/vi/3KwLAoWdJWc/hqdefault.jpg"
         },
         {
@@ -241,7 +241,7 @@
             "channel_name": "T1",
             "category": "Gaming",
             "duration": "1:26",
-            "view_count": "1035788",
+            "view_count": "1038984",
             "thumbnail_url": "https://i.ytimg.com/vi/LGdRymaxx78/hqdefault.jpg"
         },
         {
@@ -250,7 +250,7 @@
             "channel_name": "HUNTR/X - Topic",
             "category": "Music",
             "duration": "2:57",
-            "view_count": "1582906",
+            "view_count": "1592443",
             "thumbnail_url": "https://i.ytimg.com/vi/bAYfwpU6guo/hqdefault.jpg"
         },
         {
@@ -259,7 +259,7 @@
             "channel_name": "Eagles TV",
             "category": "Sports",
             "duration": "23:39",
-            "view_count": "154965",
+            "view_count": "156503",
             "thumbnail_url": "https://i.ytimg.com/vi/5GsND5bDrc0/hqdefault.jpg"
         },
         {
@@ -268,7 +268,7 @@
             "channel_name": "이영현 LEE YOUNG HYUN OFFICIAL",
             "category": "Entertainment",
             "duration": "4:01",
-            "view_count": "71136",
+            "view_count": "72961",
             "thumbnail_url": "https://i.ytimg.com/vi/73IA9HNYlr8/hqdefault.jpg"
         },
         {
@@ -277,7 +277,7 @@
             "channel_name": "왈도쿤",
             "category": "Gaming",
             "duration": "16:54",
-            "view_count": "156005",
+            "view_count": "158718",
             "thumbnail_url": "https://i.ytimg.com/vi/605khJxiFcA/hqdefault.jpg"
         },
         {
@@ -286,7 +286,7 @@
             "channel_name": "ourmemoriestonight",
             "category": "Music",
             "duration": "2:47",
-            "view_count": "376149",
+            "view_count": "382367",
             "thumbnail_url": "https://i.ytimg.com/vi/mq0QVgHR5yo/hqdefault.jpg"
         },
         {
@@ -295,26 +295,8 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "20:22",
-            "view_count": "205667",
+            "view_count": "208574",
             "thumbnail_url": "https://i.ytimg.com/vi/d9uyJjkYx_g/hqdefault.jpg"
-        },
-        {
-            "video_id": "Slxao6remF8",
-            "title": "자존심 (feat. maji)",
-            "channel_name": "Terry - Topic",
-            "category": "Music",
-            "duration": "3:03",
-            "view_count": "19834",
-            "thumbnail_url": "https://i.ytimg.com/vi/Slxao6remF8/hqdefault.jpg"
-        },
-        {
-            "video_id": "DkZh_-tU6Ls",
-            "title": "정치판",
-            "channel_name": "이도원",
-            "category": "Gaming",
-            "duration": "18:16",
-            "view_count": "135679",
-            "thumbnail_url": "https://i.ytimg.com/vi/DkZh_-tU6Ls/hqdefault.jpg"
         },
         {
             "video_id": "9fYmiOH2mkI",
@@ -322,8 +304,26 @@
             "channel_name": "wizu - Topic",
             "category": "Music",
             "duration": "4:03",
-            "view_count": "9736",
+            "view_count": "10911",
             "thumbnail_url": "https://i.ytimg.com/vi/9fYmiOH2mkI/hqdefault.jpg"
+        },
+        {
+            "video_id": "DkZh_-tU6Ls",
+            "title": "정치판",
+            "channel_name": "이도원",
+            "category": "Gaming",
+            "duration": "18:16",
+            "view_count": "138211",
+            "thumbnail_url": "https://i.ytimg.com/vi/DkZh_-tU6Ls/hqdefault.jpg"
+        },
+        {
+            "video_id": "1NLOp-4EP7g",
+            "title": "Deep night",
+            "channel_name": "O.WHEN - Topic",
+            "category": "Music",
+            "duration": "3:56",
+            "view_count": "10154",
+            "thumbnail_url": "https://i.ytimg.com/vi/1NLOp-4EP7g/hqdefault.jpg"
         },
         {
             "video_id": "4gR2KWhCg_o",
@@ -331,7 +331,7 @@
             "channel_name": "인피쉰",
             "category": "Gaming",
             "duration": "5:11:27",
-            "view_count": "129258",
+            "view_count": "129566",
             "thumbnail_url": "https://i.ytimg.com/vi/4gR2KWhCg_o/hqdefault.jpg"
         },
         {
@@ -340,7 +340,7 @@
             "channel_name": "MEOVV - Topic",
             "category": "Music",
             "duration": "2:48",
-            "view_count": "47357",
+            "view_count": "54904",
             "thumbnail_url": "https://i.ytimg.com/vi/fsMWdnx_wuI/hqdefault.jpg"
         },
         {
@@ -349,17 +349,17 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "51:42",
-            "view_count": "201097",
+            "view_count": "202292",
             "thumbnail_url": "https://i.ytimg.com/vi/6IfYRBQC61c/hqdefault.jpg"
         },
         {
-            "video_id": "1NLOp-4EP7g",
-            "title": "Deep night",
-            "channel_name": "O.WHEN - Topic",
+            "video_id": "Slxao6remF8",
+            "title": "자존심 (feat. maji)",
+            "channel_name": "Terry - Topic",
             "category": "Music",
-            "duration": "3:56",
-            "view_count": "9059",
-            "thumbnail_url": "https://i.ytimg.com/vi/1NLOp-4EP7g/hqdefault.jpg"
+            "duration": "3:03",
+            "view_count": "20448",
+            "thumbnail_url": "https://i.ytimg.com/vi/Slxao6remF8/hqdefault.jpg"
         },
         {
             "video_id": "laphS6ElU04",
@@ -367,7 +367,7 @@
             "channel_name": "백나른",
             "category": "Gaming",
             "duration": "15:45",
-            "view_count": "70700",
+            "view_count": "73014",
             "thumbnail_url": "https://i.ytimg.com/vi/laphS6ElU04/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "YENI - Topic",
             "category": "Music",
             "duration": "3:23",
-            "view_count": "31431",
+            "view_count": "32262",
             "thumbnail_url": "https://i.ytimg.com/vi/YszXlNIYbS0/hqdefault.jpg"
         }
     ]
