@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-08-01 23:17:01",
+    "scraped_time": "2025-08-02 00:15:57",
     "videos": [
         {
             "video_id": "Lq9TH__U22w",
@@ -7,7 +7,7 @@
             "channel_name": "박혜원HYNN",
             "category": "Entertainment",
             "duration": "2:07",
-            "view_count": "508577",
+            "view_count": "514893",
             "thumbnail_url": "https://i.ytimg.com/vi/Lq9TH__U22w/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:02",
-            "view_count": "206095",
+            "view_count": "216764",
             "thumbnail_url": "https://i.ytimg.com/vi/U5Lk7piDe3k/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "4:42:41",
-            "view_count": "1357680",
+            "view_count": "1390499",
             "thumbnail_url": "https://i.ytimg.com/vi/5-gCsDPpl1Q/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "3:17",
-            "view_count": "77789",
+            "view_count": "81711",
             "thumbnail_url": "https://i.ytimg.com/vi/GNBooLt5UKw/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "또봇 Tobot",
             "category": "Film & Animation",
             "duration": "1:00",
-            "view_count": "30838",
+            "view_count": "34505",
             "thumbnail_url": "https://i.ytimg.com/vi/uSwUzkig5ZI/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "25:05",
-            "view_count": "394736",
+            "view_count": "401147",
             "thumbnail_url": "https://i.ytimg.com/vi/YK5QDqNrSW0/hqdefault.jpg"
         },
         {
@@ -61,8 +61,35 @@
             "channel_name": "10CM - Topic",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "97286",
+            "view_count": "99967",
             "thumbnail_url": "https://i.ytimg.com/vi/7C8isefxv7o/hqdefault.jpg"
+        },
+        {
+            "video_id": "n2L5UcLMs3A",
+            "title": "[Aniplus] ≪극장판 귀멸의 칼날: 무한성편≫ 주제가 예고편 공개 | Aimer - 태양이 떠오르지 않는 세계",
+            "channel_name": "AniplusTV",
+            "category": "Film & Animation",
+            "duration": "0:31",
+            "view_count": "31944",
+            "thumbnail_url": "https://i.ytimg.com/vi/n2L5UcLMs3A/hqdefault.jpg"
+        },
+        {
+            "video_id": "LhJrNQMsfVU",
+            "title": "우리가 직접 만든 부캐로 모험하는 그리스 로마 신화 세계",
+            "channel_name": "잠뜰 TV",
+            "category": "Gaming",
+            "duration": "1:21:55",
+            "view_count": "105087",
+            "thumbnail_url": "https://i.ytimg.com/vi/LhJrNQMsfVU/hqdefault.jpg"
+        },
+        {
+            "video_id": "P169hsXjYQs",
+            "title": "BLACKPINK - '뛰어(JUMP)' Live at WORLD TOUR [DEADLINE] IN GOYANG",
+            "channel_name": "BLACKPINK",
+            "category": "Music",
+            "duration": "3:08",
+            "view_count": "4164293",
+            "thumbnail_url": "https://i.ytimg.com/vi/P169hsXjYQs/hqdefault.jpg"
         },
         {
             "video_id": "oZhbp6pnHaQ",
@@ -70,7 +97,7 @@
             "channel_name": "20th Century Studios Korea",
             "category": "Film & Animation",
             "duration": "2:34",
-            "view_count": "1413274",
+            "view_count": "1423133",
             "thumbnail_url": "https://i.ytimg.com/vi/oZhbp6pnHaQ/hqdefault.jpg"
         },
         {
@@ -79,35 +106,8 @@
             "channel_name": "꼬예유의 로블록스 저장소",
             "category": "Gaming",
             "duration": "13:24",
-            "view_count": "106544",
+            "view_count": "119486",
             "thumbnail_url": "https://i.ytimg.com/vi/YDbzUFRJ2P0/hqdefault.jpg"
-        },
-        {
-            "video_id": "P169hsXjYQs",
-            "title": "BLACKPINK - '뛰어(JUMP)' Live at WORLD TOUR [DEADLINE] IN GOYANG",
-            "channel_name": "BLACKPINK",
-            "category": "Music",
-            "duration": "3:08",
-            "view_count": "4131302",
-            "thumbnail_url": "https://i.ytimg.com/vi/P169hsXjYQs/hqdefault.jpg"
-        },
-        {
-            "video_id": "n2L5UcLMs3A",
-            "title": "[Aniplus] ≪극장판 귀멸의 칼날: 무한성편≫ 주제가 예고편 공개 | Aimer - 태양이 떠오르지 않는 세계",
-            "channel_name": "AniplusTV",
-            "category": "Film & Animation",
-            "duration": "0:31",
-            "view_count": "29057",
-            "thumbnail_url": "https://i.ytimg.com/vi/n2L5UcLMs3A/hqdefault.jpg"
-        },
-        {
-            "video_id": "UWLQu-gbqVM",
-            "title": "'6000만원빵 내기 승리까지 단 한판' 마무리 투수 출격",
-            "channel_name": "클리드",
-            "category": "Gaming",
-            "duration": "28:34",
-            "view_count": "154686",
-            "thumbnail_url": "https://i.ytimg.com/vi/UWLQu-gbqVM/hqdefault.jpg"
         },
         {
             "video_id": "Md2nqZtKtCo",
@@ -115,7 +115,7 @@
             "channel_name": "JANNABI - Topic",
             "category": "Music",
             "duration": "2:56",
-            "view_count": "243197",
+            "view_count": "245868",
             "thumbnail_url": "https://i.ytimg.com/vi/Md2nqZtKtCo/hqdefault.jpg"
         },
         {
@@ -124,71 +124,17 @@
             "channel_name": "Disney Plus Korea 디즈니 플러스 코리아",
             "category": "Film & Animation",
             "duration": "1:15",
-            "view_count": "801130",
+            "view_count": "818584",
             "thumbnail_url": "https://i.ytimg.com/vi/R_wrdUZejPQ/hqdefault.jpg"
         },
         {
-            "video_id": "pOFMGan7rEU",
-            "title": "모양몬 껴안고 안놔줬습니다!? 트롤해도 안 놔! [트롤 포옹타워]",
-            "channel_name": "백앤아",
+            "video_id": "UWLQu-gbqVM",
+            "title": "'6000만원빵 내기 승리까지 단 한판' 마무리 투수 출격",
+            "channel_name": "클리드",
             "category": "Gaming",
-            "duration": "12:33",
-            "view_count": "273635",
-            "thumbnail_url": "https://i.ytimg.com/vi/pOFMGan7rEU/hqdefault.jpg"
-        },
-        {
-            "video_id": "uniEqrMXQU4",
-            "title": "On My Mind",
-            "channel_name": "Alex Warren - Topic",
-            "category": "Music",
-            "duration": "3:10",
-            "view_count": "143564",
-            "thumbnail_url": "https://i.ytimg.com/vi/uniEqrMXQU4/hqdefault.jpg"
-        },
-        {
-            "video_id": "_LAWwt2hXj4",
-            "title": "《북극성》 첫 예고편 떴다..🔥 [강동원, 전지현] 미친 조합으로 돌아온 역대급 첩보 드라마 탄생ㄷㄷ (+하반기 디즈니+ 한국작품 라인업 총정리)",
-            "channel_name": "매드무비 : MadMovie",
-            "category": "Film & Animation",
-            "duration": "9:01",
-            "view_count": "164666",
-            "thumbnail_url": "https://i.ytimg.com/vi/_LAWwt2hXj4/hqdefault.jpg"
-        },
-        {
-            "video_id": "LhJrNQMsfVU",
-            "title": "우리가 직접 만든 부캐로 모험하는 그리스 로마 신화 세계",
-            "channel_name": "잠뜰 TV",
-            "category": "Gaming",
-            "duration": "1:21:55",
-            "view_count": "75859",
-            "thumbnail_url": "https://i.ytimg.com/vi/LhJrNQMsfVU/hqdefault.jpg"
-        },
-        {
-            "video_id": "slUTl_CtMR0",
-            "title": "Destiny (2025) (운명 (2025))",
-            "channel_name": "Monday Kiz - Topic",
-            "category": "Music",
-            "duration": "4:19",
-            "view_count": "1069193",
-            "thumbnail_url": "https://i.ytimg.com/vi/slUTl_CtMR0/hqdefault.jpg"
-        },
-        {
-            "video_id": "1VE1GmxNlZc",
-            "title": "드디어 공개된 ≪아바타3: 불과 재≫ 공식 예고편 떡밥 총정리",
-            "channel_name": "무비띵크_Movie Think",
-            "category": "Film & Animation",
-            "duration": "8:39",
-            "view_count": "366259",
-            "thumbnail_url": "https://i.ytimg.com/vi/1VE1GmxNlZc/hqdefault.jpg"
-        },
-        {
-            "video_id": "FsEkNc4KOwo",
-            "title": "GEN vs TS / TLN vs T1 - VCT 퍼시픽 - 스테이지 2 - 그룹 스테이지 - 10일차",
-            "channel_name": "발로란트 챔피언스 투어",
-            "category": "Gaming",
-            "duration": "4:57:49",
-            "view_count": "220795",
-            "thumbnail_url": "https://i.ytimg.com/vi/FsEkNc4KOwo/hqdefault.jpg"
+            "duration": "28:34",
+            "view_count": "162984",
+            "thumbnail_url": "https://i.ytimg.com/vi/UWLQu-gbqVM/hqdefault.jpg"
         },
         {
             "video_id": "2pR9Hcy19yo",
@@ -196,8 +142,62 @@
             "channel_name": "LEE SOLOMON - Topic",
             "category": "Music",
             "duration": "4:01",
-            "view_count": "15706",
+            "view_count": "17412",
             "thumbnail_url": "https://i.ytimg.com/vi/2pR9Hcy19yo/hqdefault.jpg"
+        },
+        {
+            "video_id": "_LAWwt2hXj4",
+            "title": "《북극성》 첫 예고편 떴다..🔥 [강동원, 전지현] 미친 조합으로 돌아온 역대급 첩보 드라마 탄생ㄷㄷ (+하반기 디즈니+ 한국작품 라인업 총정리)",
+            "channel_name": "매드무비 : MadMovie",
+            "category": "Film & Animation",
+            "duration": "9:01",
+            "view_count": "168159",
+            "thumbnail_url": "https://i.ytimg.com/vi/_LAWwt2hXj4/hqdefault.jpg"
+        },
+        {
+            "video_id": "3bu63aA5r50",
+            "title": "강지누나가 새로운 아이돌을 소개해줬습니다 이젠 내가 데려가서 가르치라고?",
+            "channel_name": "악동 김블루",
+            "category": "Gaming",
+            "duration": "13:22",
+            "view_count": "128528",
+            "thumbnail_url": "https://i.ytimg.com/vi/3bu63aA5r50/hqdefault.jpg"
+        },
+        {
+            "video_id": "uniEqrMXQU4",
+            "title": "On My Mind",
+            "channel_name": "Alex Warren - Topic",
+            "category": "Music",
+            "duration": "3:10",
+            "view_count": "146799",
+            "thumbnail_url": "https://i.ytimg.com/vi/uniEqrMXQU4/hqdefault.jpg"
+        },
+        {
+            "video_id": "1VE1GmxNlZc",
+            "title": "드디어 공개된 ≪아바타3: 불과 재≫ 공식 예고편 떡밥 총정리",
+            "channel_name": "무비띵크_Movie Think",
+            "category": "Film & Animation",
+            "duration": "8:39",
+            "view_count": "372990",
+            "thumbnail_url": "https://i.ytimg.com/vi/1VE1GmxNlZc/hqdefault.jpg"
+        },
+        {
+            "video_id": "pOFMGan7rEU",
+            "title": "모양몬 껴안고 안놔줬습니다!? 트롤해도 안 놔! [트롤 포옹타워]",
+            "channel_name": "백앤아",
+            "category": "Gaming",
+            "duration": "12:33",
+            "view_count": "277876",
+            "thumbnail_url": "https://i.ytimg.com/vi/pOFMGan7rEU/hqdefault.jpg"
+        },
+        {
+            "video_id": "slUTl_CtMR0",
+            "title": "Destiny (2025) (운명 (2025))",
+            "channel_name": "Monday Kiz - Topic",
+            "category": "Music",
+            "duration": "4:19",
+            "view_count": "1079806",
+            "thumbnail_url": "https://i.ytimg.com/vi/slUTl_CtMR0/hqdefault.jpg"
         },
         {
             "video_id": "prxo8AHWnmE",
@@ -205,8 +205,26 @@
             "channel_name": "Warner Bros. Korea",
             "category": "Film & Animation",
             "duration": "2:24",
-            "view_count": "217971",
+            "view_count": "225355",
             "thumbnail_url": "https://i.ytimg.com/vi/prxo8AHWnmE/hqdefault.jpg"
+        },
+        {
+            "video_id": "CuhK3UuWEfA",
+            "title": "99%가 못해본 강제로 4배 강한 핵폭탄 시크릿 만드는 방법!!!! 우와 아니 이게 진짜 된다고??????!!!!(로블록스 브레인롯훔치기)",
+            "channel_name": "쉐어TV",
+            "category": "Gaming",
+            "duration": "14:33",
+            "view_count": "109923",
+            "thumbnail_url": "https://i.ytimg.com/vi/CuhK3UuWEfA/hqdefault.jpg"
+        },
+        {
+            "video_id": "130IbshksRI",
+            "title": "BOYNEXTAGE | 'Congratulations' Stage CAM @ ‘KNOCK ON Vol.1’ FINAL - BOYNEXTDOOR (보이넥스트도어)",
+            "channel_name": "BOYNEXTDOOR",
+            "category": "Music",
+            "duration": "3:27",
+            "view_count": "25066",
+            "thumbnail_url": "https://i.ytimg.com/vi/130IbshksRI/hqdefault.jpg"
         },
         {
             "video_id": "ouQdwXqIo0Q",
@@ -214,7 +232,7 @@
             "channel_name": "멜로우TV",
             "category": "Gaming",
             "duration": "12:24",
-            "view_count": "114680",
+            "view_count": "119058",
             "thumbnail_url": "https://i.ytimg.com/vi/ouQdwXqIo0Q/hqdefault.jpg"
         },
         {
@@ -223,17 +241,17 @@
             "channel_name": "YOU DAYEON - Topic",
             "category": "Music",
             "duration": "2:53",
-            "view_count": "19361",
+            "view_count": "19701",
             "thumbnail_url": "https://i.ytimg.com/vi/5ydzMrJn16E/hqdefault.jpg"
         },
         {
-            "video_id": "YRq3F7m-8_0",
-            "title": "뭐라고? 못 들었어! | 3R KT vs T1│2025 LCK | 울챔스 하이라이트",
-            "channel_name": "Wolf",
+            "video_id": "FsEkNc4KOwo",
+            "title": "GEN vs TS / TLN vs T1 - VCT 퍼시픽 - 스테이지 2 - 그룹 스테이지 - 10일차",
+            "channel_name": "발로란트 챔피언스 투어",
             "category": "Gaming",
-            "duration": "42:31",
-            "view_count": "284117",
-            "thumbnail_url": "https://i.ytimg.com/vi/YRq3F7m-8_0/hqdefault.jpg"
+            "duration": "4:57:49",
+            "view_count": "221563",
+            "thumbnail_url": "https://i.ytimg.com/vi/FsEkNc4KOwo/hqdefault.jpg"
         },
         {
             "video_id": "7RTyA16JZtw",
@@ -241,17 +259,17 @@
             "channel_name": "YENA - Topic",
             "category": "Music",
             "duration": "2:48",
-            "view_count": "218889",
+            "view_count": "221529",
             "thumbnail_url": "https://i.ytimg.com/vi/7RTyA16JZtw/hqdefault.jpg"
         },
         {
-            "video_id": "mafc6tKdnZ8",
-            "title": "우주 최초! 롤체 6년 역사상 가장 어려운 난이도의 역대급 이스터에그",
-            "channel_name": "전쓰트의 게임 채널 Junsst",
+            "video_id": "HhcpM1OtnkU",
+            "title": "아델 최종 스펙업 「코디 변경」 [팡이요,  메이플스토리]",
+            "channel_name": "팡이요",
             "category": "Gaming",
-            "duration": "16:41",
-            "view_count": "389965",
-            "thumbnail_url": "https://i.ytimg.com/vi/mafc6tKdnZ8/hqdefault.jpg"
+            "duration": "11:24",
+            "view_count": "115477",
+            "thumbnail_url": "https://i.ytimg.com/vi/HhcpM1OtnkU/hqdefault.jpg"
         },
         {
             "video_id": "n1bzcMrjZtk",
@@ -259,17 +277,35 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:34",
-            "view_count": "442274",
+            "view_count": "450765",
             "thumbnail_url": "https://i.ytimg.com/vi/n1bzcMrjZtk/hqdefault.jpg"
         },
         {
-            "video_id": "4YgS2ay0ShY",
-            "title": "\"리신과 니달리는 절대 안 하는 가짜 정글러\"  니달리로 이기면 5천개 미션을 받는 이상호?!",
-            "channel_name": "이상호",
+            "video_id": "YRq3F7m-8_0",
+            "title": "뭐라고? 못 들었어! | 3R KT vs T1│2025 LCK | 울챔스 하이라이트",
+            "channel_name": "Wolf",
             "category": "Gaming",
-            "duration": "21:48",
-            "view_count": "224401",
-            "thumbnail_url": "https://i.ytimg.com/vi/4YgS2ay0ShY/hqdefault.jpg"
+            "duration": "42:31",
+            "view_count": "286628",
+            "thumbnail_url": "https://i.ytimg.com/vi/YRq3F7m-8_0/hqdefault.jpg"
+        },
+        {
+            "video_id": "3iUgKH8c7p4",
+            "title": "いますぐ輪廻 / 初音ミク",
+            "channel_name": "なきそ",
+            "category": "Music",
+            "duration": "2:03",
+            "view_count": "172152",
+            "thumbnail_url": "https://i.ytimg.com/vi/3iUgKH8c7p4/hqdefault.jpg"
+        },
+        {
+            "video_id": "mafc6tKdnZ8",
+            "title": "우주 최초! 롤체 6년 역사상 가장 어려운 난이도의 역대급 이스터에그",
+            "channel_name": "전쓰트의 게임 채널 Junsst",
+            "category": "Gaming",
+            "duration": "16:41",
+            "view_count": "393755",
+            "thumbnail_url": "https://i.ytimg.com/vi/mafc6tKdnZ8/hqdefault.jpg"
         },
         {
             "video_id": "A6xxmikn4Og",
@@ -277,17 +313,17 @@
             "channel_name": "YOSEP YUN - Topic",
             "category": "Music",
             "duration": "4:44",
-            "view_count": "55858",
+            "view_count": "56677",
             "thumbnail_url": "https://i.ytimg.com/vi/A6xxmikn4Og/hqdefault.jpg"
         },
         {
-            "video_id": "CuhK3UuWEfA",
-            "title": "99%가 못해본 강제로 4배 강한 핵폭탄 시크릿 만드는 방법!!!! 우와 아니 이게 진짜 된다고??????!!!!(로블록스 브레인롯훔치기)",
-            "channel_name": "쉐어TV",
+            "video_id": "ZsIfUXlrjo4",
+            "title": "메생최초 25성 오너 타요 메이플과 교미하기",
+            "channel_name": "타튜브 [TATUBE]",
             "category": "Gaming",
-            "duration": "14:33",
-            "view_count": "96560",
-            "thumbnail_url": "https://i.ytimg.com/vi/CuhK3UuWEfA/hqdefault.jpg"
+            "duration": "13:01",
+            "view_count": "96781",
+            "thumbnail_url": "https://i.ytimg.com/vi/ZsIfUXlrjo4/hqdefault.jpg"
         },
         {
             "video_id": "uy_HttU6V8A",
@@ -295,44 +331,8 @@
             "channel_name": "Demi Lovato - Topic",
             "category": "Music",
             "duration": "3:02",
-            "view_count": "53687",
+            "view_count": "61372",
             "thumbnail_url": "https://i.ytimg.com/vi/uy_HttU6V8A/hqdefault.jpg"
-        },
-        {
-            "video_id": "3bu63aA5r50",
-            "title": "강지누나가 새로운 아이돌을 소개해줬습니다.. 이젠 내가 데려가서 가르치라고?",
-            "channel_name": "악동 김블루",
-            "category": "Gaming",
-            "duration": "13:22",
-            "view_count": "98628",
-            "thumbnail_url": "https://i.ytimg.com/vi/3bu63aA5r50/hqdefault.jpg"
-        },
-        {
-            "video_id": "BZGuQCvUXIA",
-            "title": "Golden - KPop Demon Hunters (Lyrics) HUNTR/X, EJAE, AUDREY NUNA, REI AMI",
-            "channel_name": "Dan Music",
-            "category": "Music",
-            "duration": "3:15",
-            "view_count": "790225",
-            "thumbnail_url": "https://i.ytimg.com/vi/BZGuQCvUXIA/hqdefault.jpg"
-        },
-        {
-            "video_id": "mMIEDIRaroc",
-            "title": "후닝랜드 타요 벗기기(?)",
-            "channel_name": "타튜브 [TATUBE]",
-            "category": "Gaming",
-            "duration": "18:26",
-            "view_count": "188457",
-            "thumbnail_url": "https://i.ytimg.com/vi/mMIEDIRaroc/hqdefault.jpg"
-        },
-        {
-            "video_id": "rvwsn36fFCc",
-            "title": "[두리DooRi] 현이와 덕이 - 너나 좋아해 나 너 좋아해 (소극장 라이브 커버 by 두리) #cover",
-            "channel_name": "두리 원투쓰리코",
-            "category": "Music",
-            "duration": "2:32",
-            "view_count": "19421",
-            "thumbnail_url": "https://i.ytimg.com/vi/rvwsn36fFCc/hqdefault.jpg"
         },
         {
             "video_id": "w142EBr8mqI",
@@ -340,26 +340,8 @@
             "channel_name": "스맵",
             "category": "Gaming",
             "duration": "29:12",
-            "view_count": "95786",
+            "view_count": "102980",
             "thumbnail_url": "https://i.ytimg.com/vi/w142EBr8mqI/hqdefault.jpg"
-        },
-        {
-            "video_id": "hqQNA2AZatY",
-            "title": "Only Forward (Only 직진)",
-            "channel_name": "Nam Woo Hyun - Topic",
-            "category": "Music",
-            "duration": "3:23",
-            "view_count": "46853",
-            "thumbnail_url": "https://i.ytimg.com/vi/hqQNA2AZatY/hqdefault.jpg"
-        },
-        {
-            "video_id": "h6iWn26cXr4",
-            "title": "드립을 참을 수 없는 초성 퀴즈ㅋㅋㅋ",
-            "channel_name": "왈도쿤",
-            "category": "Gaming",
-            "duration": "19:57",
-            "view_count": "150064",
-            "thumbnail_url": "https://i.ytimg.com/vi/h6iWn26cXr4/hqdefault.jpg"
         },
         {
             "video_id": "k2ZlVI62jOs",
@@ -367,17 +349,35 @@
             "channel_name": "로이킴 Roy Kim",
             "category": "Music",
             "duration": "5:29",
-            "view_count": "31713",
+            "view_count": "32382",
             "thumbnail_url": "https://i.ytimg.com/vi/k2ZlVI62jOs/hqdefault.jpg"
         },
         {
-            "video_id": "zElS6gEQ4O8",
-            "title": "빨리 엊민교 좀 재워봐",
-            "channel_name": "튜브김민교",
+            "video_id": "4YgS2ay0ShY",
+            "title": "\"리신과 니달리는 절대 안 하는 가짜 정글러\"  니달리로 이기면 5천개 미션을 받는 이상호?!",
+            "channel_name": "이상호",
             "category": "Gaming",
-            "duration": "25:41",
-            "view_count": "184960",
-            "thumbnail_url": "https://i.ytimg.com/vi/zElS6gEQ4O8/hqdefault.jpg"
+            "duration": "21:48",
+            "view_count": "227820",
+            "thumbnail_url": "https://i.ytimg.com/vi/4YgS2ay0ShY/hqdefault.jpg"
+        },
+        {
+            "video_id": "BZGuQCvUXIA",
+            "title": "Golden - KPop Demon Hunters (Lyrics) HUNTR/X, EJAE, AUDREY NUNA, REI AMI",
+            "channel_name": "Dan Music",
+            "category": "Music",
+            "duration": "3:15",
+            "view_count": "809821",
+            "thumbnail_url": "https://i.ytimg.com/vi/BZGuQCvUXIA/hqdefault.jpg"
+        },
+        {
+            "video_id": "h6iWn26cXr4",
+            "title": "드립을 참을 수 없는 초성 퀴즈ㅋㅋㅋ",
+            "channel_name": "왈도쿤",
+            "category": "Gaming",
+            "duration": "19:57",
+            "view_count": "151836",
+            "thumbnail_url": "https://i.ytimg.com/vi/h6iWn26cXr4/hqdefault.jpg"
         }
     ]
 }
