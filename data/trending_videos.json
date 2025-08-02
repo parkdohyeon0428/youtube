@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-08-03 03:19:34",
+    "scraped_time": "2025-08-03 04:10:59",
     "videos": [
         {
             "video_id": "GNBooLt5UKw",
@@ -7,7 +7,7 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "3:17",
-            "view_count": "140126",
+            "view_count": "140941",
             "thumbnail_url": "https://i.ytimg.com/vi/GNBooLt5UKw/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:02",
-            "view_count": "362943",
+            "view_count": "367094",
             "thumbnail_url": "https://i.ytimg.com/vi/U5Lk7piDe3k/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "5:51:26",
-            "view_count": "1756247",
+            "view_count": "1760481",
             "thumbnail_url": "https://i.ytimg.com/vi/cNlBZUsNHJM/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "なきそ",
             "category": "Music",
             "duration": "2:03",
-            "view_count": "1062196",
+            "view_count": "1095304",
             "thumbnail_url": "https://i.ytimg.com/vi/3iUgKH8c7p4/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "또봇 Tobot",
             "category": "Film & Animation",
             "duration": "1:00",
-            "view_count": "62141",
+            "view_count": "62421",
             "thumbnail_url": "https://i.ytimg.com/vi/uSwUzkig5ZI/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "쉐어TV",
             "category": "Gaming",
             "duration": "24:12",
-            "view_count": "365312",
+            "view_count": "366641",
             "thumbnail_url": "https://i.ytimg.com/vi/8WQiWOLByxA/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "BOYNEXTDOOR",
             "category": "Music",
             "duration": "3:27",
-            "view_count": "117653",
+            "view_count": "119144",
             "thumbnail_url": "https://i.ytimg.com/vi/130IbshksRI/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "AniplusTV",
             "category": "Film & Animation",
             "duration": "0:31",
-            "view_count": "82883",
+            "view_count": "83817",
             "thumbnail_url": "https://i.ytimg.com/vi/n2L5UcLMs3A/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "26:14",
-            "view_count": "433370",
+            "view_count": "437550",
             "thumbnail_url": "https://i.ytimg.com/vi/u86RFrV1SnI/hqdefault.jpg"
         },
         {
@@ -88,26 +88,8 @@
             "channel_name": "10CM - Topic",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "169607",
+            "view_count": "170483",
             "thumbnail_url": "https://i.ytimg.com/vi/7C8isefxv7o/hqdefault.jpg"
-        },
-        {
-            "video_id": "OI0ivfGRmbM",
-            "title": "이제는 시크릿 브레인롯을 비밀합성한다고!? 퓨즈머신으로 다 합쳐보자!!! (로블록스 브레인롯훔치기)",
-            "channel_name": "말량",
-            "category": "Gaming",
-            "duration": "25:54",
-            "view_count": "151065",
-            "thumbnail_url": "https://i.ytimg.com/vi/OI0ivfGRmbM/hqdefault.jpg"
-        },
-        {
-            "video_id": "fo7LtWAlpJc",
-            "title": "Golden /  HUNTR/X (KPop Demon Hunters)┃Raon cover",
-            "channel_name": "Raon",
-            "category": "Music",
-            "duration": "3:21",
-            "view_count": "162773",
-            "thumbnail_url": "https://i.ytimg.com/vi/fo7LtWAlpJc/hqdefault.jpg"
         },
         {
             "video_id": "Kz7bLBBM9fM",
@@ -115,8 +97,26 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "20:39",
-            "view_count": "198850",
+            "view_count": "213347",
             "thumbnail_url": "https://i.ytimg.com/vi/Kz7bLBBM9fM/hqdefault.jpg"
+        },
+        {
+            "video_id": "fo7LtWAlpJc",
+            "title": "Golden /  HUNTR/X (KPop Demon Hunters)┃Raon cover",
+            "channel_name": "Raon",
+            "category": "Music",
+            "duration": "3:21",
+            "view_count": "165008",
+            "thumbnail_url": "https://i.ytimg.com/vi/fo7LtWAlpJc/hqdefault.jpg"
+        },
+        {
+            "video_id": "OI0ivfGRmbM",
+            "title": "이제는 시크릿 브레인롯을 비밀합성한다고!? 퓨즈머신으로 다 합쳐보자!!! (로블록스 브레인롯훔치기)",
+            "channel_name": "말량",
+            "category": "Gaming",
+            "duration": "25:54",
+            "view_count": "152601",
+            "thumbnail_url": "https://i.ytimg.com/vi/OI0ivfGRmbM/hqdefault.jpg"
         },
         {
             "video_id": "Lq9TH__U22w",
@@ -124,7 +124,7 @@
             "channel_name": "박혜원HYNN",
             "category": "Entertainment",
             "duration": "2:07",
-            "view_count": "618899",
+            "view_count": "621647",
             "thumbnail_url": "https://i.ytimg.com/vi/Lq9TH__U22w/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "1:21:55",
-            "view_count": "328144",
+            "view_count": "330497",
             "thumbnail_url": "https://i.ytimg.com/vi/LhJrNQMsfVU/hqdefault.jpg"
         },
         {
@@ -142,8 +142,26 @@
             "channel_name": "Alex Warren - Topic",
             "category": "Music",
             "duration": "3:07",
-            "view_count": "1391159",
+            "view_count": "1425745",
             "thumbnail_url": "https://i.ytimg.com/vi/TR19QSL7WuQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "rMQLnISlZ4o",
+            "title": "※레전드갱신※ 웃다가 디질뻔한 역대급 미친놈 스쿼드",
+            "channel_name": "혜안",
+            "category": "Gaming",
+            "duration": "17:00",
+            "view_count": "107174",
+            "thumbnail_url": "https://i.ytimg.com/vi/rMQLnISlZ4o/hqdefault.jpg"
+        },
+        {
+            "video_id": "rmXEeefxFSk",
+            "title": "[MV] Han Man Cheong(한만청) _ Say Yes",
+            "channel_name": "1theK (원더케이)",
+            "category": "Music",
+            "duration": "3:37",
+            "view_count": "8102",
+            "thumbnail_url": "https://i.ytimg.com/vi/rmXEeefxFSk/hqdefault.jpg"
         },
         {
             "video_id": "3bu63aA5r50",
@@ -151,7 +169,7 @@
             "channel_name": "악동 김블루",
             "category": "Gaming",
             "duration": "13:22",
-            "view_count": "390762",
+            "view_count": "393065",
             "thumbnail_url": "https://i.ytimg.com/vi/3bu63aA5r50/hqdefault.jpg"
         },
         {
@@ -160,44 +178,8 @@
             "channel_name": "វណ្ណដា-VannDa Official",
             "category": "Music",
             "duration": "3:27",
-            "view_count": "954288",
+            "view_count": "975508",
             "thumbnail_url": "https://i.ytimg.com/vi/qq0f0Aevlgg/hqdefault.jpg"
-        },
-        {
-            "video_id": "rMQLnISlZ4o",
-            "title": "※레전드갱신※ 웃다가 디질뻔한 역대급 미친놈 스쿼드",
-            "channel_name": "혜안",
-            "category": "Gaming",
-            "duration": "17:00",
-            "view_count": "98350",
-            "thumbnail_url": "https://i.ytimg.com/vi/rMQLnISlZ4o/hqdefault.jpg"
-        },
-        {
-            "video_id": "2pR9Hcy19yo",
-            "title": "Goodbye in gold (Goodbye in gold)",
-            "channel_name": "LEE SOLOMON - Topic",
-            "category": "Music",
-            "duration": "4:01",
-            "view_count": "28463",
-            "thumbnail_url": "https://i.ytimg.com/vi/2pR9Hcy19yo/hqdefault.jpg"
-        },
-        {
-            "video_id": "ytL0ZDzmcJ8",
-            "title": "새로운 커플 등장!? 몰래카메라로 복수했더니 반응이..",
-            "channel_name": "마주 - 로블록스",
-            "category": "Gaming",
-            "duration": "24:41",
-            "view_count": "102472",
-            "thumbnail_url": "https://i.ytimg.com/vi/ytL0ZDzmcJ8/hqdefault.jpg"
-        },
-        {
-            "video_id": "rmXEeefxFSk",
-            "title": "[MV] Han Man Cheong(한만청) _ Say Yes",
-            "channel_name": "1theK (원더케이)",
-            "category": "Music",
-            "duration": "3:37",
-            "view_count": "7468",
-            "thumbnail_url": "https://i.ytimg.com/vi/rmXEeefxFSk/hqdefault.jpg"
         },
         {
             "video_id": "GJ47UjVsYbg",
@@ -205,7 +187,7 @@
             "channel_name": "이도원",
             "category": "Gaming",
             "duration": "20:01",
-            "view_count": "117688",
+            "view_count": "123714",
             "thumbnail_url": "https://i.ytimg.com/vi/GJ47UjVsYbg/hqdefault.jpg"
         },
         {
@@ -214,8 +196,26 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "2:44",
-            "view_count": "575906",
+            "view_count": "584934",
             "thumbnail_url": "https://i.ytimg.com/vi/zOaZ_MoV18U/hqdefault.jpg"
+        },
+        {
+            "video_id": "ytL0ZDzmcJ8",
+            "title": "새로운 커플 등장!? 몰래카메라로 복수했더니 반응이..",
+            "channel_name": "마주 - 로블록스",
+            "category": "Gaming",
+            "duration": "24:41",
+            "view_count": "103186",
+            "thumbnail_url": "https://i.ytimg.com/vi/ytL0ZDzmcJ8/hqdefault.jpg"
+        },
+        {
+            "video_id": "2pR9Hcy19yo",
+            "title": "Goodbye in gold (Goodbye in gold)",
+            "channel_name": "LEE SOLOMON - Topic",
+            "category": "Music",
+            "duration": "4:01",
+            "view_count": "28587",
+            "thumbnail_url": "https://i.ytimg.com/vi/2pR9Hcy19yo/hqdefault.jpg"
         },
         {
             "video_id": "rPlF6FHObgc",
@@ -223,7 +223,7 @@
             "channel_name": "붕괴: 스타레일",
             "category": "Entertainment",
             "duration": "38:19",
-            "view_count": "98156",
+            "view_count": "99934",
             "thumbnail_url": "https://i.ytimg.com/vi/rPlF6FHObgc/hqdefault.jpg"
         },
         {
@@ -232,26 +232,8 @@
             "channel_name": "BLACKPINK",
             "category": "Music",
             "duration": "3:08",
-            "view_count": "4931337",
+            "view_count": "4960705",
             "thumbnail_url": "https://i.ytimg.com/vi/P169hsXjYQs/hqdefault.jpg"
-        },
-        {
-            "video_id": "hUAkneo8TwI",
-            "title": "어제 그놈은 아니긴 한데 그놈인 척 연기하고 방에 들어가 봤습니다ㅋㅋ",
-            "channel_name": "[ALTUBE] 김성현TV",
-            "category": "Gaming",
-            "duration": "38:41",
-            "view_count": "139305",
-            "thumbnail_url": "https://i.ytimg.com/vi/hUAkneo8TwI/hqdefault.jpg"
-        },
-        {
-            "video_id": "uy_HttU6V8A",
-            "title": "Fast",
-            "channel_name": "Demi Lovato - Topic",
-            "category": "Music",
-            "duration": "3:02",
-            "view_count": "208001",
-            "thumbnail_url": "https://i.ytimg.com/vi/uy_HttU6V8A/hqdefault.jpg"
         },
         {
             "video_id": "xggVKfgAEZE",
@@ -259,8 +241,26 @@
             "channel_name": "왈도쿤",
             "category": "Gaming",
             "duration": "17:48",
-            "view_count": "103783",
+            "view_count": "110516",
             "thumbnail_url": "https://i.ytimg.com/vi/xggVKfgAEZE/hqdefault.jpg"
+        },
+        {
+            "video_id": "uy_HttU6V8A",
+            "title": "Fast",
+            "channel_name": "Demi Lovato - Topic",
+            "category": "Music",
+            "duration": "3:02",
+            "view_count": "213460",
+            "thumbnail_url": "https://i.ytimg.com/vi/uy_HttU6V8A/hqdefault.jpg"
+        },
+        {
+            "video_id": "hUAkneo8TwI",
+            "title": "어제 그놈은 아니긴 한데 그놈인 척 연기하고 방에 들어가 봤습니다ㅋㅋ",
+            "channel_name": "[ALTUBE] 김성현TV",
+            "category": "Gaming",
+            "duration": "38:41",
+            "view_count": "143068",
+            "thumbnail_url": "https://i.ytimg.com/vi/hUAkneo8TwI/hqdefault.jpg"
         },
         {
             "video_id": "WtX4xKqvyzM",
@@ -268,35 +268,17 @@
             "channel_name": "HEYOON - Topic",
             "category": "Music",
             "duration": "3:03",
-            "view_count": "33003",
+            "view_count": "33260",
             "thumbnail_url": "https://i.ytimg.com/vi/WtX4xKqvyzM/hqdefault.jpg"
         },
         {
-            "video_id": "YDbzUFRJ2P0",
-            "title": "브레인롯 훔치기에서 말량님 비공섭에서 시크릿 다 훔쳤습니다ㅋㅋㅋㅋㅋ",
-            "channel_name": "꼬예유의 로블록스 저장소",
+            "video_id": "IHyxxIzfGEw",
+            "title": "자존심 강한 두 미드-정글의 무릎빵",
+            "channel_name": "튜브김민교",
             "category": "Gaming",
-            "duration": "13:24",
-            "view_count": "213646",
-            "thumbnail_url": "https://i.ytimg.com/vi/YDbzUFRJ2P0/hqdefault.jpg"
-        },
-        {
-            "video_id": "Md2nqZtKtCo",
-            "title": "Summer sun, i’m your fan club. (사람들은 다 그래 맛있는 걸 먹을 때와 여름의...",
-            "channel_name": "JANNABI - Topic",
-            "category": "Music",
-            "duration": "2:56",
-            "view_count": "313377",
-            "thumbnail_url": "https://i.ytimg.com/vi/Md2nqZtKtCo/hqdefault.jpg"
-        },
-        {
-            "video_id": "p83NCKjvMUY",
-            "title": "로켓단식 멘트 치고 상대 팀으로 간 이상호ㄷㄷ",
-            "channel_name": "스맵",
-            "category": "Gaming",
-            "duration": "36:27",
-            "view_count": "98493",
-            "thumbnail_url": "https://i.ytimg.com/vi/p83NCKjvMUY/hqdefault.jpg"
+            "duration": "38:41",
+            "view_count": "110909",
+            "thumbnail_url": "https://i.ytimg.com/vi/IHyxxIzfGEw/hqdefault.jpg"
         },
         {
             "video_id": "pxFRMiVXFDo",
@@ -304,8 +286,26 @@
             "channel_name": "Park Bo-Gum - Topic",
             "category": "Music",
             "duration": "4:57",
-            "view_count": "21595",
+            "view_count": "22502",
             "thumbnail_url": "https://i.ytimg.com/vi/pxFRMiVXFDo/hqdefault.jpg"
+        },
+        {
+            "video_id": "B4saf22t1-o",
+            "title": "빨간약 공개해버린 이빨 빠진 유봉훈 ㅋㅋㅋㅋ",
+            "channel_name": "이상호",
+            "category": "Gaming",
+            "duration": "19:09",
+            "view_count": "114743",
+            "thumbnail_url": "https://i.ytimg.com/vi/B4saf22t1-o/hqdefault.jpg"
+        },
+        {
+            "video_id": "Md2nqZtKtCo",
+            "title": "Summer sun, i’m your fan club. (사람들은 다 그래 맛있는 걸 먹을 때와 여름의...",
+            "channel_name": "JANNABI - Topic",
+            "category": "Music",
+            "duration": "2:56",
+            "view_count": "314245",
+            "thumbnail_url": "https://i.ytimg.com/vi/Md2nqZtKtCo/hqdefault.jpg"
         },
         {
             "video_id": "3ID2qgRprLw",
@@ -313,7 +313,7 @@
             "channel_name": "타튜브 [TATUBE]",
             "category": "Gaming",
             "duration": "18:35",
-            "view_count": "100981",
+            "view_count": "109170",
             "thumbnail_url": "https://i.ytimg.com/vi/3ID2qgRprLw/hqdefault.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "channel_name": "Fujii Kaze - Topic",
             "category": "Music",
             "duration": "4:21",
-            "view_count": "380401",
+            "view_count": "383125",
             "thumbnail_url": "https://i.ytimg.com/vi/5rRtcICYT9A/hqdefault.jpg"
         },
         {
@@ -331,7 +331,7 @@
             "channel_name": "강퀴TV",
             "category": "Gaming",
             "duration": "30:40",
-            "view_count": "88770",
+            "view_count": "94785",
             "thumbnail_url": "https://i.ytimg.com/vi/ymkIsoI5_Do/hqdefault.jpg"
         },
         {
@@ -340,17 +340,35 @@
             "channel_name": "추억발라드 90~2000",
             "category": "People & Blogs",
             "duration": "1:14:14",
-            "view_count": "9196",
+            "view_count": "9360",
             "thumbnail_url": "https://i.ytimg.com/vi/aj6571HYF2U/hqdefault.jpg"
         },
         {
-            "video_id": "IHyxxIzfGEw",
-            "title": "자존심 강한 두 미드-정글의 무릎빵",
-            "channel_name": "튜브김민교",
+            "video_id": "YDbzUFRJ2P0",
+            "title": "브레인롯 훔치기에서 말량님 비공섭에서 시크릿 다 훔쳤습니다ㅋㅋㅋㅋㅋ",
+            "channel_name": "꼬예유의 로블록스 저장소",
             "category": "Gaming",
-            "duration": "38:41",
-            "view_count": "102724",
-            "thumbnail_url": "https://i.ytimg.com/vi/IHyxxIzfGEw/hqdefault.jpg"
+            "duration": "13:24",
+            "view_count": "214131",
+            "thumbnail_url": "https://i.ytimg.com/vi/YDbzUFRJ2P0/hqdefault.jpg"
+        },
+        {
+            "video_id": "DLbFriMx7GA",
+            "title": "BoA 보아 'Crazier' MV Teaser",
+            "channel_name": "SMTOWN",
+            "category": "Music",
+            "duration": "0:33",
+            "view_count": "32349",
+            "thumbnail_url": "https://i.ytimg.com/vi/DLbFriMx7GA/hqdefault.jpg"
+        },
+        {
+            "video_id": "p83NCKjvMUY",
+            "title": "로켓단식 멘트 치고 상대 팀으로 간 이상호ㄷㄷ",
+            "channel_name": "스맵",
+            "category": "Gaming",
+            "duration": "36:27",
+            "view_count": "100855",
+            "thumbnail_url": "https://i.ytimg.com/vi/p83NCKjvMUY/hqdefault.jpg"
         },
         {
             "video_id": "pUzoSaxNVtM",
@@ -358,26 +376,8 @@
             "channel_name": "JAY - Topic",
             "category": "Music",
             "duration": "3:11",
-            "view_count": "11045",
+            "view_count": "11251",
             "thumbnail_url": "https://i.ytimg.com/vi/pUzoSaxNVtM/hqdefault.jpg"
-        },
-        {
-            "video_id": "B4saf22t1-o",
-            "title": "빨간약 공개해버린 이빨 빠진 유봉훈 ㅋㅋㅋㅋ",
-            "channel_name": "이상호",
-            "category": "Gaming",
-            "duration": "19:09",
-            "view_count": "104007",
-            "thumbnail_url": "https://i.ytimg.com/vi/B4saf22t1-o/hqdefault.jpg"
-        },
-        {
-            "video_id": "slUTl_CtMR0",
-            "title": "Destiny (2025) (운명 (2025))",
-            "channel_name": "Monday Kiz - Topic",
-            "category": "Music",
-            "duration": "4:19",
-            "view_count": "1296598",
-            "thumbnail_url": "https://i.ytimg.com/vi/slUTl_CtMR0/hqdefault.jpg"
         }
     ]
 }
