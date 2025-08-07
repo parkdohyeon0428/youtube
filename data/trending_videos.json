@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-08-08 02:16:55",
+    "scraped_time": "2025-08-08 03:22:40",
     "videos": [
         {
             "video_id": "YrmDkAJ9yps",
@@ -7,7 +7,7 @@
             "channel_name": "KiiiKiii - Topic",
             "category": "Music",
             "duration": "3:19",
-            "view_count": "44846",
+            "view_count": "45797",
             "thumbnail_url": "https://i.ytimg.com/vi/YrmDkAJ9yps/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "플러스엠 엔터테인먼트",
             "category": "Film & Animation",
             "duration": "0:35",
-            "view_count": "5377",
+            "view_count": "5993",
             "thumbnail_url": "https://i.ytimg.com/vi/ZEbnpgLIE6Q/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "JD1 - Topic",
             "category": "Music",
             "duration": "2:45",
-            "view_count": "95539",
+            "view_count": "92831",
             "thumbnail_url": "https://i.ytimg.com/vi/ncFqMb_I-g4/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "감스트GAMST",
             "category": "Gaming",
             "duration": "16:35",
-            "view_count": "570001",
+            "view_count": "575076",
             "thumbnail_url": "https://i.ytimg.com/vi/rcUwG9Kf20Y/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "Gabe Watkins - Topic",
             "category": "Music",
             "duration": "3:22",
-            "view_count": "101095",
+            "view_count": "103438",
             "thumbnail_url": "https://i.ytimg.com/vi/fgcQ2d8NoAc/hqdefault.jpg"
         },
         {
@@ -61,44 +61,8 @@
             "channel_name": "우주하마",
             "category": "Gaming",
             "duration": "26:17",
-            "view_count": "292173",
+            "view_count": "312686",
             "thumbnail_url": "https://i.ytimg.com/vi/D_HzXHeGgVY/hqdefault.jpg"
-        },
-        {
-            "video_id": "mI5LYcisTF0",
-            "title": "Gabriela",
-            "channel_name": "KATSEYE - Topic",
-            "category": "Music",
-            "duration": "3:18",
-            "view_count": "129369",
-            "thumbnail_url": "https://i.ytimg.com/vi/mI5LYcisTF0/hqdefault.jpg"
-        },
-        {
-            "video_id": "58WZS0Bg3MI",
-            "title": "초초월월 케일 등장",
-            "channel_name": "괴물쥐 유튜브",
-            "category": "Gaming",
-            "duration": "23:43",
-            "view_count": "137517",
-            "thumbnail_url": "https://i.ytimg.com/vi/58WZS0Bg3MI/hqdefault.jpg"
-        },
-        {
-            "video_id": "YFzG-JABlnw",
-            "title": "Rashisa",
-            "channel_name": "OFFICIAL HIGE DANDISM - Topic",
-            "category": "Music",
-            "duration": "5:03",
-            "view_count": "402343",
-            "thumbnail_url": "https://i.ytimg.com/vi/YFzG-JABlnw/hqdefault.jpg"
-        },
-        {
-            "video_id": "hOyJZZNHEBY",
-            "title": "고산테 [롤토체스]",
-            "channel_name": "PAKA",
-            "category": "Gaming",
-            "duration": "27:37",
-            "view_count": "151366",
-            "thumbnail_url": "https://i.ytimg.com/vi/hOyJZZNHEBY/hqdefault.jpg"
         },
         {
             "video_id": "MFnuYICkh9M",
@@ -106,8 +70,44 @@
             "channel_name": "1theK (원더케이)",
             "category": "Music",
             "duration": "4:12",
-            "view_count": "12584",
+            "view_count": "14055",
             "thumbnail_url": "https://i.ytimg.com/vi/MFnuYICkh9M/hqdefault.jpg"
+        },
+        {
+            "video_id": "58WZS0Bg3MI",
+            "title": "초초월월 케일 등장",
+            "channel_name": "괴물쥐 유튜브",
+            "category": "Gaming",
+            "duration": "23:43",
+            "view_count": "184164",
+            "thumbnail_url": "https://i.ytimg.com/vi/58WZS0Bg3MI/hqdefault.jpg"
+        },
+        {
+            "video_id": "mI5LYcisTF0",
+            "title": "Gabriela",
+            "channel_name": "KATSEYE - Topic",
+            "category": "Music",
+            "duration": "3:18",
+            "view_count": "129853",
+            "thumbnail_url": "https://i.ytimg.com/vi/mI5LYcisTF0/hqdefault.jpg"
+        },
+        {
+            "video_id": "hOyJZZNHEBY",
+            "title": "고산테 [롤토체스]",
+            "channel_name": "PAKA",
+            "category": "Gaming",
+            "duration": "27:37",
+            "view_count": "167460",
+            "thumbnail_url": "https://i.ytimg.com/vi/hOyJZZNHEBY/hqdefault.jpg"
+        },
+        {
+            "video_id": "YFzG-JABlnw",
+            "title": "Rashisa",
+            "channel_name": "OFFICIAL HIGE DANDISM - Topic",
+            "category": "Music",
+            "duration": "5:03",
+            "view_count": "407725",
+            "thumbnail_url": "https://i.ytimg.com/vi/YFzG-JABlnw/hqdefault.jpg"
         },
         {
             "video_id": "3xW0zmozLLI",
@@ -115,7 +115,7 @@
             "channel_name": "인피쉰",
             "category": "Gaming",
             "duration": "4:59:52",
-            "view_count": "104324",
+            "view_count": "132931",
             "thumbnail_url": "https://i.ytimg.com/vi/3xW0zmozLLI/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "HANRORO - Topic",
             "category": "Music",
             "duration": "3:56",
-            "view_count": "151097",
+            "view_count": "152303",
             "thumbnail_url": "https://i.ytimg.com/vi/1mZEQl8q3w4/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "두치와뿌꾸",
             "category": "Gaming",
             "duration": "23:49",
-            "view_count": "164281",
+            "view_count": "171483",
             "thumbnail_url": "https://i.ytimg.com/vi/xQmgX-XzJ-I/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "DAY6",
             "category": "People & Blogs",
             "duration": "14:28",
-            "view_count": "111289",
+            "view_count": "112282",
             "thumbnail_url": "https://i.ytimg.com/vi/hft6QkqmaYQ/hqdefault.jpg"
         },
         {
@@ -151,26 +151,8 @@
             "channel_name": "말량",
             "category": "Gaming",
             "duration": "21:59",
-            "view_count": "348042",
+            "view_count": "349177",
             "thumbnail_url": "https://i.ytimg.com/vi/COLUCi_hd9Y/hqdefault.jpg"
-        },
-        {
-            "video_id": "1E2VeL1X0q0",
-            "title": "Sucker",
-            "channel_name": "Jonas Brothers - Topic",
-            "category": "Music",
-            "duration": "3:02",
-            "view_count": "428796",
-            "thumbnail_url": "https://i.ytimg.com/vi/1E2VeL1X0q0/hqdefault.jpg"
-        },
-        {
-            "video_id": "s1qrSMq-JTo",
-            "title": "공포의 폐건물 탐험 중 같이 간 절친이 실종됐다…..",
-            "channel_name": "잠뜰 TV",
-            "category": "Gaming",
-            "duration": "44:44",
-            "view_count": "295316",
-            "thumbnail_url": "https://i.ytimg.com/vi/s1qrSMq-JTo/hqdefault.jpg"
         },
         {
             "video_id": "gMBwaaSBnvE",
@@ -178,7 +160,7 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "4:11",
-            "view_count": "6544",
+            "view_count": "7402",
             "thumbnail_url": "https://i.ytimg.com/vi/gMBwaaSBnvE/hqdefault.jpg"
         },
         {
@@ -187,8 +169,26 @@
             "channel_name": "이도원",
             "category": "Gaming",
             "duration": "22:01",
-            "view_count": "133582",
+            "view_count": "143893",
             "thumbnail_url": "https://i.ytimg.com/vi/Bt-7NmCGBys/hqdefault.jpg"
+        },
+        {
+            "video_id": "1E2VeL1X0q0",
+            "title": "Sucker",
+            "channel_name": "Jonas Brothers - Topic",
+            "category": "Music",
+            "duration": "3:02",
+            "view_count": "443987",
+            "thumbnail_url": "https://i.ytimg.com/vi/1E2VeL1X0q0/hqdefault.jpg"
+        },
+        {
+            "video_id": "s1qrSMq-JTo",
+            "title": "공포의 폐건물 탐험 중 같이 간 절친이 실종됐다…..",
+            "channel_name": "잠뜰 TV",
+            "category": "Gaming",
+            "duration": "44:44",
+            "view_count": "297917",
+            "thumbnail_url": "https://i.ytimg.com/vi/s1qrSMq-JTo/hqdefault.jpg"
         },
         {
             "video_id": "286CKublM34",
@@ -196,7 +196,7 @@
             "channel_name": "Yoo Hae Jun - Topic",
             "category": "Music",
             "duration": "3:37",
-            "view_count": "21512",
+            "view_count": "21764",
             "thumbnail_url": "https://i.ytimg.com/vi/286CKublM34/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "16:04",
-            "view_count": "167900",
+            "view_count": "172620",
             "thumbnail_url": "https://i.ytimg.com/vi/rl4q9KxC1Vw/hqdefault.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "channel_name": "JAY - Topic",
             "category": "Music",
             "duration": "2:50",
-            "view_count": "32125",
+            "view_count": "32507",
             "thumbnail_url": "https://i.ytimg.com/vi/GSbhLJnEMVI/hqdefault.jpg"
         },
         {
@@ -223,7 +223,7 @@
             "channel_name": "왈도쿤",
             "category": "Gaming",
             "duration": "32:32",
-            "view_count": "229084",
+            "view_count": "231068",
             "thumbnail_url": "https://i.ytimg.com/vi/obnL3ptLvao/hqdefault.jpg"
         },
         {
@@ -232,7 +232,7 @@
             "channel_name": "HUNTR/X - Topic",
             "category": "Music",
             "duration": "2:57",
-            "view_count": "150115",
+            "view_count": "154852",
             "thumbnail_url": "https://i.ytimg.com/vi/5PktH6CY2Jo/hqdefault.jpg"
         },
         {
@@ -241,80 +241,8 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "33:18",
-            "view_count": "137577",
+            "view_count": "146859",
             "thumbnail_url": "https://i.ytimg.com/vi/E96wKGZwhIw/hqdefault.jpg"
-        },
-        {
-            "video_id": "hf_hW1VgbEA",
-            "title": "Coffee",
-            "channel_name": "Release - Topic",
-            "category": "Music",
-            "duration": "2:59",
-            "view_count": "15062",
-            "thumbnail_url": "https://i.ytimg.com/vi/hf_hW1VgbEA/hqdefault.jpg"
-        },
-        {
-            "video_id": "R1IEqIoSuaI",
-            "title": "말 없이 서로 메모장으로 매장하는 클리드&이상호 ㅋㅋㅋ",
-            "channel_name": "클리드",
-            "category": "Gaming",
-            "duration": "47:51",
-            "view_count": "228406",
-            "thumbnail_url": "https://i.ytimg.com/vi/R1IEqIoSuaI/hqdefault.jpg"
-        },
-        {
-            "video_id": "VPnwXquuH-E",
-            "title": "[HIGHLIVE] 비스트 (BEAST) 하이라이트 (HIGHLIGHT) - Shadow (그림자)",
-            "channel_name": "OFFICIAL HIGHLIGHT",
-            "category": "Music",
-            "duration": "4:40",
-            "view_count": "44740",
-            "thumbnail_url": "https://i.ytimg.com/vi/VPnwXquuH-E/hqdefault.jpg"
-        },
-        {
-            "video_id": "Z9AZmaXfJIs",
-            "title": "준브레드도 못 깨는타워인데...벌칙이 커플 데이트?!",
-            "channel_name": "준브레드",
-            "category": "Gaming",
-            "duration": "13:11",
-            "view_count": "133169",
-            "thumbnail_url": "https://i.ytimg.com/vi/Z9AZmaXfJIs/hqdefault.jpg"
-        },
-        {
-            "video_id": "Fr4chdX24bw",
-            "title": "I Won't Quit On You",
-            "channel_name": "Hayley Williams - Topic",
-            "category": "Music",
-            "duration": "3:19",
-            "view_count": "151342",
-            "thumbnail_url": "https://i.ytimg.com/vi/Fr4chdX24bw/hqdefault.jpg"
-        },
-        {
-            "video_id": "S-kBsx7VDLo",
-            "title": "99일 생존 게임 에서 모든 동물을 잡아봤습니다",
-            "channel_name": "김왼팔",
-            "category": "Gaming",
-            "duration": "18:25",
-            "view_count": "83549",
-            "thumbnail_url": "https://i.ytimg.com/vi/S-kBsx7VDLo/hqdefault.jpg"
-        },
-        {
-            "video_id": "2WJ8zC8m7iQ",
-            "title": "Always Listening",
-            "channel_name": "Harris J - Topic",
-            "category": "Music",
-            "duration": "3:48",
-            "view_count": "53480",
-            "thumbnail_url": "https://i.ytimg.com/vi/2WJ8zC8m7iQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "Axj4fFaG3-w",
-            "title": "매니저님 잘못했습니다! [마인크래프트 ep.3]",
-            "channel_name": "말왕TV",
-            "category": "Gaming",
-            "duration": "23:15",
-            "view_count": "182984",
-            "thumbnail_url": "https://i.ytimg.com/vi/Axj4fFaG3-w/hqdefault.jpg"
         },
         {
             "video_id": "LkEUA7Dnwnw",
@@ -322,8 +250,80 @@
             "channel_name": "1theK Originals - 원더케이 오리지널",
             "category": "Entertainment",
             "duration": "3:43",
-            "view_count": "93904",
+            "view_count": "111800",
             "thumbnail_url": "https://i.ytimg.com/vi/LkEUA7Dnwnw/hqdefault.jpg"
+        },
+        {
+            "video_id": "R1IEqIoSuaI",
+            "title": "말 없이 서로 메모장으로 매장하는 클리드&이상호 ㅋㅋㅋ",
+            "channel_name": "클리드",
+            "category": "Gaming",
+            "duration": "47:51",
+            "view_count": "233882",
+            "thumbnail_url": "https://i.ytimg.com/vi/R1IEqIoSuaI/hqdefault.jpg"
+        },
+        {
+            "video_id": "hf_hW1VgbEA",
+            "title": "Coffee",
+            "channel_name": "Release - Topic",
+            "category": "Music",
+            "duration": "2:59",
+            "view_count": "15429",
+            "thumbnail_url": "https://i.ytimg.com/vi/hf_hW1VgbEA/hqdefault.jpg"
+        },
+        {
+            "video_id": "Z9AZmaXfJIs",
+            "title": "준브레드도 못 깨는타워인데...벌칙이 커플 데이트?!",
+            "channel_name": "준브레드",
+            "category": "Gaming",
+            "duration": "13:11",
+            "view_count": "134577",
+            "thumbnail_url": "https://i.ytimg.com/vi/Z9AZmaXfJIs/hqdefault.jpg"
+        },
+        {
+            "video_id": "VPnwXquuH-E",
+            "title": "[HIGHLIVE] 비스트 (BEAST) 하이라이트 (HIGHLIGHT) - Shadow (그림자)",
+            "channel_name": "OFFICIAL HIGHLIGHT",
+            "category": "Music",
+            "duration": "4:40",
+            "view_count": "45822",
+            "thumbnail_url": "https://i.ytimg.com/vi/VPnwXquuH-E/hqdefault.jpg"
+        },
+        {
+            "video_id": "S-kBsx7VDLo",
+            "title": "99일 생존 게임 에서 모든 동물을 잡아봤습니다",
+            "channel_name": "김왼팔",
+            "category": "Gaming",
+            "duration": "18:25",
+            "view_count": "86780",
+            "thumbnail_url": "https://i.ytimg.com/vi/S-kBsx7VDLo/hqdefault.jpg"
+        },
+        {
+            "video_id": "Fr4chdX24bw",
+            "title": "I Won't Quit On You",
+            "channel_name": "Hayley Williams - Topic",
+            "category": "Music",
+            "duration": "3:19",
+            "view_count": "154245",
+            "thumbnail_url": "https://i.ytimg.com/vi/Fr4chdX24bw/hqdefault.jpg"
+        },
+        {
+            "video_id": "Axj4fFaG3-w",
+            "title": "매니저님 잘못했습니다! [마인크래프트 ep.3]",
+            "channel_name": "말왕TV",
+            "category": "Gaming",
+            "duration": "23:15",
+            "view_count": "184962",
+            "thumbnail_url": "https://i.ytimg.com/vi/Axj4fFaG3-w/hqdefault.jpg"
+        },
+        {
+            "video_id": "zYuhSAa0rQo",
+            "title": "강남 - 60.1.2.0 (SIXTY.ONE.TWO.ZERO) Live Clip",
+            "channel_name": "동네친구 강나미 [Kangnami]",
+            "category": "Entertainment",
+            "duration": "4:11",
+            "view_count": "18258",
+            "thumbnail_url": "https://i.ytimg.com/vi/zYuhSAa0rQo/hqdefault.jpg"
         },
         {
             "video_id": "sBTvaQI0Buw",
@@ -331,8 +331,26 @@
             "channel_name": "쉐어TV",
             "category": "Gaming",
             "duration": "19:45",
-            "view_count": "185763",
+            "view_count": "186348",
             "thumbnail_url": "https://i.ytimg.com/vi/sBTvaQI0Buw/hqdefault.jpg"
+        },
+        {
+            "video_id": "2WJ8zC8m7iQ",
+            "title": "Always Listening",
+            "channel_name": "Harris J - Topic",
+            "category": "Music",
+            "duration": "3:48",
+            "view_count": "53769",
+            "thumbnail_url": "https://i.ytimg.com/vi/2WJ8zC8m7iQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "s-v0BZeF6uk",
+            "title": "작년엔 키네가 7등이었다고?",
+            "channel_name": "타튜브 [TATUBE]",
+            "category": "Gaming",
+            "duration": "18:14",
+            "view_count": "125003",
+            "thumbnail_url": "https://i.ytimg.com/vi/s-v0BZeF6uk/hqdefault.jpg"
         },
         {
             "video_id": "78s5LxeLgng",
@@ -340,7 +358,7 @@
             "channel_name": "Illenium - Topic",
             "category": "Music",
             "duration": "3:22",
-            "view_count": "205663",
+            "view_count": "209231",
             "thumbnail_url": "https://i.ytimg.com/vi/78s5LxeLgng/hqdefault.jpg"
         },
         {
@@ -349,26 +367,8 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "4:18:09",
-            "view_count": "84147",
+            "view_count": "85586",
             "thumbnail_url": "https://i.ytimg.com/vi/ANMvOkpSrjw/hqdefault.jpg"
-        },
-        {
-            "video_id": "zYuhSAa0rQo",
-            "title": "강남 - 60.1.2.0 (SIXTY.ONE.TWO.ZERO) Live Clip",
-            "channel_name": "동네친구 강나미 [Kangnami]",
-            "category": "Entertainment",
-            "duration": "4:11",
-            "view_count": "16672",
-            "thumbnail_url": "https://i.ytimg.com/vi/zYuhSAa0rQo/hqdefault.jpg"
-        },
-        {
-            "video_id": "s-v0BZeF6uk",
-            "title": "작년엔 키네가 7등이었다고?",
-            "channel_name": "타튜브 [TATUBE]",
-            "category": "Gaming",
-            "duration": "18:14",
-            "view_count": "115452",
-            "thumbnail_url": "https://i.ytimg.com/vi/s-v0BZeF6uk/hqdefault.jpg"
         },
         {
             "video_id": "Ng3-pcCEo98",
@@ -376,7 +376,7 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "2:56",
-            "view_count": "12886",
+            "view_count": "13154",
             "thumbnail_url": "https://i.ytimg.com/vi/Ng3-pcCEo98/hqdefault.jpg"
         }
     ]
