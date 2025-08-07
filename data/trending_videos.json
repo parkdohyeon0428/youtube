@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-08-07 21:31:33",
+    "scraped_time": "2025-08-07 22:36:25",
     "videos": [
         {
             "video_id": "YrmDkAJ9yps",
@@ -7,8 +7,17 @@
             "channel_name": "KiiiKiii - Topic",
             "category": "Music",
             "duration": "3:19",
-            "view_count": "36955",
+            "view_count": "38834",
             "thumbnail_url": "https://i.ytimg.com/vi/YrmDkAJ9yps/hqdefault.jpg"
+        },
+        {
+            "video_id": "ZEbnpgLIE6Q",
+            "title": "[프로젝트 Y] 런칭 예고편",
+            "channel_name": "플러스엠 엔터테인먼트",
+            "category": "Film & Animation",
+            "duration": "0:35",
+            "view_count": "3292",
+            "thumbnail_url": "https://i.ytimg.com/vi/ZEbnpgLIE6Q/hqdefault.jpg"
         },
         {
             "video_id": "rcUwG9Kf20Y",
@@ -16,7 +25,7 @@
             "channel_name": "감스트GAMST",
             "category": "Gaming",
             "duration": "16:35",
-            "view_count": "545681",
+            "view_count": "551421",
             "thumbnail_url": "https://i.ytimg.com/vi/rcUwG9Kf20Y/hqdefault.jpg"
         },
         {
@@ -25,7 +34,7 @@
             "channel_name": "JD1 - Topic",
             "category": "Music",
             "duration": "2:45",
-            "view_count": "88907",
+            "view_count": "90221",
             "thumbnail_url": "https://i.ytimg.com/vi/ncFqMb_I-g4/hqdefault.jpg"
         },
         {
@@ -34,7 +43,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "5:01:45",
-            "view_count": "1148787",
+            "view_count": "1149422",
             "thumbnail_url": "https://i.ytimg.com/vi/l6gApyENr1A/hqdefault.jpg"
         },
         {
@@ -43,7 +52,7 @@
             "channel_name": "Gabe Watkins - Topic",
             "category": "Music",
             "duration": "3:22",
-            "view_count": "86479",
+            "view_count": "90224",
             "thumbnail_url": "https://i.ytimg.com/vi/fgcQ2d8NoAc/hqdefault.jpg"
         },
         {
@@ -52,7 +61,7 @@
             "channel_name": "우주하마",
             "category": "Gaming",
             "duration": "26:17",
-            "view_count": "202426",
+            "view_count": "221472",
             "thumbnail_url": "https://i.ytimg.com/vi/D_HzXHeGgVY/hqdefault.jpg"
         },
         {
@@ -61,7 +70,7 @@
             "channel_name": "KATSEYE - Topic",
             "category": "Music",
             "duration": "3:18",
-            "view_count": "127332",
+            "view_count": "127824",
             "thumbnail_url": "https://i.ytimg.com/vi/mI5LYcisTF0/hqdefault.jpg"
         },
         {
@@ -70,7 +79,7 @@
             "channel_name": "말량",
             "category": "Gaming",
             "duration": "21:59",
-            "view_count": "330775",
+            "view_count": "335704",
             "thumbnail_url": "https://i.ytimg.com/vi/COLUCi_hd9Y/hqdefault.jpg"
         },
         {
@@ -79,26 +88,8 @@
             "channel_name": "OFFICIAL HIGE DANDISM - Topic",
             "category": "Music",
             "duration": "5:03",
-            "view_count": "359087",
+            "view_count": "368449",
             "thumbnail_url": "https://i.ytimg.com/vi/YFzG-JABlnw/hqdefault.jpg"
-        },
-        {
-            "video_id": "s1qrSMq-JTo",
-            "title": "공포의 폐건물 탐험 중 같이 간 절친이 실종됐다…..",
-            "channel_name": "잠뜰 TV",
-            "category": "Gaming",
-            "duration": "44:44",
-            "view_count": "276927",
-            "thumbnail_url": "https://i.ytimg.com/vi/s1qrSMq-JTo/hqdefault.jpg"
-        },
-        {
-            "video_id": "1mZEQl8q3w4",
-            "title": "Goodbye, My Summer",
-            "channel_name": "HANRORO - Topic",
-            "category": "Music",
-            "duration": "3:56",
-            "view_count": "142333",
-            "thumbnail_url": "https://i.ytimg.com/vi/1mZEQl8q3w4/hqdefault.jpg"
         },
         {
             "video_id": "xQmgX-XzJ-I",
@@ -106,8 +97,26 @@
             "channel_name": "두치와뿌꾸",
             "category": "Gaming",
             "duration": "23:49",
-            "view_count": "131491",
+            "view_count": "139505",
             "thumbnail_url": "https://i.ytimg.com/vi/xQmgX-XzJ-I/hqdefault.jpg"
+        },
+        {
+            "video_id": "1mZEQl8q3w4",
+            "title": "Goodbye, My Summer",
+            "channel_name": "HANRORO - Topic",
+            "category": "Music",
+            "duration": "3:56",
+            "view_count": "144437",
+            "thumbnail_url": "https://i.ytimg.com/vi/1mZEQl8q3w4/hqdefault.jpg"
+        },
+        {
+            "video_id": "s1qrSMq-JTo",
+            "title": "공포의 폐건물 탐험 중 같이 간 절친이 실종됐다…..",
+            "channel_name": "잠뜰 TV",
+            "category": "Gaming",
+            "duration": "44:44",
+            "view_count": "281825",
+            "thumbnail_url": "https://i.ytimg.com/vi/s1qrSMq-JTo/hqdefault.jpg"
         },
         {
             "video_id": "hft6QkqmaYQ",
@@ -115,7 +124,7 @@
             "channel_name": "DAY6",
             "category": "People & Blogs",
             "duration": "14:28",
-            "view_count": "104506",
+            "view_count": "105901",
             "thumbnail_url": "https://i.ytimg.com/vi/hft6QkqmaYQ/hqdefault.jpg"
         },
         {
@@ -124,7 +133,7 @@
             "channel_name": "왈도쿤",
             "category": "Gaming",
             "duration": "32:32",
-            "view_count": "217804",
+            "view_count": "221121",
             "thumbnail_url": "https://i.ytimg.com/vi/obnL3ptLvao/hqdefault.jpg"
         },
         {
@@ -133,17 +142,17 @@
             "channel_name": "1theK (원더케이)",
             "category": "Music",
             "duration": "3:37",
-            "view_count": "25364",
+            "view_count": "26173",
             "thumbnail_url": "https://i.ytimg.com/vi/fIgAIq-3oqE/hqdefault.jpg"
         },
         {
-            "video_id": "6lKw1HORhIM",
-            "title": "이세계 주인공",
-            "channel_name": "괴물쥐 유튜브",
+            "video_id": "hOyJZZNHEBY",
+            "title": "고산테 [롤토체스]",
+            "channel_name": "PAKA",
             "category": "Gaming",
-            "duration": "24:51",
-            "view_count": "515978",
-            "thumbnail_url": "https://i.ytimg.com/vi/6lKw1HORhIM/hqdefault.jpg"
+            "duration": "27:37",
+            "view_count": "94348",
+            "thumbnail_url": "https://i.ytimg.com/vi/hOyJZZNHEBY/hqdefault.jpg"
         },
         {
             "video_id": "1E2VeL1X0q0",
@@ -151,8 +160,26 @@
             "channel_name": "Jonas Brothers - Topic",
             "category": "Music",
             "duration": "3:02",
-            "view_count": "367169",
+            "view_count": "378341",
             "thumbnail_url": "https://i.ytimg.com/vi/1E2VeL1X0q0/hqdefault.jpg"
+        },
+        {
+            "video_id": "6lKw1HORhIM",
+            "title": "이세계 주인공",
+            "channel_name": "괴물쥐 유튜브",
+            "category": "Gaming",
+            "duration": "24:51",
+            "view_count": "518449",
+            "thumbnail_url": "https://i.ytimg.com/vi/6lKw1HORhIM/hqdefault.jpg"
+        },
+        {
+            "video_id": "GSbhLJnEMVI",
+            "title": "Loving You",
+            "channel_name": "JAY - Topic",
+            "category": "Music",
+            "duration": "2:50",
+            "view_count": "29929",
+            "thumbnail_url": "https://i.ytimg.com/vi/GSbhLJnEMVI/hqdefault.jpg"
         },
         {
             "video_id": "R1IEqIoSuaI",
@@ -160,7 +187,7 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "47:51",
-            "view_count": "205191",
+            "view_count": "211352",
             "thumbnail_url": "https://i.ytimg.com/vi/R1IEqIoSuaI/hqdefault.jpg"
         },
         {
@@ -169,7 +196,7 @@
             "channel_name": "Yoo Hae Jun - Topic",
             "category": "Music",
             "duration": "3:37",
-            "view_count": "19454",
+            "view_count": "20069",
             "thumbnail_url": "https://i.ytimg.com/vi/286CKublM34/hqdefault.jpg"
         },
         {
@@ -178,26 +205,8 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "16:04",
-            "view_count": "140224",
+            "view_count": "148101",
             "thumbnail_url": "https://i.ytimg.com/vi/rl4q9KxC1Vw/hqdefault.jpg"
-        },
-        {
-            "video_id": "GSbhLJnEMVI",
-            "title": "Loving You",
-            "channel_name": "JAY - Topic",
-            "category": "Music",
-            "duration": "2:50",
-            "view_count": "29246",
-            "thumbnail_url": "https://i.ytimg.com/vi/GSbhLJnEMVI/hqdefault.jpg"
-        },
-        {
-            "video_id": "sBTvaQI0Buw",
-            "title": "눈지역 광신도들한테 얼음성 빼앗고 \"무적 겨울기지\" 만들어서 살아남기 ㅋㅋㅋㅋㅋㅋ 사슴도 당황함ㅋㅋㅋㅋㅋㅋ(로블록스 99나이트 인더 포레스트)",
-            "channel_name": "쉐어TV",
-            "category": "Gaming",
-            "duration": "19:45",
-            "view_count": "177243",
-            "thumbnail_url": "https://i.ytimg.com/vi/sBTvaQI0Buw/hqdefault.jpg"
         },
         {
             "video_id": "hf_hW1VgbEA",
@@ -205,62 +214,8 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "2:59",
-            "view_count": "12321",
+            "view_count": "13008",
             "thumbnail_url": "https://i.ytimg.com/vi/hf_hW1VgbEA/hqdefault.jpg"
-        },
-        {
-            "video_id": "Axj4fFaG3-w",
-            "title": "매니저님 잘못했습니다! [마인크래프트 ep.3]",
-            "channel_name": "말왕TV",
-            "category": "Gaming",
-            "duration": "23:15",
-            "view_count": "173433",
-            "thumbnail_url": "https://i.ytimg.com/vi/Axj4fFaG3-w/hqdefault.jpg"
-        },
-        {
-            "video_id": "5PktH6CY2Jo",
-            "title": "Golden (David Guetta REM/X)",
-            "channel_name": "HUNTR/X - Topic",
-            "category": "Music",
-            "duration": "2:57",
-            "view_count": "130517",
-            "thumbnail_url": "https://i.ytimg.com/vi/5PktH6CY2Jo/hqdefault.jpg"
-        },
-        {
-            "video_id": "hOyJZZNHEBY",
-            "title": "고산테 [롤토체스]",
-            "channel_name": "PAKA",
-            "category": "Gaming",
-            "duration": "27:37",
-            "view_count": "78102",
-            "thumbnail_url": "https://i.ytimg.com/vi/hOyJZZNHEBY/hqdefault.jpg"
-        },
-        {
-            "video_id": "Fr4chdX24bw",
-            "title": "I Won't Quit On You",
-            "channel_name": "Hayley Williams - Topic",
-            "category": "Music",
-            "duration": "3:19",
-            "view_count": "139584",
-            "thumbnail_url": "https://i.ytimg.com/vi/Fr4chdX24bw/hqdefault.jpg"
-        },
-        {
-            "video_id": "-niQdPuSmPw",
-            "title": "드디어 해쪽이 퇴마에 성공한 저은영선생님ㅋㅋㅋㅋ",
-            "channel_name": "저라뎃 JUSTLIKETHAT",
-            "category": "Gaming",
-            "duration": "49:27",
-            "view_count": "197025",
-            "thumbnail_url": "https://i.ytimg.com/vi/-niQdPuSmPw/hqdefault.jpg"
-        },
-        {
-            "video_id": "2WJ8zC8m7iQ",
-            "title": "Always Listening",
-            "channel_name": "Harris J - Topic",
-            "category": "Music",
-            "duration": "3:48",
-            "view_count": "51885",
-            "thumbnail_url": "https://i.ytimg.com/vi/2WJ8zC8m7iQ/hqdefault.jpg"
         },
         {
             "video_id": "Z9AZmaXfJIs",
@@ -268,8 +223,80 @@
             "channel_name": "준브레드",
             "category": "Gaming",
             "duration": "13:11",
-            "view_count": "92027",
+            "view_count": "106076",
             "thumbnail_url": "https://i.ytimg.com/vi/Z9AZmaXfJIs/hqdefault.jpg"
+        },
+        {
+            "video_id": "5PktH6CY2Jo",
+            "title": "Golden (David Guetta REM/X)",
+            "channel_name": "HUNTR/X - Topic",
+            "category": "Music",
+            "duration": "2:57",
+            "view_count": "135258",
+            "thumbnail_url": "https://i.ytimg.com/vi/5PktH6CY2Jo/hqdefault.jpg"
+        },
+        {
+            "video_id": "sBTvaQI0Buw",
+            "title": "눈지역 광신도들한테 얼음성 빼앗고 \"무적 겨울기지\" 만들어서 살아남기 ㅋㅋㅋㅋㅋㅋ 사슴도 당황함ㅋㅋㅋㅋㅋㅋ(로블록스 99나이트 인더 포레스트)",
+            "channel_name": "쉐어TV",
+            "category": "Gaming",
+            "duration": "19:45",
+            "view_count": "180105",
+            "thumbnail_url": "https://i.ytimg.com/vi/sBTvaQI0Buw/hqdefault.jpg"
+        },
+        {
+            "video_id": "Fr4chdX24bw",
+            "title": "I Won't Quit On You",
+            "channel_name": "Hayley Williams - Topic",
+            "category": "Music",
+            "duration": "3:19",
+            "view_count": "142010",
+            "thumbnail_url": "https://i.ytimg.com/vi/Fr4chdX24bw/hqdefault.jpg"
+        },
+        {
+            "video_id": "Axj4fFaG3-w",
+            "title": "매니저님 잘못했습니다! [마인크래프트 ep.3]",
+            "channel_name": "말왕TV",
+            "category": "Gaming",
+            "duration": "23:15",
+            "view_count": "175808",
+            "thumbnail_url": "https://i.ytimg.com/vi/Axj4fFaG3-w/hqdefault.jpg"
+        },
+        {
+            "video_id": "2WJ8zC8m7iQ",
+            "title": "Always Listening",
+            "channel_name": "Harris J - Topic",
+            "category": "Music",
+            "duration": "3:48",
+            "view_count": "52271",
+            "thumbnail_url": "https://i.ytimg.com/vi/2WJ8zC8m7iQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "Bt-7NmCGBys",
+            "title": "문 열면 죽는다",
+            "channel_name": "이도원",
+            "category": "Gaming",
+            "duration": "22:01",
+            "view_count": "84959",
+            "thumbnail_url": "https://i.ytimg.com/vi/Bt-7NmCGBys/hqdefault.jpg"
+        },
+        {
+            "video_id": "78s5LxeLgng",
+            "title": "Refuge",
+            "channel_name": "Illenium - Topic",
+            "category": "Music",
+            "duration": "3:22",
+            "view_count": "194286",
+            "thumbnail_url": "https://i.ytimg.com/vi/78s5LxeLgng/hqdefault.jpg"
+        },
+        {
+            "video_id": "-niQdPuSmPw",
+            "title": "드디어 해쪽이 퇴마에 성공한 저은영선생님ㅋㅋㅋㅋ",
+            "channel_name": "저라뎃 JUSTLIKETHAT",
+            "category": "Gaming",
+            "duration": "49:27",
+            "view_count": "199104",
+            "thumbnail_url": "https://i.ytimg.com/vi/-niQdPuSmPw/hqdefault.jpg"
         },
         {
             "video_id": "VPnwXquuH-E",
@@ -277,7 +304,7 @@
             "channel_name": "OFFICIAL HIGHLIGHT",
             "category": "Music",
             "duration": "4:40",
-            "view_count": "34849",
+            "view_count": "36684",
             "thumbnail_url": "https://i.ytimg.com/vi/VPnwXquuH-E/hqdefault.jpg"
         },
         {
@@ -286,71 +313,17 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "42:28",
-            "view_count": "213726",
+            "view_count": "215516",
             "thumbnail_url": "https://i.ytimg.com/vi/JBayWuXYGQ4/hqdefault.jpg"
         },
         {
-            "video_id": "78s5LxeLgng",
-            "title": "Refuge",
-            "channel_name": "Illenium - Topic",
-            "category": "Music",
-            "duration": "3:22",
-            "view_count": "191751",
-            "thumbnail_url": "https://i.ytimg.com/vi/78s5LxeLgng/hqdefault.jpg"
-        },
-        {
-            "video_id": "q4lslx3MRPU",
-            "title": "25.08.06(수) 【 인피쉰 생방송 다시보기 】 스타 빨무 스타크래프트 Starcraft",
-            "channel_name": "인피쉰",
-            "category": "Gaming",
-            "duration": "5:17:59",
-            "view_count": "137548",
-            "thumbnail_url": "https://i.ytimg.com/vi/q4lslx3MRPU/hqdefault.jpg"
-        },
-        {
-            "video_id": "Ng3-pcCEo98",
-            "title": "Party on Sunday (Prod. mil house, shinjihang, 그냥노창, symi) (Party on Sunday (Prod. mil...",
+            "video_id": "gMBwaaSBnvE",
+            "title": "Missing You (보고싶지 않은 니가 보고싶다)",
             "channel_name": "Release - Topic",
             "category": "Music",
-            "duration": "2:56",
-            "view_count": "10856",
-            "thumbnail_url": "https://i.ytimg.com/vi/Ng3-pcCEo98/hqdefault.jpg"
-        },
-        {
-            "video_id": "Bt-7NmCGBys",
-            "title": "문 열면 죽는다",
-            "channel_name": "이도원",
-            "category": "Gaming",
-            "duration": "22:01",
-            "view_count": "69587",
-            "thumbnail_url": "https://i.ytimg.com/vi/Bt-7NmCGBys/hqdefault.jpg"
-        },
-        {
-            "video_id": "H07Zz90QE3E",
-            "title": "BoA 보아 'Crazier' MV",
-            "channel_name": "SMTOWN",
-            "category": "Music",
-            "duration": "3:09",
-            "view_count": "410953",
-            "thumbnail_url": "https://i.ytimg.com/vi/H07Zz90QE3E/hqdefault.jpg"
-        },
-        {
-            "video_id": "9taD4Y828_U",
-            "title": "숲속에 있는 무기들을 모아서 \"무기고\"를 만들어 봤습니다!!! (로블록스)",
-            "channel_name": "하네 HANE - 로블록스 게임채널",
-            "category": "Gaming",
-            "duration": "17:26",
-            "view_count": "62512",
-            "thumbnail_url": "https://i.ytimg.com/vi/9taD4Y828_U/hqdefault.jpg"
-        },
-        {
-            "video_id": "lxIvzNZf92c",
-            "title": "How Can I Do",
-            "channel_name": "EVNNE - Topic",
-            "category": "Music",
-            "duration": "3:03",
-            "view_count": "64946",
-            "thumbnail_url": "https://i.ytimg.com/vi/lxIvzNZf92c/hqdefault.jpg"
+            "duration": "4:11",
+            "view_count": "3402",
+            "thumbnail_url": "https://i.ytimg.com/vi/gMBwaaSBnvE/hqdefault.jpg"
         },
         {
             "video_id": "S-kBsx7VDLo",
@@ -358,26 +331,53 @@
             "channel_name": "김왼팔",
             "category": "Gaming",
             "duration": "18:25",
-            "view_count": "33506",
+            "view_count": "49395",
             "thumbnail_url": "https://i.ytimg.com/vi/S-kBsx7VDLo/hqdefault.jpg"
         },
         {
-            "video_id": "mtMZGPQl-iA",
-            "title": "nameless love",
-            "channel_name": "Lee O Neul - Topic",
+            "video_id": "Ng3-pcCEo98",
+            "title": "Party on Sunday (Prod. mil house, shinjihang, 그냥노창, symi) (Party on Sunday (Prod. mil...",
+            "channel_name": "Release - Topic",
             "category": "Music",
-            "duration": "3:06",
-            "view_count": "9812",
-            "thumbnail_url": "https://i.ytimg.com/vi/mtMZGPQl-iA/hqdefault.jpg"
+            "duration": "2:56",
+            "view_count": "11353",
+            "thumbnail_url": "https://i.ytimg.com/vi/Ng3-pcCEo98/hqdefault.jpg"
         },
         {
-            "video_id": "3HBbQq_dCAU",
-            "title": "납량특집 공포라디오",
-            "channel_name": "침착맨",
-            "category": "Entertainment",
-            "duration": "49:00",
-            "view_count": "824747",
-            "thumbnail_url": "https://i.ytimg.com/vi/3HBbQq_dCAU/hqdefault.jpg"
+            "video_id": "q4lslx3MRPU",
+            "title": "25.08.06(수) 【 인피쉰 생방송 다시보기 】 스타 빨무 스타크래프트 Starcraft",
+            "channel_name": "인피쉰",
+            "category": "Gaming",
+            "duration": "5:17:59",
+            "view_count": "137809",
+            "thumbnail_url": "https://i.ytimg.com/vi/q4lslx3MRPU/hqdefault.jpg"
+        },
+        {
+            "video_id": "H07Zz90QE3E",
+            "title": "BoA 보아 'Crazier' MV",
+            "channel_name": "SMTOWN",
+            "category": "Music",
+            "duration": "3:09",
+            "view_count": "413949",
+            "thumbnail_url": "https://i.ytimg.com/vi/H07Zz90QE3E/hqdefault.jpg"
+        },
+        {
+            "video_id": "s-v0BZeF6uk",
+            "title": "작년엔 키네가 7등이었다고?",
+            "channel_name": "타튜브 [TATUBE]",
+            "category": "Gaming",
+            "duration": "18:14",
+            "view_count": "76213",
+            "thumbnail_url": "https://i.ytimg.com/vi/s-v0BZeF6uk/hqdefault.jpg"
+        },
+        {
+            "video_id": "lxIvzNZf92c",
+            "title": "How Can I Do",
+            "channel_name": "EVNNE - Topic",
+            "category": "Music",
+            "duration": "3:03",
+            "view_count": "66020",
+            "thumbnail_url": "https://i.ytimg.com/vi/lxIvzNZf92c/hqdefault.jpg"
         }
     ]
 }
