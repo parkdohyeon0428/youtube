@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-08-07 08:14:56",
+    "scraped_time": "2025-08-07 10:15:06",
     "videos": [
         {
             "video_id": "ncFqMb_I-g4",
@@ -7,7 +7,7 @@
             "channel_name": "JD1 - Topic",
             "category": "Music",
             "duration": "2:45",
-            "view_count": "64448",
+            "view_count": "68345",
             "thumbnail_url": "https://i.ytimg.com/vi/ncFqMb_I-g4/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "MONSTA X",
             "category": "Music",
             "duration": "1:16",
-            "view_count": "55451",
+            "view_count": "55978",
             "thumbnail_url": "https://i.ytimg.com/vi/Rp4qbjzKdyg/hqdefault.jpg"
         },
         {
@@ -25,62 +25,8 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "5:01:45",
-            "view_count": "1140662",
+            "view_count": "1141932",
             "thumbnail_url": "https://i.ytimg.com/vi/l6gApyENr1A/hqdefault.jpg"
-        },
-        {
-            "video_id": "1mZEQl8q3w4",
-            "title": "Goodbye, My Summer",
-            "channel_name": "HANRORO - Topic",
-            "category": "Music",
-            "duration": "3:56",
-            "view_count": "110599",
-            "thumbnail_url": "https://i.ytimg.com/vi/1mZEQl8q3w4/hqdefault.jpg"
-        },
-        {
-            "video_id": "rcUwG9Kf20Y",
-            "title": "감스트 GTA5 별5개 경찰을 버텨라!!",
-            "channel_name": "감스트GAMST",
-            "category": "Gaming",
-            "duration": "16:35",
-            "view_count": "398340",
-            "thumbnail_url": "https://i.ytimg.com/vi/rcUwG9Kf20Y/hqdefault.jpg"
-        },
-        {
-            "video_id": "YFzG-JABlnw",
-            "title": "Rashisa",
-            "channel_name": "OFFICIAL HIGE DANDISM - Topic",
-            "category": "Music",
-            "duration": "5:03",
-            "view_count": "254010",
-            "thumbnail_url": "https://i.ytimg.com/vi/YFzG-JABlnw/hqdefault.jpg"
-        },
-        {
-            "video_id": "6lKw1HORhIM",
-            "title": "이세계 주인공",
-            "channel_name": "괴물쥐 유튜브",
-            "category": "Gaming",
-            "duration": "24:51",
-            "view_count": "484725",
-            "thumbnail_url": "https://i.ytimg.com/vi/6lKw1HORhIM/hqdefault.jpg"
-        },
-        {
-            "video_id": "hft6QkqmaYQ",
-            "title": "LIVE｜I'm Fine + 아 왜 + Love me or Leave me + Shoot Me｜DAY6 WORLD TOUR ＜FOREVER YOUNG＞ FINALE in SEOUL",
-            "channel_name": "DAY6",
-            "category": "People & Blogs",
-            "duration": "14:28",
-            "view_count": "89364",
-            "thumbnail_url": "https://i.ytimg.com/vi/hft6QkqmaYQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "COLUCi_hd9Y",
-            "title": "\"시크릿 합성\" 때문에 브레인롯 훔치기 접습니다...  (로블록스 브레인롯훔치기)",
-            "channel_name": "말량",
-            "category": "Gaming",
-            "duration": "21:59",
-            "view_count": "223764",
-            "thumbnail_url": "https://i.ytimg.com/vi/COLUCi_hd9Y/hqdefault.jpg"
         },
         {
             "video_id": "YrmDkAJ9yps",
@@ -88,8 +34,62 @@
             "channel_name": "KiiiKiii - Topic",
             "category": "Music",
             "duration": "3:19",
-            "view_count": "12673",
+            "view_count": "15661",
             "thumbnail_url": "https://i.ytimg.com/vi/YrmDkAJ9yps/hqdefault.jpg"
+        },
+        {
+            "video_id": "rcUwG9Kf20Y",
+            "title": "감스트 GTA5 별5개 경찰을 버텨라!!",
+            "channel_name": "감스트GAMST",
+            "category": "Gaming",
+            "duration": "16:35",
+            "view_count": "412527",
+            "thumbnail_url": "https://i.ytimg.com/vi/rcUwG9Kf20Y/hqdefault.jpg"
+        },
+        {
+            "video_id": "1mZEQl8q3w4",
+            "title": "Goodbye, My Summer",
+            "channel_name": "HANRORO - Topic",
+            "category": "Music",
+            "duration": "3:56",
+            "view_count": "114452",
+            "thumbnail_url": "https://i.ytimg.com/vi/1mZEQl8q3w4/hqdefault.jpg"
+        },
+        {
+            "video_id": "6lKw1HORhIM",
+            "title": "이세계 주인공",
+            "channel_name": "괴물쥐 유튜브",
+            "category": "Gaming",
+            "duration": "24:51",
+            "view_count": "488380",
+            "thumbnail_url": "https://i.ytimg.com/vi/6lKw1HORhIM/hqdefault.jpg"
+        },
+        {
+            "video_id": "YFzG-JABlnw",
+            "title": "Rashisa",
+            "channel_name": "OFFICIAL HIGE DANDISM - Topic",
+            "category": "Music",
+            "duration": "5:03",
+            "view_count": "269534",
+            "thumbnail_url": "https://i.ytimg.com/vi/YFzG-JABlnw/hqdefault.jpg"
+        },
+        {
+            "video_id": "COLUCi_hd9Y",
+            "title": "\"시크릿 합성\" 때문에 브레인롯 훔치기 접습니다...  (로블록스 브레인롯훔치기)",
+            "channel_name": "말량",
+            "category": "Gaming",
+            "duration": "21:59",
+            "view_count": "238884",
+            "thumbnail_url": "https://i.ytimg.com/vi/COLUCi_hd9Y/hqdefault.jpg"
+        },
+        {
+            "video_id": "hft6QkqmaYQ",
+            "title": "LIVE｜I'm Fine + 아 왜 + Love me or Leave me + Shoot Me｜DAY6 WORLD TOUR ＜FOREVER YOUNG＞ FINALE in SEOUL",
+            "channel_name": "DAY6",
+            "category": "People & Blogs",
+            "duration": "14:28",
+            "view_count": "90877",
+            "thumbnail_url": "https://i.ytimg.com/vi/hft6QkqmaYQ/hqdefault.jpg"
         },
         {
             "video_id": "obnL3ptLvao",
@@ -97,7 +97,7 @@
             "channel_name": "왈도쿤",
             "category": "Gaming",
             "duration": "32:32",
-            "view_count": "153870",
+            "view_count": "162719",
             "thumbnail_url": "https://i.ytimg.com/vi/obnL3ptLvao/hqdefault.jpg"
         },
         {
@@ -106,7 +106,7 @@
             "channel_name": "Gabe Watkins - Topic",
             "category": "Music",
             "duration": "3:22",
-            "view_count": "50286",
+            "view_count": "52364",
             "thumbnail_url": "https://i.ytimg.com/vi/fgcQ2d8NoAc/hqdefault.jpg"
         },
         {
@@ -115,7 +115,7 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "44:44",
-            "view_count": "185909",
+            "view_count": "192522",
             "thumbnail_url": "https://i.ytimg.com/vi/s1qrSMq-JTo/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "HUNTR/X - Topic",
             "category": "Music",
             "duration": "3:15",
-            "view_count": "131624",
+            "view_count": "138145",
             "thumbnail_url": "https://i.ytimg.com/vi/43vgxD5JyQQ/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "인피쉰",
             "category": "Gaming",
             "duration": "5:17:59",
-            "view_count": "131703",
+            "view_count": "133391",
             "thumbnail_url": "https://i.ytimg.com/vi/q4lslx3MRPU/hqdefault.jpg"
         },
         {
@@ -142,35 +142,17 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:09",
-            "view_count": "384277",
+            "view_count": "387561",
             "thumbnail_url": "https://i.ytimg.com/vi/H07Zz90QE3E/hqdefault.jpg"
         },
         {
-            "video_id": "RD1fs2HQeys",
-            "title": "김성현 알튜브 8월 6일 방송 FULL",
+            "video_id": "JBayWuXYGQ4",
+            "title": "아무리 때려도 죽지 않는 333업 초패스트 드라군 때문에 머리끝까지 화난 상대ㅋㅋ",
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
-            "duration": "4:28:50",
-            "view_count": "128641",
-            "thumbnail_url": "https://i.ytimg.com/vi/RD1fs2HQeys/hqdefault.jpg"
-        },
-        {
-            "video_id": "lxIvzNZf92c",
-            "title": "How Can I Do",
-            "channel_name": "EVNNE - Topic",
-            "category": "Music",
-            "duration": "3:03",
-            "view_count": "49329",
-            "thumbnail_url": "https://i.ytimg.com/vi/lxIvzNZf92c/hqdefault.jpg"
-        },
-        {
-            "video_id": "saKCaf6f5tk",
-            "title": "리신 가족 [롤토체스]",
-            "channel_name": "PAKA",
-            "category": "Gaming",
-            "duration": "26:50",
-            "view_count": "319997",
-            "thumbnail_url": "https://i.ytimg.com/vi/saKCaf6f5tk/hqdefault.jpg"
+            "duration": "42:28",
+            "view_count": "191152",
+            "thumbnail_url": "https://i.ytimg.com/vi/JBayWuXYGQ4/hqdefault.jpg"
         },
         {
             "video_id": "fIgAIq-3oqE",
@@ -178,26 +160,8 @@
             "channel_name": "1theK (원더케이)",
             "category": "Music",
             "duration": "3:37",
-            "view_count": "12709",
+            "view_count": "14434",
             "thumbnail_url": "https://i.ytimg.com/vi/fIgAIq-3oqE/hqdefault.jpg"
-        },
-        {
-            "video_id": "Axj4fFaG3-w",
-            "title": "매니저님 잘못했습니다! [마인크래프트 ep.3]",
-            "channel_name": "말왕TV",
-            "category": "Gaming",
-            "duration": "23:15",
-            "view_count": "129047",
-            "thumbnail_url": "https://i.ytimg.com/vi/Axj4fFaG3-w/hqdefault.jpg"
-        },
-        {
-            "video_id": "dzl2frEjGwk",
-            "title": "you like soybean paste stew",
-            "channel_name": "Jeon Gunho - Topic",
-            "category": "Music",
-            "duration": "4:18",
-            "view_count": "86374",
-            "thumbnail_url": "https://i.ytimg.com/vi/dzl2frEjGwk/hqdefault.jpg"
         },
         {
             "video_id": "-niQdPuSmPw",
@@ -205,8 +169,62 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "49:27",
-            "view_count": "143036",
+            "view_count": "149372",
             "thumbnail_url": "https://i.ytimg.com/vi/-niQdPuSmPw/hqdefault.jpg"
+        },
+        {
+            "video_id": "lxIvzNZf92c",
+            "title": "How Can I Do",
+            "channel_name": "EVNNE - Topic",
+            "category": "Music",
+            "duration": "3:03",
+            "view_count": "50854",
+            "thumbnail_url": "https://i.ytimg.com/vi/lxIvzNZf92c/hqdefault.jpg"
+        },
+        {
+            "video_id": "Axj4fFaG3-w",
+            "title": "매니저님 잘못했습니다! [마인크래프트 ep.3]",
+            "channel_name": "말왕TV",
+            "category": "Gaming",
+            "duration": "23:15",
+            "view_count": "132590",
+            "thumbnail_url": "https://i.ytimg.com/vi/Axj4fFaG3-w/hqdefault.jpg"
+        },
+        {
+            "video_id": "VPnwXquuH-E",
+            "title": "[HIGHLIVE] 비스트 (BEAST) 하이라이트 (HIGHLIGHT) - Shadow (그림자)",
+            "channel_name": "OFFICIAL HIGHLIGHT",
+            "category": "Music",
+            "duration": "4:40",
+            "view_count": "18823",
+            "thumbnail_url": "https://i.ytimg.com/vi/VPnwXquuH-E/hqdefault.jpg"
+        },
+        {
+            "video_id": "saKCaf6f5tk",
+            "title": "리신 가족 [롤토체스]",
+            "channel_name": "PAKA",
+            "category": "Gaming",
+            "duration": "26:50",
+            "view_count": "322674",
+            "thumbnail_url": "https://i.ytimg.com/vi/saKCaf6f5tk/hqdefault.jpg"
+        },
+        {
+            "video_id": "dzl2frEjGwk",
+            "title": "you like soybean paste stew",
+            "channel_name": "Jeon Gunho - Topic",
+            "category": "Music",
+            "duration": "4:18",
+            "view_count": "89359",
+            "thumbnail_url": "https://i.ytimg.com/vi/dzl2frEjGwk/hqdefault.jpg"
+        },
+        {
+            "video_id": "sBTvaQI0Buw",
+            "title": "눈지역 광신도들한테 얼음성 빼앗고 \"무적 겨울기지\" 만들어서 살아남기 ㅋㅋㅋㅋㅋㅋ 사슴도 당황함ㅋㅋㅋㅋㅋㅋ(로블록스 99나이트 인더 포레스트)",
+            "channel_name": "쉐어TV",
+            "category": "Gaming",
+            "duration": "19:45",
+            "view_count": "105018",
+            "thumbnail_url": "https://i.ytimg.com/vi/sBTvaQI0Buw/hqdefault.jpg"
         },
         {
             "video_id": "KNtph-dROWU",
@@ -214,7 +232,7 @@
             "channel_name": "Norazo - Topic",
             "category": "Music",
             "duration": "2:34",
-            "view_count": "128004",
+            "view_count": "129861",
             "thumbnail_url": "https://i.ytimg.com/vi/KNtph-dROWU/hqdefault.jpg"
         },
         {
@@ -223,62 +241,8 @@
             "channel_name": "침착맨",
             "category": "Entertainment",
             "duration": "49:00",
-            "view_count": "778072",
+            "view_count": "782080",
             "thumbnail_url": "https://i.ytimg.com/vi/3HBbQq_dCAU/hqdefault.jpg"
-        },
-        {
-            "video_id": "fXivMSJm_kA",
-            "title": "Justin Bieber - YUKON",
-            "channel_name": "Justin Bieber",
-            "category": "Music",
-            "duration": "3:03",
-            "view_count": "2520226",
-            "thumbnail_url": "https://i.ytimg.com/vi/fXivMSJm_kA/hqdefault.jpg"
-        },
-        {
-            "video_id": "sBTvaQI0Buw",
-            "title": "눈지역 광신도들한테 얼음성 빼앗고 \"무적 겨울기지\" 만들어서 살아남기 ㅋㅋㅋㅋㅋㅋ 사슴도 당황함ㅋㅋㅋㅋㅋㅋ(로블록스 99나이트 인더 포레스트)",
-            "channel_name": "쉐어TV",
-            "category": "Gaming",
-            "duration": "19:45",
-            "view_count": "94069",
-            "thumbnail_url": "https://i.ytimg.com/vi/sBTvaQI0Buw/hqdefault.jpg"
-        },
-        {
-            "video_id": "HpmKH9wMNQg",
-            "title": "iLy",
-            "channel_name": "SAY MY NAME - Topic",
-            "category": "Music",
-            "duration": "3:03",
-            "view_count": "315505",
-            "thumbnail_url": "https://i.ytimg.com/vi/HpmKH9wMNQg/hqdefault.jpg"
-        },
-        {
-            "video_id": "46Ge-_bd_Rc",
-            "title": "아름이 특급비밀 폭로했습니다.. 아름아 어떡해!? ㅋㅋ",
-            "channel_name": "백앤아",
-            "category": "Gaming",
-            "duration": "16:43",
-            "view_count": "225458",
-            "thumbnail_url": "https://i.ytimg.com/vi/46Ge-_bd_Rc/hqdefault.jpg"
-        },
-        {
-            "video_id": "VPnwXquuH-E",
-            "title": "[HIGHLIVE] 비스트 (BEAST) 하이라이트 (HIGHLIGHT) - Shadow (그림자)",
-            "channel_name": "OFFICIAL HIGHLIGHT",
-            "category": "Music",
-            "duration": "4:40",
-            "view_count": "16205",
-            "thumbnail_url": "https://i.ytimg.com/vi/VPnwXquuH-E/hqdefault.jpg"
-        },
-        {
-            "video_id": "LoKFHKmokBI",
-            "title": "X발 아줌마",
-            "channel_name": "맛좋은호박벌",
-            "category": "Gaming",
-            "duration": "14:21",
-            "view_count": "361261",
-            "thumbnail_url": "https://i.ytimg.com/vi/LoKFHKmokBI/hqdefault.jpg"
         },
         {
             "video_id": "Wij3Hn38f-g",
@@ -286,62 +250,44 @@
             "channel_name": "BE'O - Topic",
             "category": "Music",
             "duration": "2:40",
-            "view_count": "19013",
+            "view_count": "20573",
             "thumbnail_url": "https://i.ytimg.com/vi/Wij3Hn38f-g/hqdefault.jpg"
         },
         {
-            "video_id": "vWEleMH2f0Q",
-            "title": "아이템 이름부터 못 참겠는 맵 ㅋㅋㅋㅋㅋ(마인크래프트)",
-            "channel_name": "마플 마인크래프트 채널",
+            "video_id": "46Ge-_bd_Rc",
+            "title": "아름이 특급비밀 폭로했습니다.. 아름아 어떡해!? ㅋㅋ",
+            "channel_name": "백앤아",
             "category": "Gaming",
-            "duration": "20:44",
-            "view_count": "192783",
-            "thumbnail_url": "https://i.ytimg.com/vi/vWEleMH2f0Q/hqdefault.jpg"
+            "duration": "16:43",
+            "view_count": "227923",
+            "thumbnail_url": "https://i.ytimg.com/vi/46Ge-_bd_Rc/hqdefault.jpg"
         },
         {
-            "video_id": "NLb37swOViQ",
-            "title": "Crazier",
-            "channel_name": "BoA - Topic",
+            "video_id": "HpmKH9wMNQg",
+            "title": "iLy",
+            "channel_name": "SAY MY NAME - Topic",
             "category": "Music",
-            "duration": "2:42",
-            "view_count": "60201",
-            "thumbnail_url": "https://i.ytimg.com/vi/NLb37swOViQ/hqdefault.jpg"
+            "duration": "3:03",
+            "view_count": "320617",
+            "thumbnail_url": "https://i.ytimg.com/vi/HpmKH9wMNQg/hqdefault.jpg"
         },
         {
-            "video_id": "cbDkphYfBtY",
-            "title": "렉사이 대폭 상향 체험기",
-            "channel_name": "클리드",
+            "video_id": "LoKFHKmokBI",
+            "title": "X발 아줌마",
+            "channel_name": "맛좋은호박벌",
             "category": "Gaming",
-            "duration": "17:26",
-            "view_count": "204561",
-            "thumbnail_url": "https://i.ytimg.com/vi/cbDkphYfBtY/hqdefault.jpg"
+            "duration": "14:21",
+            "view_count": "364560",
+            "thumbnail_url": "https://i.ytimg.com/vi/LoKFHKmokBI/hqdefault.jpg"
         },
         {
-            "video_id": "eG3lTsNx4XQ",
-            "title": "Say Yes (Say Yes)",
-            "channel_name": "Release - Topic",
+            "video_id": "fXivMSJm_kA",
+            "title": "Justin Bieber - YUKON",
+            "channel_name": "Justin Bieber",
             "category": "Music",
-            "duration": "3:36",
-            "view_count": "153333",
-            "thumbnail_url": "https://i.ytimg.com/vi/eG3lTsNx4XQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "EFbYsZ0s_tY",
-            "title": "제2의 감자탕 사건 발발 [팡이요,  메이플스토리]",
-            "channel_name": "팡이요",
-            "category": "Gaming",
-            "duration": "10:22",
-            "view_count": "194897",
-            "thumbnail_url": "https://i.ytimg.com/vi/EFbYsZ0s_tY/hqdefault.jpg"
-        },
-        {
-            "video_id": "y6jnwkVsUhM",
-            "title": "드디어 템 다 맞췄습니다",
-            "channel_name": "튜브김민교",
-            "category": "Gaming",
-            "duration": "14:31",
-            "view_count": "309622",
-            "thumbnail_url": "https://i.ytimg.com/vi/y6jnwkVsUhM/hqdefault.jpg"
+            "duration": "3:03",
+            "view_count": "2668592",
+            "thumbnail_url": "https://i.ytimg.com/vi/fXivMSJm_kA/hqdefault.jpg"
         },
         {
             "video_id": "ii-NuX9KUWw",
@@ -349,8 +295,62 @@
             "channel_name": "마주 - 로블록스",
             "category": "Gaming",
             "duration": "26:03",
-            "view_count": "90117",
+            "view_count": "92824",
             "thumbnail_url": "https://i.ytimg.com/vi/ii-NuX9KUWw/hqdefault.jpg"
+        },
+        {
+            "video_id": "NLb37swOViQ",
+            "title": "Crazier",
+            "channel_name": "BoA - Topic",
+            "category": "Music",
+            "duration": "2:42",
+            "view_count": "62419",
+            "thumbnail_url": "https://i.ytimg.com/vi/NLb37swOViQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "vWEleMH2f0Q",
+            "title": "아이템 이름부터 못 참겠는 맵 ㅋㅋㅋㅋㅋ(마인크래프트)",
+            "channel_name": "마플 마인크래프트 채널",
+            "category": "Gaming",
+            "duration": "20:44",
+            "view_count": "194299",
+            "thumbnail_url": "https://i.ytimg.com/vi/vWEleMH2f0Q/hqdefault.jpg"
+        },
+        {
+            "video_id": "2tuTBpr1RPg",
+            "title": "최유리 - 당신은 누구시길래 (Live)",
+            "channel_name": "최유리 Choi Yu Ree",
+            "category": "Music",
+            "duration": "4:41",
+            "view_count": "15063",
+            "thumbnail_url": "https://i.ytimg.com/vi/2tuTBpr1RPg/hqdefault.jpg"
+        },
+        {
+            "video_id": "EFbYsZ0s_tY",
+            "title": "제2의 감자탕 사건 발발 [팡이요,  메이플스토리]",
+            "channel_name": "팡이요",
+            "category": "Gaming",
+            "duration": "10:22",
+            "view_count": "202562",
+            "thumbnail_url": "https://i.ytimg.com/vi/EFbYsZ0s_tY/hqdefault.jpg"
+        },
+        {
+            "video_id": "eG3lTsNx4XQ",
+            "title": "Say Yes (Say Yes)",
+            "channel_name": "Release - Topic",
+            "category": "Music",
+            "duration": "3:36",
+            "view_count": "155841",
+            "thumbnail_url": "https://i.ytimg.com/vi/eG3lTsNx4XQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "cbDkphYfBtY",
+            "title": "렉사이 대폭 상향 체험기",
+            "channel_name": "클리드",
+            "category": "Gaming",
+            "duration": "17:26",
+            "view_count": "205879",
+            "thumbnail_url": "https://i.ytimg.com/vi/cbDkphYfBtY/hqdefault.jpg"
         },
         {
             "video_id": "Zgw0vx93Y7E",
@@ -358,26 +358,26 @@
             "channel_name": "테스터훈 TesterHoon",
             "category": "Gaming",
             "duration": "15:44",
-            "view_count": "105937",
+            "view_count": "111925",
             "thumbnail_url": "https://i.ytimg.com/vi/Zgw0vx93Y7E/hqdefault.jpg"
         },
         {
-            "video_id": "pgN7w2bKYqw",
-            "title": "본캐 최고액 갱신 5000조 No7 호날두 금카 떴다!!!!!!",
-            "channel_name": "두치와뿌꾸",
+            "video_id": "y6jnwkVsUhM",
+            "title": "드디어 템 다 맞췄습니다",
+            "channel_name": "튜브김민교",
             "category": "Gaming",
-            "duration": "13:12",
-            "view_count": "151672",
-            "thumbnail_url": "https://i.ytimg.com/vi/pgN7w2bKYqw/hqdefault.jpg"
+            "duration": "14:31",
+            "view_count": "311469",
+            "thumbnail_url": "https://i.ytimg.com/vi/y6jnwkVsUhM/hqdefault.jpg"
         },
         {
-            "video_id": "bsZ8_Amk67Y",
-            "title": "가격은 500조.. 체감은 살 빠진 케인..",
-            "channel_name": "유봉훈",
-            "category": "Gaming",
-            "duration": "14:19",
-            "view_count": "117748",
-            "thumbnail_url": "https://i.ytimg.com/vi/bsZ8_Amk67Y/hqdefault.jpg"
+            "video_id": "e4gh1jvauNg",
+            "title": "1300억 세슈코, 결국 맨유행 임박...!",
+            "channel_name": "이스타TV",
+            "category": "Sports",
+            "duration": "14:35",
+            "view_count": "93918",
+            "thumbnail_url": "https://i.ytimg.com/vi/e4gh1jvauNg/hqdefault.jpg"
         }
     ]
 }
