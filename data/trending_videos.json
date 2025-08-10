@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-08-10 19:14:23",
+    "scraped_time": "2025-08-10 20:11:24",
     "videos": [
         {
             "video_id": "-oG30UjnwVA",
@@ -7,7 +7,7 @@
             "channel_name": "Jung Joon-Il - Topic",
             "category": "Music",
             "duration": "4:55",
-            "view_count": "60228",
+            "view_count": "61822",
             "thumbnail_url": "https://i.ytimg.com/vi/-oG30UjnwVA/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "IVE",
             "category": "Entertainment",
             "duration": "1:44",
-            "view_count": "770656",
+            "view_count": "776491",
             "thumbnail_url": "https://i.ytimg.com/vi/_6Zvxj0s7SE/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "5:33:26",
-            "view_count": "2099972",
+            "view_count": "2101029",
             "thumbnail_url": "https://i.ytimg.com/vi/_xgD3lymeTA/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "keshi - Topic",
             "category": "Music",
             "duration": "3:20",
-            "view_count": "501182",
+            "view_count": "510109",
             "thumbnail_url": "https://i.ytimg.com/vi/Nh7I78WlDGM/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "DOM Studio",
             "category": "Film & Animation",
             "duration": "6:49",
-            "view_count": "930844",
+            "view_count": "950396",
             "thumbnail_url": "https://i.ytimg.com/vi/9uIi3uCUNOA/hqdefault.jpg"
         },
         {
@@ -52,35 +52,17 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "26:50",
-            "view_count": "410491",
+            "view_count": "418073",
             "thumbnail_url": "https://i.ytimg.com/vi/ZxuVqKK6sZc/hqdefault.jpg"
         },
         {
-            "video_id": "SlqKSSJdn6Q",
-            "title": "BOYNEXTDOOR JP 2nd Single 『BOYLIFE』 Story Film : LOVE?",
-            "channel_name": "HYBE LABELS",
+            "video_id": "RqImBZoOmF8",
+            "title": "Starting With You ❍",
+            "channel_name": "Park Da Hye - Topic",
             "category": "Music",
-            "duration": "2:47",
-            "view_count": "233354",
-            "thumbnail_url": "https://i.ytimg.com/vi/SlqKSSJdn6Q/hqdefault.jpg"
-        },
-        {
-            "video_id": "dqHZaSzauak",
-            "title": "로블록스 라이벌 실사판!!! 게임이랑 싱크로율 100% !!!",
-            "channel_name": "흔한남매",
-            "category": "Entertainment",
-            "duration": "26:43",
-            "view_count": "384405",
-            "thumbnail_url": "https://i.ytimg.com/vi/dqHZaSzauak/hqdefault.jpg"
-        },
-        {
-            "video_id": "gMBwaaSBnvE",
-            "title": "Missing You (보고싶지 않은 니가 보고싶다)",
-            "channel_name": "Lim Chang-jung - Topic",
-            "category": "Music",
-            "duration": "4:11",
-            "view_count": "85901",
-            "thumbnail_url": "https://i.ytimg.com/vi/gMBwaaSBnvE/hqdefault.jpg"
+            "duration": "4:18",
+            "view_count": "6220",
+            "thumbnail_url": "https://i.ytimg.com/vi/RqImBZoOmF8/hqdefault.jpg"
         },
         {
             "video_id": "FURr7x9Sqdw",
@@ -88,17 +70,35 @@
             "channel_name": "쉐어TV",
             "category": "Gaming",
             "duration": "18:51",
-            "view_count": "113698",
+            "view_count": "142147",
             "thumbnail_url": "https://i.ytimg.com/vi/FURr7x9Sqdw/hqdefault.jpg"
         },
         {
-            "video_id": "1VgzPnojhEg",
-            "title": "OUTTA SPACE",
-            "channel_name": "Sik-K - Topic",
+            "video_id": "gMBwaaSBnvE",
+            "title": "Missing You (보고싶지 않은 니가 보고싶다)",
+            "channel_name": "Lim Chang-jung - Topic",
             "category": "Music",
-            "duration": "3:11",
-            "view_count": "71454",
-            "thumbnail_url": "https://i.ytimg.com/vi/1VgzPnojhEg/hqdefault.jpg"
+            "duration": "4:11",
+            "view_count": "87865",
+            "thumbnail_url": "https://i.ytimg.com/vi/gMBwaaSBnvE/hqdefault.jpg"
+        },
+        {
+            "video_id": "dqHZaSzauak",
+            "title": "로블록스 라이벌 실사판!!! 게임이랑 싱크로율 100% !!!",
+            "channel_name": "흔한남매",
+            "category": "Entertainment",
+            "duration": "26:43",
+            "view_count": "392669",
+            "thumbnail_url": "https://i.ytimg.com/vi/dqHZaSzauak/hqdefault.jpg"
+        },
+        {
+            "video_id": "SlqKSSJdn6Q",
+            "title": "BOYNEXTDOOR JP 2nd Single 『BOYLIFE』 Story Film : LOVE?",
+            "channel_name": "HYBE LABELS",
+            "category": "Music",
+            "duration": "2:47",
+            "view_count": "234648",
+            "thumbnail_url": "https://i.ytimg.com/vi/SlqKSSJdn6Q/hqdefault.jpg"
         },
         {
             "video_id": "xbUqmLOC25A",
@@ -106,17 +106,17 @@
             "channel_name": "두치와뿌꾸",
             "category": "Gaming",
             "duration": "14:22",
-            "view_count": "160438",
+            "view_count": "172641",
             "thumbnail_url": "https://i.ytimg.com/vi/xbUqmLOC25A/hqdefault.jpg"
         },
         {
-            "video_id": "FSxM6_E4dRs",
-            "title": "Real Time Only",
-            "channel_name": "Velvet Funk - Topic",
+            "video_id": "1VgzPnojhEg",
+            "title": "OUTTA SPACE",
+            "channel_name": "Sik-K - Topic",
             "category": "Music",
-            "duration": "4:00",
-            "view_count": "24693",
-            "thumbnail_url": "https://i.ytimg.com/vi/FSxM6_E4dRs/hqdefault.jpg"
+            "duration": "3:11",
+            "view_count": "73491",
+            "thumbnail_url": "https://i.ytimg.com/vi/1VgzPnojhEg/hqdefault.jpg"
         },
         {
             "video_id": "botZtKy93KU",
@@ -124,17 +124,17 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "31:41",
-            "view_count": "211431",
+            "view_count": "216407",
             "thumbnail_url": "https://i.ytimg.com/vi/botZtKy93KU/hqdefault.jpg"
         },
         {
-            "video_id": "iXxe80oXYKc",
-            "title": "Shura",
-            "channel_name": "Yorushika - Topic",
+            "video_id": "FSxM6_E4dRs",
+            "title": "Real Time Only",
+            "channel_name": "Velvet Funk - Topic",
             "category": "Music",
-            "duration": "3:57",
-            "view_count": "420271",
-            "thumbnail_url": "https://i.ytimg.com/vi/iXxe80oXYKc/hqdefault.jpg"
+            "duration": "4:00",
+            "view_count": "26284",
+            "thumbnail_url": "https://i.ytimg.com/vi/FSxM6_E4dRs/hqdefault.jpg"
         },
         {
             "video_id": "Bz-uYONYdqY",
@@ -142,17 +142,17 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "32:21",
-            "view_count": "239811",
+            "view_count": "246771",
             "thumbnail_url": "https://i.ytimg.com/vi/Bz-uYONYdqY/hqdefault.jpg"
         },
         {
-            "video_id": "YrmDkAJ9yps",
-            "title": "DANCING ALONE (DANCING ALONE)",
-            "channel_name": "KiiiKiii - Topic",
+            "video_id": "iXxe80oXYKc",
+            "title": "Shura",
+            "channel_name": "Yorushika - Topic",
             "category": "Music",
-            "duration": "3:19",
-            "view_count": "160146",
-            "thumbnail_url": "https://i.ytimg.com/vi/YrmDkAJ9yps/hqdefault.jpg"
+            "duration": "3:57",
+            "view_count": "428888",
+            "thumbnail_url": "https://i.ytimg.com/vi/iXxe80oXYKc/hqdefault.jpg"
         },
         {
             "video_id": "t-vR65fao40",
@@ -160,7 +160,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "17:53",
-            "view_count": "171924",
+            "view_count": "176400",
             "thumbnail_url": "https://i.ytimg.com/vi/t-vR65fao40/hqdefault.jpg"
         },
         {
@@ -169,8 +169,26 @@
             "channel_name": "Ja Jung - Topic",
             "category": "Music",
             "duration": "3:34",
-            "view_count": "24046",
+            "view_count": "24680",
             "thumbnail_url": "https://i.ytimg.com/vi/GxPtOSpqeMA/hqdefault.jpg"
+        },
+        {
+            "video_id": "E0IZUOa7EYQ",
+            "title": "💗팀 나빠 멤버들의 첫사랑썰!? 아직도 연락해?! 과연 멤버들의 첫사랑은 이루어졌을까?🥵",
+            "channel_name": "멜로우TV",
+            "category": "Gaming",
+            "duration": "19:02",
+            "view_count": "133077",
+            "thumbnail_url": "https://i.ytimg.com/vi/E0IZUOa7EYQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "YrmDkAJ9yps",
+            "title": "DANCING ALONE (DANCING ALONE)",
+            "channel_name": "KiiiKiii - Topic",
+            "category": "Music",
+            "duration": "3:19",
+            "view_count": "163196",
+            "thumbnail_url": "https://i.ytimg.com/vi/YrmDkAJ9yps/hqdefault.jpg"
         },
         {
             "video_id": "CosqOHD0vc4",
@@ -178,7 +196,7 @@
             "channel_name": "말량",
             "category": "Gaming",
             "duration": "21:15",
-            "view_count": "240686",
+            "view_count": "242822",
             "thumbnail_url": "https://i.ytimg.com/vi/CosqOHD0vc4/hqdefault.jpg"
         },
         {
@@ -187,26 +205,8 @@
             "channel_name": "정승환 Jung Seung Hwan",
             "category": "People & Blogs",
             "duration": "4:22",
-            "view_count": "29600",
+            "view_count": "30553",
             "thumbnail_url": "https://i.ytimg.com/vi/KlApaazUI9Y/hqdefault.jpg"
-        },
-        {
-            "video_id": "E0IZUOa7EYQ",
-            "title": "💗팀 나빠 멤버들의 첫사랑썰!? 아직도 연락해?! 과연 멤버들의 첫사랑은 이루어졌을까?🥵",
-            "channel_name": "멜로우TV",
-            "category": "Gaming",
-            "duration": "19:02",
-            "view_count": "122364",
-            "thumbnail_url": "https://i.ytimg.com/vi/E0IZUOa7EYQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "ZT6AA25pZGg",
-            "title": "Almost (feat. Sonny Zero)",
-            "channel_name": "oftn - Topic",
-            "category": "Music",
-            "duration": "3:28",
-            "view_count": "37243",
-            "thumbnail_url": "https://i.ytimg.com/vi/ZT6AA25pZGg/hqdefault.jpg"
         },
         {
             "video_id": "NqLrol5hpes",
@@ -214,17 +214,17 @@
             "channel_name": "Wolf",
             "category": "Gaming",
             "duration": "1:25:12",
-            "view_count": "172775",
+            "view_count": "177369",
             "thumbnail_url": "https://i.ytimg.com/vi/NqLrol5hpes/hqdefault.jpg"
         },
         {
-            "video_id": "HyRaQu7Ylm8",
-            "title": "메데이아 [Original] / Feat. 카사네 테토 (重音テトSV)",
-            "channel_name": "50mang쏘망",
-            "category": "Gaming",
-            "duration": "4:00",
-            "view_count": "29128",
-            "thumbnail_url": "https://i.ytimg.com/vi/HyRaQu7Ylm8/hqdefault.jpg"
+            "video_id": "ZT6AA25pZGg",
+            "title": "Almost (feat. Sonny Zero)",
+            "channel_name": "oftn - Topic",
+            "category": "Music",
+            "duration": "3:28",
+            "view_count": "38103",
+            "thumbnail_url": "https://i.ytimg.com/vi/ZT6AA25pZGg/hqdefault.jpg"
         },
         {
             "video_id": "MbMWXSDpmmw",
@@ -232,17 +232,17 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "59:35",
-            "view_count": "416069",
+            "view_count": "419235",
             "thumbnail_url": "https://i.ytimg.com/vi/MbMWXSDpmmw/hqdefault.jpg"
         },
         {
-            "video_id": "sdNOFCUdaA4",
-            "title": "Rise Up (The Winning Try : Original Television Soundtrack) (헹가래)",
-            "channel_name": "Gaeko - Topic",
-            "category": "Music",
-            "duration": "2:55",
-            "view_count": "30728",
-            "thumbnail_url": "https://i.ytimg.com/vi/sdNOFCUdaA4/hqdefault.jpg"
+            "video_id": "HyRaQu7Ylm8",
+            "title": "메데이아 [Original] / Feat. 카사네 테토 (重音テトSV)",
+            "channel_name": "50mang쏘망",
+            "category": "Gaming",
+            "duration": "4:00",
+            "view_count": "29816",
+            "thumbnail_url": "https://i.ytimg.com/vi/HyRaQu7Ylm8/hqdefault.jpg"
         },
         {
             "video_id": "jElSgURG_dw",
@@ -250,8 +250,26 @@
             "channel_name": "타튜브 [TATUBE]",
             "category": "Gaming",
             "duration": "17:53",
-            "view_count": "202216",
+            "view_count": "205064",
             "thumbnail_url": "https://i.ytimg.com/vi/jElSgURG_dw/hqdefault.jpg"
+        },
+        {
+            "video_id": "sdNOFCUdaA4",
+            "title": "Rise Up (The Winning Try : Original Television Soundtrack) (헹가래)",
+            "channel_name": "Gaeko - Topic",
+            "category": "Music",
+            "duration": "2:55",
+            "view_count": "31562",
+            "thumbnail_url": "https://i.ytimg.com/vi/sdNOFCUdaA4/hqdefault.jpg"
+        },
+        {
+            "video_id": "sFhJ_oMZZoY",
+            "title": "망가진 팀 분위기 살리는 저와수 수은쇼ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+            "channel_name": "저라뎃 JUSTLIKETHAT",
+            "category": "Gaming",
+            "duration": "27:36",
+            "view_count": "166654",
+            "thumbnail_url": "https://i.ytimg.com/vi/sFhJ_oMZZoY/hqdefault.jpg"
         },
         {
             "video_id": "Q_ozhezYT5o",
@@ -259,7 +277,7 @@
             "channel_name": "Craig David - Topic",
             "category": "Music",
             "duration": "3:35",
-            "view_count": "49397",
+            "view_count": "51149",
             "thumbnail_url": "https://i.ytimg.com/vi/Q_ozhezYT5o/hqdefault.jpg"
         },
         {
@@ -268,7 +286,7 @@
             "channel_name": "승상싱",
             "category": "Gaming",
             "duration": "11:14",
-            "view_count": "513279",
+            "view_count": "515789",
             "thumbnail_url": "https://i.ytimg.com/vi/ymi0u8a8QL0/hqdefault.jpg"
         },
         {
@@ -277,44 +295,8 @@
             "channel_name": "Emma Heesters",
             "category": "Music",
             "duration": "3:07",
-            "view_count": "138247",
+            "view_count": "140921",
             "thumbnail_url": "https://i.ytimg.com/vi/1qwq1UCG9c4/hqdefault.jpg"
-        },
-        {
-            "video_id": "sFhJ_oMZZoY",
-            "title": "망가진 팀 분위기 살리는 저와수 수은쇼ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
-            "channel_name": "저라뎃 JUSTLIKETHAT",
-            "category": "Gaming",
-            "duration": "27:36",
-            "view_count": "162560",
-            "thumbnail_url": "https://i.ytimg.com/vi/sFhJ_oMZZoY/hqdefault.jpg"
-        },
-        {
-            "video_id": "RqImBZoOmF8",
-            "title": "Starting With You ❍",
-            "channel_name": "Park Da Hye - Topic",
-            "category": "Music",
-            "duration": "4:18",
-            "view_count": "4674",
-            "thumbnail_url": "https://i.ytimg.com/vi/RqImBZoOmF8/hqdefault.jpg"
-        },
-        {
-            "video_id": "oEZ7ONA-ut8",
-            "title": "계속 지고 화나서 알파고를 강퇴한 상대, 하지만 몰래 아이디 바꿔 다시 들어가 정체를 밝혀보는데?ㅋㅋ",
-            "channel_name": "[ALTUBE] 김성현TV",
-            "category": "Gaming",
-            "duration": "53:39",
-            "view_count": "158302",
-            "thumbnail_url": "https://i.ytimg.com/vi/oEZ7ONA-ut8/hqdefault.jpg"
-        },
-        {
-            "video_id": "At9pWLsjDzo",
-            "title": "Lover Boy (feat. khaki)",
-            "channel_name": "hayawn - Topic",
-            "category": "Music",
-            "duration": "3:21",
-            "view_count": "14899",
-            "thumbnail_url": "https://i.ytimg.com/vi/At9pWLsjDzo/hqdefault.jpg"
         },
         {
             "video_id": "dzCM8HPSoHs",
@@ -322,8 +304,26 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "24:19",
-            "view_count": "188023",
+            "view_count": "194758",
             "thumbnail_url": "https://i.ytimg.com/vi/dzCM8HPSoHs/hqdefault.jpg"
+        },
+        {
+            "video_id": "At9pWLsjDzo",
+            "title": "Lover Boy (feat. khaki)",
+            "channel_name": "hayawn - Topic",
+            "category": "Music",
+            "duration": "3:21",
+            "view_count": "15609",
+            "thumbnail_url": "https://i.ytimg.com/vi/At9pWLsjDzo/hqdefault.jpg"
+        },
+        {
+            "video_id": "oEZ7ONA-ut8",
+            "title": "계속 지고 화나서 알파고를 강퇴한 상대, 하지만 몰래 아이디 바꿔 다시 들어가 정체를 밝혀보는데?ㅋㅋ",
+            "channel_name": "[ALTUBE] 김성현TV",
+            "category": "Gaming",
+            "duration": "53:39",
+            "view_count": "159698",
+            "thumbnail_url": "https://i.ytimg.com/vi/oEZ7ONA-ut8/hqdefault.jpg"
         },
         {
             "video_id": "nsOoDqe1s5Y",
@@ -331,17 +331,8 @@
             "channel_name": "튠옛 Tuneyet - Topic",
             "category": "Music",
             "duration": "2:58",
-            "view_count": "29883",
+            "view_count": "30198",
             "thumbnail_url": "https://i.ytimg.com/vi/nsOoDqe1s5Y/hqdefault.jpg"
-        },
-        {
-            "video_id": "XSMyPzHVXk8",
-            "title": "괴물 사슴보다 더 강력한 괴물이 등장 했다고!?",
-            "channel_name": "김왼팔",
-            "category": "Gaming",
-            "duration": "23:46",
-            "view_count": "212155",
-            "thumbnail_url": "https://i.ytimg.com/vi/XSMyPzHVXk8/hqdefault.jpg"
         },
         {
             "video_id": "_q29AKrupII",
@@ -349,8 +340,35 @@
             "channel_name": "동수칸TV",
             "category": "Gaming",
             "duration": "19:48",
-            "view_count": "202227",
+            "view_count": "206609",
             "thumbnail_url": "https://i.ytimg.com/vi/_q29AKrupII/hqdefault.jpg"
+        },
+        {
+            "video_id": "VNWYW0fOZR4",
+            "title": "💿 1990~2025 한국 발라드 100곡 명품 모음｜마음을 울리는 감성 멜로디｜하루 종일 들어도 질리지 않는 노래",
+            "channel_name": "추억발라드",
+            "category": "Music",
+            "duration": "2:56:59",
+            "view_count": "13303",
+            "thumbnail_url": "https://i.ytimg.com/vi/VNWYW0fOZR4/hqdefault.jpg"
+        },
+        {
+            "video_id": "XSMyPzHVXk8",
+            "title": "괴물 사슴보다 더 강력한 괴물이 등장 했다고!?",
+            "channel_name": "김왼팔",
+            "category": "Gaming",
+            "duration": "23:46",
+            "view_count": "215795",
+            "thumbnail_url": "https://i.ytimg.com/vi/XSMyPzHVXk8/hqdefault.jpg"
+        },
+        {
+            "video_id": "id1VxtRad90",
+            "title": "What Are We",
+            "channel_name": "Shekhinah - Topic",
+            "category": "Music",
+            "duration": "3:52",
+            "view_count": "9760",
+            "thumbnail_url": "https://i.ytimg.com/vi/id1VxtRad90/hqdefault.jpg"
         },
         {
             "video_id": "JqA5h9hGKlw",
@@ -358,26 +376,8 @@
             "channel_name": "근가놈",
             "category": "Gaming",
             "duration": "39:51",
-            "view_count": "126806",
+            "view_count": "129152",
             "thumbnail_url": "https://i.ytimg.com/vi/JqA5h9hGKlw/hqdefault.jpg"
-        },
-        {
-            "video_id": "tEyBYY1P15E",
-            "title": "맞짱 뜨던가",
-            "channel_name": "팍플레이Pacplay",
-            "category": "Gaming",
-            "duration": "10:50",
-            "view_count": "278166",
-            "thumbnail_url": "https://i.ytimg.com/vi/tEyBYY1P15E/hqdefault.jpg"
-        },
-        {
-            "video_id": "B0NrL4O_9Ps",
-            "title": "돌 안에 깃든 것 | THE TROPHY ROOM 2025 EP.5",
-            "channel_name": "T1",
-            "category": "Gaming",
-            "duration": "16:14",
-            "view_count": "201118",
-            "thumbnail_url": "https://i.ytimg.com/vi/B0NrL4O_9Ps/hqdefault.jpg"
         }
     ]
 }
