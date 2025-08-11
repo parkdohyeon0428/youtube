@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-08-11 12:38:30",
+    "scraped_time": "2025-08-11 13:37:52",
     "videos": [
         {
             "video_id": "dAcDmbKXw_0",
@@ -7,7 +7,7 @@
             "channel_name": "마크툽 MAKTUB Official",
             "category": "Entertainment",
             "duration": "4:17",
-            "view_count": "354051",
+            "view_count": "363805",
             "thumbnail_url": "https://i.ytimg.com/vi/dAcDmbKXw_0/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "IVE",
             "category": "Entertainment",
             "duration": "1:44",
-            "view_count": "843789",
+            "view_count": "847556",
             "thumbnail_url": "https://i.ytimg.com/vi/_6Zvxj0s7SE/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "4:50:20",
-            "view_count": "1327876",
+            "view_count": "1328337",
             "thumbnail_url": "https://i.ytimg.com/vi/l8UJ_WqKk30/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "Park Da Hye - Topic",
             "category": "Music",
             "duration": "4:18",
-            "view_count": "122662",
+            "view_count": "132077",
             "thumbnail_url": "https://i.ytimg.com/vi/RqImBZoOmF8/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "27:26",
-            "view_count": "349452",
+            "view_count": "360774",
             "thumbnail_url": "https://i.ytimg.com/vi/XkrsahZKvGo/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "3:07",
-            "view_count": "1249232",
+            "view_count": "1392642",
             "thumbnail_url": "https://i.ytimg.com/vi/WXS-o57VJ5w/hqdefault.jpg"
         },
         {
@@ -61,44 +61,8 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "28:33",
-            "view_count": "261308",
+            "view_count": "267613",
             "thumbnail_url": "https://i.ytimg.com/vi/UFfsO1fwm_Q/hqdefault.jpg"
-        },
-        {
-            "video_id": "-oG30UjnwVA",
-            "title": "Snow Flower (눈꽃)",
-            "channel_name": "Jung Joon-Il - Topic",
-            "category": "Music",
-            "duration": "4:55",
-            "view_count": "78264",
-            "thumbnail_url": "https://i.ytimg.com/vi/-oG30UjnwVA/hqdefault.jpg"
-        },
-        {
-            "video_id": "FURr7x9Sqdw",
-            "title": "99%가 모르게 숨겨져있는 신규 시크릿 조합법 발견!! ㄷㄷ;; 아니 재료가 이게 맞아!!??? 난이도 최상급!!!! (로블록스 브레인롯훔치기)",
-            "channel_name": "쉐어TV",
-            "category": "Gaming",
-            "duration": "18:51",
-            "view_count": "310075",
-            "thumbnail_url": "https://i.ytimg.com/vi/FURr7x9Sqdw/hqdefault.jpg"
-        },
-        {
-            "video_id": "Nh7I78WlDGM",
-            "title": "WANTCHU",
-            "channel_name": "keshi - Topic",
-            "category": "Music",
-            "duration": "3:20",
-            "view_count": "633700",
-            "thumbnail_url": "https://i.ytimg.com/vi/Nh7I78WlDGM/hqdefault.jpg"
-        },
-        {
-            "video_id": "xXwiTZSrkTI",
-            "title": "날씨가 계속 바뀌는 자연재해의 섬에서 베드워즈🛏️",
-            "channel_name": "잠뜰 TV",
-            "category": "Gaming",
-            "duration": "33:29",
-            "view_count": "182156",
-            "thumbnail_url": "https://i.ytimg.com/vi/xXwiTZSrkTI/hqdefault.jpg"
         },
         {
             "video_id": "dzXy8lA0qeA",
@@ -106,8 +70,44 @@
             "channel_name": "SEVENTEEN",
             "category": "Music",
             "duration": "3:47",
-            "view_count": "154789",
+            "view_count": "158084",
             "thumbnail_url": "https://i.ytimg.com/vi/dzXy8lA0qeA/hqdefault.jpg"
+        },
+        {
+            "video_id": "FURr7x9Sqdw",
+            "title": "99%가 모르게 숨겨져있는 신규 시크릿 조합법 발견!! ㄷㄷ;; 아니 재료가 이게 맞아!!??? 난이도 최상급!!!! (로블록스 브레인롯훔치기)",
+            "channel_name": "쉐어TV",
+            "category": "Gaming",
+            "duration": "18:51",
+            "view_count": "321949",
+            "thumbnail_url": "https://i.ytimg.com/vi/FURr7x9Sqdw/hqdefault.jpg"
+        },
+        {
+            "video_id": "-oG30UjnwVA",
+            "title": "Snow Flower (눈꽃)",
+            "channel_name": "Jung Joon-Il - Topic",
+            "category": "Music",
+            "duration": "4:55",
+            "view_count": "79795",
+            "thumbnail_url": "https://i.ytimg.com/vi/-oG30UjnwVA/hqdefault.jpg"
+        },
+        {
+            "video_id": "xXwiTZSrkTI",
+            "title": "날씨가 계속 바뀌는 자연재해의 섬에서 베드워즈🛏️",
+            "channel_name": "잠뜰 TV",
+            "category": "Gaming",
+            "duration": "33:29",
+            "view_count": "190173",
+            "thumbnail_url": "https://i.ytimg.com/vi/xXwiTZSrkTI/hqdefault.jpg"
+        },
+        {
+            "video_id": "Nh7I78WlDGM",
+            "title": "WANTCHU",
+            "channel_name": "keshi - Topic",
+            "category": "Music",
+            "duration": "3:20",
+            "view_count": "645542",
+            "thumbnail_url": "https://i.ytimg.com/vi/Nh7I78WlDGM/hqdefault.jpg"
         },
         {
             "video_id": "epJgToqXRYA",
@@ -115,7 +115,7 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "26:00",
-            "view_count": "177520",
+            "view_count": "181909",
             "thumbnail_url": "https://i.ytimg.com/vi/epJgToqXRYA/hqdefault.jpg"
         },
         {
@@ -124,17 +124,17 @@
             "channel_name": "Velvet Funk - Topic",
             "category": "Music",
             "duration": "4:00",
-            "view_count": "54023",
+            "view_count": "56346",
             "thumbnail_url": "https://i.ytimg.com/vi/FSxM6_E4dRs/hqdefault.jpg"
         },
         {
-            "video_id": "xbUqmLOC25A",
-            "title": "[4부] 감스트에게 영상하나를 전달 받았습니다",
-            "channel_name": "두치와뿌꾸",
+            "video_id": "e2iaXopkX74",
+            "title": "\"수컷의 향기가 안 나요..\" 클리드의 이상호 '남자' 만들기 프로젝트..!",
+            "channel_name": "이상호",
             "category": "Gaming",
-            "duration": "14:22",
-            "view_count": "247512",
-            "thumbnail_url": "https://i.ytimg.com/vi/xbUqmLOC25A/hqdefault.jpg"
+            "duration": "35:56",
+            "view_count": "162535",
+            "thumbnail_url": "https://i.ytimg.com/vi/e2iaXopkX74/hqdefault.jpg"
         },
         {
             "video_id": "CfnL5AcZeg0",
@@ -142,8 +142,26 @@
             "channel_name": "Jenevieve - Topic",
             "category": "Music",
             "duration": "3:50",
-            "view_count": "28208",
+            "view_count": "30685",
             "thumbnail_url": "https://i.ytimg.com/vi/CfnL5AcZeg0/hqdefault.jpg"
+        },
+        {
+            "video_id": "xbUqmLOC25A",
+            "title": "[4부] 감스트에게 영상하나를 전달 받았습니다",
+            "channel_name": "두치와뿌꾸",
+            "category": "Gaming",
+            "duration": "14:22",
+            "view_count": "251799",
+            "thumbnail_url": "https://i.ytimg.com/vi/xbUqmLOC25A/hqdefault.jpg"
+        },
+        {
+            "video_id": "9ZeEv1jbO6Q",
+            "title": "Summer Shadow",
+            "channel_name": "Mrs. GREEN APPLE - Topic",
+            "category": "Music",
+            "duration": "4:08",
+            "view_count": "328336",
+            "thumbnail_url": "https://i.ytimg.com/vi/9ZeEv1jbO6Q/hqdefault.jpg"
         },
         {
             "video_id": "dqHZaSzauak",
@@ -151,7 +169,7 @@
             "channel_name": "흔한남매",
             "category": "Entertainment",
             "duration": "26:43",
-            "view_count": "459029",
+            "view_count": "468052",
             "thumbnail_url": "https://i.ytimg.com/vi/dqHZaSzauak/hqdefault.jpg"
         },
         {
@@ -160,26 +178,8 @@
             "channel_name": "Lim Chang-jung - Topic",
             "category": "Music",
             "duration": "4:11",
-            "view_count": "110730",
+            "view_count": "112884",
             "thumbnail_url": "https://i.ytimg.com/vi/gMBwaaSBnvE/hqdefault.jpg"
-        },
-        {
-            "video_id": "e2iaXopkX74",
-            "title": "\"수컷의 향기가 안 나요..\" 클리드의 이상호 '남자' 만들기 프로젝트..!",
-            "channel_name": "이상호",
-            "category": "Gaming",
-            "duration": "35:56",
-            "view_count": "152814",
-            "thumbnail_url": "https://i.ytimg.com/vi/e2iaXopkX74/hqdefault.jpg"
-        },
-        {
-            "video_id": "9ZeEv1jbO6Q",
-            "title": "Summer Shadow",
-            "channel_name": "Mrs. GREEN APPLE - Topic",
-            "category": "Music",
-            "duration": "4:08",
-            "view_count": "288333",
-            "thumbnail_url": "https://i.ytimg.com/vi/9ZeEv1jbO6Q/hqdefault.jpg"
         },
         {
             "video_id": "E0IZUOa7EYQ",
@@ -187,7 +187,7 @@
             "channel_name": "멜로우TV",
             "category": "Gaming",
             "duration": "19:02",
-            "view_count": "215044",
+            "view_count": "223536",
             "thumbnail_url": "https://i.ytimg.com/vi/E0IZUOa7EYQ/hqdefault.jpg"
         },
         {
@@ -196,26 +196,8 @@
             "channel_name": "Sik-K - Topic",
             "category": "Music",
             "duration": "3:11",
-            "view_count": "92438",
+            "view_count": "94060",
             "thumbnail_url": "https://i.ytimg.com/vi/1VgzPnojhEg/hqdefault.jpg"
-        },
-        {
-            "video_id": "68bUMxX2hBg",
-            "title": "25.08.10(일) 【 인피쉰 생방송 다시보기 】 스타 빨무 스타크래프트 Starcraft",
-            "channel_name": "인피쉰",
-            "category": "Gaming",
-            "duration": "4:50:33",
-            "view_count": "138976",
-            "thumbnail_url": "https://i.ytimg.com/vi/68bUMxX2hBg/hqdefault.jpg"
-        },
-        {
-            "video_id": "9cWLSucEHdU",
-            "title": "In Spite Of That",
-            "channel_name": "Yountoven - Topic",
-            "category": "Music",
-            "duration": "3:24",
-            "view_count": "6983",
-            "thumbnail_url": "https://i.ytimg.com/vi/9cWLSucEHdU/hqdefault.jpg"
         },
         {
             "video_id": "haDgB-XtH68",
@@ -223,7 +205,7 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "18:50",
-            "view_count": "174227",
+            "view_count": "182107",
             "thumbnail_url": "https://i.ytimg.com/vi/haDgB-XtH68/hqdefault.jpg"
         },
         {
@@ -232,8 +214,26 @@
             "channel_name": "ILLIT - Topic",
             "category": "Music",
             "duration": "2:47",
-            "view_count": "58601",
+            "view_count": "64368",
             "thumbnail_url": "https://i.ytimg.com/vi/2BAXPAkLl88/hqdefault.jpg"
+        },
+        {
+            "video_id": "68bUMxX2hBg",
+            "title": "25.08.10(일) 【 인피쉰 생방송 다시보기 】 스타 빨무 스타크래프트 Starcraft",
+            "channel_name": "인피쉰",
+            "category": "Gaming",
+            "duration": "4:50:33",
+            "view_count": "139312",
+            "thumbnail_url": "https://i.ytimg.com/vi/68bUMxX2hBg/hqdefault.jpg"
+        },
+        {
+            "video_id": "Z8M-nXfMDg8",
+            "title": "Jasmine",
+            "channel_name": "KUN - Topic",
+            "category": "Music",
+            "duration": "3:58",
+            "view_count": "35780",
+            "thumbnail_url": "https://i.ytimg.com/vi/Z8M-nXfMDg8/hqdefault.jpg"
         },
         {
             "video_id": "dLRm_jrEPEQ",
@@ -241,8 +241,26 @@
             "channel_name": "킴성태TV",
             "category": "Gaming",
             "duration": "25:02",
-            "view_count": "179788",
+            "view_count": "189905",
             "thumbnail_url": "https://i.ytimg.com/vi/dLRm_jrEPEQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "9cWLSucEHdU",
+            "title": "In Spite Of That",
+            "channel_name": "Yountoven - Topic",
+            "category": "Music",
+            "duration": "3:24",
+            "view_count": "7247",
+            "thumbnail_url": "https://i.ytimg.com/vi/9cWLSucEHdU/hqdefault.jpg"
+        },
+        {
+            "video_id": "YSUQehlaCxQ",
+            "title": "3시간 요새 vs 10분 요새!!  진짜 내다버린 3시간 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ  (로블록스 99 나이트 인 더 포레스트)",
+            "channel_name": "집사TV",
+            "category": "Gaming",
+            "duration": "9:57",
+            "view_count": "181940",
+            "thumbnail_url": "https://i.ytimg.com/vi/YSUQehlaCxQ/hqdefault.jpg"
         },
         {
             "video_id": "iXxe80oXYKc",
@@ -250,7 +268,7 @@
             "channel_name": "Yorushika - Topic",
             "category": "Music",
             "duration": "3:57",
-            "view_count": "513140",
+            "view_count": "521873",
             "thumbnail_url": "https://i.ytimg.com/vi/iXxe80oXYKc/hqdefault.jpg"
         },
         {
@@ -259,7 +277,7 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "10:50",
-            "view_count": "196011",
+            "view_count": "203009",
             "thumbnail_url": "https://i.ytimg.com/vi/Qc6UYQMYqrA/hqdefault.jpg"
         },
         {
@@ -268,7 +286,7 @@
             "channel_name": "정승환 Jung Seung Hwan",
             "category": "People & Blogs",
             "duration": "4:22",
-            "view_count": "40484",
+            "view_count": "41494",
             "thumbnail_url": "https://i.ytimg.com/vi/KlApaazUI9Y/hqdefault.jpg"
         },
         {
@@ -277,7 +295,7 @@
             "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
             "duration": "27:01",
-            "view_count": "144989",
+            "view_count": "148494",
             "thumbnail_url": "https://i.ytimg.com/vi/n1Aqfye_zLw/hqdefault.jpg"
         },
         {
@@ -286,26 +304,8 @@
             "channel_name": "Anonymous Artists (어나니머스 아티스트) - Topic",
             "category": "Music",
             "duration": "3:49",
-            "view_count": "20308",
+            "view_count": "20898",
             "thumbnail_url": "https://i.ytimg.com/vi/s0VUePZmIpQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "YSUQehlaCxQ",
-            "title": "3시간 요새 vs 10분 요새!!  진짜 내다버린 3시간 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ  (로블록스 99 나이트 인 더 포레스트)",
-            "channel_name": "집사TV",
-            "category": "Gaming",
-            "duration": "9:57",
-            "view_count": "171222",
-            "thumbnail_url": "https://i.ytimg.com/vi/YSUQehlaCxQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "YrmDkAJ9yps",
-            "title": "DANCING ALONE (DANCING ALONE)",
-            "channel_name": "KiiiKiii - Topic",
-            "category": "Music",
-            "duration": "3:19",
-            "view_count": "199285",
-            "thumbnail_url": "https://i.ytimg.com/vi/YrmDkAJ9yps/hqdefault.jpg"
         },
         {
             "video_id": "NqLrol5hpes",
@@ -313,26 +313,8 @@
             "channel_name": "Wolf",
             "category": "Gaming",
             "duration": "1:25:12",
-            "view_count": "226765",
+            "view_count": "228713",
             "thumbnail_url": "https://i.ytimg.com/vi/NqLrol5hpes/hqdefault.jpg"
-        },
-        {
-            "video_id": "GxPtOSpqeMA",
-            "title": "Wind (바람)",
-            "channel_name": "Ja Jung - Topic",
-            "category": "Music",
-            "duration": "3:34",
-            "view_count": "29634",
-            "thumbnail_url": "https://i.ytimg.com/vi/GxPtOSpqeMA/hqdefault.jpg"
-        },
-        {
-            "video_id": "ezwMrbaMi6k",
-            "title": "어 콩천이다",
-            "channel_name": "주키니TV",
-            "category": "Gaming",
-            "duration": "21:28",
-            "view_count": "107439",
-            "thumbnail_url": "https://i.ytimg.com/vi/ezwMrbaMi6k/hqdefault.jpg"
         },
         {
             "video_id": "Q_ozhezYT5o",
@@ -340,26 +322,26 @@
             "channel_name": "Craig David - Topic",
             "category": "Music",
             "duration": "3:35",
-            "view_count": "72409",
+            "view_count": "73638",
             "thumbnail_url": "https://i.ytimg.com/vi/Q_ozhezYT5o/hqdefault.jpg"
         },
         {
-            "video_id": "t-vR65fao40",
-            "title": "김민교 최애들로만 뽑은 경매팀ㅋㅋㅋㅋ",
-            "channel_name": "튜브김민교",
+            "video_id": "ezwMrbaMi6k",
+            "title": "어 콩천이다",
+            "channel_name": "주키니TV",
             "category": "Gaming",
-            "duration": "17:53",
-            "view_count": "207198",
-            "thumbnail_url": "https://i.ytimg.com/vi/t-vR65fao40/hqdefault.jpg"
+            "duration": "21:28",
+            "view_count": "111465",
+            "thumbnail_url": "https://i.ytimg.com/vi/ezwMrbaMi6k/hqdefault.jpg"
         },
         {
-            "video_id": "Z8M-nXfMDg8",
-            "title": "Jasmine",
-            "channel_name": "KUN - Topic",
+            "video_id": "YrmDkAJ9yps",
+            "title": "DANCING ALONE (DANCING ALONE)",
+            "channel_name": "KiiiKiii - Topic",
             "category": "Music",
-            "duration": "3:58",
-            "view_count": "33870",
-            "thumbnail_url": "https://i.ytimg.com/vi/Z8M-nXfMDg8/hqdefault.jpg"
+            "duration": "3:19",
+            "view_count": "203372",
+            "thumbnail_url": "https://i.ytimg.com/vi/YrmDkAJ9yps/hqdefault.jpg"
         },
         {
             "video_id": "Ilt9YyLLdNs",
@@ -367,17 +349,35 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "33:11",
-            "view_count": "139923",
+            "view_count": "144841",
             "thumbnail_url": "https://i.ytimg.com/vi/Ilt9YyLLdNs/hqdefault.jpg"
         },
         {
-            "video_id": "1qwq1UCG9c4",
-            "title": "GOLDEN – K-Pop Demon Hunters | Emotional Cover by Emma Heesters (Huntr/X, Ejae, Audrey Nuna)",
-            "channel_name": "Emma Heesters",
+            "video_id": "GxPtOSpqeMA",
+            "title": "Wind (바람)",
+            "channel_name": "Ja Jung - Topic",
             "category": "Music",
-            "duration": "3:07",
-            "view_count": "185515",
-            "thumbnail_url": "https://i.ytimg.com/vi/1qwq1UCG9c4/hqdefault.jpg"
+            "duration": "3:34",
+            "view_count": "30113",
+            "thumbnail_url": "https://i.ytimg.com/vi/GxPtOSpqeMA/hqdefault.jpg"
+        },
+        {
+            "video_id": "t-vR65fao40",
+            "title": "김민교 최애들로만 뽑은 경매팀ㅋㅋㅋㅋ",
+            "channel_name": "튜브김민교",
+            "category": "Gaming",
+            "duration": "17:53",
+            "view_count": "209179",
+            "thumbnail_url": "https://i.ytimg.com/vi/t-vR65fao40/hqdefault.jpg"
+        },
+        {
+            "video_id": "HhR-xqhuBcc",
+            "title": "AA Battery",
+            "channel_name": "Johnny Stimson - Topic",
+            "category": "Music",
+            "duration": "3:13",
+            "view_count": "10162",
+            "thumbnail_url": "https://i.ytimg.com/vi/HhR-xqhuBcc/hqdefault.jpg"
         }
     ]
 }
