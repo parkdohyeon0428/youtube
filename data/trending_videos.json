@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-08-13 19:16:00",
+    "scraped_time": "2025-08-13 20:13:03",
     "videos": [
         {
             "video_id": "1pyO6oNmACs",
@@ -7,7 +7,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:48",
-            "view_count": "902906",
+            "view_count": "926227",
             "thumbnail_url": "https://i.ytimg.com/vi/1pyO6oNmACs/hqdefault.jpg"
         },
         {
@@ -16,8 +16,35 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:48",
-            "view_count": "347115",
+            "view_count": "354819",
             "thumbnail_url": "https://i.ytimg.com/vi/x1aFYeDU2IQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "plCYqJTTCQ8",
+            "title": "바쁘다 바빠 현대 협곡 | T1 vs KT 게임 1 하이라이트 | 08.13 | 2025 LCK",
+            "channel_name": "LCK",
+            "category": "Gaming",
+            "duration": "10:38",
+            "view_count": "90269",
+            "thumbnail_url": "https://i.ytimg.com/vi/plCYqJTTCQ8/hqdefault.jpg"
+        },
+        {
+            "video_id": "tGc_cYtHsWo",
+            "title": "Surf",
+            "channel_name": "NCT WISH - Topic",
+            "category": "Music",
+            "duration": "3:04",
+            "view_count": "204617",
+            "thumbnail_url": "https://i.ytimg.com/vi/tGc_cYtHsWo/hqdefault.jpg"
+        },
+        {
+            "video_id": "15AZ6rqXw-Y",
+            "title": "Woochi the Wayfarer - Teaser Trailer | PS5 Games",
+            "channel_name": "PlayStation",
+            "category": "Gaming",
+            "duration": "2:23",
+            "view_count": "409179",
+            "thumbnail_url": "https://i.ytimg.com/vi/15AZ6rqXw-Y/hqdefault.jpg"
         },
         {
             "video_id": "9OjSh7Tu5bE",
@@ -25,7 +52,7 @@
             "channel_name": "말량",
             "category": "Gaming",
             "duration": "19:04",
-            "view_count": "185074",
+            "view_count": "204375",
             "thumbnail_url": "https://i.ytimg.com/vi/9OjSh7Tu5bE/hqdefault.jpg"
         },
         {
@@ -34,35 +61,8 @@
             "channel_name": "Park Da Hye - Topic",
             "category": "Music",
             "duration": "4:18",
-            "view_count": "934982",
+            "view_count": "969811",
             "thumbnail_url": "https://i.ytimg.com/vi/RqImBZoOmF8/hqdefault.jpg"
-        },
-        {
-            "video_id": "15AZ6rqXw-Y",
-            "title": "Woochi the Wayfarer - Teaser Trailer | PS5 Games",
-            "channel_name": "PlayStation",
-            "category": "Gaming",
-            "duration": "2:23",
-            "view_count": "407327",
-            "thumbnail_url": "https://i.ytimg.com/vi/15AZ6rqXw-Y/hqdefault.jpg"
-        },
-        {
-            "video_id": "4R4Ini37Yy4",
-            "title": "착한 망자인지 악귀인지 판별하는 귀신 감별소",
-            "channel_name": "잠뜰 TV",
-            "category": "Gaming",
-            "duration": "49:23",
-            "view_count": "262312",
-            "thumbnail_url": "https://i.ytimg.com/vi/4R4Ini37Yy4/hqdefault.jpg"
-        },
-        {
-            "video_id": "tGc_cYtHsWo",
-            "title": "Surf",
-            "channel_name": "NCT WISH - Topic",
-            "category": "Music",
-            "duration": "3:04",
-            "view_count": "190048",
-            "thumbnail_url": "https://i.ytimg.com/vi/tGc_cYtHsWo/hqdefault.jpg"
         },
         {
             "video_id": "ccZdYt7sFvI",
@@ -70,7 +70,7 @@
             "channel_name": "시온",
             "category": "Gaming",
             "duration": "3:11",
-            "view_count": "165868",
+            "view_count": "174443",
             "thumbnail_url": "https://i.ytimg.com/vi/ccZdYt7sFvI/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "33:28",
-            "view_count": "175655",
+            "view_count": "180603",
             "thumbnail_url": "https://i.ytimg.com/vi/U_DcHHJHLJw/hqdefault.jpg"
         },
         {
@@ -88,7 +88,7 @@
             "channel_name": "마크툽 MAKTUB Official",
             "category": "Entertainment",
             "duration": "4:17",
-            "view_count": "687450",
+            "view_count": "693054",
             "thumbnail_url": "https://i.ytimg.com/vi/dAcDmbKXw_0/hqdefault.jpg"
         },
         {
@@ -97,17 +97,17 @@
             "channel_name": "Warner Bros. Korea",
             "category": "Film & Animation",
             "duration": "1:54",
-            "view_count": "67053",
+            "view_count": "75246",
             "thumbnail_url": "https://i.ytimg.com/vi/0hQBYzzP-cQ/hqdefault.jpg"
         },
         {
-            "video_id": "axc3V-6Qg-c",
-            "title": "갱플이라 미안해",
-            "channel_name": "괴물쥐 유튜브",
+            "video_id": "4R4Ini37Yy4",
+            "title": "착한 망자인지 악귀인지 판별하는 귀신 감별소",
+            "channel_name": "잠뜰 TV",
             "category": "Gaming",
-            "duration": "27:28",
-            "view_count": "518012",
-            "thumbnail_url": "https://i.ytimg.com/vi/axc3V-6Qg-c/hqdefault.jpg"
+            "duration": "49:23",
+            "view_count": "266333",
+            "thumbnail_url": "https://i.ytimg.com/vi/4R4Ini37Yy4/hqdefault.jpg"
         },
         {
             "video_id": "5C5lcn1GYfM",
@@ -115,7 +115,7 @@
             "channel_name": "THEBLACKLABEL",
             "category": "Music",
             "duration": "2:47",
-            "view_count": "4002351",
+            "view_count": "4103799",
             "thumbnail_url": "https://i.ytimg.com/vi/5C5lcn1GYfM/hqdefault.jpg"
         },
         {
@@ -124,53 +124,8 @@
             "channel_name": "소니픽쳐스코리아",
             "category": "Film & Animation",
             "duration": "1:33",
-            "view_count": "5565",
+            "view_count": "7530",
             "thumbnail_url": "https://i.ytimg.com/vi/fRqegBxEvEc/hqdefault.jpg"
-        },
-        {
-            "video_id": "KqQfiOFTdPg",
-            "title": "\"좋아? 행복해?\" 극한의 훈련에 결국 정신이 나가버린 이상호..!",
-            "channel_name": "이상호",
-            "category": "Gaming",
-            "duration": "31:47",
-            "view_count": "171795",
-            "thumbnail_url": "https://i.ytimg.com/vi/KqQfiOFTdPg/hqdefault.jpg"
-        },
-        {
-            "video_id": "LAP5uqlwb5Y",
-            "title": "BOYNEXTDOOR (보이넥스트도어) 'Count To Love' Official MV Teaser",
-            "channel_name": "HYBE LABELS",
-            "category": "Music",
-            "duration": "0:43",
-            "view_count": "155441",
-            "thumbnail_url": "https://i.ytimg.com/vi/LAP5uqlwb5Y/hqdefault.jpg"
-        },
-        {
-            "video_id": "brHS3MvNFpA",
-            "title": "다시 돌아온 밀짚모자 루피! ≪원피스 시즌2≫ 공식 예고편 떡밥 총정리",
-            "channel_name": "무비띵크_Movie Think",
-            "category": "Film & Animation",
-            "duration": "9:36",
-            "view_count": "125070",
-            "thumbnail_url": "https://i.ytimg.com/vi/brHS3MvNFpA/hqdefault.jpg"
-        },
-        {
-            "video_id": "dTaFDaKt5Ao",
-            "title": "지옥문 열었습니다",
-            "channel_name": "말왕TV",
-            "category": "Gaming",
-            "duration": "24:24",
-            "view_count": "193680",
-            "thumbnail_url": "https://i.ytimg.com/vi/dTaFDaKt5Ao/hqdefault.jpg"
-        },
-        {
-            "video_id": "1VP0Yy66dyA",
-            "title": "CLOSER",
-            "channel_name": "JEON SOMI - Topic",
-            "category": "Music",
-            "duration": "2:39",
-            "view_count": "125988",
-            "thumbnail_url": "https://i.ytimg.com/vi/1VP0Yy66dyA/hqdefault.jpg"
         },
         {
             "video_id": "pKrKRGykE70",
@@ -178,89 +133,17 @@
             "channel_name": "쉐어TV",
             "category": "Gaming",
             "duration": "21:14",
-            "view_count": "112434",
+            "view_count": "129519",
             "thumbnail_url": "https://i.ytimg.com/vi/pKrKRGykE70/hqdefault.jpg"
         },
         {
-            "video_id": "1Z_g6Gtj9Cs",
-            "title": "POP/STARS",
-            "channel_name": "K/DA - Topic",
+            "video_id": "LAP5uqlwb5Y",
+            "title": "BOYNEXTDOOR (보이넥스트도어) 'Count To Love' Official MV Teaser",
+            "channel_name": "HYBE LABELS",
             "category": "Music",
-            "duration": "3:12",
-            "view_count": "104410",
-            "thumbnail_url": "https://i.ytimg.com/vi/1Z_g6Gtj9Cs/hqdefault.jpg"
-        },
-        {
-            "video_id": "pDm9FUTfp10",
-            "title": "마크 맵이 너무 심하게 발전함 ㅋㅋㅋㅋㅋㅋ(마인크래프트)",
-            "channel_name": "마플 마인크래프트 채널",
-            "category": "Gaming",
-            "duration": "12:50",
-            "view_count": "167816",
-            "thumbnail_url": "https://i.ytimg.com/vi/pDm9FUTfp10/hqdefault.jpg"
-        },
-        {
-            "video_id": "q2PkH0brE54",
-            "title": "Infatuation",
-            "channel_name": "KEY - Topic",
-            "category": "Music",
-            "duration": "3:19",
-            "view_count": "97237",
-            "thumbnail_url": "https://i.ytimg.com/vi/q2PkH0brE54/hqdefault.jpg"
-        },
-        {
-            "video_id": "JJLNvzjEGsQ",
-            "title": "손버릇이 나쁜 사람",
-            "channel_name": "랄로",
-            "category": "Gaming",
-            "duration": "8:48:04",
-            "view_count": "557080",
-            "thumbnail_url": "https://i.ytimg.com/vi/JJLNvzjEGsQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "6y70hwfVeVU",
-            "title": "JISOO – Your Love Special Video (Rainforest Wild ASIA, Singapore)",
-            "channel_name": "JISOO",
-            "category": "Music",
-            "duration": "2:55",
-            "view_count": "2799373",
-            "thumbnail_url": "https://i.ytimg.com/vi/6y70hwfVeVU/hqdefault.jpg"
-        },
-        {
-            "video_id": "W5zqucJreeE",
-            "title": "옷깃만 스쳐도 사망하는 국권급 3찬템 카타리나 발생",
-            "channel_name": "잡상싱",
-            "category": "Gaming",
-            "duration": "13:23",
-            "view_count": "221001",
-            "thumbnail_url": "https://i.ytimg.com/vi/W5zqucJreeE/hqdefault.jpg"
-        },
-        {
-            "video_id": "rdMMwGuQhcg",
-            "title": "Sleepless (Prod. ROCOBERRY)",
-            "channel_name": "DINDIN - Topic",
-            "category": "Music",
-            "duration": "2:56",
-            "view_count": "11113",
-            "thumbnail_url": "https://i.ytimg.com/vi/rdMMwGuQhcg/hqdefault.jpg"
-        },
-        {
-            "video_id": "_N4ibV9-Bds",
-            "title": "배그 숨겨진 미친 성능의 총",
-            "channel_name": "주키니TV",
-            "category": "Gaming",
-            "duration": "26:39",
-            "view_count": "161590",
-            "thumbnail_url": "https://i.ytimg.com/vi/_N4ibV9-Bds/hqdefault.jpg"
-        },
-        {
-            "video_id": "hO2keY2efM0",
-            "title": "Dynamite",
-            "channel_name": "TOUCHED - Topic",
-            "category": "Music",
-            "duration": "4:18",
-            "view_count": "19685",
-            "thumbnail_url": "https://i.ytimg.com/vi/hO2keY2efM0/hqdefault.jpg"
+            "duration": "0:43",
+            "view_count": "160501",
+            "thumbnail_url": "https://i.ytimg.com/vi/LAP5uqlwb5Y/hqdefault.jpg"
         },
         {
             "video_id": "ZxjABzAfXJY",
@@ -268,8 +151,116 @@
             "channel_name": "감스트GAMST",
             "category": "Gaming",
             "duration": "24:05",
-            "view_count": "61515",
+            "view_count": "92174",
             "thumbnail_url": "https://i.ytimg.com/vi/ZxjABzAfXJY/hqdefault.jpg"
+        },
+        {
+            "video_id": "1VP0Yy66dyA",
+            "title": "CLOSER",
+            "channel_name": "JEON SOMI - Topic",
+            "category": "Music",
+            "duration": "2:39",
+            "view_count": "130892",
+            "thumbnail_url": "https://i.ytimg.com/vi/1VP0Yy66dyA/hqdefault.jpg"
+        },
+        {
+            "video_id": "axc3V-6Qg-c",
+            "title": "갱플이라 미안해",
+            "channel_name": "괴물쥐 유튜브",
+            "category": "Gaming",
+            "duration": "27:28",
+            "view_count": "520826",
+            "thumbnail_url": "https://i.ytimg.com/vi/axc3V-6Qg-c/hqdefault.jpg"
+        },
+        {
+            "video_id": "1Z_g6Gtj9Cs",
+            "title": "POP/STARS",
+            "channel_name": "K/DA - Topic",
+            "category": "Music",
+            "duration": "3:12",
+            "view_count": "110238",
+            "thumbnail_url": "https://i.ytimg.com/vi/1Z_g6Gtj9Cs/hqdefault.jpg"
+        },
+        {
+            "video_id": "KqQfiOFTdPg",
+            "title": "\"좋아? 행복해?\" 극한의 훈련에 결국 정신이 나가버린 이상호..!",
+            "channel_name": "이상호",
+            "category": "Gaming",
+            "duration": "31:47",
+            "view_count": "177670",
+            "thumbnail_url": "https://i.ytimg.com/vi/KqQfiOFTdPg/hqdefault.jpg"
+        },
+        {
+            "video_id": "rdMMwGuQhcg",
+            "title": "Sleepless (Prod. ROCOBERRY)",
+            "channel_name": "DINDIN - Topic",
+            "category": "Music",
+            "duration": "2:56",
+            "view_count": "14022",
+            "thumbnail_url": "https://i.ytimg.com/vi/rdMMwGuQhcg/hqdefault.jpg"
+        },
+        {
+            "video_id": "dTaFDaKt5Ao",
+            "title": "지옥문 열었습니다",
+            "channel_name": "말왕TV",
+            "category": "Gaming",
+            "duration": "24:24",
+            "view_count": "197395",
+            "thumbnail_url": "https://i.ytimg.com/vi/dTaFDaKt5Ao/hqdefault.jpg"
+        },
+        {
+            "video_id": "q2PkH0brE54",
+            "title": "Infatuation",
+            "channel_name": "KEY - Topic",
+            "category": "Music",
+            "duration": "3:19",
+            "view_count": "98517",
+            "thumbnail_url": "https://i.ytimg.com/vi/q2PkH0brE54/hqdefault.jpg"
+        },
+        {
+            "video_id": "pDm9FUTfp10",
+            "title": "마크 맵이 너무 심하게 발전함 ㅋㅋㅋㅋㅋㅋ(마인크래프트)",
+            "channel_name": "마플 마인크래프트 채널",
+            "category": "Gaming",
+            "duration": "12:50",
+            "view_count": "171155",
+            "thumbnail_url": "https://i.ytimg.com/vi/pDm9FUTfp10/hqdefault.jpg"
+        },
+        {
+            "video_id": "6y70hwfVeVU",
+            "title": "JISOO – Your Love Special Video (Rainforest Wild ASIA, Singapore)",
+            "channel_name": "JISOO",
+            "category": "Music",
+            "duration": "2:55",
+            "view_count": "2839406",
+            "thumbnail_url": "https://i.ytimg.com/vi/6y70hwfVeVU/hqdefault.jpg"
+        },
+        {
+            "video_id": "JJLNvzjEGsQ",
+            "title": "손버릇이 나쁜 사람",
+            "channel_name": "랄로",
+            "category": "Gaming",
+            "duration": "8:48:04",
+            "view_count": "561564",
+            "thumbnail_url": "https://i.ytimg.com/vi/JJLNvzjEGsQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "hO2keY2efM0",
+            "title": "Dynamite",
+            "channel_name": "TOUCHED - Topic",
+            "category": "Music",
+            "duration": "4:18",
+            "view_count": "21148",
+            "thumbnail_url": "https://i.ytimg.com/vi/hO2keY2efM0/hqdefault.jpg"
+        },
+        {
+            "video_id": "W5zqucJreeE",
+            "title": "옷깃만 스쳐도 사망하는 국권급 3찬템 카타리나 발생",
+            "channel_name": "잡상싱",
+            "category": "Gaming",
+            "duration": "13:23",
+            "view_count": "225164",
+            "thumbnail_url": "https://i.ytimg.com/vi/W5zqucJreeE/hqdefault.jpg"
         },
         {
             "video_id": "hamkkd1KYdw",
@@ -277,35 +268,17 @@
             "channel_name": "Azurever - Topic",
             "category": "Music",
             "duration": "3:15",
-            "view_count": "17533",
+            "view_count": "18158",
             "thumbnail_url": "https://i.ytimg.com/vi/hamkkd1KYdw/hqdefault.jpg"
         },
         {
-            "video_id": "zMOBBzF9OPM",
-            "title": "자기가 이겨도 승은 주겠다던 상대가 갑자기 무슨 수를 써서라도 승 안 주겠다며 태세전환하는 상대ㅋㅋ 대체 무슨 일이 있었길래?",
-            "channel_name": "[ALTUBE] 김성현TV",
+            "video_id": "_N4ibV9-Bds",
+            "title": "배그 숨겨진 미친 성능의 총",
+            "channel_name": "주키니TV",
             "category": "Gaming",
-            "duration": "49:57",
-            "view_count": "142410",
-            "thumbnail_url": "https://i.ytimg.com/vi/zMOBBzF9OPM/hqdefault.jpg"
-        },
-        {
-            "video_id": "9ZeEv1jbO6Q",
-            "title": "Summer Shadow",
-            "channel_name": "Mrs. GREEN APPLE - Topic",
-            "category": "Music",
-            "duration": "4:08",
-            "view_count": "1079541",
-            "thumbnail_url": "https://i.ytimg.com/vi/9ZeEv1jbO6Q/hqdefault.jpg"
-        },
-        {
-            "video_id": "LKwLvkdfVkM",
-            "title": "??? : 여기서 럭키 5코가 좀 필요해 1% 켜놨으니까 트페 이런 거 좋거든 결페 그죠?",
-            "channel_name": "팔차선 [8LJAYWALKING]",
-            "category": "Gaming",
-            "duration": "16:31",
-            "view_count": "146290",
-            "thumbnail_url": "https://i.ytimg.com/vi/LKwLvkdfVkM/hqdefault.jpg"
+            "duration": "26:39",
+            "view_count": "165746",
+            "thumbnail_url": "https://i.ytimg.com/vi/_N4ibV9-Bds/hqdefault.jpg"
         },
         {
             "video_id": "LwuUmhgGgxI",
@@ -313,44 +286,8 @@
             "channel_name": "Huace Global - Topic",
             "category": "Music",
             "duration": "3:52",
-            "view_count": "17152",
+            "view_count": "18110",
             "thumbnail_url": "https://i.ytimg.com/vi/LwuUmhgGgxI/hqdefault.jpg"
-        },
-        {
-            "video_id": "hyLPriTaEgg",
-            "title": "영원히 끝나지 않는 \"타요차례\"",
-            "channel_name": "타튜브 [TATUBE]",
-            "category": "Gaming",
-            "duration": "12:56",
-            "view_count": "167219",
-            "thumbnail_url": "https://i.ytimg.com/vi/hyLPriTaEgg/hqdefault.jpg"
-        },
-        {
-            "video_id": "7HILysGf80I",
-            "title": "Sunflower (Only)",
-            "channel_name": "Lee Jun Hyung - Topic",
-            "category": "Music",
-            "duration": "3:11",
-            "view_count": "12739",
-            "thumbnail_url": "https://i.ytimg.com/vi/7HILysGf80I/hqdefault.jpg"
-        },
-        {
-            "video_id": "nD_q6Ltjld0",
-            "title": "라이엇이 미쳤습니다. 역대급 버프로 정석이 될 \"살자 사이온 전략\" 이젠 진짜 못막습니다 😱",
-            "channel_name": "전략적죽음",
-            "category": "Gaming",
-            "duration": "27:19",
-            "view_count": "138694",
-            "thumbnail_url": "https://i.ytimg.com/vi/nD_q6Ltjld0/hqdefault.jpg"
-        },
-        {
-            "video_id": "xrbOVyr96Ks",
-            "title": "이승윤 - 들키고 싶은 마음에게(An Ode to the Unseen Hearts) @ 2025 Incheon Pentaport Rock Festival",
-            "channel_name": "이승윤",
-            "category": "Music",
-            "duration": "6:41",
-            "view_count": "88177",
-            "thumbnail_url": "https://i.ytimg.com/vi/xrbOVyr96Ks/hqdefault.jpg"
         },
         {
             "video_id": "AMRAgpHpCwc",
@@ -358,17 +295,17 @@
             "channel_name": "호왕",
             "category": "Gaming",
             "duration": "25:10",
-            "view_count": "44001",
+            "view_count": "51442",
             "thumbnail_url": "https://i.ytimg.com/vi/AMRAgpHpCwc/hqdefault.jpg"
         },
         {
-            "video_id": "JmcHJMolZMM",
-            "title": "I Want You (2025 Band Ver.) (I Want You (2025 Band Ver.))",
-            "channel_name": "Kim Na-young - Topic",
+            "video_id": "9ZeEv1jbO6Q",
+            "title": "Summer Shadow",
+            "channel_name": "Mrs. GREEN APPLE - Topic",
             "category": "Music",
-            "duration": "4:52",
-            "view_count": "48823",
-            "thumbnail_url": "https://i.ytimg.com/vi/JmcHJMolZMM/hqdefault.jpg"
+            "duration": "4:08",
+            "view_count": "1093836",
+            "thumbnail_url": "https://i.ytimg.com/vi/9ZeEv1jbO6Q/hqdefault.jpg"
         },
         {
             "video_id": "20bmeNCCgcg",
@@ -376,8 +313,71 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "22:40",
-            "view_count": "61747",
+            "view_count": "72265",
             "thumbnail_url": "https://i.ytimg.com/vi/20bmeNCCgcg/hqdefault.jpg"
+        },
+        {
+            "video_id": "7HILysGf80I",
+            "title": "Sunflower (Only)",
+            "channel_name": "Lee Jun Hyung - Topic",
+            "category": "Music",
+            "duration": "3:11",
+            "view_count": "13610",
+            "thumbnail_url": "https://i.ytimg.com/vi/7HILysGf80I/hqdefault.jpg"
+        },
+        {
+            "video_id": "mhNM1TB6N5Q",
+            "title": "퇴마 전문가",
+            "channel_name": "이도원",
+            "category": "Gaming",
+            "duration": "32:13",
+            "view_count": "59993",
+            "thumbnail_url": "https://i.ytimg.com/vi/mhNM1TB6N5Q/hqdefault.jpg"
+        },
+        {
+            "video_id": "8FBhgZ5DRqI",
+            "title": "Carmine",
+            "channel_name": "ELLEGARDEN - Topic",
+            "category": "Music",
+            "duration": "3:25",
+            "view_count": "175238",
+            "thumbnail_url": "https://i.ytimg.com/vi/8FBhgZ5DRqI/hqdefault.jpg"
+        },
+        {
+            "video_id": "0Y_JdDpGBBw",
+            "title": "게임 시작부터 오늘이 너의 제삿날이라며 처참하게 짓밟아주겠다는 상대ㄷㄷ 알파고의 운명은..?",
+            "channel_name": "[ALTUBE] 김성현TV",
+            "category": "Gaming",
+            "duration": "27:14",
+            "view_count": "83768",
+            "thumbnail_url": "https://i.ytimg.com/vi/0Y_JdDpGBBw/hqdefault.jpg"
+        },
+        {
+            "video_id": "JmcHJMolZMM",
+            "title": "I Want You (2025 Band Ver.) (I Want You (2025 Band Ver.))",
+            "channel_name": "Kim Na-young - Topic",
+            "category": "Music",
+            "duration": "4:52",
+            "view_count": "50166",
+            "thumbnail_url": "https://i.ytimg.com/vi/JmcHJMolZMM/hqdefault.jpg"
+        },
+        {
+            "video_id": "SYUrRNdXi_M",
+            "title": "광란의 곰판 [롤토체스]",
+            "channel_name": "PAKA",
+            "category": "Gaming",
+            "duration": "25:59",
+            "view_count": "60505",
+            "thumbnail_url": "https://i.ytimg.com/vi/SYUrRNdXi_M/hqdefault.jpg"
+        },
+        {
+            "video_id": "xrbOVyr96Ks",
+            "title": "이승윤 - 들키고 싶은 마음에게(An Ode to the Unseen Hearts) @ 2025 Incheon Pentaport Rock Festival",
+            "channel_name": "이승윤",
+            "category": "Music",
+            "duration": "6:41",
+            "view_count": "88647",
+            "thumbnail_url": "https://i.ytimg.com/vi/xrbOVyr96Ks/hqdefault.jpg"
         }
     ]
 }
