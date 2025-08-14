@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-08-15 04:12:06",
+    "scraped_time": "2025-08-15 05:16:04",
     "videos": [
         {
             "video_id": "1pyO6oNmACs",
@@ -7,7 +7,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:48",
-            "view_count": "1423469",
+            "view_count": "1428787",
             "thumbnail_url": "https://i.ytimg.com/vi/1pyO6oNmACs/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:33",
-            "view_count": "231663",
+            "view_count": "238479",
             "thumbnail_url": "https://i.ytimg.com/vi/kjz69EH3xMg/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "5:00:36",
-            "view_count": "1188424",
+            "view_count": "1189810",
             "thumbnail_url": "https://i.ytimg.com/vi/E_588_-CsSs/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "NCT WISH - Topic",
             "category": "Music",
             "duration": "3:04",
-            "view_count": "423694",
+            "view_count": "425681",
             "thumbnail_url": "https://i.ytimg.com/vi/tGc_cYtHsWo/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "소니픽쳐스코리아",
             "category": "Film & Animation",
             "duration": "1:33",
-            "view_count": "109088",
+            "view_count": "110622",
             "thumbnail_url": "https://i.ytimg.com/vi/fRqegBxEvEc/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "마비노기 모바일",
             "category": "People & Blogs",
             "duration": "1:15:33",
-            "view_count": "124111",
+            "view_count": "124568",
             "thumbnail_url": "https://i.ytimg.com/vi/5MfczKMXmO4/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "1theK Originals - 원더케이 오리지널",
             "category": "Entertainment",
             "duration": "3:33",
-            "view_count": "109797",
+            "view_count": "113653",
             "thumbnail_url": "https://i.ytimg.com/vi/LuN3siPlSjo/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "tvN DRAMA",
             "category": "Entertainment",
             "duration": "2:31",
-            "view_count": "73338",
+            "view_count": "74719",
             "thumbnail_url": "https://i.ytimg.com/vi/7I5Rj-c3sz0/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "로스트아크 LOST ARK",
             "category": "Gaming",
             "duration": "1:16:08",
-            "view_count": "187212",
+            "view_count": "188971",
             "thumbnail_url": "https://i.ytimg.com/vi/Tpdi8lU2YX0/hqdefault.jpg"
         },
         {
@@ -88,44 +88,8 @@
             "channel_name": "Park Da Hye - Topic",
             "category": "Music",
             "duration": "4:18",
-            "view_count": "1594350",
+            "view_count": "1600428",
             "thumbnail_url": "https://i.ytimg.com/vi/RqImBZoOmF8/hqdefault.jpg"
-        },
-        {
-            "video_id": "ZxjABzAfXJY",
-            "title": "감스트 GTA5 경찰도 포기한 '끝판왕 자동차'",
-            "channel_name": "감스트GAMST",
-            "category": "Gaming",
-            "duration": "24:05",
-            "view_count": "502845",
-            "thumbnail_url": "https://i.ytimg.com/vi/ZxjABzAfXJY/hqdefault.jpg"
-        },
-        {
-            "video_id": "FMX98ROVRCE",
-            "title": "LISA - DREAM feat. Kentaro Sakaguchi (Official Short Film MV)",
-            "channel_name": "LLOUD Official",
-            "category": "Music",
-            "duration": "5:09",
-            "view_count": "4987426",
-            "thumbnail_url": "https://i.ytimg.com/vi/FMX98ROVRCE/hqdefault.jpg"
-        },
-        {
-            "video_id": "cKO4OL_BSlc",
-            "title": "배틀그라운드 부가티 ‘600만원 태운 사나이들’ 처음겪어본 역대급 매운맛 이중가챠 🔥",
-            "channel_name": "악동 김블루",
-            "category": "Gaming",
-            "duration": "16:26",
-            "view_count": "179200",
-            "thumbnail_url": "https://i.ytimg.com/vi/cKO4OL_BSlc/hqdefault.jpg"
-        },
-        {
-            "video_id": "btRT0m8CApI",
-            "title": "White Wine",
-            "channel_name": "Kwon Jin-ah - Topic",
-            "category": "Music",
-            "duration": "3:00",
-            "view_count": "65870",
-            "thumbnail_url": "https://i.ytimg.com/vi/btRT0m8CApI/hqdefault.jpg"
         },
         {
             "video_id": "o5jjfhcCwVY",
@@ -133,8 +97,44 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "25:45",
-            "view_count": "210372",
+            "view_count": "240194",
             "thumbnail_url": "https://i.ytimg.com/vi/o5jjfhcCwVY/hqdefault.jpg"
+        },
+        {
+            "video_id": "FMX98ROVRCE",
+            "title": "LISA - DREAM feat. Kentaro Sakaguchi (Official Short Film MV)",
+            "channel_name": "LLOUD Official",
+            "category": "Music",
+            "duration": "5:09",
+            "view_count": "5191232",
+            "thumbnail_url": "https://i.ytimg.com/vi/FMX98ROVRCE/hqdefault.jpg"
+        },
+        {
+            "video_id": "ZxjABzAfXJY",
+            "title": "감스트 GTA5 경찰도 포기한 '끝판왕 자동차'",
+            "channel_name": "감스트GAMST",
+            "category": "Gaming",
+            "duration": "24:05",
+            "view_count": "507140",
+            "thumbnail_url": "https://i.ytimg.com/vi/ZxjABzAfXJY/hqdefault.jpg"
+        },
+        {
+            "video_id": "btRT0m8CApI",
+            "title": "White Wine",
+            "channel_name": "Kwon Jin-ah - Topic",
+            "category": "Music",
+            "duration": "3:00",
+            "view_count": "66871",
+            "thumbnail_url": "https://i.ytimg.com/vi/btRT0m8CApI/hqdefault.jpg"
+        },
+        {
+            "video_id": "cKO4OL_BSlc",
+            "title": "배틀그라운드 부가티 ‘600만원 태운 사나이들’ 처음겪어본 역대급 매운맛 이중가챠 🔥",
+            "channel_name": "악동 김블루",
+            "category": "Gaming",
+            "duration": "16:26",
+            "view_count": "192397",
+            "thumbnail_url": "https://i.ytimg.com/vi/cKO4OL_BSlc/hqdefault.jpg"
         },
         {
             "video_id": "UochJ3rj9XM",
@@ -142,7 +142,7 @@
             "channel_name": "마크툽 MAKTUB Official",
             "category": "Entertainment",
             "duration": "4:21",
-            "view_count": "195153",
+            "view_count": "196287",
             "thumbnail_url": "https://i.ytimg.com/vi/UochJ3rj9XM/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "Wolf",
             "category": "Gaming",
             "duration": "48:03",
-            "view_count": "257394",
+            "view_count": "261726",
             "thumbnail_url": "https://i.ytimg.com/vi/P0IcAnZkoac/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "pH-1 - Topic",
             "category": "Music",
             "duration": "3:05",
-            "view_count": "74772",
+            "view_count": "75859",
             "thumbnail_url": "https://i.ytimg.com/vi/9mUI9T5ku3Y/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "37:41",
-            "view_count": "255402",
+            "view_count": "258628",
             "thumbnail_url": "https://i.ytimg.com/vi/faNM_kB7n4U/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "Kim Gyeol - Topic",
             "category": "Music",
             "duration": "3:42",
-            "view_count": "32830",
+            "view_count": "33401",
             "thumbnail_url": "https://i.ytimg.com/vi/XSAjDBquirA/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "DINDIN - Topic",
             "category": "Music",
             "duration": "2:56",
-            "view_count": "53178",
+            "view_count": "53488",
             "thumbnail_url": "https://i.ytimg.com/vi/rdMMwGuQhcg/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "25:59",
-            "view_count": "286897",
+            "view_count": "288454",
             "thumbnail_url": "https://i.ytimg.com/vi/SYUrRNdXi_M/hqdefault.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "channel_name": "THEBLACKLABEL",
             "category": "Music",
             "duration": "2:47",
-            "view_count": "6162566",
+            "view_count": "6191328",
             "thumbnail_url": "https://i.ytimg.com/vi/5C5lcn1GYfM/hqdefault.jpg"
         },
         {
@@ -223,7 +223,7 @@
             "channel_name": "주키니TV",
             "category": "Gaming",
             "duration": "12:16",
-            "view_count": "156518",
+            "view_count": "163039",
             "thumbnail_url": "https://i.ytimg.com/vi/T2wbrDsagJE/hqdefault.jpg"
         },
         {
@@ -232,7 +232,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "0:43",
-            "view_count": "240493",
+            "view_count": "241571",
             "thumbnail_url": "https://i.ytimg.com/vi/LAP5uqlwb5Y/hqdefault.jpg"
         },
         {
@@ -241,7 +241,7 @@
             "channel_name": "말량",
             "category": "Gaming",
             "duration": "19:04",
-            "view_count": "353782",
+            "view_count": "354144",
             "thumbnail_url": "https://i.ytimg.com/vi/9OjSh7Tu5bE/hqdefault.jpg"
         },
         {
@@ -250,7 +250,7 @@
             "channel_name": "이승윤",
             "category": "Music",
             "duration": "5:30",
-            "view_count": "383585",
+            "view_count": "387691",
             "thumbnail_url": "https://i.ytimg.com/vi/1m9gGoRYfIA/hqdefault.jpg"
         },
         {
@@ -259,7 +259,7 @@
             "channel_name": "두치와뿌꾸",
             "category": "Gaming",
             "duration": "15:00",
-            "view_count": "128562",
+            "view_count": "133304",
             "thumbnail_url": "https://i.ytimg.com/vi/0t3-MuUQW0I/hqdefault.jpg"
         },
         {
@@ -268,7 +268,7 @@
             "channel_name": "JEON SOMI - Topic",
             "category": "Music",
             "duration": "2:39",
-            "view_count": "261660",
+            "view_count": "264369",
             "thumbnail_url": "https://i.ytimg.com/vi/1VP0Yy66dyA/hqdefault.jpg"
         },
         {
@@ -277,7 +277,7 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "32:10",
-            "view_count": "130604",
+            "view_count": "134117",
             "thumbnail_url": "https://i.ytimg.com/vi/0FahKEoKE-4/hqdefault.jpg"
         },
         {
@@ -286,17 +286,17 @@
             "channel_name": "최유리 (Choi Yu Ree) - Topic",
             "category": "Music",
             "duration": "4:17",
-            "view_count": "20363",
+            "view_count": "20718",
             "thumbnail_url": "https://i.ytimg.com/vi/Sw1_cBk126w/hqdefault.jpg"
         },
         {
-            "video_id": "d-_8M1TL8us",
-            "title": "어려움 10배 난이도!!  슈퍼 하드모드 숲에서 100일 살아남기! (로블록스 99나이트인더포레스트)",
-            "channel_name": "쉐어TV",
+            "video_id": "301QMfG58UE",
+            "title": "기물 15마리 흡수한 보스 골렘 등장 ㄷㄷ",
+            "channel_name": "잡상싱",
             "category": "Gaming",
-            "duration": "23:27",
-            "view_count": "151488",
-            "thumbnail_url": "https://i.ytimg.com/vi/d-_8M1TL8us/hqdefault.jpg"
+            "duration": "12:34",
+            "view_count": "147192",
+            "thumbnail_url": "https://i.ytimg.com/vi/301QMfG58UE/hqdefault.jpg"
         },
         {
             "video_id": "nuhslQ_1kOk",
@@ -304,7 +304,7 @@
             "channel_name": "YOUNG POSSE • 영파씨",
             "category": "Entertainment",
             "duration": "2:27",
-            "view_count": "1619555",
+            "view_count": "1693530",
             "thumbnail_url": "https://i.ytimg.com/vi/nuhslQ_1kOk/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "이도원",
             "category": "Gaming",
             "duration": "32:13",
-            "view_count": "263199",
+            "view_count": "264795",
             "thumbnail_url": "https://i.ytimg.com/vi/mhNM1TB6N5Q/hqdefault.jpg"
         },
         {
@@ -322,17 +322,17 @@
             "channel_name": "Huace Global - Topic",
             "category": "Music",
             "duration": "3:52",
-            "view_count": "34826",
+            "view_count": "35033",
             "thumbnail_url": "https://i.ytimg.com/vi/LwuUmhgGgxI/hqdefault.jpg"
         },
         {
-            "video_id": "301QMfG58UE",
-            "title": "기물 15마리 흡수한 보스 골렘 등장 ㄷㄷ",
-            "channel_name": "잡상싱",
+            "video_id": "d-_8M1TL8us",
+            "title": "어려움 10배 난이도!!  슈퍼 하드모드 숲에서 100일 살아남기! (로블록스 99나이트인더포레스트)",
+            "channel_name": "쉐어TV",
             "category": "Gaming",
-            "duration": "12:34",
-            "view_count": "136075",
-            "thumbnail_url": "https://i.ytimg.com/vi/301QMfG58UE/hqdefault.jpg"
+            "duration": "23:27",
+            "view_count": "152296",
+            "thumbnail_url": "https://i.ytimg.com/vi/d-_8M1TL8us/hqdefault.jpg"
         },
         {
             "video_id": "tp7IRa7q_5g",
@@ -340,7 +340,7 @@
             "channel_name": "YUJU - Topic",
             "category": "Music",
             "duration": "3:05",
-            "view_count": "40759",
+            "view_count": "41134",
             "thumbnail_url": "https://i.ytimg.com/vi/tp7IRa7q_5g/hqdefault.jpg"
         },
         {
@@ -349,7 +349,7 @@
             "channel_name": "서도일",
             "category": "Gaming",
             "duration": "18:16",
-            "view_count": "132582",
+            "view_count": "138828",
             "thumbnail_url": "https://i.ytimg.com/vi/gE8RX0NG7rY/hqdefault.jpg"
         },
         {
@@ -358,17 +358,17 @@
             "channel_name": "JISOO",
             "category": "Music",
             "duration": "2:55",
-            "view_count": "4048414",
+            "view_count": "4083510",
             "thumbnail_url": "https://i.ytimg.com/vi/6y70hwfVeVU/hqdefault.jpg"
         },
         {
-            "video_id": "ee1vHnNKLNY",
-            "title": "상대방의 비밀 능력을 추리해야하는 \"블라인드 능력자\"",
-            "channel_name": "잠뜰 TV",
+            "video_id": "-GMfcxYVJGo",
+            "title": "알파고를 초보취급하며 쉬지 않고 조롱하는 래더S 초고수 상대ㄷㄷ 심지어 끝나고 리플피드백도 해준다며 무시하는데?",
+            "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
-            "duration": "38:33",
-            "view_count": "222244",
-            "thumbnail_url": "https://i.ytimg.com/vi/ee1vHnNKLNY/hqdefault.jpg"
+            "duration": "33:09",
+            "view_count": "90432",
+            "thumbnail_url": "https://i.ytimg.com/vi/-GMfcxYVJGo/hqdefault.jpg"
         },
         {
             "video_id": "1Z_g6Gtj9Cs",
@@ -376,7 +376,7 @@
             "channel_name": "K/DA - Topic",
             "category": "Music",
             "duration": "3:12",
-            "view_count": "195480",
+            "view_count": "196283",
             "thumbnail_url": "https://i.ytimg.com/vi/1Z_g6Gtj9Cs/hqdefault.jpg"
         }
     ]
