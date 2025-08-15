@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-08-16 02:12:16",
+    "scraped_time": "2025-08-16 03:20:19",
     "videos": [
         {
             "video_id": "LuN3siPlSjo",
@@ -7,7 +7,7 @@
             "channel_name": "1theK Originals - 원더케이 오리지널",
             "category": "Entertainment",
             "duration": "3:33",
-            "view_count": "185864",
+            "view_count": "189417",
             "thumbnail_url": "https://i.ytimg.com/vi/LuN3siPlSjo/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:33",
-            "view_count": "361819",
+            "view_count": "369208",
             "thumbnail_url": "https://i.ytimg.com/vi/kjz69EH3xMg/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "5:59:06",
-            "view_count": "2820619",
+            "view_count": "2835636",
             "thumbnail_url": "https://i.ytimg.com/vi/fStL35aU840/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "NCT WISH - Topic",
             "category": "Music",
             "duration": "3:04",
-            "view_count": "558951",
+            "view_count": "562705",
             "thumbnail_url": "https://i.ytimg.com/vi/tGc_cYtHsWo/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "KBS Drama",
             "category": "Entertainment",
             "duration": "0:42",
-            "view_count": "9675",
+            "view_count": "10095",
             "thumbnail_url": "https://i.ytimg.com/vi/F6pFpXdeE80/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "25:45",
-            "view_count": "461952",
+            "view_count": "465343",
             "thumbnail_url": "https://i.ytimg.com/vi/o5jjfhcCwVY/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:48",
-            "view_count": "1925560",
+            "view_count": "1947766",
             "thumbnail_url": "https://i.ytimg.com/vi/1pyO6oNmACs/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "32:46",
-            "view_count": "239876",
+            "view_count": "243149",
             "thumbnail_url": "https://i.ytimg.com/vi/cDDFvTyu-kU/hqdefault.jpg"
         },
         {
@@ -79,26 +79,8 @@
             "channel_name": "LLOUD Official",
             "category": "Music",
             "duration": "5:09",
-            "view_count": "7886885",
+            "view_count": "8050546",
             "thumbnail_url": "https://i.ytimg.com/vi/FMX98ROVRCE/hqdefault.jpg"
-        },
-        {
-            "video_id": "cKO4OL_BSlc",
-            "title": "배틀그라운드 부가티 ‘600만원 태운 사나이들’ 처음겪어본 역대급 매운맛 이중가챠 🔥",
-            "channel_name": "악동 김블루",
-            "category": "Gaming",
-            "duration": "16:26",
-            "view_count": "334680",
-            "thumbnail_url": "https://i.ytimg.com/vi/cKO4OL_BSlc/hqdefault.jpg"
-        },
-        {
-            "video_id": "btRT0m8CApI",
-            "title": "White Wine",
-            "channel_name": "Kwon Jin-ah - Topic",
-            "category": "Music",
-            "duration": "3:00",
-            "view_count": "145230",
-            "thumbnail_url": "https://i.ytimg.com/vi/btRT0m8CApI/hqdefault.jpg"
         },
         {
             "video_id": "VQWrZSxlt-I",
@@ -106,8 +88,26 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "50:52",
-            "view_count": "174869",
+            "view_count": "183624",
             "thumbnail_url": "https://i.ytimg.com/vi/VQWrZSxlt-I/hqdefault.jpg"
+        },
+        {
+            "video_id": "btRT0m8CApI",
+            "title": "White Wine",
+            "channel_name": "Kwon Jin-ah - Topic",
+            "category": "Music",
+            "duration": "3:00",
+            "view_count": "147162",
+            "thumbnail_url": "https://i.ytimg.com/vi/btRT0m8CApI/hqdefault.jpg"
+        },
+        {
+            "video_id": "cKO4OL_BSlc",
+            "title": "배틀그라운드 부가티 ‘600만원 태운 사나이들’ 처음겪어본 역대급 매운맛 이중가챠 🔥",
+            "channel_name": "악동 김블루",
+            "category": "Gaming",
+            "duration": "16:26",
+            "view_count": "338351",
+            "thumbnail_url": "https://i.ytimg.com/vi/cKO4OL_BSlc/hqdefault.jpg"
         },
         {
             "video_id": "k2KqY_l_S4s",
@@ -115,7 +115,7 @@
             "channel_name": "BEATPELLA HOUSE",
             "category": "Music",
             "duration": "2:43",
-            "view_count": "125066",
+            "view_count": "133775",
             "thumbnail_url": "https://i.ytimg.com/vi/k2KqY_l_S4s/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "Park Da Hye - Topic",
             "category": "Music",
             "duration": "4:18",
-            "view_count": "2029727",
+            "view_count": "2040354",
             "thumbnail_url": "https://i.ytimg.com/vi/RqImBZoOmF8/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "두치와뿌꾸",
             "category": "Gaming",
             "duration": "16:49",
-            "view_count": "172015",
+            "view_count": "181026",
             "thumbnail_url": "https://i.ytimg.com/vi/64tsmpy1YGg/hqdefault.jpg"
         },
         {
@@ -151,98 +151,8 @@
             "channel_name": "pH-1 - Topic",
             "category": "Music",
             "duration": "3:05",
-            "view_count": "165980",
+            "view_count": "169127",
             "thumbnail_url": "https://i.ytimg.com/vi/9mUI9T5ku3Y/hqdefault.jpg"
-        },
-        {
-            "video_id": "vmowaJ532Js",
-            "title": "1조분의 1확률을 뚫고 나온 브레인롯훔치기 드래곤..?! 이게 한국에 한 개 밖에 없다고요..?",
-            "channel_name": "겜브링 GGAM BRING",
-            "category": "Gaming",
-            "duration": "9:08",
-            "view_count": "170487",
-            "thumbnail_url": "https://i.ytimg.com/vi/vmowaJ532Js/hqdefault.jpg"
-        },
-        {
-            "video_id": "f-fcFGLfEBQ",
-            "title": "SHUT THAT (SHUT THAT)",
-            "channel_name": "JAESSBEE - Topic",
-            "category": "Music",
-            "duration": "2:32",
-            "view_count": "15029",
-            "thumbnail_url": "https://i.ytimg.com/vi/f-fcFGLfEBQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "bcmaac5Tl2A",
-            "title": "백현의 비밀 최초공개..!? 첫만남에 사실 평학이를 때리고 싶었습니다...",
-            "channel_name": "백앤아",
-            "category": "Gaming",
-            "duration": "14:38",
-            "view_count": "119613",
-            "thumbnail_url": "https://i.ytimg.com/vi/bcmaac5Tl2A/hqdefault.jpg"
-        },
-        {
-            "video_id": "UochJ3rj9XM",
-            "title": "박다혜X마크툽-시작의 아이 ❍ㅣ힐링보이스",
-            "channel_name": "마크툽 MAKTUB Official",
-            "category": "Entertainment",
-            "duration": "4:21",
-            "view_count": "230862",
-            "thumbnail_url": "https://i.ytimg.com/vi/UochJ3rj9XM/hqdefault.jpg"
-        },
-        {
-            "video_id": "ZxjABzAfXJY",
-            "title": "감스트 GTA5 경찰도 포기한 '끝판왕 자동차'",
-            "channel_name": "감스트GAMST",
-            "category": "Gaming",
-            "duration": "24:05",
-            "view_count": "591462",
-            "thumbnail_url": "https://i.ytimg.com/vi/ZxjABzAfXJY/hqdefault.jpg"
-        },
-        {
-            "video_id": "rdMMwGuQhcg",
-            "title": "Sleepless (Prod. ROCOBERRY)",
-            "channel_name": "DINDIN - Topic",
-            "category": "Music",
-            "duration": "2:56",
-            "view_count": "83096",
-            "thumbnail_url": "https://i.ytimg.com/vi/rdMMwGuQhcg/hqdefault.jpg"
-        },
-        {
-            "video_id": "Tpdi8lU2YX0",
-            "title": "[LIVE] 로스트아크 On Air l 2025.8.14 19:00",
-            "channel_name": "로스트아크 LOST ARK",
-            "category": "Gaming",
-            "duration": "1:16:08",
-            "view_count": "203187",
-            "thumbnail_url": "https://i.ytimg.com/vi/Tpdi8lU2YX0/hqdefault.jpg"
-        },
-        {
-            "video_id": "XSAjDBquirA",
-            "title": "MOON (달)",
-            "channel_name": "Kim Gyeol - Topic",
-            "category": "Music",
-            "duration": "3:42",
-            "view_count": "48648",
-            "thumbnail_url": "https://i.ytimg.com/vi/XSAjDBquirA/hqdefault.jpg"
-        },
-        {
-            "video_id": "P0IcAnZkoac",
-            "title": "속전속결🕒🔥 | 4R T1 vs KT│2025 LCK | 울챔스 하이라이트",
-            "channel_name": "Wolf",
-            "category": "Gaming",
-            "duration": "48:03",
-            "view_count": "318724",
-            "thumbnail_url": "https://i.ytimg.com/vi/P0IcAnZkoac/hqdefault.jpg"
-        },
-        {
-            "video_id": "nuhslQ_1kOk",
-            "title": "YOUNG POSSE (영파씨) 'FREESTYLE' MV",
-            "channel_name": "YOUNG POSSE • 영파씨",
-            "category": "Entertainment",
-            "duration": "2:27",
-            "view_count": "4503068",
-            "thumbnail_url": "https://i.ytimg.com/vi/nuhslQ_1kOk/hqdefault.jpg"
         },
         {
             "video_id": "_kVYcAhDowQ",
@@ -250,35 +160,35 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "16:58",
-            "view_count": "89485",
+            "view_count": "103747",
             "thumbnail_url": "https://i.ytimg.com/vi/_kVYcAhDowQ/hqdefault.jpg"
         },
         {
-            "video_id": "1m9gGoRYfIA",
-            "title": "이승윤 'PunKanon' Official MV",
-            "channel_name": "이승윤",
+            "video_id": "f-fcFGLfEBQ",
+            "title": "SHUT THAT (SHUT THAT)",
+            "channel_name": "JAESSBEE - Topic",
             "category": "Music",
-            "duration": "5:30",
-            "view_count": "720416",
-            "thumbnail_url": "https://i.ytimg.com/vi/1m9gGoRYfIA/hqdefault.jpg"
+            "duration": "2:32",
+            "view_count": "16418",
+            "thumbnail_url": "https://i.ytimg.com/vi/f-fcFGLfEBQ/hqdefault.jpg"
         },
         {
-            "video_id": "5MfczKMXmO4",
-            "title": "[마비노기 모바일] 캠파 LIVE",
-            "channel_name": "마비노기 모바일",
-            "category": "People & Blogs",
-            "duration": "1:15:33",
-            "view_count": "129210",
-            "thumbnail_url": "https://i.ytimg.com/vi/5MfczKMXmO4/hqdefault.jpg"
+            "video_id": "vmowaJ532Js",
+            "title": "1조분의 1확률을 뚫고 나온 브레인롯훔치기 드래곤..?! 이게 한국에 한 개 밖에 없다고요..?",
+            "channel_name": "겜브링 GGAM BRING",
+            "category": "Gaming",
+            "duration": "9:08",
+            "view_count": "173584",
+            "thumbnail_url": "https://i.ytimg.com/vi/vmowaJ532Js/hqdefault.jpg"
         },
         {
-            "video_id": "5C5lcn1GYfM",
-            "title": "JEON SOMI(전소미) - ‘CLOSER’ M/V",
-            "channel_name": "THEBLACKLABEL",
-            "category": "Music",
-            "duration": "2:47",
-            "view_count": "7384790",
-            "thumbnail_url": "https://i.ytimg.com/vi/5C5lcn1GYfM/hqdefault.jpg"
+            "video_id": "UochJ3rj9XM",
+            "title": "박다혜X마크툽-시작의 아이 ❍ㅣ힐링보이스",
+            "channel_name": "마크툽 MAKTUB Official",
+            "category": "Entertainment",
+            "duration": "4:21",
+            "view_count": "232644",
+            "thumbnail_url": "https://i.ytimg.com/vi/UochJ3rj9XM/hqdefault.jpg"
         },
         {
             "video_id": "dt_K1LTtGDY",
@@ -286,8 +196,98 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "39:20",
-            "view_count": "100256",
+            "view_count": "117337",
             "thumbnail_url": "https://i.ytimg.com/vi/dt_K1LTtGDY/hqdefault.jpg"
+        },
+        {
+            "video_id": "rdMMwGuQhcg",
+            "title": "Sleepless (Prod. ROCOBERRY)",
+            "channel_name": "DINDIN - Topic",
+            "category": "Music",
+            "duration": "2:56",
+            "view_count": "83662",
+            "thumbnail_url": "https://i.ytimg.com/vi/rdMMwGuQhcg/hqdefault.jpg"
+        },
+        {
+            "video_id": "bcmaac5Tl2A",
+            "title": "백현의 비밀 최초공개..!? 첫만남에 사실 평학이를 때리고 싶었습니다...",
+            "channel_name": "백앤아",
+            "category": "Gaming",
+            "duration": "14:38",
+            "view_count": "122327",
+            "thumbnail_url": "https://i.ytimg.com/vi/bcmaac5Tl2A/hqdefault.jpg"
+        },
+        {
+            "video_id": "XSAjDBquirA",
+            "title": "MOON (달)",
+            "channel_name": "Kim Gyeol - Topic",
+            "category": "Music",
+            "duration": "3:42",
+            "view_count": "49167",
+            "thumbnail_url": "https://i.ytimg.com/vi/XSAjDBquirA/hqdefault.jpg"
+        },
+        {
+            "video_id": "ZxjABzAfXJY",
+            "title": "감스트 GTA5 경찰도 포기한 '끝판왕 자동차'",
+            "channel_name": "감스트GAMST",
+            "category": "Gaming",
+            "duration": "24:05",
+            "view_count": "595204",
+            "thumbnail_url": "https://i.ytimg.com/vi/ZxjABzAfXJY/hqdefault.jpg"
+        },
+        {
+            "video_id": "nuhslQ_1kOk",
+            "title": "YOUNG POSSE (영파씨) 'FREESTYLE' MV",
+            "channel_name": "YOUNG POSSE • 영파씨",
+            "category": "Entertainment",
+            "duration": "2:27",
+            "view_count": "4764214",
+            "thumbnail_url": "https://i.ytimg.com/vi/nuhslQ_1kOk/hqdefault.jpg"
+        },
+        {
+            "video_id": "Tpdi8lU2YX0",
+            "title": "[LIVE] 로스트아크 On Air l 2025.8.14 19:00",
+            "channel_name": "로스트아크 LOST ARK",
+            "category": "Gaming",
+            "duration": "1:16:08",
+            "view_count": "203567",
+            "thumbnail_url": "https://i.ytimg.com/vi/Tpdi8lU2YX0/hqdefault.jpg"
+        },
+        {
+            "video_id": "1m9gGoRYfIA",
+            "title": "이승윤 'PunKanon' Official MV",
+            "channel_name": "이승윤",
+            "category": "Music",
+            "duration": "5:30",
+            "view_count": "724012",
+            "thumbnail_url": "https://i.ytimg.com/vi/1m9gGoRYfIA/hqdefault.jpg"
+        },
+        {
+            "video_id": "P0IcAnZkoac",
+            "title": "속전속결🕒🔥 | 4R T1 vs KT│2025 LCK | 울챔스 하이라이트",
+            "channel_name": "Wolf",
+            "category": "Gaming",
+            "duration": "48:03",
+            "view_count": "320472",
+            "thumbnail_url": "https://i.ytimg.com/vi/P0IcAnZkoac/hqdefault.jpg"
+        },
+        {
+            "video_id": "5C5lcn1GYfM",
+            "title": "JEON SOMI(전소미) - ‘CLOSER’ M/V",
+            "channel_name": "THEBLACKLABEL",
+            "category": "Music",
+            "duration": "2:47",
+            "view_count": "7468391",
+            "thumbnail_url": "https://i.ytimg.com/vi/5C5lcn1GYfM/hqdefault.jpg"
+        },
+        {
+            "video_id": "5MfczKMXmO4",
+            "title": "[마비노기 모바일] 캠파 LIVE",
+            "channel_name": "마비노기 모바일",
+            "category": "People & Blogs",
+            "duration": "1:15:33",
+            "view_count": "129378",
+            "thumbnail_url": "https://i.ytimg.com/vi/5MfczKMXmO4/hqdefault.jpg"
         },
         {
             "video_id": "jN1lr07nCvA",
@@ -295,7 +295,7 @@
             "channel_name": "MONJOE - Topic",
             "category": "Music",
             "duration": "3:17",
-            "view_count": "144123",
+            "view_count": "148520",
             "thumbnail_url": "https://i.ytimg.com/vi/jN1lr07nCvA/hqdefault.jpg"
         },
         {
@@ -304,7 +304,7 @@
             "channel_name": "마플 마인크래프트 채널",
             "category": "Gaming",
             "duration": "13:36",
-            "view_count": "76212",
+            "view_count": "84263",
             "thumbnail_url": "https://i.ytimg.com/vi/2f0nnhonAyk/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "최유리 (Choi Yu Ree) - Topic",
             "category": "Music",
             "duration": "4:17",
-            "view_count": "31995",
+            "view_count": "32409",
             "thumbnail_url": "https://i.ytimg.com/vi/Sw1_cBk126w/hqdefault.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "12:34",
-            "view_count": "257133",
+            "view_count": "259833",
             "thumbnail_url": "https://i.ytimg.com/vi/301QMfG58UE/hqdefault.jpg"
         },
         {
@@ -331,7 +331,7 @@
             "channel_name": "ST MAN ",
             "category": "Music",
             "duration": "4:28",
-            "view_count": "831832",
+            "view_count": "865441",
             "thumbnail_url": "https://i.ytimg.com/vi/P7BusKTXzP0/hqdefault.jpg"
         },
         {
@@ -340,7 +340,7 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "32:53",
-            "view_count": "100121",
+            "view_count": "103562",
             "thumbnail_url": "https://i.ytimg.com/vi/hQgQy4EHegM/hqdefault.jpg"
         },
         {
@@ -349,17 +349,17 @@
             "channel_name": "HANGYEOL - Topic",
             "category": "Music",
             "duration": "3:16",
-            "view_count": "18581",
+            "view_count": "19065",
             "thumbnail_url": "https://i.ytimg.com/vi/sVkTyqw07sM/hqdefault.jpg"
         },
         {
-            "video_id": "5JnZTjwwcJ0",
-            "title": "[Limbus Company - Teaser] Chapter 8.5 - 절차탁춘 / 切磋琢春 / Spring Cultivation",
-            "channel_name": "ProjectMoon Official",
+            "video_id": "XtONTtftkaI",
+            "title": "25.08.15(금) 【 인피쉰 생방송 다시보기 】 스타 빨무 스타크래프트 Starcraft",
+            "channel_name": "인피쉰",
             "category": "Gaming",
-            "duration": "0:55",
-            "view_count": "219309",
-            "thumbnail_url": "https://i.ytimg.com/vi/5JnZTjwwcJ0/hqdefault.jpg"
+            "duration": "5:12:29",
+            "view_count": "91090",
+            "thumbnail_url": "https://i.ytimg.com/vi/XtONTtftkaI/hqdefault.jpg"
         },
         {
             "video_id": "LAP5uqlwb5Y",
@@ -367,17 +367,17 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "0:43",
-            "view_count": "266890",
+            "view_count": "268472",
             "thumbnail_url": "https://i.ytimg.com/vi/LAP5uqlwb5Y/hqdefault.jpg"
         },
         {
-            "video_id": "hiLeWB5u0H0",
-            "title": "새로운 괴물이랑 맞서싸우며 히든 미션을 클리어 해야합니다!!! 근데 저 괴물 뭐에요 ㅠㅠㅠㅠㅠㅠㅠ (로블록스 99나이트인더포레스트)",
-            "channel_name": "말량",
+            "video_id": "5JnZTjwwcJ0",
+            "title": "[Limbus Company - Teaser] Chapter 8.5 - 절차탁춘 / 切磋琢春 / Spring Cultivation",
+            "channel_name": "ProjectMoon Official",
             "category": "Gaming",
-            "duration": "29:44",
-            "view_count": "91837",
-            "thumbnail_url": "https://i.ytimg.com/vi/hiLeWB5u0H0/hqdefault.jpg"
+            "duration": "0:55",
+            "view_count": "230109",
+            "thumbnail_url": "https://i.ytimg.com/vi/5JnZTjwwcJ0/hqdefault.jpg"
         }
     ]
 }
