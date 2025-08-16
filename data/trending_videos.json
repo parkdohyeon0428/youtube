@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-08-16 10:06:30",
+    "scraped_time": "2025-08-16 12:10:31",
     "videos": [
         {
             "video_id": "LuN3siPlSjo",
@@ -7,7 +7,7 @@
             "channel_name": "1theK Originals - 원더케이 오리지널",
             "category": "Entertainment",
             "duration": "3:33",
-            "view_count": "197256",
+            "view_count": "201578",
             "thumbnail_url": "https://i.ytimg.com/vi/LuN3siPlSjo/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:33",
-            "view_count": "385563",
+            "view_count": "392297",
             "thumbnail_url": "https://i.ytimg.com/vi/kjz69EH3xMg/hqdefault.jpg"
         },
         {
@@ -25,17 +25,17 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "5:59:06",
-            "view_count": "2864830",
+            "view_count": "2872897",
             "thumbnail_url": "https://i.ytimg.com/vi/fStL35aU840/hqdefault.jpg"
         },
         {
-            "video_id": "tGc_cYtHsWo",
-            "title": "Surf",
-            "channel_name": "NCT WISH - Topic",
+            "video_id": "k2KqY_l_S4s",
+            "title": "BEATPELLA HOUSE - Swimming Beetles (Official Video) (BEATBOX)",
+            "channel_name": "BEATPELLA HOUSE",
             "category": "Music",
-            "duration": "3:04",
-            "view_count": "576121",
-            "thumbnail_url": "https://i.ytimg.com/vi/tGc_cYtHsWo/hqdefault.jpg"
+            "duration": "2:43",
+            "view_count": "171968",
+            "thumbnail_url": "https://i.ytimg.com/vi/k2KqY_l_S4s/hqdefault.jpg"
         },
         {
             "video_id": "F6pFpXdeE80",
@@ -43,7 +43,7 @@
             "channel_name": "KBS Drama",
             "category": "Entertainment",
             "duration": "0:42",
-            "view_count": "11943",
+            "view_count": "13360",
             "thumbnail_url": "https://i.ytimg.com/vi/F6pFpXdeE80/hqdefault.jpg"
         },
         {
@@ -52,26 +52,8 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "23:12",
-            "view_count": "262574",
+            "view_count": "291696",
             "thumbnail_url": "https://i.ytimg.com/vi/YOobx-giJ-U/hqdefault.jpg"
-        },
-        {
-            "video_id": "k2KqY_l_S4s",
-            "title": "BEATPELLA HOUSE - Swimming Beetles (Official Video) (BEATBOX)",
-            "channel_name": "BEATPELLA HOUSE",
-            "category": "Music",
-            "duration": "2:43",
-            "view_count": "160832",
-            "thumbnail_url": "https://i.ytimg.com/vi/k2KqY_l_S4s/hqdefault.jpg"
-        },
-        {
-            "video_id": "cDDFvTyu-kU",
-            "title": "먹을거 없다니까 오자마자 찐텐터진 서도일 ㅋㅋㅋㅋㅋㅋ",
-            "channel_name": "클리드",
-            "category": "Gaming",
-            "duration": "32:46",
-            "view_count": "251969",
-            "thumbnail_url": "https://i.ytimg.com/vi/cDDFvTyu-kU/hqdefault.jpg"
         },
         {
             "video_id": "FMX98ROVRCE",
@@ -79,8 +61,26 @@
             "channel_name": "LLOUD Official",
             "category": "Music",
             "duration": "5:09",
-            "view_count": "8653294",
+            "view_count": "8845189",
             "thumbnail_url": "https://i.ytimg.com/vi/FMX98ROVRCE/hqdefault.jpg"
+        },
+        {
+            "video_id": "cDDFvTyu-kU",
+            "title": "먹을거 없다니까 오자마자 찐텐터진 서도일 ㅋㅋㅋㅋㅋㅋ",
+            "channel_name": "클리드",
+            "category": "Gaming",
+            "duration": "32:46",
+            "view_count": "254502",
+            "thumbnail_url": "https://i.ytimg.com/vi/cDDFvTyu-kU/hqdefault.jpg"
+        },
+        {
+            "video_id": "f-fcFGLfEBQ",
+            "title": "SHUT THAT (SHUT THAT)",
+            "channel_name": "JAESSBEE - Topic",
+            "category": "Music",
+            "duration": "2:32",
+            "view_count": "25907",
+            "thumbnail_url": "https://i.ytimg.com/vi/f-fcFGLfEBQ/hqdefault.jpg"
         },
         {
             "video_id": "VQWrZSxlt-I",
@@ -88,17 +88,17 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "50:52",
-            "view_count": "200186",
+            "view_count": "210380",
             "thumbnail_url": "https://i.ytimg.com/vi/VQWrZSxlt-I/hqdefault.jpg"
         },
         {
-            "video_id": "1pyO6oNmACs",
-            "title": "NCT WISH 엔시티 위시 'Surf' MV",
-            "channel_name": "SMTOWN",
+            "video_id": "tGc_cYtHsWo",
+            "title": "Surf",
+            "channel_name": "NCT WISH - Topic",
             "category": "Music",
-            "duration": "3:48",
-            "view_count": "2001464",
-            "thumbnail_url": "https://i.ytimg.com/vi/1pyO6oNmACs/hqdefault.jpg"
+            "duration": "3:04",
+            "view_count": "590897",
+            "thumbnail_url": "https://i.ytimg.com/vi/tGc_cYtHsWo/hqdefault.jpg"
         },
         {
             "video_id": "dt_K1LTtGDY",
@@ -106,7 +106,7 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "39:20",
-            "view_count": "157855",
+            "view_count": "174014",
             "thumbnail_url": "https://i.ytimg.com/vi/dt_K1LTtGDY/hqdefault.jpg"
         },
         {
@@ -115,8 +115,26 @@
             "channel_name": "Kwon Jin-ah - Topic",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "154532",
+            "view_count": "161655",
             "thumbnail_url": "https://i.ytimg.com/vi/btRT0m8CApI/hqdefault.jpg"
+        },
+        {
+            "video_id": "_kVYcAhDowQ",
+            "title": "역대급 적극적인 그녀에게 남친 있냐고 물어봤는데...",
+            "channel_name": "혜안",
+            "category": "Gaming",
+            "duration": "16:58",
+            "view_count": "146586",
+            "thumbnail_url": "https://i.ytimg.com/vi/_kVYcAhDowQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "1pyO6oNmACs",
+            "title": "NCT WISH 엔시티 위시 'Surf' MV",
+            "channel_name": "SMTOWN",
+            "category": "Music",
+            "duration": "3:48",
+            "view_count": "2050867",
+            "thumbnail_url": "https://i.ytimg.com/vi/1pyO6oNmACs/hqdefault.jpg"
         },
         {
             "video_id": "cKO4OL_BSlc",
@@ -124,7 +142,7 @@
             "channel_name": "악동 김블루",
             "category": "Gaming",
             "duration": "16:26",
-            "view_count": "349437",
+            "view_count": "354532",
             "thumbnail_url": "https://i.ytimg.com/vi/cKO4OL_BSlc/hqdefault.jpg"
         },
         {
@@ -133,26 +151,62 @@
             "channel_name": "pH-1 - Topic",
             "category": "Music",
             "duration": "3:05",
-            "view_count": "181536",
+            "view_count": "191327",
             "thumbnail_url": "https://i.ytimg.com/vi/9mUI9T5ku3Y/hqdefault.jpg"
         },
         {
-            "video_id": "_kVYcAhDowQ",
-            "title": "역대급 적극적인 그녀에게 남친 있냐고 물어봤는데...",
-            "channel_name": "혜안",
+            "video_id": "OkbGlys6qtE",
+            "title": "개발자도 무서워하는 사악한 암흑 시크릿 떴다!! 그리고 새로운 메테오 이스터에그까지!!! (로블록스 브레인롯 훔치기)",
+            "channel_name": "쉐어TV",
             "category": "Gaming",
-            "duration": "16:58",
-            "view_count": "134770",
-            "thumbnail_url": "https://i.ytimg.com/vi/_kVYcAhDowQ/hqdefault.jpg"
+            "duration": "19:29",
+            "view_count": "65332",
+            "thumbnail_url": "https://i.ytimg.com/vi/OkbGlys6qtE/hqdefault.jpg"
         },
         {
-            "video_id": "f-fcFGLfEBQ",
-            "title": "SHUT THAT (SHUT THAT)",
-            "channel_name": "JAESSBEE - Topic",
+            "video_id": "RqImBZoOmF8",
+            "title": "Starting With You ❍",
+            "channel_name": "Park Da Hye - Topic",
             "category": "Music",
-            "duration": "2:32",
-            "view_count": "20934",
-            "thumbnail_url": "https://i.ytimg.com/vi/f-fcFGLfEBQ/hqdefault.jpg"
+            "duration": "4:18",
+            "view_count": "2129158",
+            "thumbnail_url": "https://i.ytimg.com/vi/RqImBZoOmF8/hqdefault.jpg"
+        },
+        {
+            "video_id": "bcmaac5Tl2A",
+            "title": "백현의 비밀 최초공개..!? 첫만남에 사실 평학이를 때리고 싶었습니다...",
+            "channel_name": "백앤아",
+            "category": "Gaming",
+            "duration": "14:38",
+            "view_count": "149979",
+            "thumbnail_url": "https://i.ytimg.com/vi/bcmaac5Tl2A/hqdefault.jpg"
+        },
+        {
+            "video_id": "UochJ3rj9XM",
+            "title": "박다혜X마크툽-시작의 아이 ❍ㅣ힐링보이스",
+            "channel_name": "마크툽 MAKTUB Official",
+            "category": "Entertainment",
+            "duration": "4:21",
+            "view_count": "239726",
+            "thumbnail_url": "https://i.ytimg.com/vi/UochJ3rj9XM/hqdefault.jpg"
+        },
+        {
+            "video_id": "64tsmpy1YGg",
+            "title": "MZ조폭 나선욱 왔다! 피파 개잘함ㅋㅋ 본캐 폭풍현질!",
+            "channel_name": "두치와뿌꾸",
+            "category": "Gaming",
+            "duration": "16:49",
+            "view_count": "208558",
+            "thumbnail_url": "https://i.ytimg.com/vi/64tsmpy1YGg/hqdefault.jpg"
+        },
+        {
+            "video_id": "rdMMwGuQhcg",
+            "title": "Sleepless (Prod. ROCOBERRY)",
+            "channel_name": "DINDIN - Topic",
+            "category": "Music",
+            "duration": "2:56",
+            "view_count": "90792",
+            "thumbnail_url": "https://i.ytimg.com/vi/rdMMwGuQhcg/hqdefault.jpg"
         },
         {
             "video_id": "nyALMWxqMmk",
@@ -164,49 +218,13 @@
             "thumbnail_url": "https://i.ytimg.com/vi/nyALMWxqMmk/hqdefault.jpg"
         },
         {
-            "video_id": "RqImBZoOmF8",
-            "title": "Starting With You ❍",
-            "channel_name": "Park Da Hye - Topic",
+            "video_id": "XSAjDBquirA",
+            "title": "MOON (달)",
+            "channel_name": "Kim Gyeol - Topic",
             "category": "Music",
-            "duration": "4:18",
-            "view_count": "2087511",
-            "thumbnail_url": "https://i.ytimg.com/vi/RqImBZoOmF8/hqdefault.jpg"
-        },
-        {
-            "video_id": "64tsmpy1YGg",
-            "title": "MZ조폭 나선욱 왔다! 피파 개잘함ㅋㅋ 본캐 폭풍현질!",
-            "channel_name": "두치와뿌꾸",
-            "category": "Gaming",
-            "duration": "16:49",
-            "view_count": "202594",
-            "thumbnail_url": "https://i.ytimg.com/vi/64tsmpy1YGg/hqdefault.jpg"
-        },
-        {
-            "video_id": "UochJ3rj9XM",
-            "title": "박다혜X마크툽-시작의 아이 ❍ㅣ힐링보이스",
-            "channel_name": "마크툽 MAKTUB Official",
-            "category": "Entertainment",
-            "duration": "4:21",
-            "view_count": "237100",
-            "thumbnail_url": "https://i.ytimg.com/vi/UochJ3rj9XM/hqdefault.jpg"
-        },
-        {
-            "video_id": "bcmaac5Tl2A",
-            "title": "백현의 비밀 최초공개..!? 첫만남에 사실 평학이를 때리고 싶었습니다...",
-            "channel_name": "백앤아",
-            "category": "Gaming",
-            "duration": "14:38",
-            "view_count": "132768",
-            "thumbnail_url": "https://i.ytimg.com/vi/bcmaac5Tl2A/hqdefault.jpg"
-        },
-        {
-            "video_id": "rdMMwGuQhcg",
-            "title": "Sleepless (Prod. ROCOBERRY)",
-            "channel_name": "DINDIN - Topic",
-            "category": "Music",
-            "duration": "2:56",
-            "view_count": "87132",
-            "thumbnail_url": "https://i.ytimg.com/vi/rdMMwGuQhcg/hqdefault.jpg"
+            "duration": "3:42",
+            "view_count": "52498",
+            "thumbnail_url": "https://i.ytimg.com/vi/XSAjDBquirA/hqdefault.jpg"
         },
         {
             "video_id": "vmowaJ532Js",
@@ -214,62 +232,8 @@
             "channel_name": "겜브링 GGAM BRING",
             "category": "Gaming",
             "duration": "9:08",
-            "view_count": "185015",
+            "view_count": "191495",
             "thumbnail_url": "https://i.ytimg.com/vi/vmowaJ532Js/hqdefault.jpg"
-        },
-        {
-            "video_id": "XSAjDBquirA",
-            "title": "MOON (달)",
-            "channel_name": "Kim Gyeol - Topic",
-            "category": "Music",
-            "duration": "3:42",
-            "view_count": "50988",
-            "thumbnail_url": "https://i.ytimg.com/vi/XSAjDBquirA/hqdefault.jpg"
-        },
-        {
-            "video_id": "yOCYAJwIg5E",
-            "title": "목숨 6개를 버리고 시작하면 벌어지는 일",
-            "channel_name": "잡상싱",
-            "category": "Gaming",
-            "duration": "12:14",
-            "view_count": "129573",
-            "thumbnail_url": "https://i.ytimg.com/vi/yOCYAJwIg5E/hqdefault.jpg"
-        },
-        {
-            "video_id": "nuhslQ_1kOk",
-            "title": "YOUNG POSSE (영파씨) 'FREESTYLE' MV",
-            "channel_name": "YOUNG POSSE • 영파씨",
-            "category": "Entertainment",
-            "duration": "2:27",
-            "view_count": "5254428",
-            "thumbnail_url": "https://i.ytimg.com/vi/nuhslQ_1kOk/hqdefault.jpg"
-        },
-        {
-            "video_id": "ZxjABzAfXJY",
-            "title": "감스트 GTA5 경찰도 포기한 '끝판왕 자동차'",
-            "channel_name": "감스트GAMST",
-            "category": "Gaming",
-            "duration": "24:05",
-            "view_count": "605226",
-            "thumbnail_url": "https://i.ytimg.com/vi/ZxjABzAfXJY/hqdefault.jpg"
-        },
-        {
-            "video_id": "1m9gGoRYfIA",
-            "title": "이승윤 'PunKanon' Official MV",
-            "channel_name": "이승윤",
-            "category": "Music",
-            "duration": "5:30",
-            "view_count": "740168",
-            "thumbnail_url": "https://i.ytimg.com/vi/1m9gGoRYfIA/hqdefault.jpg"
-        },
-        {
-            "video_id": "2f0nnhonAyk",
-            "title": "배고플 때 하면 안 되는 맵 ㅋㅋㅋㅋㅋ(마인크래프트)",
-            "channel_name": "마플 마인크래프트 채널",
-            "category": "Gaming",
-            "duration": "13:36",
-            "view_count": "102604",
-            "thumbnail_url": "https://i.ytimg.com/vi/2f0nnhonAyk/hqdefault.jpg"
         },
         {
             "video_id": "Dc3Oa7wyORI",
@@ -277,8 +241,98 @@
             "channel_name": "CHUU - Topic",
             "category": "Music",
             "duration": "4:28",
-            "view_count": "21633",
+            "view_count": "26132",
             "thumbnail_url": "https://i.ytimg.com/vi/Dc3Oa7wyORI/hqdefault.jpg"
+        },
+        {
+            "video_id": "yOCYAJwIg5E",
+            "title": "목숨 6개를 버리고 시작하면 벌어지는 일",
+            "channel_name": "잡상싱",
+            "category": "Gaming",
+            "duration": "12:14",
+            "view_count": "141100",
+            "thumbnail_url": "https://i.ytimg.com/vi/yOCYAJwIg5E/hqdefault.jpg"
+        },
+        {
+            "video_id": "_WCUoPjFxA4",
+            "title": "Why did you love me",
+            "channel_name": "Ha Yea Song - Topic",
+            "category": "Music",
+            "duration": "3:51",
+            "view_count": "21676",
+            "thumbnail_url": "https://i.ytimg.com/vi/_WCUoPjFxA4/hqdefault.jpg"
+        },
+        {
+            "video_id": "2f0nnhonAyk",
+            "title": "배고플 때 하면 안 되는 맵 ㅋㅋㅋㅋㅋ(마인크래프트)",
+            "channel_name": "마플 마인크래프트 채널",
+            "category": "Gaming",
+            "duration": "13:36",
+            "view_count": "110236",
+            "thumbnail_url": "https://i.ytimg.com/vi/2f0nnhonAyk/hqdefault.jpg"
+        },
+        {
+            "video_id": "nuhslQ_1kOk",
+            "title": "YOUNG POSSE (영파씨) 'FREESTYLE' MV",
+            "channel_name": "YOUNG POSSE • 영파씨",
+            "category": "Entertainment",
+            "duration": "2:27",
+            "view_count": "5601556",
+            "thumbnail_url": "https://i.ytimg.com/vi/nuhslQ_1kOk/hqdefault.jpg"
+        },
+        {
+            "video_id": "EVoh5Ck7rUc",
+            "title": "게임시작 12분만에 대규모 리버 폭탄드랍 해보기, 상대는 어이없는 상황에 이성의 끈을 놓아버리는데?ㅋㅋ",
+            "channel_name": "[ALTUBE] 김성현TV",
+            "category": "Gaming",
+            "duration": "35:37",
+            "view_count": "104908",
+            "thumbnail_url": "https://i.ytimg.com/vi/EVoh5Ck7rUc/hqdefault.jpg"
+        },
+        {
+            "video_id": "1m9gGoRYfIA",
+            "title": "이승윤 'PunKanon' Official MV",
+            "channel_name": "이승윤",
+            "category": "Music",
+            "duration": "5:30",
+            "view_count": "752633",
+            "thumbnail_url": "https://i.ytimg.com/vi/1m9gGoRYfIA/hqdefault.jpg"
+        },
+        {
+            "video_id": "6MLjJceUGXc",
+            "title": "그냥 존재 자체가 버그인 XX.. 모자 이상하게 쓰는 XX..",
+            "channel_name": "팔차선 [8LJAYWALKING]",
+            "category": "Gaming",
+            "duration": "16:59",
+            "view_count": "98156",
+            "thumbnail_url": "https://i.ytimg.com/vi/6MLjJceUGXc/hqdefault.jpg"
+        },
+        {
+            "video_id": "jN1lr07nCvA",
+            "title": "Divine",
+            "channel_name": "MONJOE - Topic",
+            "category": "Music",
+            "duration": "3:17",
+            "view_count": "174413",
+            "thumbnail_url": "https://i.ytimg.com/vi/jN1lr07nCvA/hqdefault.jpg"
+        },
+        {
+            "video_id": "ZxjABzAfXJY",
+            "title": "감스트 GTA5 경찰도 포기한 '끝판왕 자동차'",
+            "channel_name": "감스트GAMST",
+            "category": "Gaming",
+            "duration": "24:05",
+            "view_count": "609053",
+            "thumbnail_url": "https://i.ytimg.com/vi/ZxjABzAfXJY/hqdefault.jpg"
+        },
+        {
+            "video_id": "6VNTOixbU4w",
+            "title": "Love Comes To You",
+            "channel_name": "Olivia Marsh - Topic",
+            "category": "Music",
+            "duration": "4:11",
+            "view_count": "16455",
+            "thumbnail_url": "https://i.ytimg.com/vi/6VNTOixbU4w/hqdefault.jpg"
         },
         {
             "video_id": "P0IcAnZkoac",
@@ -286,7 +340,7 @@
             "channel_name": "Wolf",
             "category": "Gaming",
             "duration": "48:03",
-            "view_count": "325568",
+            "view_count": "327404",
             "thumbnail_url": "https://i.ytimg.com/vi/P0IcAnZkoac/hqdefault.jpg"
         },
         {
@@ -295,26 +349,26 @@
             "channel_name": "THEBLACKLABEL",
             "category": "Music",
             "duration": "2:47",
-            "view_count": "7620959",
+            "view_count": "7735723",
             "thumbnail_url": "https://i.ytimg.com/vi/5C5lcn1GYfM/hqdefault.jpg"
         },
         {
-            "video_id": "EVoh5Ck7rUc",
-            "title": "게임시작 12분만에 대규모 리버 폭탄드랍 해보기, 상대는 어이없는 상황에 이성의 끈을 놓아버리는데?ㅋㅋ",
-            "channel_name": "[ALTUBE] 김성현TV",
+            "video_id": "GPSyWSzSVl8",
+            "title": "선수들: 이걸 이겨? 팬들: 이걸 이겨? │R4 T1 vs HLE│2025 LCK 하이라이트",
+            "channel_name": "Bang",
             "category": "Gaming",
-            "duration": "35:37",
-            "view_count": "97589",
-            "thumbnail_url": "https://i.ytimg.com/vi/EVoh5Ck7rUc/hqdefault.jpg"
+            "duration": "42:55",
+            "view_count": "86292",
+            "thumbnail_url": "https://i.ytimg.com/vi/GPSyWSzSVl8/hqdefault.jpg"
         },
         {
-            "video_id": "_WCUoPjFxA4",
-            "title": "Why did you love me",
-            "channel_name": "Ha Yea Song - Topic",
+            "video_id": "sVkTyqw07sM",
+            "title": "My wave",
+            "channel_name": "HANGYEOL - Topic",
             "category": "Music",
-            "duration": "3:51",
-            "view_count": "18546",
-            "thumbnail_url": "https://i.ytimg.com/vi/_WCUoPjFxA4/hqdefault.jpg"
+            "duration": "3:16",
+            "view_count": "22050",
+            "thumbnail_url": "https://i.ytimg.com/vi/sVkTyqw07sM/hqdefault.jpg"
         },
         {
             "video_id": "Tpdi8lU2YX0",
@@ -322,62 +376,8 @@
             "channel_name": "로스트아크 LOST ARK",
             "category": "Gaming",
             "duration": "1:16:08",
-            "view_count": "204565",
+            "view_count": "204933",
             "thumbnail_url": "https://i.ytimg.com/vi/Tpdi8lU2YX0/hqdefault.jpg"
-        },
-        {
-            "video_id": "jN1lr07nCvA",
-            "title": "Divine",
-            "channel_name": "MONJOE - Topic",
-            "category": "Music",
-            "duration": "3:17",
-            "view_count": "167198",
-            "thumbnail_url": "https://i.ytimg.com/vi/jN1lr07nCvA/hqdefault.jpg"
-        },
-        {
-            "video_id": "6MLjJceUGXc",
-            "title": "그냥 존재 자체가 버그인 XX.. 모자 이상하게 쓰는 XX..",
-            "channel_name": "팔차선 [8LJAYWALKING]",
-            "category": "Gaming",
-            "duration": "16:59",
-            "view_count": "86050",
-            "thumbnail_url": "https://i.ytimg.com/vi/6MLjJceUGXc/hqdefault.jpg"
-        },
-        {
-            "video_id": "Sw1_cBk126w",
-            "title": "당신은 누구시길래 (Live) (I owe you (Live))",
-            "channel_name": "최유리 (Choi Yu Ree) - Topic",
-            "category": "Music",
-            "duration": "4:17",
-            "view_count": "33872",
-            "thumbnail_url": "https://i.ytimg.com/vi/Sw1_cBk126w/hqdefault.jpg"
-        },
-        {
-            "video_id": "5MfczKMXmO4",
-            "title": "[마비노기 모바일] 캠파 LIVE",
-            "channel_name": "마비노기 모바일",
-            "category": "People & Blogs",
-            "duration": "1:15:33",
-            "view_count": "129794",
-            "thumbnail_url": "https://i.ytimg.com/vi/5MfczKMXmO4/hqdefault.jpg"
-        },
-        {
-            "video_id": "P7BusKTXzP0",
-            "title": "ST MAN FT. YUNG 22 & BIG NORZZA - BOMBAY | OFFICIAL MUSIC VIDEO | 2025",
-            "channel_name": "ST MAN ",
-            "category": "Music",
-            "duration": "4:28",
-            "view_count": "950654",
-            "thumbnail_url": "https://i.ytimg.com/vi/P7BusKTXzP0/hqdefault.jpg"
-        },
-        {
-            "video_id": "rjMyfBKGlxc",
-            "title": "스토리 사용 불가 포켓몬 : 노말타입 하트골드【포켓몬 모든타입 깨기】#1",
-            "channel_name": "근가놈",
-            "category": "Gaming",
-            "duration": "27:27",
-            "view_count": "88667",
-            "thumbnail_url": "https://i.ytimg.com/vi/rjMyfBKGlxc/hqdefault.jpg"
         }
     ]
 }
