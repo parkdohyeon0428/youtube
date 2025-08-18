@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-08-18 08:12:59",
+    "scraped_time": "2025-08-18 10:13:51",
     "videos": [
         {
             "video_id": "Dbxfo8YBkYE",
@@ -7,7 +7,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "4:11",
-            "view_count": "546817",
+            "view_count": "767577",
             "thumbnail_url": "https://i.ytimg.com/vi/Dbxfo8YBkYE/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "블랙컴뱃",
             "category": "Film & Animation",
             "duration": "3:08",
-            "view_count": "52597",
+            "view_count": "54020",
             "thumbnail_url": "https://i.ytimg.com/vi/-0ujV07iQdE/hqdefault.jpg"
         },
         {
@@ -25,62 +25,8 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "5:30:06",
-            "view_count": "1885737",
+            "view_count": "1887073",
             "thumbnail_url": "https://i.ytimg.com/vi/BLsafyzBMBg/hqdefault.jpg"
-        },
-        {
-            "video_id": "f-fcFGLfEBQ",
-            "title": "SHUT THAT (SHUT THAT)",
-            "channel_name": "JAESSBEE - Topic",
-            "category": "Music",
-            "duration": "2:32",
-            "view_count": "138053",
-            "thumbnail_url": "https://i.ytimg.com/vi/f-fcFGLfEBQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "kbmLrjyecOo",
-            "title": "클상도한테 덤빈 추어탕의 최후 ㅋㅋㅋㅋ",
-            "channel_name": "클리드",
-            "category": "Gaming",
-            "duration": "58:53",
-            "view_count": "269360",
-            "thumbnail_url": "https://i.ytimg.com/vi/kbmLrjyecOo/hqdefault.jpg"
-        },
-        {
-            "video_id": "795zA6fwc14",
-            "title": "'Golden' HUNTR/X (KPop Demon Hunters) - Cover by 윤하",
-            "channel_name": "YOUNHA OFFICIAL",
-            "category": "Entertainment",
-            "duration": "3:16",
-            "view_count": "154035",
-            "thumbnail_url": "https://i.ytimg.com/vi/795zA6fwc14/hqdefault.jpg"
-        },
-        {
-            "video_id": "mifkgCFgj84",
-            "title": "싹둑싹둑",
-            "channel_name": "괴물쥐 유튜브",
-            "category": "Gaming",
-            "duration": "26:35",
-            "view_count": "273154",
-            "thumbnail_url": "https://i.ytimg.com/vi/mifkgCFgj84/hqdefault.jpg"
-        },
-        {
-            "video_id": "Dc3Oa7wyORI",
-            "title": "별",
-            "channel_name": "CHUU - Topic",
-            "category": "Music",
-            "duration": "4:28",
-            "view_count": "121954",
-            "thumbnail_url": "https://i.ytimg.com/vi/Dc3Oa7wyORI/hqdefault.jpg"
-        },
-        {
-            "video_id": "CvfkhDryoso",
-            "title": "인류99%가 멸망한 세상, 사람인척 하는 좀비를 찾아내라.",
-            "channel_name": "혜안",
-            "category": "Gaming",
-            "duration": "35:55",
-            "view_count": "558389",
-            "thumbnail_url": "https://i.ytimg.com/vi/CvfkhDryoso/hqdefault.jpg"
         },
         {
             "video_id": "17mqKMHUxXY",
@@ -88,8 +34,62 @@
             "channel_name": "BOYNEXTDOOR - Topic",
             "category": "Music",
             "duration": "2:39",
-            "view_count": "32448",
+            "view_count": "49253",
             "thumbnail_url": "https://i.ytimg.com/vi/17mqKMHUxXY/hqdefault.jpg"
+        },
+        {
+            "video_id": "kbmLrjyecOo",
+            "title": "클상도한테 덤빈 추어탕의 최후 ㅋㅋㅋㅋ",
+            "channel_name": "클리드",
+            "category": "Gaming",
+            "duration": "58:53",
+            "view_count": "277334",
+            "thumbnail_url": "https://i.ytimg.com/vi/kbmLrjyecOo/hqdefault.jpg"
+        },
+        {
+            "video_id": "6oEJG-8kATc",
+            "title": "Huntrix - How It's Done (Lyrics) | K-Pop Demon Hunters",
+            "channel_name": "The Vibe Guide",
+            "category": "Entertainment",
+            "duration": "2:57",
+            "view_count": "387345",
+            "thumbnail_url": "https://i.ytimg.com/vi/6oEJG-8kATc/hqdefault.jpg"
+        },
+        {
+            "video_id": "mifkgCFgj84",
+            "title": "싹둑싹둑",
+            "channel_name": "괴물쥐 유튜브",
+            "category": "Gaming",
+            "duration": "26:35",
+            "view_count": "299905",
+            "thumbnail_url": "https://i.ytimg.com/vi/mifkgCFgj84/hqdefault.jpg"
+        },
+        {
+            "video_id": "f-fcFGLfEBQ",
+            "title": "SHUT THAT (SHUT THAT)",
+            "channel_name": "JAESSBEE - Topic",
+            "category": "Music",
+            "duration": "2:32",
+            "view_count": "152893",
+            "thumbnail_url": "https://i.ytimg.com/vi/f-fcFGLfEBQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "CvfkhDryoso",
+            "title": "인류99%가 멸망한 세상, 사람인척 하는 좀비를 찾아내라.",
+            "channel_name": "혜안",
+            "category": "Gaming",
+            "duration": "35:55",
+            "view_count": "569697",
+            "thumbnail_url": "https://i.ytimg.com/vi/CvfkhDryoso/hqdefault.jpg"
+        },
+        {
+            "video_id": "795zA6fwc14",
+            "title": "'Golden' HUNTR/X (KPop Demon Hunters) - Cover by 윤하",
+            "channel_name": "YOUNHA OFFICIAL",
+            "category": "Entertainment",
+            "duration": "3:16",
+            "view_count": "157435",
+            "thumbnail_url": "https://i.ytimg.com/vi/795zA6fwc14/hqdefault.jpg"
         },
         {
             "video_id": "LWbg4uCw1HU",
@@ -97,35 +97,17 @@
             "channel_name": "말량",
             "category": "Gaming",
             "duration": "23:48",
-            "view_count": "314144",
+            "view_count": "341340",
             "thumbnail_url": "https://i.ytimg.com/vi/LWbg4uCw1HU/hqdefault.jpg"
         },
         {
-            "video_id": "-4pxYrUtoPA",
-            "title": "[최신가요 실시간 인기차트] 2025년 8월 16일 2주차, 멜론차트 X, 종합차트, 노래모음 KPOP 플레이리스트",
-            "channel_name": "Beautiful Life",
+            "video_id": "Dc3Oa7wyORI",
+            "title": "별",
+            "channel_name": "CHUU - Topic",
             "category": "Music",
-            "duration": "1:12:50",
-            "view_count": "34690",
-            "thumbnail_url": "https://i.ytimg.com/vi/-4pxYrUtoPA/hqdefault.jpg"
-        },
-        {
-            "video_id": "IUcxHZDxm7c",
-            "title": "25.08.17(일) 【 인피쉰 생방송 다시보기 】 스타 빨무 스타크래프트 Starcraft",
-            "channel_name": "인피쉰",
-            "category": "Gaming",
-            "duration": "5:26:46",
-            "view_count": "177646",
-            "thumbnail_url": "https://i.ytimg.com/vi/IUcxHZDxm7c/hqdefault.jpg"
-        },
-        {
-            "video_id": "HFaSMKoK8w4",
-            "title": "[두리DooRi] 양하영 - 촛불켜는밤 (소극장 라이브 커버 by 두리)",
-            "channel_name": "두리 원투쓰리코",
-            "category": "Music",
-            "duration": "4:04",
-            "view_count": "21012",
-            "thumbnail_url": "https://i.ytimg.com/vi/HFaSMKoK8w4/hqdefault.jpg"
+            "duration": "4:28",
+            "view_count": "128318",
+            "thumbnail_url": "https://i.ytimg.com/vi/Dc3Oa7wyORI/hqdefault.jpg"
         },
         {
             "video_id": "gy8w8EGNphQ",
@@ -133,17 +115,17 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "35:53",
-            "view_count": "241377",
+            "view_count": "249986",
             "thumbnail_url": "https://i.ytimg.com/vi/gy8w8EGNphQ/hqdefault.jpg"
         },
         {
-            "video_id": "k2KqY_l_S4s",
-            "title": "BEATPELLA HOUSE - Swimming Beetles (Official Video) (BEATBOX)",
-            "channel_name": "BEATPELLA HOUSE",
+            "video_id": "HFaSMKoK8w4",
+            "title": "[두리DooRi] 양하영 - 촛불켜는밤 (소극장 라이브 커버 by 두리)",
+            "channel_name": "두리 원투쓰리코",
             "category": "Music",
-            "duration": "2:43",
-            "view_count": "317860",
-            "thumbnail_url": "https://i.ytimg.com/vi/k2KqY_l_S4s/hqdefault.jpg"
+            "duration": "4:04",
+            "view_count": "22228",
+            "thumbnail_url": "https://i.ytimg.com/vi/HFaSMKoK8w4/hqdefault.jpg"
         },
         {
             "video_id": "-ypc1sVWiFs",
@@ -151,7 +133,7 @@
             "channel_name": "이도원",
             "category": "Gaming",
             "duration": "19:08",
-            "view_count": "178835",
+            "view_count": "186534",
             "thumbnail_url": "https://i.ytimg.com/vi/-ypc1sVWiFs/hqdefault.jpg"
         },
         {
@@ -160,8 +142,26 @@
             "channel_name": "범진 BUMJIN - Topic",
             "category": "Music",
             "duration": "3:57",
-            "view_count": "39492",
+            "view_count": "41906",
             "thumbnail_url": "https://i.ytimg.com/vi/W9RM_rqv4w4/hqdefault.jpg"
+        },
+        {
+            "video_id": "IUcxHZDxm7c",
+            "title": "25.08.17(일) 【 인피쉰 생방송 다시보기 】 스타 빨무 스타크래프트 Starcraft",
+            "channel_name": "인피쉰",
+            "category": "Gaming",
+            "duration": "5:26:46",
+            "view_count": "179777",
+            "thumbnail_url": "https://i.ytimg.com/vi/IUcxHZDxm7c/hqdefault.jpg"
+        },
+        {
+            "video_id": "-4pxYrUtoPA",
+            "title": "[최신가요 실시간 인기차트] 2025년 8월 16일 2주차, 멜론차트 X, 종합차트, 노래모음 KPOP 플레이리스트",
+            "channel_name": "Beautiful Life",
+            "category": "Music",
+            "duration": "1:12:50",
+            "view_count": "35403",
+            "thumbnail_url": "https://i.ytimg.com/vi/-4pxYrUtoPA/hqdefault.jpg"
         },
         {
             "video_id": "MVM0P1ASPIc",
@@ -169,17 +169,17 @@
             "channel_name": "말왕TV",
             "category": "Gaming",
             "duration": "30:02",
-            "view_count": "214124",
+            "view_count": "218536",
             "thumbnail_url": "https://i.ytimg.com/vi/MVM0P1ASPIc/hqdefault.jpg"
         },
         {
-            "video_id": "05kKRYETsvs",
-            "title": "School’s Out (SUNHYE, DOEUN) (School’s Out (정선혜, 도은))",
-            "channel_name": "YOUNG POSSE - Topic",
+            "video_id": "k2KqY_l_S4s",
+            "title": "BEATPELLA HOUSE - Swimming Beetles (Official Video) (BEATBOX)",
+            "channel_name": "BEATPELLA HOUSE",
             "category": "Music",
-            "duration": "3:03",
-            "view_count": "36556",
-            "thumbnail_url": "https://i.ytimg.com/vi/05kKRYETsvs/hqdefault.jpg"
+            "duration": "2:43",
+            "view_count": "321133",
+            "thumbnail_url": "https://i.ytimg.com/vi/k2KqY_l_S4s/hqdefault.jpg"
         },
         {
             "video_id": "k9bHqPzvGPg",
@@ -187,35 +187,17 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "22:50",
-            "view_count": "231254",
+            "view_count": "236264",
             "thumbnail_url": "https://i.ytimg.com/vi/k9bHqPzvGPg/hqdefault.jpg"
         },
         {
-            "video_id": "LuN3siPlSjo",
-            "title": "NCT WISH 엔시티 위시 'Surf'｜On the Spot｜온더스팟",
-            "channel_name": "1theK Originals - 원더케이 오리지널",
-            "category": "Entertainment",
-            "duration": "3:33",
-            "view_count": "291470",
-            "thumbnail_url": "https://i.ytimg.com/vi/LuN3siPlSjo/hqdefault.jpg"
-        },
-        {
-            "video_id": "ihjFY64hmy0",
-            "title": "11 대 5 해보시든가 | 4R HLE vs T1│2025 LCK | 울챔스 하이라이트",
-            "channel_name": "Wolf",
-            "category": "Gaming",
-            "duration": "56:42",
-            "view_count": "397185",
-            "thumbnail_url": "https://i.ytimg.com/vi/ihjFY64hmy0/hqdefault.jpg"
-        },
-        {
-            "video_id": "_WCUoPjFxA4",
-            "title": "Why did you love me",
-            "channel_name": "Ha Yea Song - Topic",
+            "video_id": "05kKRYETsvs",
+            "title": "School’s Out (SUNHYE, DOEUN) (School’s Out (정선혜, 도은))",
+            "channel_name": "YOUNG POSSE - Topic",
             "category": "Music",
-            "duration": "3:51",
-            "view_count": "110506",
-            "thumbnail_url": "https://i.ytimg.com/vi/_WCUoPjFxA4/hqdefault.jpg"
+            "duration": "3:03",
+            "view_count": "39085",
+            "thumbnail_url": "https://i.ytimg.com/vi/05kKRYETsvs/hqdefault.jpg"
         },
         {
             "video_id": "23D149HeXc8",
@@ -223,26 +205,26 @@
             "channel_name": "멜로우TV",
             "category": "Gaming",
             "duration": "18:11",
-            "view_count": "164055",
+            "view_count": "176422",
             "thumbnail_url": "https://i.ytimg.com/vi/23D149HeXc8/hqdefault.jpg"
         },
         {
-            "video_id": "FMX98ROVRCE",
-            "title": "LISA - DREAM feat. Kentaro Sakaguchi (Official Short Film MV)",
-            "channel_name": "LLOUD Official",
+            "video_id": "3arMTNPPPfU",
+            "title": "LOVE YOU (Feat. Mew) (사랑해요 (Feat.미유))",
+            "channel_name": "SUNNYSIDEMJ - Topic",
             "category": "Music",
-            "duration": "5:09",
-            "view_count": "12959650",
-            "thumbnail_url": "https://i.ytimg.com/vi/FMX98ROVRCE/hqdefault.jpg"
+            "duration": "3:43",
+            "view_count": "9278",
+            "thumbnail_url": "https://i.ytimg.com/vi/3arMTNPPPfU/hqdefault.jpg"
         },
         {
-            "video_id": "WfU0J5ZmCtE",
-            "title": "TLN vs PRX / T1 vs RRQ - VCT 퍼시픽 - 스테이지2 - 플레이오프 - 5일차",
-            "channel_name": "발로란트 챔피언스 투어",
+            "video_id": "ihjFY64hmy0",
+            "title": "11 대 5 해보시든가 | 4R HLE vs T1│2025 LCK | 울챔스 하이라이트",
+            "channel_name": "Wolf",
             "category": "Gaming",
-            "duration": "6:13:28",
-            "view_count": "290392",
-            "thumbnail_url": "https://i.ytimg.com/vi/WfU0J5ZmCtE/hqdefault.jpg"
+            "duration": "56:42",
+            "view_count": "400939",
+            "thumbnail_url": "https://i.ytimg.com/vi/ihjFY64hmy0/hqdefault.jpg"
         },
         {
             "video_id": "ZHKPu77ADqM",
@@ -250,7 +232,7 @@
             "channel_name": "Lee Hyun - Topic",
             "category": "Music",
             "duration": "3:45",
-            "view_count": "37408",
+            "view_count": "40620",
             "thumbnail_url": "https://i.ytimg.com/vi/ZHKPu77ADqM/hqdefault.jpg"
         },
         {
@@ -259,35 +241,35 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "32:36",
-            "view_count": "132983",
+            "view_count": "138187",
             "thumbnail_url": "https://i.ytimg.com/vi/TRvfWpRSz-0/hqdefault.jpg"
         },
         {
-            "video_id": "9mUI9T5ku3Y",
-            "title": "54321",
-            "channel_name": "pH-1 - Topic",
+            "video_id": "_WCUoPjFxA4",
+            "title": "Why did you love me",
+            "channel_name": "Ha Yea Song - Topic",
             "category": "Music",
-            "duration": "3:05",
-            "view_count": "417417",
-            "thumbnail_url": "https://i.ytimg.com/vi/9mUI9T5ku3Y/hqdefault.jpg"
+            "duration": "3:51",
+            "view_count": "115622",
+            "thumbnail_url": "https://i.ytimg.com/vi/_WCUoPjFxA4/hqdefault.jpg"
         },
         {
-            "video_id": "kqFznDeRb5U",
-            "title": "황금 팽이 ON [롤토체스]",
-            "channel_name": "PAKA",
+            "video_id": "WfU0J5ZmCtE",
+            "title": "TLN vs PRX / T1 vs RRQ - VCT 퍼시픽 - 스테이지2 - 플레이오프 - 5일차",
+            "channel_name": "발로란트 챔피언스 투어",
             "category": "Gaming",
-            "duration": "23:24",
-            "view_count": "303642",
-            "thumbnail_url": "https://i.ytimg.com/vi/kqFznDeRb5U/hqdefault.jpg"
+            "duration": "6:13:28",
+            "view_count": "291212",
+            "thumbnail_url": "https://i.ytimg.com/vi/WfU0J5ZmCtE/hqdefault.jpg"
         },
         {
-            "video_id": "eJ5jwYjNc8s",
-            "title": "Ed Sheeran - Shape of You (Lyrics)",
-            "channel_name": "Unity Vibe ",
-            "category": "Music",
-            "duration": "3:56",
-            "view_count": "1110572",
-            "thumbnail_url": "https://i.ytimg.com/vi/eJ5jwYjNc8s/hqdefault.jpg"
+            "video_id": "LuN3siPlSjo",
+            "title": "NCT WISH 엔시티 위시 'Surf'｜On the Spot｜온더스팟",
+            "channel_name": "1theK Originals - 원더케이 오리지널",
+            "category": "Entertainment",
+            "duration": "3:33",
+            "view_count": "294050",
+            "thumbnail_url": "https://i.ytimg.com/vi/LuN3siPlSjo/hqdefault.jpg"
         },
         {
             "video_id": "VHVFFBSxPlI",
@@ -295,17 +277,35 @@
             "channel_name": "흔한남매",
             "category": "Entertainment",
             "duration": "14:01",
-            "view_count": "161467",
+            "view_count": "172671",
             "thumbnail_url": "https://i.ytimg.com/vi/VHVFFBSxPlI/hqdefault.jpg"
         },
         {
-            "video_id": "btRT0m8CApI",
-            "title": "White Wine",
-            "channel_name": "Kwon Jin-ah - Topic",
+            "video_id": "FMX98ROVRCE",
+            "title": "LISA - DREAM feat. Kentaro Sakaguchi (Official Short Film MV)",
+            "channel_name": "LLOUD Official",
             "category": "Music",
-            "duration": "3:00",
-            "view_count": "266189",
-            "thumbnail_url": "https://i.ytimg.com/vi/btRT0m8CApI/hqdefault.jpg"
+            "duration": "5:09",
+            "view_count": "13057737",
+            "thumbnail_url": "https://i.ytimg.com/vi/FMX98ROVRCE/hqdefault.jpg"
+        },
+        {
+            "video_id": "kqFznDeRb5U",
+            "title": "황금 팽이 ON [롤토체스]",
+            "channel_name": "PAKA",
+            "category": "Gaming",
+            "duration": "23:24",
+            "view_count": "306541",
+            "thumbnail_url": "https://i.ytimg.com/vi/kqFznDeRb5U/hqdefault.jpg"
+        },
+        {
+            "video_id": "w8l20dz1pnU",
+            "title": "TO THE SEA (바다 가자)",
+            "channel_name": "Boramiyu - Topic",
+            "category": "Music",
+            "duration": "3:18",
+            "view_count": "22637",
+            "thumbnail_url": "https://i.ytimg.com/vi/w8l20dz1pnU/hqdefault.jpg"
         },
         {
             "video_id": "CPhiDjquxpw",
@@ -313,17 +313,17 @@
             "channel_name": "보따",
             "category": "Comedy",
             "duration": "9:00",
-            "view_count": "195961",
+            "view_count": "202614",
             "thumbnail_url": "https://i.ytimg.com/vi/CPhiDjquxpw/hqdefault.jpg"
         },
         {
-            "video_id": "tGc_cYtHsWo",
-            "title": "Surf",
-            "channel_name": "NCT WISH - Topic",
+            "video_id": "9mUI9T5ku3Y",
+            "title": "54321",
+            "channel_name": "pH-1 - Topic",
             "category": "Music",
-            "duration": "3:04",
-            "view_count": "840319",
-            "thumbnail_url": "https://i.ytimg.com/vi/tGc_cYtHsWo/hqdefault.jpg"
+            "duration": "3:05",
+            "view_count": "431733",
+            "thumbnail_url": "https://i.ytimg.com/vi/9mUI9T5ku3Y/hqdefault.jpg"
         },
         {
             "video_id": "5AFkF5DXaJo",
@@ -331,17 +331,17 @@
             "channel_name": "두치와뿌꾸",
             "category": "Gaming",
             "duration": "17:56",
-            "view_count": "108739",
+            "view_count": "111691",
             "thumbnail_url": "https://i.ytimg.com/vi/5AFkF5DXaJo/hqdefault.jpg"
         },
         {
-            "video_id": "3arMTNPPPfU",
-            "title": "LOVE YOU (Feat. Mew) (사랑해요 (Feat.미유))",
-            "channel_name": "SUNNYSIDEMJ - Topic",
+            "video_id": "eJ5jwYjNc8s",
+            "title": "Ed Sheeran - Shape of You (Lyrics)",
+            "channel_name": "Unity Vibe ",
             "category": "Music",
-            "duration": "3:43",
-            "view_count": "5977",
-            "thumbnail_url": "https://i.ytimg.com/vi/3arMTNPPPfU/hqdefault.jpg"
+            "duration": "3:56",
+            "view_count": "1137185",
+            "thumbnail_url": "https://i.ytimg.com/vi/eJ5jwYjNc8s/hqdefault.jpg"
         },
         {
             "video_id": "BtEZHnBrzoo",
@@ -349,17 +349,17 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "53:54",
-            "view_count": "265623",
+            "view_count": "267075",
             "thumbnail_url": "https://i.ytimg.com/vi/BtEZHnBrzoo/hqdefault.jpg"
         },
         {
-            "video_id": "78udiaRBDgQ",
-            "title": "사랑지각 (feat. CHAD BURGER)",
-            "channel_name": "ONSEEON - Topic",
+            "video_id": "btRT0m8CApI",
+            "title": "White Wine",
+            "channel_name": "Kwon Jin-ah - Topic",
             "category": "Music",
-            "duration": "2:54",
-            "view_count": "33418",
-            "thumbnail_url": "https://i.ytimg.com/vi/78udiaRBDgQ/hqdefault.jpg"
+            "duration": "3:00",
+            "view_count": "274045",
+            "thumbnail_url": "https://i.ytimg.com/vi/btRT0m8CApI/hqdefault.jpg"
         },
         {
             "video_id": "_JxPwYl8cAw",
@@ -367,17 +367,17 @@
             "channel_name": "동수칸TV",
             "category": "Gaming",
             "duration": "20:41",
-            "view_count": "179237",
+            "view_count": "182586",
             "thumbnail_url": "https://i.ytimg.com/vi/_JxPwYl8cAw/hqdefault.jpg"
         },
         {
-            "video_id": "Nvg2lw3lfec",
-            "title": "Orchid / Flame",
-            "channel_name": "hannah bahng - Topic",
+            "video_id": "tGc_cYtHsWo",
+            "title": "Surf",
+            "channel_name": "NCT WISH - Topic",
             "category": "Music",
-            "duration": "3:15",
-            "view_count": "88272",
-            "thumbnail_url": "https://i.ytimg.com/vi/Nvg2lw3lfec/hqdefault.jpg"
+            "duration": "3:04",
+            "view_count": "859706",
+            "thumbnail_url": "https://i.ytimg.com/vi/tGc_cYtHsWo/hqdefault.jpg"
         }
     ]
 }
