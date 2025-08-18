@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-08-19 02:14:12",
+    "scraped_time": "2025-08-19 03:20:58",
     "videos": [
         {
             "video_id": "Dbxfo8YBkYE",
@@ -7,7 +7,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "4:11",
-            "view_count": "1572425",
+            "view_count": "1625879",
             "thumbnail_url": "https://i.ytimg.com/vi/Dbxfo8YBkYE/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "블랙컴뱃",
             "category": "Film & Animation",
             "duration": "3:08",
-            "view_count": "64247",
+            "view_count": "64766",
             "thumbnail_url": "https://i.ytimg.com/vi/-0ujV07iQdE/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "STARSHIP",
             "category": "Music",
             "duration": "2:40",
-            "view_count": "148117",
+            "view_count": "166568",
             "thumbnail_url": "https://i.ytimg.com/vi/4PGX1ZYvzvo/hqdefault.jpg"
         },
         {
@@ -43,17 +43,17 @@
             "channel_name": "OD COMPANY",
             "category": "Entertainment",
             "duration": "0:47",
-            "view_count": "19052",
+            "view_count": "19805",
             "thumbnail_url": "https://i.ytimg.com/vi/BCcuFvvFbzU/hqdefault.jpg"
         },
         {
-            "video_id": "mifkgCFgj84",
-            "title": "싹둑싹둑",
+            "video_id": "h2kvwxMEkKo",
+            "title": "크루 졸업했습니다",
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
-            "duration": "26:35",
-            "view_count": "456655",
-            "thumbnail_url": "https://i.ytimg.com/vi/mifkgCFgj84/hqdefault.jpg"
+            "duration": "24:31",
+            "view_count": "240789",
+            "thumbnail_url": "https://i.ytimg.com/vi/h2kvwxMEkKo/hqdefault.jpg"
         },
         {
             "video_id": "17mqKMHUxXY",
@@ -61,7 +61,7 @@
             "channel_name": "BOYNEXTDOOR - Topic",
             "category": "Music",
             "duration": "2:39",
-            "view_count": "175188",
+            "view_count": "178780",
             "thumbnail_url": "https://i.ytimg.com/vi/17mqKMHUxXY/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "58:53",
-            "view_count": "339884",
+            "view_count": "342552",
             "thumbnail_url": "https://i.ytimg.com/vi/kbmLrjyecOo/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "THEBLACKLABEL",
             "category": "Music",
             "duration": "3:04",
-            "view_count": "526988",
+            "view_count": "645435",
             "thumbnail_url": "https://i.ytimg.com/vi/r3yuhtB1H8U/hqdefault.jpg"
         },
         {
@@ -88,26 +88,8 @@
             "channel_name": "말량",
             "category": "Gaming",
             "duration": "23:48",
-            "view_count": "475616",
+            "view_count": "476619",
             "thumbnail_url": "https://i.ytimg.com/vi/LWbg4uCw1HU/hqdefault.jpg"
-        },
-        {
-            "video_id": "6oEJG-8kATc",
-            "title": "Huntrix - How It's Done (Lyrics) | K-Pop Demon Hunters",
-            "channel_name": "The Vibe Guide",
-            "category": "Entertainment",
-            "duration": "2:57",
-            "view_count": "527413",
-            "thumbnail_url": "https://i.ytimg.com/vi/6oEJG-8kATc/hqdefault.jpg"
-        },
-        {
-            "video_id": "CvfkhDryoso",
-            "title": "인류99%가 멸망한 세상, 사람인척 하는 좀비를 찾아내라.",
-            "channel_name": "혜안",
-            "category": "Gaming",
-            "duration": "35:55",
-            "view_count": "677228",
-            "thumbnail_url": "https://i.ytimg.com/vi/CvfkhDryoso/hqdefault.jpg"
         },
         {
             "video_id": "-2fAmkQS854",
@@ -115,8 +97,26 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:30",
-            "view_count": "236484",
+            "view_count": "256061",
             "thumbnail_url": "https://i.ytimg.com/vi/-2fAmkQS854/hqdefault.jpg"
+        },
+        {
+            "video_id": "CvfkhDryoso",
+            "title": "인류99%가 멸망한 세상, 사람인척 하는 좀비를 찾아내라.",
+            "channel_name": "혜안",
+            "category": "Gaming",
+            "duration": "35:55",
+            "view_count": "682550",
+            "thumbnail_url": "https://i.ytimg.com/vi/CvfkhDryoso/hqdefault.jpg"
+        },
+        {
+            "video_id": "6oEJG-8kATc",
+            "title": "Huntrix - How It's Done (Lyrics) | K-Pop Demon Hunters",
+            "channel_name": "The Vibe Guide",
+            "category": "Entertainment",
+            "duration": "2:57",
+            "view_count": "537057",
+            "thumbnail_url": "https://i.ytimg.com/vi/6oEJG-8kATc/hqdefault.jpg"
         },
         {
             "video_id": "Bq-Fi_WJ_Zo",
@@ -124,7 +124,7 @@
             "channel_name": "T1",
             "category": "Travel & Events",
             "duration": "13:48",
-            "view_count": "232296",
+            "view_count": "247004",
             "thumbnail_url": "https://i.ytimg.com/vi/Bq-Fi_WJ_Zo/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "SUNNYSIDEMJ - Topic",
             "category": "Music",
             "duration": "3:43",
-            "view_count": "30360",
+            "view_count": "31006",
             "thumbnail_url": "https://i.ytimg.com/vi/3arMTNPPPfU/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "Lineage M",
             "category": "Gaming",
             "duration": "1:53:25",
-            "view_count": "105794",
+            "view_count": "106370",
             "thumbnail_url": "https://i.ytimg.com/vi/xK1MbWLn0xY/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "MONSTA X - Topic",
             "category": "Music",
             "duration": "2:40",
-            "view_count": "9577",
+            "view_count": "10024",
             "thumbnail_url": "https://i.ytimg.com/vi/WxWO8xsz6UU/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "34:54",
-            "view_count": "244003",
+            "view_count": "247020",
             "thumbnail_url": "https://i.ytimg.com/vi/J6a9dV9LZGY/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "JAESSBEE - Topic",
             "category": "Music",
             "duration": "2:32",
-            "view_count": "237844",
+            "view_count": "239203",
             "thumbnail_url": "https://i.ytimg.com/vi/f-fcFGLfEBQ/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "동수칸TV",
             "category": "Gaming",
             "duration": "20:37",
-            "view_count": "119916",
+            "view_count": "126340",
             "thumbnail_url": "https://i.ytimg.com/vi/uDvljPb-xes/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "두리 원투쓰리코",
             "category": "Music",
             "duration": "4:04",
-            "view_count": "37115",
+            "view_count": "37705",
             "thumbnail_url": "https://i.ytimg.com/vi/HFaSMKoK8w4/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "이도원",
             "category": "Gaming",
             "duration": "19:08",
-            "view_count": "240170",
+            "view_count": "242992",
             "thumbnail_url": "https://i.ytimg.com/vi/-ypc1sVWiFs/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "JOY - Topic",
             "category": "Music",
             "duration": "3:09",
-            "view_count": "21134",
+            "view_count": "22927",
             "thumbnail_url": "https://i.ytimg.com/vi/3LNLf3DEluU/hqdefault.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "channel_name": "멜로우TV",
             "category": "Gaming",
             "duration": "18:11",
-            "view_count": "269735",
+            "view_count": "270240",
             "thumbnail_url": "https://i.ytimg.com/vi/23D149HeXc8/hqdefault.jpg"
         },
         {
@@ -223,7 +223,7 @@
             "channel_name": "YOUNHA OFFICIAL",
             "category": "Entertainment",
             "duration": "3:16",
-            "view_count": "196310",
+            "view_count": "198149",
             "thumbnail_url": "https://i.ytimg.com/vi/795zA6fwc14/hqdefault.jpg"
         },
         {
@@ -232,7 +232,7 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "22:50",
-            "view_count": "282993",
+            "view_count": "284845",
             "thumbnail_url": "https://i.ytimg.com/vi/k9bHqPzvGPg/hqdefault.jpg"
         },
         {
@@ -241,7 +241,7 @@
             "channel_name": "IVE - Topic",
             "category": "Music",
             "duration": "0:22",
-            "view_count": "11785",
+            "view_count": "12342",
             "thumbnail_url": "https://i.ytimg.com/vi/wdG5UT3J8Ao/hqdefault.jpg"
         },
         {
@@ -250,7 +250,7 @@
             "channel_name": "말왕TV",
             "category": "Gaming",
             "duration": "30:02",
-            "view_count": "264835",
+            "view_count": "267115",
             "thumbnail_url": "https://i.ytimg.com/vi/MVM0P1ASPIc/hqdefault.jpg"
         },
         {
@@ -259,26 +259,8 @@
             "channel_name": "A2O MAY - Topic",
             "category": "Music",
             "duration": "3:37",
-            "view_count": "61343",
+            "view_count": "62636",
             "thumbnail_url": "https://i.ytimg.com/vi/8x5lpTfMGJ8/hqdefault.jpg"
-        },
-        {
-            "video_id": "VHVFFBSxPlI",
-            "title": "시청자 때리고, 물건 뺏는 인성논란 영상! 브레인롯 훔치기!ㅋㅋㅋㅋ",
-            "channel_name": "흔한남매",
-            "category": "Entertainment",
-            "duration": "14:01",
-            "view_count": "260309",
-            "thumbnail_url": "https://i.ytimg.com/vi/VHVFFBSxPlI/hqdefault.jpg"
-        },
-        {
-            "video_id": "VSQM3udw-QU",
-            "title": "ただ君に晴れ  / 角巻わため(Cover)",
-            "channel_name": "Watame Ch. 角巻わため",
-            "category": "Music",
-            "duration": "3:22",
-            "view_count": "275839",
-            "thumbnail_url": "https://i.ytimg.com/vi/VSQM3udw-QU/hqdefault.jpg"
         },
         {
             "video_id": "bYuydu5x9vc",
@@ -286,8 +268,26 @@
             "channel_name": "주키니TV",
             "category": "Gaming",
             "duration": "14:40",
-            "view_count": "100772",
+            "view_count": "113404",
             "thumbnail_url": "https://i.ytimg.com/vi/bYuydu5x9vc/hqdefault.jpg"
+        },
+        {
+            "video_id": "VSQM3udw-QU",
+            "title": "ただ君に晴れ  / 角巻わため(Cover)",
+            "channel_name": "Watame Ch. 角巻わため",
+            "category": "Music",
+            "duration": "3:22",
+            "view_count": "279005",
+            "thumbnail_url": "https://i.ytimg.com/vi/VSQM3udw-QU/hqdefault.jpg"
+        },
+        {
+            "video_id": "VHVFFBSxPlI",
+            "title": "시청자 때리고, 물건 뺏는 인성논란 영상! 브레인롯 훔치기!ㅋㅋㅋㅋ",
+            "channel_name": "흔한남매",
+            "category": "Entertainment",
+            "duration": "14:01",
+            "view_count": "260818",
+            "thumbnail_url": "https://i.ytimg.com/vi/VHVFFBSxPlI/hqdefault.jpg"
         },
         {
             "video_id": "Dc3Oa7wyORI",
@@ -295,7 +295,7 @@
             "channel_name": "CHUU - Topic",
             "category": "Music",
             "duration": "4:28",
-            "view_count": "164984",
+            "view_count": "166086",
             "thumbnail_url": "https://i.ytimg.com/vi/Dc3Oa7wyORI/hqdefault.jpg"
         },
         {
@@ -304,7 +304,7 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "32:36",
-            "view_count": "177776",
+            "view_count": "178979",
             "thumbnail_url": "https://i.ytimg.com/vi/TRvfWpRSz-0/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "범진 BUMJIN - Topic",
             "category": "Music",
             "duration": "3:57",
-            "view_count": "57347",
+            "view_count": "57836",
             "thumbnail_url": "https://i.ytimg.com/vi/W9RM_rqv4w4/hqdefault.jpg"
         },
         {
@@ -331,7 +331,7 @@
             "channel_name": "Boramiyu - Topic",
             "category": "Music",
             "duration": "3:18",
-            "view_count": "44883",
+            "view_count": "45100",
             "thumbnail_url": "https://i.ytimg.com/vi/w8l20dz1pnU/hqdefault.jpg"
         },
         {
@@ -340,7 +340,7 @@
             "channel_name": "두치와뿌꾸",
             "category": "Gaming",
             "duration": "14:22",
-            "view_count": "174119",
+            "view_count": "180334",
             "thumbnail_url": "https://i.ytimg.com/vi/eLg5mHSlCP8/hqdefault.jpg"
         },
         {
@@ -349,26 +349,26 @@
             "channel_name": "CHANGMO",
             "category": "Music",
             "duration": "3:16",
-            "view_count": "40503",
+            "view_count": "41483",
             "thumbnail_url": "https://i.ytimg.com/vi/zP98Z_gd2rQ/hqdefault.jpg"
         },
         {
-            "video_id": "ihjFY64hmy0",
-            "title": "11 대 5 해보시든가 | 4R HLE vs T1│2025 LCK | 울챔스 하이라이트",
-            "channel_name": "Wolf",
+            "video_id": "I0X0Dfd9TR0",
+            "title": "외투 브라움을 절대 기억해",
+            "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
-            "duration": "56:42",
-            "view_count": "434108",
-            "thumbnail_url": "https://i.ytimg.com/vi/ihjFY64hmy0/hqdefault.jpg"
+            "duration": "21:57",
+            "view_count": "80110",
+            "thumbnail_url": "https://i.ytimg.com/vi/I0X0Dfd9TR0/hqdefault.jpg"
         },
         {
-            "video_id": "ZHKPu77ADqM",
-            "title": "잘가요 내사랑",
-            "channel_name": "Lee Hyun - Topic",
-            "category": "Music",
-            "duration": "3:45",
-            "view_count": "63971",
-            "thumbnail_url": "https://i.ytimg.com/vi/ZHKPu77ADqM/hqdefault.jpg"
+            "video_id": "sggpznX28_4",
+            "title": "&TEAM 'Run Wild' Special Video",
+            "channel_name": "&TEAM",
+            "category": "People & Blogs",
+            "duration": "2:45",
+            "view_count": "133623",
+            "thumbnail_url": "https://i.ytimg.com/vi/sggpznX28_4/hqdefault.jpg"
         },
         {
             "video_id": "8Y2kvXfxgFE",
@@ -376,7 +376,7 @@
             "channel_name": "마플 마인크래프트 채널",
             "category": "Gaming",
             "duration": "20:41",
-            "view_count": "169336",
+            "view_count": "170408",
             "thumbnail_url": "https://i.ytimg.com/vi/8Y2kvXfxgFE/hqdefault.jpg"
         }
     ]
