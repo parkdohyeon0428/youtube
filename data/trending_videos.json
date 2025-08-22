@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-08-22 21:27:24",
+    "scraped_time": "2025-08-22 22:24:08",
     "videos": [
         {
             "video_id": "P7vBoGWoReg",
@@ -7,7 +7,7 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "2:52",
-            "view_count": "4635841",
+            "view_count": "4934528",
             "thumbnail_url": "https://i.ytimg.com/vi/P7vBoGWoReg/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "CJ ENM Movie",
             "category": "Film & Animation",
             "duration": "2:08",
-            "view_count": "231973",
+            "view_count": "256474",
             "thumbnail_url": "https://i.ytimg.com/vi/ckHwZNuV-wQ/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "6:49:05",
-            "view_count": "1423403",
+            "view_count": "1423910",
             "thumbnail_url": "https://i.ytimg.com/vi/buTnOk94goA/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "Stray Kids - Topic",
             "category": "Music",
             "duration": "2:57",
-            "view_count": "446338",
+            "view_count": "487627",
             "thumbnail_url": "https://i.ytimg.com/vi/jQ7W5A-wwKo/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "Team Cherry",
             "category": "Gaming",
             "duration": "1:53",
-            "view_count": "3257915",
+            "view_count": "3288537",
             "thumbnail_url": "https://i.ytimg.com/vi/6XGeJwsUP9c/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "24:05",
-            "view_count": "472262",
+            "view_count": "477853",
             "thumbnail_url": "https://i.ytimg.com/vi/x4PiEFtF32A/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "Bruklin - Topic",
             "category": "Music",
             "duration": "3:04",
-            "view_count": "963232",
+            "view_count": "985880",
             "thumbnail_url": "https://i.ytimg.com/vi/z_kr00MTbt8/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "말량",
             "category": "Gaming",
             "duration": "31:15",
-            "view_count": "146574",
+            "view_count": "174965",
             "thumbnail_url": "https://i.ytimg.com/vi/HqDSjpDtXNI/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "YOONA - Topic",
             "category": "Music",
             "duration": "3:08",
-            "view_count": "53947",
+            "view_count": "56411",
             "thumbnail_url": "https://i.ytimg.com/vi/QCeHyNXCuv0/hqdefault.jpg"
         },
         {
@@ -88,7 +88,7 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "29:18",
-            "view_count": "90102",
+            "view_count": "104569",
             "thumbnail_url": "https://i.ytimg.com/vi/_FV_YQ8gY-U/hqdefault.jpg"
         },
         {
@@ -97,26 +97,8 @@
             "channel_name": "머쉬베놈",
             "category": "Music",
             "duration": "2:40",
-            "view_count": "122559",
+            "view_count": "128067",
             "thumbnail_url": "https://i.ytimg.com/vi/pYVKfLBKSSI/hqdefault.jpg"
-        },
-        {
-            "video_id": "HG0mHX2N_6k",
-            "title": "마크 다시 난 합니다!",
-            "channel_name": "말왕TV",
-            "category": "Gaming",
-            "duration": "30:15",
-            "view_count": "289148",
-            "thumbnail_url": "https://i.ytimg.com/vi/HG0mHX2N_6k/hqdefault.jpg"
-        },
-        {
-            "video_id": "gEnNmFpyqDE",
-            "title": "HUNTR/X (Huntrix) - Golden (Lyrics) from KPop Demon Hunters",
-            "channel_name": "7clouds Trance",
-            "category": "Music",
-            "duration": "3:13",
-            "view_count": "1632665",
-            "thumbnail_url": "https://i.ytimg.com/vi/gEnNmFpyqDE/hqdefault.jpg"
         },
         {
             "video_id": "p0tuh0ryKIg",
@@ -124,8 +106,26 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "35:11",
-            "view_count": "83822",
+            "view_count": "100204",
             "thumbnail_url": "https://i.ytimg.com/vi/p0tuh0ryKIg/hqdefault.jpg"
+        },
+        {
+            "video_id": "gEnNmFpyqDE",
+            "title": "HUNTR/X (Huntrix) - Golden (Lyrics) from KPop Demon Hunters",
+            "channel_name": "7clouds Trance",
+            "category": "Music",
+            "duration": "3:13",
+            "view_count": "1656397",
+            "thumbnail_url": "https://i.ytimg.com/vi/gEnNmFpyqDE/hqdefault.jpg"
+        },
+        {
+            "video_id": "HG0mHX2N_6k",
+            "title": "마크 다시 난 합니다!",
+            "channel_name": "말왕TV",
+            "category": "Gaming",
+            "duration": "30:15",
+            "view_count": "294267",
+            "thumbnail_url": "https://i.ytimg.com/vi/HG0mHX2N_6k/hqdefault.jpg"
         },
         {
             "video_id": "upNBVQpOkqU",
@@ -133,26 +133,8 @@
             "channel_name": "Moonbyul - Topic",
             "category": "Music",
             "duration": "3:30",
-            "view_count": "114678",
+            "view_count": "118867",
             "thumbnail_url": "https://i.ytimg.com/vi/upNBVQpOkqU/hqdefault.jpg"
-        },
-        {
-            "video_id": "AbPDVSkgRzs",
-            "title": "마! 내 친구 3성 케일이다!! 자신있나 으이?",
-            "channel_name": "잡상싱",
-            "category": "Gaming",
-            "duration": "11:35",
-            "view_count": "220832",
-            "thumbnail_url": "https://i.ytimg.com/vi/AbPDVSkgRzs/hqdefault.jpg"
-        },
-        {
-            "video_id": "BvMT8DYQsL0",
-            "title": "If I Had Time",
-            "channel_name": "CHANGMO - Topic",
-            "category": "Music",
-            "duration": "3:07",
-            "view_count": "85316",
-            "thumbnail_url": "https://i.ytimg.com/vi/BvMT8DYQsL0/hqdefault.jpg"
         },
         {
             "video_id": "6fXZInK0gIw",
@@ -160,7 +142,7 @@
             "channel_name": "스맵",
             "category": "Gaming",
             "duration": "21:28",
-            "view_count": "73713",
+            "view_count": "76260",
             "thumbnail_url": "https://i.ytimg.com/vi/6fXZInK0gIw/hqdefault.jpg"
         },
         {
@@ -169,8 +151,26 @@
             "channel_name": "MONSTA X",
             "category": "Music",
             "duration": "2:47",
-            "view_count": "155736",
+            "view_count": "159161",
             "thumbnail_url": "https://i.ytimg.com/vi/KO7DPkJM3xg/hqdefault.jpg"
+        },
+        {
+            "video_id": "AbPDVSkgRzs",
+            "title": "마! 내 친구 3성 케일이다!! 자신있나 으이?",
+            "channel_name": "잡상싱",
+            "category": "Gaming",
+            "duration": "11:35",
+            "view_count": "223459",
+            "thumbnail_url": "https://i.ytimg.com/vi/AbPDVSkgRzs/hqdefault.jpg"
+        },
+        {
+            "video_id": "BvMT8DYQsL0",
+            "title": "If I Had Time",
+            "channel_name": "CHANGMO - Topic",
+            "category": "Music",
+            "duration": "3:07",
+            "view_count": "87212",
+            "thumbnail_url": "https://i.ytimg.com/vi/BvMT8DYQsL0/hqdefault.jpg"
         },
         {
             "video_id": "ygFr0X342bI",
@@ -178,7 +178,7 @@
             "channel_name": "악동 김블루",
             "category": "Gaming",
             "duration": "17:00",
-            "view_count": "233072",
+            "view_count": "235871",
             "thumbnail_url": "https://i.ytimg.com/vi/ygFr0X342bI/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "양하진 - Topic",
             "category": "Music",
             "duration": "4:07",
-            "view_count": "17432",
+            "view_count": "17981",
             "thumbnail_url": "https://i.ytimg.com/vi/zhlKO9LBO-k/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "승상싱",
             "category": "Gaming",
             "duration": "11:35",
-            "view_count": "457556",
+            "view_count": "459417",
             "thumbnail_url": "https://i.ytimg.com/vi/uhTPVfUvAZw/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "Bae Giseong - Topic",
             "category": "Music",
             "duration": "4:46",
-            "view_count": "207941",
+            "view_count": "211331",
             "thumbnail_url": "https://i.ytimg.com/vi/_s8q7M8BKig/hqdefault.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "26:46",
-            "view_count": "83867",
+            "view_count": "85640",
             "thumbnail_url": "https://i.ytimg.com/vi/VezjfFw6OMk/hqdefault.jpg"
         },
         {
@@ -223,26 +223,8 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "3:23",
-            "view_count": "83258",
+            "view_count": "84463",
             "thumbnail_url": "https://i.ytimg.com/vi/1alp4RaWKrc/hqdefault.jpg"
-        },
-        {
-            "video_id": "GyKTx7WkUTA",
-            "title": "유튜버들 비공섭에 몰래 서버 럭 4배하고 시크릿 뽑아오기ㅋㅋㅋㅋㅋ",
-            "channel_name": "꼬예유의 로블록스 저장소",
-            "category": "Gaming",
-            "duration": "23:20",
-            "view_count": "206479",
-            "thumbnail_url": "https://i.ytimg.com/vi/GyKTx7WkUTA/hqdefault.jpg"
-        },
-        {
-            "video_id": "VmYbegvVfHE",
-            "title": "Jealous Type",
-            "channel_name": "Doja Cat - Topic",
-            "category": "Music",
-            "duration": "2:44",
-            "view_count": "135542",
-            "thumbnail_url": "https://i.ytimg.com/vi/VmYbegvVfHE/hqdefault.jpg"
         },
         {
             "video_id": "l5_AmtialxQ",
@@ -250,8 +232,26 @@
             "channel_name": "이도원",
             "category": "Gaming",
             "duration": "29:32",
-            "view_count": "66249",
+            "view_count": "77911",
             "thumbnail_url": "https://i.ytimg.com/vi/l5_AmtialxQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "VmYbegvVfHE",
+            "title": "Jealous Type",
+            "channel_name": "Doja Cat - Topic",
+            "category": "Music",
+            "duration": "2:44",
+            "view_count": "150102",
+            "thumbnail_url": "https://i.ytimg.com/vi/VmYbegvVfHE/hqdefault.jpg"
+        },
+        {
+            "video_id": "GyKTx7WkUTA",
+            "title": "유튜버들 비공섭에 몰래 서버 럭 4배하고 시크릿 뽑아오기ㅋㅋㅋㅋㅋ",
+            "channel_name": "꼬예유의 로블록스 저장소",
+            "category": "Gaming",
+            "duration": "23:20",
+            "view_count": "209004",
+            "thumbnail_url": "https://i.ytimg.com/vi/GyKTx7WkUTA/hqdefault.jpg"
         },
         {
             "video_id": "GbALjfA72Dg",
@@ -259,26 +259,8 @@
             "channel_name": "One Room Romance - Topic",
             "category": "Music",
             "duration": "4:15",
-            "view_count": "25606",
+            "view_count": "26349",
             "thumbnail_url": "https://i.ytimg.com/vi/GbALjfA72Dg/hqdefault.jpg"
-        },
-        {
-            "video_id": "V0EnuXHVbhw",
-            "title": "엌ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ(마인크래프트)",
-            "channel_name": "마플 마인크래프트 채널",
-            "category": "Gaming",
-            "duration": "17:06",
-            "view_count": "120625",
-            "thumbnail_url": "https://i.ytimg.com/vi/V0EnuXHVbhw/hqdefault.jpg"
-        },
-        {
-            "video_id": "e2OpbOv_JiQ",
-            "title": "CORTIS (코르티스) 'What You Want' Official MV",
-            "channel_name": "HYBE LABELS",
-            "category": "Music",
-            "duration": "3:20",
-            "view_count": "5956259",
-            "thumbnail_url": "https://i.ytimg.com/vi/e2OpbOv_JiQ/hqdefault.jpg"
         },
         {
             "video_id": "nduQuBD9Ayw",
@@ -286,8 +268,26 @@
             "channel_name": "ProjectMoon Official",
             "category": "Gaming",
             "duration": "4:07",
-            "view_count": "110224",
+            "view_count": "164165",
             "thumbnail_url": "https://i.ytimg.com/vi/nduQuBD9Ayw/hqdefault.jpg"
+        },
+        {
+            "video_id": "e2OpbOv_JiQ",
+            "title": "CORTIS (코르티스) 'What You Want' Official MV",
+            "channel_name": "HYBE LABELS",
+            "category": "Music",
+            "duration": "3:20",
+            "view_count": "5966928",
+            "thumbnail_url": "https://i.ytimg.com/vi/e2OpbOv_JiQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "V0EnuXHVbhw",
+            "title": "엌ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ(마인크래프트)",
+            "channel_name": "마플 마인크래프트 채널",
+            "category": "Gaming",
+            "duration": "17:06",
+            "view_count": "125400",
+            "thumbnail_url": "https://i.ytimg.com/vi/V0EnuXHVbhw/hqdefault.jpg"
         },
         {
             "video_id": "IaCYvZX7GJA",
@@ -295,7 +295,7 @@
             "channel_name": "두리 원투쓰리코",
             "category": "Music",
             "duration": "3:06",
-            "view_count": "11591",
+            "view_count": "12316",
             "thumbnail_url": "https://i.ytimg.com/vi/IaCYvZX7GJA/hqdefault.jpg"
         },
         {
@@ -304,7 +304,7 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "30:53",
-            "view_count": "97291",
+            "view_count": "103899",
             "thumbnail_url": "https://i.ytimg.com/vi/SNwkxirMIN0/hqdefault.jpg"
         },
         {
@@ -313,44 +313,8 @@
             "channel_name": "Pabllo Vittar",
             "category": "Music",
             "duration": "2:42",
-            "view_count": "583166",
+            "view_count": "608614",
             "thumbnail_url": "https://i.ytimg.com/vi/0zgJgsbcAN8/hqdefault.jpg"
-        },
-        {
-            "video_id": "sRFOUESj-YU",
-            "title": "소과금 만이형 드디어 멤버십 현질 갑니다 또 대박?!",
-            "channel_name": "두치와뿌꾸",
-            "category": "Gaming",
-            "duration": "15:36",
-            "view_count": "103595",
-            "thumbnail_url": "https://i.ytimg.com/vi/sRFOUESj-YU/hqdefault.jpg"
-        },
-        {
-            "video_id": "r1w5sAiFhU4",
-            "title": "Catching Bodies",
-            "channel_name": "Sekou - Topic",
-            "category": "Music",
-            "duration": "3:07",
-            "view_count": "106381",
-            "thumbnail_url": "https://i.ytimg.com/vi/r1w5sAiFhU4/hqdefault.jpg"
-        },
-        {
-            "video_id": "_qlySXSmujs",
-            "title": "2만 로벅스 멸망전 끝에 드디어 얻게된 드래곤 시크릿!!! 근데 다른 좋은 시크릿도 다 뜬다!? 운 뭐야!! (로블록스 브레인롯훔치기)",
-            "channel_name": "쉐어TV",
-            "category": "Gaming",
-            "duration": "18:48",
-            "view_count": "442234",
-            "thumbnail_url": "https://i.ytimg.com/vi/_qlySXSmujs/hqdefault.jpg"
-        },
-        {
-            "video_id": "NcCWOmrpU1A",
-            "title": "[4K]QWER - 고민중독 l 1st FanCon 1,2 QWER",
-            "channel_name": "QWER",
-            "category": "Entertainment",
-            "duration": "3:41",
-            "view_count": "59602",
-            "thumbnail_url": "https://i.ytimg.com/vi/NcCWOmrpU1A/hqdefault.jpg"
         },
         {
             "video_id": "yEo8x-ypK4o",
@@ -358,8 +322,44 @@
             "channel_name": "강 지",
             "category": "Gaming",
             "duration": "11:25",
-            "view_count": "89545",
+            "view_count": "106830",
             "thumbnail_url": "https://i.ytimg.com/vi/yEo8x-ypK4o/hqdefault.jpg"
+        },
+        {
+            "video_id": "r1w5sAiFhU4",
+            "title": "Catching Bodies",
+            "channel_name": "Sekou - Topic",
+            "category": "Music",
+            "duration": "3:07",
+            "view_count": "108315",
+            "thumbnail_url": "https://i.ytimg.com/vi/r1w5sAiFhU4/hqdefault.jpg"
+        },
+        {
+            "video_id": "sRFOUESj-YU",
+            "title": "소과금 만이형 드디어 멤버십 현질 갑니다 또 대박?!",
+            "channel_name": "두치와뿌꾸",
+            "category": "Gaming",
+            "duration": "15:36",
+            "view_count": "105435",
+            "thumbnail_url": "https://i.ytimg.com/vi/sRFOUESj-YU/hqdefault.jpg"
+        },
+        {
+            "video_id": "NcCWOmrpU1A",
+            "title": "[4K]QWER - 고민중독 l 1st FanCon 1,2 QWER",
+            "channel_name": "QWER",
+            "category": "Entertainment",
+            "duration": "3:41",
+            "view_count": "60320",
+            "thumbnail_url": "https://i.ytimg.com/vi/NcCWOmrpU1A/hqdefault.jpg"
+        },
+        {
+            "video_id": "_qlySXSmujs",
+            "title": "2만 로벅스 멸망전 끝에 드디어 얻게된 드래곤 시크릿!!! 근데 다른 좋은 시크릿도 다 뜬다!? 운 뭐야!! (로블록스 브레인롯훔치기)",
+            "channel_name": "쉐어TV",
+            "category": "Gaming",
+            "duration": "18:48",
+            "view_count": "446764",
+            "thumbnail_url": "https://i.ytimg.com/vi/_qlySXSmujs/hqdefault.jpg"
         },
         {
             "video_id": "OdQDLGfpby8",
@@ -367,7 +367,7 @@
             "channel_name": "Vince - Topic",
             "category": "Music",
             "duration": "2:56",
-            "view_count": "295723",
+            "view_count": "300741",
             "thumbnail_url": "https://i.ytimg.com/vi/OdQDLGfpby8/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "게임대장봉준",
             "category": "Gaming",
             "duration": "25:19",
-            "view_count": "93180",
+            "view_count": "94489",
             "thumbnail_url": "https://i.ytimg.com/vi/_jD3QK8Ndfw/hqdefault.jpg"
         }
     ]
