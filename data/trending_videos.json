@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-08-23 10:02:17",
+    "scraped_time": "2025-08-23 11:58:02",
     "videos": [
         {
             "video_id": "P7vBoGWoReg",
@@ -7,7 +7,7 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "2:52",
-            "view_count": "8584724",
+            "view_count": "8920344",
             "thumbnail_url": "https://i.ytimg.com/vi/P7vBoGWoReg/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "CJ ENM Movie",
             "category": "Film & Animation",
             "duration": "2:08",
-            "view_count": "395606",
+            "view_count": "418299",
             "thumbnail_url": "https://i.ytimg.com/vi/ckHwZNuV-wQ/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "6:48:36",
-            "view_count": "2050706",
+            "view_count": "2055793",
             "thumbnail_url": "https://i.ytimg.com/vi/z310sovrR5c/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "Stray Kids - Topic",
             "category": "Music",
             "duration": "2:57",
-            "view_count": "846054",
+            "view_count": "882306",
             "thumbnail_url": "https://i.ytimg.com/vi/jQ7W5A-wwKo/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "Team Cherry",
             "category": "Gaming",
             "duration": "1:53",
-            "view_count": "3680119",
+            "view_count": "3730056",
             "thumbnail_url": "https://i.ytimg.com/vi/6XGeJwsUP9c/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "25:16",
-            "view_count": "300010",
+            "view_count": "329842",
             "thumbnail_url": "https://i.ytimg.com/vi/H9mHxSbwGuE/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "Bruklin - Topic",
             "category": "Music",
             "duration": "3:04",
-            "view_count": "1415451",
+            "view_count": "1470846",
             "thumbnail_url": "https://i.ytimg.com/vi/z_kr00MTbt8/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "35:11",
-            "view_count": "217899",
+            "view_count": "231573",
             "thumbnail_url": "https://i.ytimg.com/vi/p0tuh0ryKIg/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "머쉬베놈",
             "category": "Music",
             "duration": "2:40",
-            "view_count": "203716",
+            "view_count": "224723",
             "thumbnail_url": "https://i.ytimg.com/vi/pYVKfLBKSSI/hqdefault.jpg"
         },
         {
@@ -88,7 +88,7 @@
             "channel_name": "감스트GAMST",
             "category": "Gaming",
             "duration": "19:33",
-            "view_count": "191997",
+            "view_count": "209333",
             "thumbnail_url": "https://i.ytimg.com/vi/V_UDnA9QNrw/hqdefault.jpg"
         },
         {
@@ -97,26 +97,8 @@
             "channel_name": "YOONA - Topic",
             "category": "Music",
             "duration": "3:08",
-            "view_count": "69675",
+            "view_count": "72240",
             "thumbnail_url": "https://i.ytimg.com/vi/QCeHyNXCuv0/hqdefault.jpg"
-        },
-        {
-            "video_id": "_FV_YQ8gY-U",
-            "title": "마인크래프트에서 영어 못하면 사망하는 알파벳 야생 ㅋㅋㅋ",
-            "channel_name": "잠뜰 TV",
-            "category": "Gaming",
-            "duration": "29:18",
-            "view_count": "174258",
-            "thumbnail_url": "https://i.ytimg.com/vi/_FV_YQ8gY-U/hqdefault.jpg"
-        },
-        {
-            "video_id": "gEnNmFpyqDE",
-            "title": "HUNTR/X (Huntrix) - Golden (Lyrics) from KPop Demon Hunters",
-            "channel_name": "7clouds Trance",
-            "category": "Music",
-            "duration": "3:13",
-            "view_count": "1964337",
-            "thumbnail_url": "https://i.ytimg.com/vi/gEnNmFpyqDE/hqdefault.jpg"
         },
         {
             "video_id": "7fBBUyh-Q7w",
@@ -124,8 +106,26 @@
             "channel_name": "말량",
             "category": "Gaming",
             "duration": "28:07",
-            "view_count": "132853",
+            "view_count": "151032",
             "thumbnail_url": "https://i.ytimg.com/vi/7fBBUyh-Q7w/hqdefault.jpg"
+        },
+        {
+            "video_id": "gEnNmFpyqDE",
+            "title": "HUNTR/X (Huntrix) - Golden (Lyrics) from KPop Demon Hunters",
+            "channel_name": "7clouds Trance",
+            "category": "Music",
+            "duration": "3:13",
+            "view_count": "2023318",
+            "thumbnail_url": "https://i.ytimg.com/vi/gEnNmFpyqDE/hqdefault.jpg"
+        },
+        {
+            "video_id": "_FV_YQ8gY-U",
+            "title": "마인크래프트에서 영어 못하면 사망하는 알파벳 야생 ㅋㅋㅋ",
+            "channel_name": "잠뜰 TV",
+            "category": "Gaming",
+            "duration": "29:18",
+            "view_count": "183239",
+            "thumbnail_url": "https://i.ytimg.com/vi/_FV_YQ8gY-U/hqdefault.jpg"
         },
         {
             "video_id": "KO7DPkJM3xg",
@@ -133,26 +133,8 @@
             "channel_name": "MONSTA X",
             "category": "Music",
             "duration": "2:47",
-            "view_count": "194967",
+            "view_count": "201405",
             "thumbnail_url": "https://i.ytimg.com/vi/KO7DPkJM3xg/hqdefault.jpg"
-        },
-        {
-            "video_id": "l5_AmtialxQ",
-            "title": "괴물 몰래 도둑질하기",
-            "channel_name": "이도원",
-            "category": "Gaming",
-            "duration": "29:32",
-            "view_count": "160768",
-            "thumbnail_url": "https://i.ytimg.com/vi/l5_AmtialxQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "BvMT8DYQsL0",
-            "title": "If I Had Time",
-            "channel_name": "CHANGMO - Topic",
-            "category": "Music",
-            "duration": "3:07",
-            "view_count": "98116",
-            "thumbnail_url": "https://i.ytimg.com/vi/BvMT8DYQsL0/hqdefault.jpg"
         },
         {
             "video_id": "qnv0HLdRCOI",
@@ -160,8 +142,26 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "14:23",
-            "view_count": "133288",
+            "view_count": "143338",
             "thumbnail_url": "https://i.ytimg.com/vi/qnv0HLdRCOI/hqdefault.jpg"
+        },
+        {
+            "video_id": "BvMT8DYQsL0",
+            "title": "If I Had Time",
+            "channel_name": "CHANGMO - Topic",
+            "category": "Music",
+            "duration": "3:07",
+            "view_count": "101664",
+            "thumbnail_url": "https://i.ytimg.com/vi/BvMT8DYQsL0/hqdefault.jpg"
+        },
+        {
+            "video_id": "l5_AmtialxQ",
+            "title": "괴물 몰래 도둑질하기",
+            "channel_name": "이도원",
+            "category": "Gaming",
+            "duration": "29:32",
+            "view_count": "168514",
+            "thumbnail_url": "https://i.ytimg.com/vi/l5_AmtialxQ/hqdefault.jpg"
         },
         {
             "video_id": "upNBVQpOkqU",
@@ -169,7 +169,7 @@
             "channel_name": "Moonbyul - Topic",
             "category": "Music",
             "duration": "3:30",
-            "view_count": "140416",
+            "view_count": "146319",
             "thumbnail_url": "https://i.ytimg.com/vi/upNBVQpOkqU/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "랄로",
             "category": "Gaming",
             "duration": "1:03:12",
-            "view_count": "200431",
+            "view_count": "216331",
             "thumbnail_url": "https://i.ytimg.com/vi/8pbGLcHEGos/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "Bae Giseong - Topic",
             "category": "Music",
             "duration": "4:46",
-            "view_count": "236091",
+            "view_count": "245090",
             "thumbnail_url": "https://i.ytimg.com/vi/_s8q7M8BKig/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "39:33",
-            "view_count": "128785",
+            "view_count": "149301",
             "thumbnail_url": "https://i.ytimg.com/vi/ywJAjl8cyys/hqdefault.jpg"
         },
         {
@@ -205,8 +205,26 @@
             "channel_name": "양하진 - Topic",
             "category": "Music",
             "duration": "4:07",
-            "view_count": "21091",
+            "view_count": "21770",
             "thumbnail_url": "https://i.ytimg.com/vi/zhlKO9LBO-k/hqdefault.jpg"
+        },
+        {
+            "video_id": "jdc1XEcHa-Q",
+            "title": "신규 초거대 독개구리 보스가 나오는 숲에서 99일 혼자 살아남기 ㄷㄷ;; 신규직업 독마스터 재밌는데!? (로블록스 99나이트인더포레스트)",
+            "channel_name": "쉐어TV",
+            "category": "Gaming",
+            "duration": "20:05",
+            "view_count": "94228",
+            "thumbnail_url": "https://i.ytimg.com/vi/jdc1XEcHa-Q/hqdefault.jpg"
+        },
+        {
+            "video_id": "M7ob24uQ_Kc",
+            "title": "The Suburbs",
+            "channel_name": "Ruel - Topic",
+            "category": "Music",
+            "duration": "3:09",
+            "view_count": "19424",
+            "thumbnail_url": "https://i.ytimg.com/vi/M7ob24uQ_Kc/hqdefault.jpg"
         },
         {
             "video_id": "ZK-UzEPVsew",
@@ -214,7 +232,7 @@
             "channel_name": "하창봉",
             "category": "Gaming",
             "duration": "58:49",
-            "view_count": "90430",
+            "view_count": "95296",
             "thumbnail_url": "https://i.ytimg.com/vi/ZK-UzEPVsew/hqdefault.jpg"
         },
         {
@@ -223,26 +241,8 @@
             "channel_name": "Doja Cat - Topic",
             "category": "Music",
             "duration": "2:44",
-            "view_count": "342267",
+            "view_count": "370500",
             "thumbnail_url": "https://i.ytimg.com/vi/VmYbegvVfHE/hqdefault.jpg"
-        },
-        {
-            "video_id": "HG0mHX2N_6k",
-            "title": "마크 다시 난 합니다!",
-            "channel_name": "말왕TV",
-            "category": "Gaming",
-            "duration": "30:15",
-            "view_count": "324062",
-            "thumbnail_url": "https://i.ytimg.com/vi/HG0mHX2N_6k/hqdefault.jpg"
-        },
-        {
-            "video_id": "1alp4RaWKrc",
-            "title": "선물",
-            "channel_name": "Release - Topic",
-            "category": "Music",
-            "duration": "3:23",
-            "view_count": "91593",
-            "thumbnail_url": "https://i.ytimg.com/vi/1alp4RaWKrc/hqdefault.jpg"
         },
         {
             "video_id": "y09cR5T7W7A",
@@ -250,26 +250,8 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "22:10",
-            "view_count": "89568",
+            "view_count": "96801",
             "thumbnail_url": "https://i.ytimg.com/vi/y09cR5T7W7A/hqdefault.jpg"
-        },
-        {
-            "video_id": "IaCYvZX7GJA",
-            "title": "[두리DooRi] 이재성 - 촛불잔치 (소극장 라이브 커버 by 두리)",
-            "channel_name": "두리 원투쓰리코",
-            "category": "Music",
-            "duration": "3:06",
-            "view_count": "16414",
-            "thumbnail_url": "https://i.ytimg.com/vi/IaCYvZX7GJA/hqdefault.jpg"
-        },
-        {
-            "video_id": "nduQuBD9Ayw",
-            "title": "[Limbus Company - PV] Chapter 8.5 - 절차탁춘 / 切磋琢春 / Spring Cultivation",
-            "channel_name": "ProjectMoon Official",
-            "category": "Gaming",
-            "duration": "4:07",
-            "view_count": "337893",
-            "thumbnail_url": "https://i.ytimg.com/vi/nduQuBD9Ayw/hqdefault.jpg"
         },
         {
             "video_id": "rIJsBU7YJhM",
@@ -277,44 +259,8 @@
             "channel_name": "Han Yo-han - Topic",
             "category": "Music",
             "duration": "2:52",
-            "view_count": "9817",
+            "view_count": "11293",
             "thumbnail_url": "https://i.ytimg.com/vi/rIJsBU7YJhM/hqdefault.jpg"
-        },
-        {
-            "video_id": "SNwkxirMIN0",
-            "title": "공방에 악질 유저 한 명을 조심하라고 경고하는 상대, 그런데 상대는 그 악질 유저를 또 마주치고 마는데!?ㅋㅋ",
-            "channel_name": "[ALTUBE] 김성현TV",
-            "category": "Gaming",
-            "duration": "30:53",
-            "view_count": "149062",
-            "thumbnail_url": "https://i.ytimg.com/vi/SNwkxirMIN0/hqdefault.jpg"
-        },
-        {
-            "video_id": "GbALjfA72Dg",
-            "title": "Take Me Somewhere in Your Heart",
-            "channel_name": "One Room Romance - Topic",
-            "category": "Music",
-            "duration": "4:15",
-            "view_count": "30915",
-            "thumbnail_url": "https://i.ytimg.com/vi/GbALjfA72Dg/hqdefault.jpg"
-        },
-        {
-            "video_id": "om6ud5HvDjk",
-            "title": "겜모 상태에서 이걸 어떻게 만듦????(마인크래프트)",
-            "channel_name": "마플 마인크래프트 채널",
-            "category": "Gaming",
-            "duration": "9:32",
-            "view_count": "119561",
-            "thumbnail_url": "https://i.ytimg.com/vi/om6ud5HvDjk/hqdefault.jpg"
-        },
-        {
-            "video_id": "e2OpbOv_JiQ",
-            "title": "CORTIS (코르티스) 'What You Want' Official MV",
-            "channel_name": "HYBE LABELS",
-            "category": "Music",
-            "duration": "3:20",
-            "view_count": "6056366",
-            "thumbnail_url": "https://i.ytimg.com/vi/e2OpbOv_JiQ/hqdefault.jpg"
         },
         {
             "video_id": "8-eds890X5M",
@@ -322,8 +268,98 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "30:48",
-            "view_count": "108027",
+            "view_count": "125042",
             "thumbnail_url": "https://i.ytimg.com/vi/8-eds890X5M/hqdefault.jpg"
+        },
+        {
+            "video_id": "1alp4RaWKrc",
+            "title": "선물",
+            "channel_name": "Release - Topic",
+            "category": "Music",
+            "duration": "3:23",
+            "view_count": "93325",
+            "thumbnail_url": "https://i.ytimg.com/vi/1alp4RaWKrc/hqdefault.jpg"
+        },
+        {
+            "video_id": "om6ud5HvDjk",
+            "title": "겜모 상태에서 이걸 어떻게 만듦????(마인크래프트)",
+            "channel_name": "마플 마인크래프트 채널",
+            "category": "Gaming",
+            "duration": "9:32",
+            "view_count": "132048",
+            "thumbnail_url": "https://i.ytimg.com/vi/om6ud5HvDjk/hqdefault.jpg"
+        },
+        {
+            "video_id": "IaCYvZX7GJA",
+            "title": "[두리DooRi] 이재성 - 촛불잔치 (소극장 라이브 커버 by 두리)",
+            "channel_name": "두리 원투쓰리코",
+            "category": "Music",
+            "duration": "3:06",
+            "view_count": "17263",
+            "thumbnail_url": "https://i.ytimg.com/vi/IaCYvZX7GJA/hqdefault.jpg"
+        },
+        {
+            "video_id": "HG0mHX2N_6k",
+            "title": "마크 다시 난 합니다!",
+            "channel_name": "말왕TV",
+            "category": "Gaming",
+            "duration": "30:15",
+            "view_count": "328963",
+            "thumbnail_url": "https://i.ytimg.com/vi/HG0mHX2N_6k/hqdefault.jpg"
+        },
+        {
+            "video_id": "GbALjfA72Dg",
+            "title": "Take Me Somewhere in Your Heart",
+            "channel_name": "One Room Romance - Topic",
+            "category": "Music",
+            "duration": "4:15",
+            "view_count": "32641",
+            "thumbnail_url": "https://i.ytimg.com/vi/GbALjfA72Dg/hqdefault.jpg"
+        },
+        {
+            "video_id": "nduQuBD9Ayw",
+            "title": "[Limbus Company - PV] Chapter 8.5 - 절차탁춘 / 切磋琢春 / Spring Cultivation",
+            "channel_name": "ProjectMoon Official",
+            "category": "Gaming",
+            "duration": "4:07",
+            "view_count": "348068",
+            "thumbnail_url": "https://i.ytimg.com/vi/nduQuBD9Ayw/hqdefault.jpg"
+        },
+        {
+            "video_id": "yHikkFeIHNA",
+            "title": "NỖI ĐAU GIỮA HÒA BÌNH - HÒA MINZY x NGUYỄN VĂN CHUNG | OFFICIAL MUSIC VIDEO",
+            "channel_name": "Hòa Minzy",
+            "category": "Music",
+            "duration": "7:34",
+            "view_count": "440218",
+            "thumbnail_url": "https://i.ytimg.com/vi/yHikkFeIHNA/hqdefault.jpg"
+        },
+        {
+            "video_id": "SNwkxirMIN0",
+            "title": "공방에 악질 유저 한 명을 조심하라고 경고하는 상대, 그런데 상대는 그 악질 유저를 또 마주치고 마는데!?ㅋㅋ",
+            "channel_name": "[ALTUBE] 김성현TV",
+            "category": "Gaming",
+            "duration": "30:53",
+            "view_count": "154580",
+            "thumbnail_url": "https://i.ytimg.com/vi/SNwkxirMIN0/hqdefault.jpg"
+        },
+        {
+            "video_id": "e2OpbOv_JiQ",
+            "title": "CORTIS (코르티스) 'What You Want' Official MV",
+            "channel_name": "HYBE LABELS",
+            "category": "Music",
+            "duration": "3:20",
+            "view_count": "6070965",
+            "thumbnail_url": "https://i.ytimg.com/vi/e2OpbOv_JiQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "iJIIhW1w2DU",
+            "title": "혁규가 시키드나【GTA 여우도시 8화】",
+            "channel_name": "저라뎃 JUSTLIKETHAT",
+            "category": "Gaming",
+            "duration": "18:59",
+            "view_count": "63899",
+            "thumbnail_url": "https://i.ytimg.com/vi/iJIIhW1w2DU/hqdefault.jpg"
         },
         {
             "video_id": "0zgJgsbcAN8",
@@ -331,53 +367,17 @@
             "channel_name": "Pabllo Vittar",
             "category": "Music",
             "duration": "2:42",
-            "view_count": "1012167",
+            "view_count": "1072344",
             "thumbnail_url": "https://i.ytimg.com/vi/0zgJgsbcAN8/hqdefault.jpg"
         },
         {
-            "video_id": "6fXZInK0gIw",
-            "title": "전생의 여자친구가 보내온 선물",
+            "video_id": "mhfkibM1R3g",
+            "title": "근데 우리 집인 거예요",
             "channel_name": "스맵",
             "category": "Gaming",
-            "duration": "21:28",
-            "view_count": "88117",
-            "thumbnail_url": "https://i.ytimg.com/vi/6fXZInK0gIw/hqdefault.jpg"
-        },
-        {
-            "video_id": "r1w5sAiFhU4",
-            "title": "Catching Bodies",
-            "channel_name": "Sekou - Topic",
-            "category": "Music",
-            "duration": "3:07",
-            "view_count": "125533",
-            "thumbnail_url": "https://i.ytimg.com/vi/r1w5sAiFhU4/hqdefault.jpg"
-        },
-        {
-            "video_id": "yEo8x-ypK4o",
-            "title": "왜 자꾸 큐브질이 잘 되는 건데?????",
-            "channel_name": "강 지",
-            "category": "Gaming",
-            "duration": "11:25",
-            "view_count": "183991",
-            "thumbnail_url": "https://i.ytimg.com/vi/yEo8x-ypK4o/hqdefault.jpg"
-        },
-        {
-            "video_id": "NcCWOmrpU1A",
-            "title": "[4K]QWER - 고민중독 l 1st FanCon 1,2 QWER",
-            "channel_name": "QWER",
-            "category": "Entertainment",
-            "duration": "3:41",
-            "view_count": "65675",
-            "thumbnail_url": "https://i.ytimg.com/vi/NcCWOmrpU1A/hqdefault.jpg"
-        },
-        {
-            "video_id": "VezjfFw6OMk",
-            "title": "동료 모집합니다【GTA 여우도시 7화】",
-            "channel_name": "저라뎃 JUSTLIKETHAT",
-            "category": "Gaming",
-            "duration": "26:46",
-            "view_count": "97816",
-            "thumbnail_url": "https://i.ytimg.com/vi/VezjfFw6OMk/hqdefault.jpg"
+            "duration": "18:15",
+            "view_count": "74729",
+            "thumbnail_url": "https://i.ytimg.com/vi/mhfkibM1R3g/hqdefault.jpg"
         }
     ]
 }
