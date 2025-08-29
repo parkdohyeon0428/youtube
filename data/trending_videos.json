@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-08-29 21:26:21",
+    "scraped_time": "2025-08-29 22:22:14",
     "videos": [
         {
             "video_id": "sFK89gemgKM",
@@ -7,7 +7,7 @@
             "channel_name": "임영웅",
             "category": "Music",
             "duration": "3:36",
-            "view_count": "518878",
+            "view_count": "529627",
             "thumbnail_url": "https://i.ytimg.com/vi/sFK89gemgKM/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:50",
-            "view_count": "359862",
+            "view_count": "365864",
             "thumbnail_url": "https://i.ytimg.com/vi/Kd8cu0BUgKE/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "5:49:36",
-            "view_count": "2458245",
+            "view_count": "2458957",
             "thumbnail_url": "https://i.ytimg.com/vi/3gQNOBS2hHo/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "LEE CHANGSUB - Topic",
             "category": "Music",
             "duration": "4:30",
-            "view_count": "370736",
+            "view_count": "383227",
             "thumbnail_url": "https://i.ytimg.com/vi/e4iG9uNPdYA/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "매드무비 : MadMovie",
             "category": "Film & Animation",
             "duration": "10:13",
-            "view_count": "500977",
+            "view_count": "506795",
             "thumbnail_url": "https://i.ytimg.com/vi/u3jzVTmz_UM/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "27:01",
-            "view_count": "279435",
+            "view_count": "284097",
             "thumbnail_url": "https://i.ytimg.com/vi/OZzHvFdi3Hk/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "HUNTR/X - Topic",
             "category": "Music",
             "duration": "4:11",
-            "view_count": "233514",
+            "view_count": "267657",
             "thumbnail_url": "https://i.ytimg.com/vi/xM2KfRILE9w/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "CJ ENM Movie",
             "category": "Film & Animation",
             "duration": "1:26",
-            "view_count": "126231",
+            "view_count": "129450",
             "thumbnail_url": "https://i.ytimg.com/vi/h4XcrJDBXeM/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "Wolf",
             "category": "Gaming",
             "duration": "1:17:52",
-            "view_count": "272795",
+            "view_count": "275540",
             "thumbnail_url": "https://i.ytimg.com/vi/xGLA6_e2uXU/hqdefault.jpg"
         },
         {
@@ -88,7 +88,7 @@
             "channel_name": "Saja Boys - Topic",
             "category": "Music",
             "duration": "2:31",
-            "view_count": "380915",
+            "view_count": "413949",
             "thumbnail_url": "https://i.ytimg.com/vi/y7CrvsCIjyo/hqdefault.jpg"
         },
         {
@@ -97,26 +97,8 @@
             "channel_name": "부산국제영화제Busan International Film Festival",
             "category": "Film & Animation",
             "duration": "1:05",
-            "view_count": "139375",
+            "view_count": "140543",
             "thumbnail_url": "https://i.ytimg.com/vi/EZNz4u8T5lE/hqdefault.jpg"
-        },
-        {
-            "video_id": "lABNCERL6VU",
-            "title": "떠먹여줘야 되는 사람",
-            "channel_name": "괴물쥐 유튜브",
-            "category": "Gaming",
-            "duration": "30:54",
-            "view_count": "270269",
-            "thumbnail_url": "https://i.ytimg.com/vi/lABNCERL6VU/hqdefault.jpg"
-        },
-        {
-            "video_id": "QMGkDbcwDxY",
-            "title": "XOXZ (XOXZ)",
-            "channel_name": "IVE - Topic",
-            "category": "Music",
-            "duration": "2:34",
-            "view_count": "1139390",
-            "thumbnail_url": "https://i.ytimg.com/vi/QMGkDbcwDxY/hqdefault.jpg"
         },
         {
             "video_id": "1jzaarVga2E",
@@ -124,8 +106,26 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "24:07",
-            "view_count": "98212",
+            "view_count": "116399",
             "thumbnail_url": "https://i.ytimg.com/vi/1jzaarVga2E/hqdefault.jpg"
+        },
+        {
+            "video_id": "QMGkDbcwDxY",
+            "title": "XOXZ (XOXZ)",
+            "channel_name": "IVE - Topic",
+            "category": "Music",
+            "duration": "2:34",
+            "view_count": "1156487",
+            "thumbnail_url": "https://i.ytimg.com/vi/QMGkDbcwDxY/hqdefault.jpg"
+        },
+        {
+            "video_id": "lABNCERL6VU",
+            "title": "떠먹여줘야 되는 사람",
+            "channel_name": "괴물쥐 유튜브",
+            "category": "Gaming",
+            "duration": "30:54",
+            "view_count": "274080",
+            "thumbnail_url": "https://i.ytimg.com/vi/lABNCERL6VU/hqdefault.jpg"
         },
         {
             "video_id": "iXEbk1YXTRw",
@@ -133,7 +133,7 @@
             "channel_name": "황영웅 Tv",
             "category": "Music",
             "duration": "2:36",
-            "view_count": "61425",
+            "view_count": "63565",
             "thumbnail_url": "https://i.ytimg.com/vi/iXEbk1YXTRw/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "38:27",
-            "view_count": "185529",
+            "view_count": "190855",
             "thumbnail_url": "https://i.ytimg.com/vi/OiHtJHZAODI/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "STARSHIP",
             "category": "Music",
             "duration": "2:38",
-            "view_count": "10176249",
+            "view_count": "10213277",
             "thumbnail_url": "https://i.ytimg.com/vi/B1ShLiq3EVc/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "이도원",
             "category": "Gaming",
             "duration": "30:28",
-            "view_count": "226885",
+            "view_count": "231336",
             "thumbnail_url": "https://i.ytimg.com/vi/qUIM-fIbpnc/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "크러쉬 - Topic",
             "category": "Music",
             "duration": "3:06",
-            "view_count": "66182",
+            "view_count": "68984",
             "thumbnail_url": "https://i.ytimg.com/vi/xQ09bOV1k20/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "말왕TV",
             "category": "Gaming",
             "duration": "31:59",
-            "view_count": "226252",
+            "view_count": "230821",
             "thumbnail_url": "https://i.ytimg.com/vi/IgiKHPnp5iA/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "Homies - Topic",
             "category": "Music",
             "duration": "2:38",
-            "view_count": "52560",
+            "view_count": "55225",
             "thumbnail_url": "https://i.ytimg.com/vi/Y3riPIRAYdg/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "13:12",
-            "view_count": "105462",
+            "view_count": "116034",
             "thumbnail_url": "https://i.ytimg.com/vi/6DIBM0PLvos/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "송소희 [Official]",
             "category": "Music",
             "duration": "3:53",
-            "view_count": "60556",
+            "view_count": "65499",
             "thumbnail_url": "https://i.ytimg.com/vi/RQDAkt4M-Z4/hqdefault.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "27:15",
-            "view_count": "109359",
+            "view_count": "119363",
             "thumbnail_url": "https://i.ytimg.com/vi/HwAbX9d2WFk/hqdefault.jpg"
         },
         {
@@ -223,7 +223,7 @@
             "channel_name": "aespa",
             "category": "Music",
             "duration": "2:45",
-            "view_count": "927477",
+            "view_count": "936189",
             "thumbnail_url": "https://i.ytimg.com/vi/Od5eCT72uoI/hqdefault.jpg"
         },
         {
@@ -232,7 +232,7 @@
             "channel_name": "집사TV",
             "category": "Gaming",
             "duration": "12:23",
-            "view_count": "197909",
+            "view_count": "205424",
             "thumbnail_url": "https://i.ytimg.com/vi/zK75Mxb4JwU/hqdefault.jpg"
         },
         {
@@ -241,7 +241,7 @@
             "channel_name": "So Soo Bin - Topic",
             "category": "Music",
             "duration": "4:03",
-            "view_count": "30428",
+            "view_count": "32845",
             "thumbnail_url": "https://i.ytimg.com/vi/afyIijncMDg/hqdefault.jpg"
         },
         {
@@ -250,7 +250,7 @@
             "channel_name": "백앤아",
             "category": "Gaming",
             "duration": "17:01",
-            "view_count": "179182",
+            "view_count": "185130",
             "thumbnail_url": "https://i.ytimg.com/vi/j6WrHuD1Dls/hqdefault.jpg"
         },
         {
@@ -259,7 +259,7 @@
             "channel_name": "NCT",
             "category": "Music",
             "duration": "3:09",
-            "view_count": "216930",
+            "view_count": "223037",
             "thumbnail_url": "https://i.ytimg.com/vi/umVi_Ql8egY/hqdefault.jpg"
         },
         {
@@ -268,7 +268,7 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "28:47",
-            "view_count": "154169",
+            "view_count": "156578",
             "thumbnail_url": "https://i.ytimg.com/vi/Gef9aWba2Ms/hqdefault.jpg"
         },
         {
@@ -277,7 +277,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:50",
-            "view_count": "659433",
+            "view_count": "662595",
             "thumbnail_url": "https://i.ytimg.com/vi/FBr4hA9L90s/hqdefault.jpg"
         },
         {
@@ -286,7 +286,7 @@
             "channel_name": "두치와뿌꾸",
             "category": "Gaming",
             "duration": "24:57",
-            "view_count": "195226",
+            "view_count": "196726",
             "thumbnail_url": "https://i.ytimg.com/vi/2hMM65OpyTk/hqdefault.jpg"
         },
         {
@@ -295,7 +295,7 @@
             "channel_name": "머쉬베놈",
             "category": "Music",
             "duration": "3:14",
-            "view_count": "149268",
+            "view_count": "153335",
             "thumbnail_url": "https://i.ytimg.com/vi/8KnuebBOtsQ/hqdefault.jpg"
         },
         {
@@ -304,26 +304,8 @@
             "channel_name": "꼬예유의 로블록스 저장소",
             "category": "Gaming",
             "duration": "22:27",
-            "view_count": "56585",
+            "view_count": "66254",
             "thumbnail_url": "https://i.ytimg.com/vi/gNTVfgDboWY/hqdefault.jpg"
-        },
-        {
-            "video_id": "3araqZY-Ebg",
-            "title": "EVENING PRIMROSE (달맞이 꽃)",
-            "channel_name": "Lee Seok Hoon - Topic",
-            "category": "Music",
-            "duration": "3:42",
-            "view_count": "33316",
-            "thumbnail_url": "https://i.ytimg.com/vi/3araqZY-Ebg/hqdefault.jpg"
-        },
-        {
-            "video_id": "_zE3bEdb0nU",
-            "title": "배송이 아니라 투척해야 아이템이 전달되는 막장 협동 콘텐츠 ㅋㅋㅋ",
-            "channel_name": "잠뜰 TV",
-            "category": "Gaming",
-            "duration": "42:09",
-            "view_count": "63228",
-            "thumbnail_url": "https://i.ytimg.com/vi/_zE3bEdb0nU/hqdefault.jpg"
         },
         {
             "video_id": "V9vuCByb6js",
@@ -331,8 +313,26 @@
             "channel_name": "SabrinaCarpenterVEVO",
             "category": "Music",
             "duration": "5:01",
-            "view_count": "2867933",
+            "view_count": "3252230",
             "thumbnail_url": "https://i.ytimg.com/vi/V9vuCByb6js/hqdefault.jpg"
+        },
+        {
+            "video_id": "_zE3bEdb0nU",
+            "title": "배송이 아니라 투척해야 아이템이 전달되는 막장 협동 콘텐츠 ㅋㅋㅋ",
+            "channel_name": "잠뜰 TV",
+            "category": "Gaming",
+            "duration": "42:09",
+            "view_count": "74621",
+            "thumbnail_url": "https://i.ytimg.com/vi/_zE3bEdb0nU/hqdefault.jpg"
+        },
+        {
+            "video_id": "3araqZY-Ebg",
+            "title": "EVENING PRIMROSE (달맞이 꽃)",
+            "channel_name": "Lee Seok Hoon - Topic",
+            "category": "Music",
+            "duration": "3:42",
+            "view_count": "34205",
+            "thumbnail_url": "https://i.ytimg.com/vi/3araqZY-Ebg/hqdefault.jpg"
         },
         {
             "video_id": "ROwMqQrhLWo",
@@ -340,7 +340,7 @@
             "channel_name": "프로관전러 P.S",
             "category": "Gaming",
             "duration": "21:27",
-            "view_count": "174535",
+            "view_count": "177215",
             "thumbnail_url": "https://i.ytimg.com/vi/ROwMqQrhLWo/hqdefault.jpg"
         },
         {
@@ -349,7 +349,7 @@
             "channel_name": "SEIN - Topic",
             "category": "Music",
             "duration": "3:20",
-            "view_count": "132802",
+            "view_count": "134692",
             "thumbnail_url": "https://i.ytimg.com/vi/Uxxdmzg-R94/hqdefault.jpg"
         },
         {
@@ -358,7 +358,7 @@
             "channel_name": "말량",
             "category": "Gaming",
             "duration": "31:12",
-            "view_count": "219792",
+            "view_count": "224018",
             "thumbnail_url": "https://i.ytimg.com/vi/WKGQim5ugnE/hqdefault.jpg"
         },
         {
@@ -367,7 +367,7 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "3:26",
-            "view_count": "30129",
+            "view_count": "30600",
             "thumbnail_url": "https://i.ytimg.com/vi/aFxvx6es264/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "전략적죽음",
             "category": "Gaming",
             "duration": "30:52",
-            "view_count": "122540",
+            "view_count": "124407",
             "thumbnail_url": "https://i.ytimg.com/vi/zxKjOrV_qiM/hqdefault.jpg"
         }
     ]
