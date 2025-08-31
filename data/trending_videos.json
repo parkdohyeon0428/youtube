@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-08-31 22:19:10",
+    "scraped_time": "2025-08-31 23:10:39",
     "videos": [
         {
             "video_id": "dByCPcKMzp0",
@@ -7,7 +7,7 @@
             "channel_name": "Lim Young-woong - Topic",
             "category": "Music",
             "duration": "4:14",
-            "view_count": "410492",
+            "view_count": "417926",
             "thumbnail_url": "https://i.ytimg.com/vi/dByCPcKMzp0/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:50",
-            "view_count": "527487",
+            "view_count": "533142",
             "thumbnail_url": "https://i.ytimg.com/vi/Kd8cu0BUgKE/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "7:14:36",
-            "view_count": "2811465",
+            "view_count": "2812618",
             "thumbnail_url": "https://i.ytimg.com/vi/5NYwKQiMdBY/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "HUNTR/X - Topic",
             "category": "Music",
             "duration": "2:57",
-            "view_count": "1581004",
+            "view_count": "1609399",
             "thumbnail_url": "https://i.ytimg.com/vi/6zXNNPS7sPo/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "쉐어TV",
             "category": "Gaming",
             "duration": "19:30",
-            "view_count": "398589",
+            "view_count": "409302",
             "thumbnail_url": "https://i.ytimg.com/vi/-itWTbnXMiY/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "Saja Boys - Topic",
             "category": "Music",
             "duration": "3:12",
-            "view_count": "1595496",
+            "view_count": "1625604",
             "thumbnail_url": "https://i.ytimg.com/vi/Ytmcwjf2amw/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "33:59",
-            "view_count": "169136",
+            "view_count": "180003",
             "thumbnail_url": "https://i.ytimg.com/vi/uTc0gmfeRHE/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "LEE CHANGSUB - Topic",
             "category": "Music",
             "duration": "4:30",
-            "view_count": "672660",
+            "view_count": "678512",
             "thumbnail_url": "https://i.ytimg.com/vi/e4iG9uNPdYA/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "두치와뿌꾸",
             "category": "Gaming",
             "duration": "25:14",
-            "view_count": "153110",
+            "view_count": "160845",
             "thumbnail_url": "https://i.ytimg.com/vi/TIK6mOXRT_k/hqdefault.jpg"
         },
         {
@@ -88,7 +88,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "0:26",
-            "view_count": "148931",
+            "view_count": "150362",
             "thumbnail_url": "https://i.ytimg.com/vi/RsmUo83x8F4/hqdefault.jpg"
         },
         {
@@ -97,26 +97,8 @@
             "channel_name": "말량",
             "category": "Gaming",
             "duration": "27:47",
-            "view_count": "144046",
+            "view_count": "157872",
             "thumbnail_url": "https://i.ytimg.com/vi/7Id4_wjteGk/hqdefault.jpg"
-        },
-        {
-            "video_id": "iXEbk1YXTRw",
-            "title": "2025 팬미팅 LIVE_니",
-            "channel_name": "황영웅 Tv",
-            "category": "Music",
-            "duration": "2:36",
-            "view_count": "132163",
-            "thumbnail_url": "https://i.ytimg.com/vi/iXEbk1YXTRw/hqdefault.jpg"
-        },
-        {
-            "video_id": "XjGSqQichiU",
-            "title": "한국최초로 ''레인보우'' 기지 만들었더니 0.001%만 받는 *비밀선물* 받았습니다",
-            "channel_name": "PMY",
-            "category": "Gaming",
-            "duration": "17:26",
-            "view_count": "173810",
-            "thumbnail_url": "https://i.ytimg.com/vi/XjGSqQichiU/hqdefault.jpg"
         },
         {
             "video_id": "bR5REzaEFSY",
@@ -124,8 +106,26 @@
             "channel_name": "크러쉬 - Topic",
             "category": "Music",
             "duration": "3:47",
-            "view_count": "170699",
+            "view_count": "173144",
             "thumbnail_url": "https://i.ytimg.com/vi/bR5REzaEFSY/hqdefault.jpg"
+        },
+        {
+            "video_id": "XjGSqQichiU",
+            "title": "한국최초로 ''레인보우'' 기지 만들었더니 0.001%만 받는 *비밀선물* 받았습니다",
+            "channel_name": "PMY",
+            "category": "Gaming",
+            "duration": "17:26",
+            "view_count": "184920",
+            "thumbnail_url": "https://i.ytimg.com/vi/XjGSqQichiU/hqdefault.jpg"
+        },
+        {
+            "video_id": "iXEbk1YXTRw",
+            "title": "2025 팬미팅 LIVE_니",
+            "channel_name": "황영웅 Tv",
+            "category": "Music",
+            "duration": "2:36",
+            "view_count": "133713",
+            "thumbnail_url": "https://i.ytimg.com/vi/iXEbk1YXTRw/hqdefault.jpg"
         },
         {
             "video_id": "zvE-FMdXlLY",
@@ -133,44 +133,8 @@
             "channel_name": "마닥개_MADAKGAE",
             "category": "Gaming",
             "duration": "9:24",
-            "view_count": "221905",
+            "view_count": "223399",
             "thumbnail_url": "https://i.ytimg.com/vi/zvE-FMdXlLY/hqdefault.jpg"
-        },
-        {
-            "video_id": "afyIijncMDg",
-            "title": "Someday We Will (언젠가는 다시 마주치게 되는 것들)",
-            "channel_name": "So Soo Bin - Topic",
-            "category": "Music",
-            "duration": "4:03",
-            "view_count": "121354",
-            "thumbnail_url": "https://i.ytimg.com/vi/afyIijncMDg/hqdefault.jpg"
-        },
-        {
-            "video_id": "0byfwlRK0Ao",
-            "title": "형 나랑 대화 좀 하자",
-            "channel_name": "클리드",
-            "category": "Gaming",
-            "duration": "45:46",
-            "view_count": "145383",
-            "thumbnail_url": "https://i.ytimg.com/vi/0byfwlRK0Ao/hqdefault.jpg"
-        },
-        {
-            "video_id": "Y3riPIRAYdg",
-            "title": "VIRAL (feat. Dok2)",
-            "channel_name": "Homies - Topic",
-            "category": "Music",
-            "duration": "2:38",
-            "view_count": "120633",
-            "thumbnail_url": "https://i.ytimg.com/vi/Y3riPIRAYdg/hqdefault.jpg"
-        },
-        {
-            "video_id": "KHvCpxwsKGA",
-            "title": "\"이거 조작 아니야?\" 중간계 정글 지표를 보고 충격 먹은 이상호..!【중간계 Ep. 05】",
-            "channel_name": "이상호",
-            "category": "Gaming",
-            "duration": "39:36",
-            "view_count": "127658",
-            "thumbnail_url": "https://i.ytimg.com/vi/KHvCpxwsKGA/hqdefault.jpg"
         },
         {
             "video_id": "DntZ3-yCaFs",
@@ -178,26 +142,44 @@
             "channel_name": "Sabrina Carpenter - Topic",
             "category": "Music",
             "duration": "3:34",
-            "view_count": "384376",
+            "view_count": "397654",
             "thumbnail_url": "https://i.ytimg.com/vi/DntZ3-yCaFs/hqdefault.jpg"
         },
         {
-            "video_id": "aufnjt7v9yk",
-            "title": "PRX vs RRQ - VCT 퍼시픽 - 스테이지2 - 플레이오프 - 결승전",
-            "channel_name": "발로란트 챔피언스 투어",
+            "video_id": "0byfwlRK0Ao",
+            "title": "형 나랑 대화 좀 하자",
+            "channel_name": "클리드",
             "category": "Gaming",
-            "duration": "5:06:01",
-            "view_count": "224620",
-            "thumbnail_url": "https://i.ytimg.com/vi/aufnjt7v9yk/hqdefault.jpg"
+            "duration": "45:46",
+            "view_count": "154809",
+            "thumbnail_url": "https://i.ytimg.com/vi/0byfwlRK0Ao/hqdefault.jpg"
         },
         {
-            "video_id": "RQDAkt4M-Z4",
-            "title": "송소희(Song Sohee) - 스즈메 (すずめ / SUZUME) [Studio Live]",
-            "channel_name": "송소희 [Official]",
+            "video_id": "afyIijncMDg",
+            "title": "Someday We Will (언젠가는 다시 마주치게 되는 것들)",
+            "channel_name": "So Soo Bin - Topic",
             "category": "Music",
-            "duration": "3:53",
-            "view_count": "196742",
-            "thumbnail_url": "https://i.ytimg.com/vi/RQDAkt4M-Z4/hqdefault.jpg"
+            "duration": "4:03",
+            "view_count": "122611",
+            "thumbnail_url": "https://i.ytimg.com/vi/afyIijncMDg/hqdefault.jpg"
+        },
+        {
+            "video_id": "KHvCpxwsKGA",
+            "title": "\"이거 조작 아니야?\" 중간계 정글 지표를 보고 충격 먹은 이상호..!【중간계 Ep. 05】",
+            "channel_name": "이상호",
+            "category": "Gaming",
+            "duration": "39:36",
+            "view_count": "139769",
+            "thumbnail_url": "https://i.ytimg.com/vi/KHvCpxwsKGA/hqdefault.jpg"
+        },
+        {
+            "video_id": "Y3riPIRAYdg",
+            "title": "VIRAL (feat. Dok2)",
+            "channel_name": "Homies - Topic",
+            "category": "Music",
+            "duration": "2:38",
+            "view_count": "121902",
+            "thumbnail_url": "https://i.ytimg.com/vi/Y3riPIRAYdg/hqdefault.jpg"
         },
         {
             "video_id": "esMFWlhNve8",
@@ -205,8 +187,26 @@
             "channel_name": "김된모",
             "category": "Gaming",
             "duration": "13:24",
-            "view_count": "97564",
+            "view_count": "113849",
             "thumbnail_url": "https://i.ytimg.com/vi/esMFWlhNve8/hqdefault.jpg"
+        },
+        {
+            "video_id": "RQDAkt4M-Z4",
+            "title": "송소희(Song Sohee) - 스즈메 (すずめ / SUZUME) [Studio Live]",
+            "channel_name": "송소희 [Official]",
+            "category": "Music",
+            "duration": "3:53",
+            "view_count": "200703",
+            "thumbnail_url": "https://i.ytimg.com/vi/RQDAkt4M-Z4/hqdefault.jpg"
+        },
+        {
+            "video_id": "aufnjt7v9yk",
+            "title": "PRX vs RRQ - VCT 퍼시픽 - 스테이지2 - 플레이오프 - 결승전",
+            "channel_name": "발로란트 챔피언스 투어",
+            "category": "Gaming",
+            "duration": "5:06:01",
+            "view_count": "226417",
+            "thumbnail_url": "https://i.ytimg.com/vi/aufnjt7v9yk/hqdefault.jpg"
         },
         {
             "video_id": "QMGkDbcwDxY",
@@ -214,7 +214,7 @@
             "channel_name": "IVE - Topic",
             "category": "Music",
             "duration": "2:34",
-            "view_count": "1804112",
+            "view_count": "1821410",
             "thumbnail_url": "https://i.ytimg.com/vi/QMGkDbcwDxY/hqdefault.jpg"
         },
         {
@@ -223,7 +223,7 @@
             "channel_name": "버니버니",
             "category": "Gaming",
             "duration": "8:07",
-            "view_count": "121469",
+            "view_count": "128883",
             "thumbnail_url": "https://i.ytimg.com/vi/ZN4YHejzv8I/hqdefault.jpg"
         },
         {
@@ -232,26 +232,8 @@
             "channel_name": "Jessica Baio - Topic",
             "category": "Music",
             "duration": "2:56",
-            "view_count": "59772",
+            "view_count": "62115",
             "thumbnail_url": "https://i.ytimg.com/vi/sSm_FET7oRs/hqdefault.jpg"
-        },
-        {
-            "video_id": "d845aCTvXno",
-            "title": "서로의 자존심을 건 저와수 아가리 맞다이ㅋㅋㅋㅋ",
-            "channel_name": "저라뎃 JUSTLIKETHAT",
-            "category": "Gaming",
-            "duration": "28:50",
-            "view_count": "142557",
-            "thumbnail_url": "https://i.ytimg.com/vi/d845aCTvXno/hqdefault.jpg"
-        },
-        {
-            "video_id": "CWoFsfhn8-4",
-            "title": "Sky Walking (Sky Walking)",
-            "channel_name": "MIYEON - Topic",
-            "category": "Music",
-            "duration": "4:13",
-            "view_count": "73922",
-            "thumbnail_url": "https://i.ytimg.com/vi/CWoFsfhn8-4/hqdefault.jpg"
         },
         {
             "video_id": "D5omo9Af3Mw",
@@ -259,8 +241,26 @@
             "channel_name": "동수칸TV",
             "category": "Gaming",
             "duration": "33:05",
-            "view_count": "131428",
+            "view_count": "134985",
             "thumbnail_url": "https://i.ytimg.com/vi/D5omo9Af3Mw/hqdefault.jpg"
+        },
+        {
+            "video_id": "CWoFsfhn8-4",
+            "title": "Sky Walking (Sky Walking)",
+            "channel_name": "MIYEON - Topic",
+            "category": "Music",
+            "duration": "4:13",
+            "view_count": "74698",
+            "thumbnail_url": "https://i.ytimg.com/vi/CWoFsfhn8-4/hqdefault.jpg"
+        },
+        {
+            "video_id": "d845aCTvXno",
+            "title": "서로의 자존심을 건 저와수 아가리 맞다이ㅋㅋㅋㅋ",
+            "channel_name": "저라뎃 JUSTLIKETHAT",
+            "category": "Gaming",
+            "duration": "28:50",
+            "view_count": "145067",
+            "thumbnail_url": "https://i.ytimg.com/vi/d845aCTvXno/hqdefault.jpg"
         },
         {
             "video_id": "B1ShLiq3EVc",
@@ -268,7 +268,7 @@
             "channel_name": "STARSHIP",
             "category": "Music",
             "duration": "2:38",
-            "view_count": "11442693",
+            "view_count": "11471552",
             "thumbnail_url": "https://i.ytimg.com/vi/B1ShLiq3EVc/hqdefault.jpg"
         },
         {
@@ -277,7 +277,7 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "36:54",
-            "view_count": "220363",
+            "view_count": "226315",
             "thumbnail_url": "https://i.ytimg.com/vi/bBJVzIdrHmQ/hqdefault.jpg"
         },
         {
@@ -286,26 +286,8 @@
             "channel_name": "Lone Star Lyric House - Topic",
             "category": "Music",
             "duration": "3:35",
-            "view_count": "34786",
+            "view_count": "37363",
             "thumbnail_url": "https://i.ytimg.com/vi/HvZ_t10jEP4/hqdefault.jpg"
-        },
-        {
-            "video_id": "wAKFlZSaxS8",
-            "title": "슈퍼패스트 트페가 가져온 미친 재앙",
-            "channel_name": "잡상싱",
-            "category": "Gaming",
-            "duration": "11:49",
-            "view_count": "251431",
-            "thumbnail_url": "https://i.ytimg.com/vi/wAKFlZSaxS8/hqdefault.jpg"
-        },
-        {
-            "video_id": "8KnuebBOtsQ",
-            "title": "머쉬베놈 (MUSHVENOM) - 오랫동안 (For a long time) Feat. 거북이 Official MV",
-            "channel_name": "머쉬베놈",
-            "category": "Music",
-            "duration": "3:14",
-            "view_count": "317267",
-            "thumbnail_url": "https://i.ytimg.com/vi/8KnuebBOtsQ/hqdefault.jpg"
         },
         {
             "video_id": "XXy-2dSFjEQ",
@@ -313,8 +295,26 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "36:41",
-            "view_count": "119850",
+            "view_count": "126288",
             "thumbnail_url": "https://i.ytimg.com/vi/XXy-2dSFjEQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "8KnuebBOtsQ",
+            "title": "머쉬베놈 (MUSHVENOM) - 오랫동안 (For a long time) Feat. 거북이 Official MV",
+            "channel_name": "머쉬베놈",
+            "category": "Music",
+            "duration": "3:14",
+            "view_count": "319622",
+            "thumbnail_url": "https://i.ytimg.com/vi/8KnuebBOtsQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "wAKFlZSaxS8",
+            "title": "슈퍼패스트 트페가 가져온 미친 재앙",
+            "channel_name": "잡상싱",
+            "category": "Gaming",
+            "duration": "11:49",
+            "view_count": "255173",
+            "thumbnail_url": "https://i.ytimg.com/vi/wAKFlZSaxS8/hqdefault.jpg"
         },
         {
             "video_id": "e91TIDpaXFU",
@@ -322,7 +322,7 @@
             "channel_name": "The Rose - Topic",
             "category": "Music",
             "duration": "4:59",
-            "view_count": "105973",
+            "view_count": "107878",
             "thumbnail_url": "https://i.ytimg.com/vi/e91TIDpaXFU/hqdefault.jpg"
         },
         {
@@ -331,7 +331,7 @@
             "channel_name": "이도원",
             "category": "Gaming",
             "duration": "13:04:14",
-            "view_count": "198649",
+            "view_count": "203010",
             "thumbnail_url": "https://i.ytimg.com/vi/f_D2zN2ydXw/hqdefault.jpg"
         },
         {
@@ -340,17 +340,17 @@
             "channel_name": "D.O - Topic",
             "category": "Music",
             "duration": "4:27",
-            "view_count": "17830",
+            "view_count": "18161",
             "thumbnail_url": "https://i.ytimg.com/vi/hT9roOwnKQA/hqdefault.jpg"
         },
         {
-            "video_id": "HD4rGUmgYbU",
-            "title": "악마의 유혹",
-            "channel_name": "팔차선 [8LJAYWALKING]",
+            "video_id": "qVO3w6dssA4",
+            "title": "잠뜰TV 멤버들의 숨겨진 비밀 폭로합니다 (진짜임)",
+            "channel_name": "잠뜰 TV",
             "category": "Gaming",
-            "duration": "15:10",
-            "view_count": "174730",
-            "thumbnail_url": "https://i.ytimg.com/vi/HD4rGUmgYbU/hqdefault.jpg"
+            "duration": "23:06",
+            "view_count": "68970",
+            "thumbnail_url": "https://i.ytimg.com/vi/qVO3w6dssA4/hqdefault.jpg"
         },
         {
             "video_id": "keOnleW2eak",
@@ -358,17 +358,17 @@
             "channel_name": "Official髭男dism",
             "category": "Music",
             "duration": "5:13",
-            "view_count": "269161",
+            "view_count": "282182",
             "thumbnail_url": "https://i.ytimg.com/vi/keOnleW2eak/hqdefault.jpg"
         },
         {
-            "video_id": "YQ96vXHTQZI",
-            "title": "덕개 벌칙으로 시작된 개판5분 청소 대소동ㅋㅋ (with 라더)",
-            "channel_name": "잠뜰 TV",
+            "video_id": "XvRsSUtzLlk",
+            "title": "숲🌲에서 다들 줄 서 먹는 셰프🧑‍🍳가 되었습니다!!!(로블록스)",
+            "channel_name": "하네 HANE - 로블록스 게임채널",
             "category": "Gaming",
-            "duration": "27:40",
-            "view_count": "207205",
-            "thumbnail_url": "https://i.ytimg.com/vi/YQ96vXHTQZI/hqdefault.jpg"
+            "duration": "23:13",
+            "view_count": "61378",
+            "thumbnail_url": "https://i.ytimg.com/vi/XvRsSUtzLlk/hqdefault.jpg"
         },
         {
             "video_id": "Od5eCT72uoI",
@@ -376,7 +376,7 @@
             "channel_name": "aespa",
             "category": "Music",
             "duration": "2:45",
-            "view_count": "1224314",
+            "view_count": "1230265",
             "thumbnail_url": "https://i.ytimg.com/vi/Od5eCT72uoI/hqdefault.jpg"
         }
     ]
