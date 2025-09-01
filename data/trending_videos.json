@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-09-02 03:18:18",
+    "scraped_time": "2025-09-02 04:10:15",
     "videos": [
         {
             "video_id": "28dAfmIAlCo",
@@ -7,7 +7,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:07",
-            "view_count": "1297532",
+            "view_count": "1338745",
             "thumbnail_url": "https://i.ytimg.com/vi/28dAfmIAlCo/hqdefault.jpg"
         },
         {
@@ -16,8 +16,26 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "8:37",
-            "view_count": "128443",
+            "view_count": "131405",
             "thumbnail_url": "https://i.ytimg.com/vi/sZKk6cGw09Q/hqdefault.jpg"
+        },
+        {
+            "video_id": "Xgt24oXhSqM",
+            "title": "별의 각성 목격자",
+            "channel_name": "괴물쥐 유튜브",
+            "category": "Gaming",
+            "duration": "26:36",
+            "view_count": "250590",
+            "thumbnail_url": "https://i.ytimg.com/vi/Xgt24oXhSqM/hqdefault.jpg"
+        },
+        {
+            "video_id": "HnYtDIW7elY",
+            "title": "ZEROBASEONE (제로베이스원) 'ICONIK' MV",
+            "channel_name": "ZEROBASEONE",
+            "category": "Music",
+            "duration": "3:14",
+            "view_count": "5990005",
+            "thumbnail_url": "https://i.ytimg.com/vi/HnYtDIW7elY/hqdefault.jpg"
         },
         {
             "video_id": "5NYwKQiMdBY",
@@ -34,26 +52,8 @@
             "channel_name": "Lim Young-woong - Topic",
             "category": "Music",
             "duration": "4:14",
-            "view_count": "611222",
+            "view_count": "612695",
             "thumbnail_url": "https://i.ytimg.com/vi/dByCPcKMzp0/hqdefault.jpg"
-        },
-        {
-            "video_id": "xefIseIis4I",
-            "title": "막을 수 없는 뽀삐",
-            "channel_name": "괴물쥐 유튜브",
-            "category": "Gaming",
-            "duration": "27:51",
-            "view_count": "463173",
-            "thumbnail_url": "https://i.ytimg.com/vi/xefIseIis4I/hqdefault.jpg"
-        },
-        {
-            "video_id": "HnYtDIW7elY",
-            "title": "ZEROBASEONE (제로베이스원) 'ICONIK' MV",
-            "channel_name": "ZEROBASEONE",
-            "category": "Music",
-            "duration": "3:14",
-            "view_count": "5771477",
-            "thumbnail_url": "https://i.ytimg.com/vi/HnYtDIW7elY/hqdefault.jpg"
         },
         {
             "video_id": "SGNr57q1e90",
@@ -61,7 +61,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "15:04",
-            "view_count": "214446",
+            "view_count": "225643",
             "thumbnail_url": "https://i.ytimg.com/vi/SGNr57q1e90/hqdefault.jpg"
         },
         {
@@ -70,26 +70,8 @@
             "channel_name": "TREASURE - Topic",
             "category": "Music",
             "duration": "2:57",
-            "view_count": "244855",
+            "view_count": "251791",
             "thumbnail_url": "https://i.ytimg.com/vi/wqSKx_duQEg/hqdefault.jpg"
-        },
-        {
-            "video_id": "P6vU1BJEw2A",
-            "title": "24시간동안 3만로벅스,퓨즈,거래,실험 등 온갖 방법 써서 딸기 코끼리 얻기 도전!!!! (로블록스 브레인롯훔치기)",
-            "channel_name": "쉐어TV",
-            "category": "Gaming",
-            "duration": "18:52",
-            "view_count": "259824",
-            "thumbnail_url": "https://i.ytimg.com/vi/P6vU1BJEw2A/hqdefault.jpg"
-        },
-        {
-            "video_id": "r4RQR3OHXqg",
-            "title": "COLOR",
-            "channel_name": "NCT WISH - Topic",
-            "category": "Music",
-            "duration": "3:00",
-            "view_count": "101120",
-            "thumbnail_url": "https://i.ytimg.com/vi/r4RQR3OHXqg/hqdefault.jpg"
         },
         {
             "video_id": "XNrIpTODvDA",
@@ -97,8 +79,26 @@
             "channel_name": "말왕TV",
             "category": "Gaming",
             "duration": "24:59",
-            "view_count": "145096",
+            "view_count": "150284",
             "thumbnail_url": "https://i.ytimg.com/vi/XNrIpTODvDA/hqdefault.jpg"
+        },
+        {
+            "video_id": "r4RQR3OHXqg",
+            "title": "COLOR",
+            "channel_name": "NCT WISH - Topic",
+            "category": "Music",
+            "duration": "3:00",
+            "view_count": "103667",
+            "thumbnail_url": "https://i.ytimg.com/vi/r4RQR3OHXqg/hqdefault.jpg"
+        },
+        {
+            "video_id": "P6vU1BJEw2A",
+            "title": "24시간동안 3만로벅스,퓨즈,거래,실험 등 온갖 방법 써서 딸기 코끼리 얻기 도전!!!! (로블록스 브레인롯훔치기)",
+            "channel_name": "쉐어TV",
+            "category": "Gaming",
+            "duration": "18:52",
+            "view_count": "260293",
+            "thumbnail_url": "https://i.ytimg.com/vi/P6vU1BJEw2A/hqdefault.jpg"
         },
         {
             "video_id": "5JeBGCbeOJ0",
@@ -106,7 +106,7 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "12:11",
-            "view_count": "136632",
+            "view_count": "159110",
             "thumbnail_url": "https://i.ytimg.com/vi/5JeBGCbeOJ0/hqdefault.jpg"
         },
         {
@@ -115,7 +115,7 @@
             "channel_name": "근가놈",
             "category": "Gaming",
             "duration": "21:48",
-            "view_count": "104097",
+            "view_count": "107674",
             "thumbnail_url": "https://i.ytimg.com/vi/Pl6G7XYVDIQ/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "STARSHIP",
             "category": "Music",
             "duration": "3:16",
-            "view_count": "1321818",
+            "view_count": "1392011",
             "thumbnail_url": "https://i.ytimg.com/vi/ykFHzr0oVog/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "김왼팔",
             "category": "Gaming",
             "duration": "16:03",
-            "view_count": "84774",
+            "view_count": "85251",
             "thumbnail_url": "https://i.ytimg.com/vi/ZI1ufj2nDZM/hqdefault.jpg"
         },
         {
@@ -142,17 +142,17 @@
             "channel_name": "HUNTR/X - Topic",
             "category": "Music",
             "duration": "2:57",
-            "view_count": "2467924",
+            "view_count": "2495893",
             "thumbnail_url": "https://i.ytimg.com/vi/6zXNNPS7sPo/hqdefault.jpg"
         },
         {
-            "video_id": "5bDUbBPt8nU",
-            "title": "한국 랭킹 1등의 기지에서 *국가 권력급 드래곤 2마리*  브레인롯 훔치기",
-            "channel_name": "꼬예유의 로블록스 저장소",
+            "video_id": "IZ6rovGG6Aw",
+            "title": "알파고한테 지고 화나서 대신 복수해주는 사람한테는 사비 털어서 햄버거 사주겠다고 상품까지 걸어버린 상대ㄷㄷ",
+            "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
-            "duration": "26:35",
-            "view_count": "96405",
-            "thumbnail_url": "https://i.ytimg.com/vi/5bDUbBPt8nU/hqdefault.jpg"
+            "duration": "45:41",
+            "view_count": "169260",
+            "thumbnail_url": "https://i.ytimg.com/vi/IZ6rovGG6Aw/hqdefault.jpg"
         },
         {
             "video_id": "Ytmcwjf2amw",
@@ -160,8 +160,26 @@
             "channel_name": "Saja Boys - Topic",
             "category": "Music",
             "duration": "3:12",
-            "view_count": "2610918",
+            "view_count": "2648947",
             "thumbnail_url": "https://i.ytimg.com/vi/Ytmcwjf2amw/hqdefault.jpg"
+        },
+        {
+            "video_id": "5bDUbBPt8nU",
+            "title": "한국 랭킹 1등의 기지에서 *국가 권력급 드래곤 2마리*  브레인롯 훔치기",
+            "channel_name": "꼬예유의 로블록스 저장소",
+            "category": "Gaming",
+            "duration": "26:35",
+            "view_count": "96738",
+            "thumbnail_url": "https://i.ytimg.com/vi/5bDUbBPt8nU/hqdefault.jpg"
+        },
+        {
+            "video_id": "qrYHA-5GMRQ",
+            "title": "TASTE OF LIGHT",
+            "channel_name": "NCT",
+            "category": "Music",
+            "duration": "4:14",
+            "view_count": "125522",
+            "thumbnail_url": "https://i.ytimg.com/vi/qrYHA-5GMRQ/hqdefault.jpg"
         },
         {
             "video_id": "j2FbQcWjo-E",
@@ -169,7 +187,7 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "43:49",
-            "view_count": "193920",
+            "view_count": "195095",
             "thumbnail_url": "https://i.ytimg.com/vi/j2FbQcWjo-E/hqdefault.jpg"
         },
         {
@@ -178,44 +196,8 @@
             "channel_name": "ILLIT - Topic",
             "category": "Music",
             "duration": "3:09",
-            "view_count": "139787",
+            "view_count": "141379",
             "thumbnail_url": "https://i.ytimg.com/vi/PfMGfcgdm3Q/hqdefault.jpg"
-        },
-        {
-            "video_id": "IZ6rovGG6Aw",
-            "title": "알파고한테 지고 화나서 대신 복수해주는 사람한테는 사비 털어서 햄버거 사주겠다고 상품까지 걸어버린 상대ㄷㄷ",
-            "channel_name": "[ALTUBE] 김성현TV",
-            "category": "Gaming",
-            "duration": "45:41",
-            "view_count": "165969",
-            "thumbnail_url": "https://i.ytimg.com/vi/IZ6rovGG6Aw/hqdefault.jpg"
-        },
-        {
-            "video_id": "qrYHA-5GMRQ",
-            "title": "TASTE OF LIGHT",
-            "channel_name": "NCT",
-            "category": "Music",
-            "duration": "4:14",
-            "view_count": "105183",
-            "thumbnail_url": "https://i.ytimg.com/vi/qrYHA-5GMRQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "lQNpg_OJVZg",
-            "title": "\"그 비웃음, 환호성으로 바꿔줄게\"【중간계 Ep. 06】",
-            "channel_name": "이상호",
-            "category": "Gaming",
-            "duration": "33:21",
-            "view_count": "197931",
-            "thumbnail_url": "https://i.ytimg.com/vi/lQNpg_OJVZg/hqdefault.jpg"
-        },
-        {
-            "video_id": "jM9jaZqIZw8",
-            "title": "Tell Her",
-            "channel_name": "Ella Mai - Topic",
-            "category": "Music",
-            "duration": "3:20",
-            "view_count": "262379",
-            "thumbnail_url": "https://i.ytimg.com/vi/jM9jaZqIZw8/hqdefault.jpg"
         },
         {
             "video_id": "doY5iEI_5ak",
@@ -223,8 +205,44 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "18:57",
-            "view_count": "144841",
+            "view_count": "150617",
             "thumbnail_url": "https://i.ytimg.com/vi/doY5iEI_5ak/hqdefault.jpg"
+        },
+        {
+            "video_id": "jM9jaZqIZw8",
+            "title": "Tell Her",
+            "channel_name": "Ella Mai - Topic",
+            "category": "Music",
+            "duration": "3:20",
+            "view_count": "269872",
+            "thumbnail_url": "https://i.ytimg.com/vi/jM9jaZqIZw8/hqdefault.jpg"
+        },
+        {
+            "video_id": "lQNpg_OJVZg",
+            "title": "\"그 비웃음, 환호성으로 바꿔줄게\"【중간계 Ep. 06】",
+            "channel_name": "이상호",
+            "category": "Gaming",
+            "duration": "33:21",
+            "view_count": "199220",
+            "thumbnail_url": "https://i.ytimg.com/vi/lQNpg_OJVZg/hqdefault.jpg"
+        },
+        {
+            "video_id": "QLFHpZ9YwQ4",
+            "title": "Stay with Me",
+            "channel_name": "Huh Gak - Topic",
+            "category": "Music",
+            "duration": "3:55",
+            "view_count": "32727",
+            "thumbnail_url": "https://i.ytimg.com/vi/QLFHpZ9YwQ4/hqdefault.jpg"
+        },
+        {
+            "video_id": "JXSZL8t3ckc",
+            "title": "제가 천국도에 같이 갈 여자는.. 【GTA 여우도시 15화】",
+            "channel_name": "저라뎃 JUSTLIKETHAT",
+            "category": "Gaming",
+            "duration": "41:59",
+            "view_count": "94180",
+            "thumbnail_url": "https://i.ytimg.com/vi/JXSZL8t3ckc/hqdefault.jpg"
         },
         {
             "video_id": "R5QWry3uCdc",
@@ -232,7 +250,7 @@
             "channel_name": "MONSTA X - Topic",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "12043",
+            "view_count": "12375",
             "thumbnail_url": "https://i.ytimg.com/vi/R5QWry3uCdc/hqdefault.jpg"
         },
         {
@@ -241,26 +259,8 @@
             "channel_name": "두치와뿌꾸",
             "category": "Gaming",
             "duration": "25:14",
-            "view_count": "241726",
+            "view_count": "242654",
             "thumbnail_url": "https://i.ytimg.com/vi/TIK6mOXRT_k/hqdefault.jpg"
-        },
-        {
-            "video_id": "QLFHpZ9YwQ4",
-            "title": "Stay with Me",
-            "channel_name": "Huh Gak - Topic",
-            "category": "Music",
-            "duration": "3:55",
-            "view_count": "31656",
-            "thumbnail_url": "https://i.ytimg.com/vi/QLFHpZ9YwQ4/hqdefault.jpg"
-        },
-        {
-            "video_id": "7Id4_wjteGk",
-            "title": "OG시크릿최강 OG시크릿의 등장과 \"1% 변기 시크릿\" 도전 멸망전!!! 시크릿 잔뜩얻고 새미까지 합체시켜보기 (로블록스 브레인롯 훔치기)",
-            "channel_name": "말량",
-            "category": "Gaming",
-            "duration": "27:47",
-            "view_count": "257855",
-            "thumbnail_url": "https://i.ytimg.com/vi/7Id4_wjteGk/hqdefault.jpg"
         },
         {
             "video_id": "DntZ3-yCaFs",
@@ -268,17 +268,17 @@
             "channel_name": "Sabrina Carpenter - Topic",
             "category": "Music",
             "duration": "3:34",
-            "view_count": "900531",
+            "view_count": "917793",
             "thumbnail_url": "https://i.ytimg.com/vi/DntZ3-yCaFs/hqdefault.jpg"
         },
         {
-            "video_id": "JXSZL8t3ckc",
-            "title": "제가 천국도에 같이 갈 여자는.. 【GTA 여우도시 15화】",
-            "channel_name": "저라뎃 JUSTLIKETHAT",
+            "video_id": "7Id4_wjteGk",
+            "title": "OG시크릿최강 OG시크릿의 등장과 \"1% 변기 시크릿\" 도전 멸망전!!! 시크릿 잔뜩얻고 새미까지 합체시켜보기 (로블록스 브레인롯 훔치기)",
+            "channel_name": "말량",
             "category": "Gaming",
-            "duration": "41:59",
-            "view_count": "92138",
-            "thumbnail_url": "https://i.ytimg.com/vi/JXSZL8t3ckc/hqdefault.jpg"
+            "duration": "27:47",
+            "view_count": "257970",
+            "thumbnail_url": "https://i.ytimg.com/vi/7Id4_wjteGk/hqdefault.jpg"
         },
         {
             "video_id": "HeqsjDF7Lw0",
@@ -286,8 +286,26 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "3:30",
-            "view_count": "583697",
+            "view_count": "591489",
             "thumbnail_url": "https://i.ytimg.com/vi/HeqsjDF7Lw0/hqdefault.jpg"
+        },
+        {
+            "video_id": "5jkTs1GNics",
+            "title": "둘 중 한명은 무릎꿇고 사과한다 무릎빵 CK 2025.8.31 풀영상",
+            "channel_name": "튜브김민교 풀영상",
+            "category": "Gaming",
+            "duration": "2:58:40",
+            "view_count": "90252",
+            "thumbnail_url": "https://i.ytimg.com/vi/5jkTs1GNics/hqdefault.jpg"
+        },
+        {
+            "video_id": "S5nsDT5oU90",
+            "title": "IVE 아이브 'XOXZ' DANCE PRACTICE",
+            "channel_name": "IVE",
+            "category": "Entertainment",
+            "duration": "2:26",
+            "view_count": "102836",
+            "thumbnail_url": "https://i.ytimg.com/vi/S5nsDT5oU90/hqdefault.jpg"
         },
         {
             "video_id": "1AHkehCST0Q",
@@ -295,7 +313,7 @@
             "channel_name": "버니버니",
             "category": "Gaming",
             "duration": "12:07",
-            "view_count": "112570",
+            "view_count": "113265",
             "thumbnail_url": "https://i.ytimg.com/vi/1AHkehCST0Q/hqdefault.jpg"
         },
         {
@@ -304,26 +322,8 @@
             "channel_name": "LEE CHANGSUB - Topic",
             "category": "Music",
             "duration": "4:30",
-            "view_count": "870868",
+            "view_count": "873055",
             "thumbnail_url": "https://i.ytimg.com/vi/e4iG9uNPdYA/hqdefault.jpg"
-        },
-        {
-            "video_id": "5jkTs1GNics",
-            "title": "둘 중 한명은 무릎꿇고 사과한다 무릎빵 CK 2025.8.31 풀영상",
-            "channel_name": "튜브김민교 풀영상",
-            "category": "Gaming",
-            "duration": "2:58:40",
-            "view_count": "88451",
-            "thumbnail_url": "https://i.ytimg.com/vi/5jkTs1GNics/hqdefault.jpg"
-        },
-        {
-            "video_id": "sSm_FET7oRs",
-            "title": "love me less",
-            "channel_name": "Jessica Baio - Topic",
-            "category": "Music",
-            "duration": "2:56",
-            "view_count": "163582",
-            "thumbnail_url": "https://i.ytimg.com/vi/sSm_FET7oRs/hqdefault.jpg"
         },
         {
             "video_id": "esMFWlhNve8",
@@ -331,17 +331,17 @@
             "channel_name": "김된모",
             "category": "Gaming",
             "duration": "13:24",
-            "view_count": "219504",
+            "view_count": "220050",
             "thumbnail_url": "https://i.ytimg.com/vi/esMFWlhNve8/hqdefault.jpg"
         },
         {
-            "video_id": "qS7OsvKqojg",
-            "title": "Stray Kids \"삐처리 (BLEEP)\" Video",
-            "channel_name": "Stray Kids",
+            "video_id": "sSm_FET7oRs",
+            "title": "love me less",
+            "channel_name": "Jessica Baio - Topic",
             "category": "Music",
-            "duration": "2:59",
-            "view_count": "2218714",
-            "thumbnail_url": "https://i.ytimg.com/vi/qS7OsvKqojg/hqdefault.jpg"
+            "duration": "2:56",
+            "view_count": "165853",
+            "thumbnail_url": "https://i.ytimg.com/vi/sSm_FET7oRs/hqdefault.jpg"
         },
         {
             "video_id": "N0iXUmdgu9o",
@@ -349,17 +349,17 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "13:09",
-            "view_count": "237355",
+            "view_count": "238694",
             "thumbnail_url": "https://i.ytimg.com/vi/N0iXUmdgu9o/hqdefault.jpg"
         },
         {
-            "video_id": "5Ictn_UNhCE",
-            "title": "Recognize",
-            "channel_name": "Russ - Topic",
+            "video_id": "qS7OsvKqojg",
+            "title": "Stray Kids \"삐처리 (BLEEP)\" Video",
+            "channel_name": "Stray Kids",
             "category": "Music",
-            "duration": "3:02",
-            "view_count": "198328",
-            "thumbnail_url": "https://i.ytimg.com/vi/5Ictn_UNhCE/hqdefault.jpg"
+            "duration": "2:59",
+            "view_count": "2252700",
+            "thumbnail_url": "https://i.ytimg.com/vi/qS7OsvKqojg/hqdefault.jpg"
         },
         {
             "video_id": "qVO3w6dssA4",
@@ -367,17 +367,17 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "23:06",
-            "view_count": "237758",
+            "view_count": "238537",
             "thumbnail_url": "https://i.ytimg.com/vi/qVO3w6dssA4/hqdefault.jpg"
         },
         {
-            "video_id": "08aqgM8laC4",
-            "title": "Carefree (Carefree)",
-            "channel_name": "KWON SOON IL - Topic",
+            "video_id": "5Ictn_UNhCE",
+            "title": "Recognize",
+            "channel_name": "Russ - Topic",
             "category": "Music",
-            "duration": "3:00",
-            "view_count": "20675",
-            "thumbnail_url": "https://i.ytimg.com/vi/08aqgM8laC4/hqdefault.jpg"
+            "duration": "3:02",
+            "view_count": "203712",
+            "thumbnail_url": "https://i.ytimg.com/vi/5Ictn_UNhCE/hqdefault.jpg"
         }
     ]
 }
