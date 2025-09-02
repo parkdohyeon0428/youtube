@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-09-02 18:14:42",
+    "scraped_time": "2025-09-02 19:14:29",
     "videos": [
         {
             "video_id": "28dAfmIAlCo",
@@ -7,7 +7,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:07",
-            "view_count": "1692033",
+            "view_count": "1756070",
             "thumbnail_url": "https://i.ytimg.com/vi/28dAfmIAlCo/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "9:42",
-            "view_count": "87217",
+            "view_count": "139296",
             "thumbnail_url": "https://i.ytimg.com/vi/veg0i7JoPUU/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "26:36",
-            "view_count": "416986",
+            "view_count": "425305",
             "thumbnail_url": "https://i.ytimg.com/vi/Xgt24oXhSqM/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "NCT WISH - Topic",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "200118",
+            "view_count": "208995",
             "thumbnail_url": "https://i.ytimg.com/vi/r4RQR3OHXqg/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "40:18",
-            "view_count": "238035",
+            "view_count": "261717",
             "thumbnail_url": "https://i.ytimg.com/vi/Z_8P1jXtVRs/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "12:11",
-            "view_count": "383657",
+            "view_count": "387038",
             "thumbnail_url": "https://i.ytimg.com/vi/5JeBGCbeOJ0/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "ZEROBASEONE",
             "category": "Music",
             "duration": "3:14",
-            "view_count": "7897680",
+            "view_count": "8582772",
             "thumbnail_url": "https://i.ytimg.com/vi/HnYtDIW7elY/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "39:26",
-            "view_count": "198681",
+            "view_count": "205510",
             "thumbnail_url": "https://i.ytimg.com/vi/Zf-0MAcAr2c/hqdefault.jpg"
         },
         {
@@ -88,7 +88,7 @@
             "channel_name": "TREASURE - Topic",
             "category": "Music",
             "duration": "2:57",
-            "view_count": "355507",
+            "view_count": "365310",
             "thumbnail_url": "https://i.ytimg.com/vi/wqSKx_duQEg/hqdefault.jpg"
         },
         {
@@ -97,7 +97,7 @@
             "channel_name": "말왕TV",
             "category": "Gaming",
             "duration": "24:59",
-            "view_count": "198114",
+            "view_count": "204800",
             "thumbnail_url": "https://i.ytimg.com/vi/XNrIpTODvDA/hqdefault.jpg"
         },
         {
@@ -106,7 +106,7 @@
             "channel_name": "Lim Young-woong - Topic",
             "category": "Music",
             "duration": "4:14",
-            "view_count": "697287",
+            "view_count": "699428",
             "thumbnail_url": "https://i.ytimg.com/vi/dByCPcKMzp0/hqdefault.jpg"
         },
         {
@@ -115,7 +115,7 @@
             "channel_name": "쉐어TV",
             "category": "Gaming",
             "duration": "18:52",
-            "view_count": "307803",
+            "view_count": "313376",
             "thumbnail_url": "https://i.ytimg.com/vi/P6vU1BJEw2A/hqdefault.jpg"
         },
         {
@@ -124,26 +124,8 @@
             "channel_name": "STARSHIP",
             "category": "Music",
             "duration": "3:16",
-            "view_count": "1907717",
+            "view_count": "1950268",
             "thumbnail_url": "https://i.ytimg.com/vi/ykFHzr0oVog/hqdefault.jpg"
-        },
-        {
-            "video_id": "Pl6G7XYVDIQ",
-            "title": "0.01% 자연산 9레벨 보만다 잡기【울트라썬·문】#1",
-            "channel_name": "근가놈",
-            "category": "Gaming",
-            "duration": "21:48",
-            "view_count": "136594",
-            "thumbnail_url": "https://i.ytimg.com/vi/Pl6G7XYVDIQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "qrYHA-5GMRQ",
-            "title": "TASTE OF LIGHT",
-            "channel_name": "NCT",
-            "category": "Music",
-            "duration": "4:14",
-            "view_count": "271561",
-            "thumbnail_url": "https://i.ytimg.com/vi/qrYHA-5GMRQ/hqdefault.jpg"
         },
         {
             "video_id": "doY5iEI_5ak",
@@ -151,8 +133,26 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "18:57",
-            "view_count": "210892",
+            "view_count": "227091",
             "thumbnail_url": "https://i.ytimg.com/vi/doY5iEI_5ak/hqdefault.jpg"
+        },
+        {
+            "video_id": "qrYHA-5GMRQ",
+            "title": "TASTE OF LIGHT",
+            "channel_name": "NCT",
+            "category": "Music",
+            "duration": "4:14",
+            "view_count": "280078",
+            "thumbnail_url": "https://i.ytimg.com/vi/qrYHA-5GMRQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "Pl6G7XYVDIQ",
+            "title": "0.01% 자연산 9레벨 보만다 잡기【울트라썬·문】#1",
+            "channel_name": "근가놈",
+            "category": "Gaming",
+            "duration": "21:48",
+            "view_count": "138815",
+            "thumbnail_url": "https://i.ytimg.com/vi/Pl6G7XYVDIQ/hqdefault.jpg"
         },
         {
             "video_id": "6zXNNPS7sPo",
@@ -160,26 +160,8 @@
             "channel_name": "HUNTR/X - Topic",
             "category": "Music",
             "duration": "2:57",
-            "view_count": "2840145",
+            "view_count": "2863768",
             "thumbnail_url": "https://i.ytimg.com/vi/6zXNNPS7sPo/hqdefault.jpg"
-        },
-        {
-            "video_id": "w7ulrbZpZyg",
-            "title": "게임 시작 6분만에 등장한 초패스트 스카웃을 보자마자 눈 뒤집혀버린 상대ㅋㅋ",
-            "channel_name": "[ALTUBE] 김성현TV",
-            "category": "Gaming",
-            "duration": "38:07",
-            "view_count": "157191",
-            "thumbnail_url": "https://i.ytimg.com/vi/w7ulrbZpZyg/hqdefault.jpg"
-        },
-        {
-            "video_id": "Ytmcwjf2amw",
-            "title": "Your Idol",
-            "channel_name": "Saja Boys - Topic",
-            "category": "Music",
-            "duration": "3:12",
-            "view_count": "3215973",
-            "thumbnail_url": "https://i.ytimg.com/vi/Ytmcwjf2amw/hqdefault.jpg"
         },
         {
             "video_id": "ZI1ufj2nDZM",
@@ -187,8 +169,26 @@
             "channel_name": "김왼팔",
             "category": "Gaming",
             "duration": "16:03",
-            "view_count": "110279",
+            "view_count": "114389",
             "thumbnail_url": "https://i.ytimg.com/vi/ZI1ufj2nDZM/hqdefault.jpg"
+        },
+        {
+            "video_id": "Ytmcwjf2amw",
+            "title": "Your Idol",
+            "channel_name": "Saja Boys - Topic",
+            "category": "Music",
+            "duration": "3:12",
+            "view_count": "3256341",
+            "thumbnail_url": "https://i.ytimg.com/vi/Ytmcwjf2amw/hqdefault.jpg"
+        },
+        {
+            "video_id": "w7ulrbZpZyg",
+            "title": "게임 시작 6분만에 등장한 초패스트 스카웃을 보자마자 눈 뒤집혀버린 상대ㅋㅋ",
+            "channel_name": "[ALTUBE] 김성현TV",
+            "category": "Gaming",
+            "duration": "38:07",
+            "view_count": "159737",
+            "thumbnail_url": "https://i.ytimg.com/vi/w7ulrbZpZyg/hqdefault.jpg"
         },
         {
             "video_id": "S5nsDT5oU90",
@@ -196,7 +196,7 @@
             "channel_name": "IVE",
             "category": "Entertainment",
             "duration": "2:26",
-            "view_count": "281527",
+            "view_count": "298067",
             "thumbnail_url": "https://i.ytimg.com/vi/S5nsDT5oU90/hqdefault.jpg"
         },
         {
@@ -205,26 +205,8 @@
             "channel_name": "꼬예유의 로블록스 저장소",
             "category": "Gaming",
             "duration": "26:35",
-            "view_count": "114622",
+            "view_count": "117134",
             "thumbnail_url": "https://i.ytimg.com/vi/5bDUbBPt8nU/hqdefault.jpg"
-        },
-        {
-            "video_id": "QLFHpZ9YwQ4",
-            "title": "Stay with Me",
-            "channel_name": "Huh Gak - Topic",
-            "category": "Music",
-            "duration": "3:55",
-            "view_count": "60969",
-            "thumbnail_url": "https://i.ytimg.com/vi/QLFHpZ9YwQ4/hqdefault.jpg"
-        },
-        {
-            "video_id": "JXSZL8t3ckc",
-            "title": "제가 천국도에 같이 갈 여자는.. 【GTA 여우도시 15화】",
-            "channel_name": "저라뎃 JUSTLIKETHAT",
-            "category": "Gaming",
-            "duration": "41:59",
-            "view_count": "112187",
-            "thumbnail_url": "https://i.ytimg.com/vi/JXSZL8t3ckc/hqdefault.jpg"
         },
         {
             "video_id": "R5QWry3uCdc",
@@ -232,7 +214,7 @@
             "channel_name": "MONSTA X - Topic",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "28626",
+            "view_count": "30152",
             "thumbnail_url": "https://i.ytimg.com/vi/R5QWry3uCdc/hqdefault.jpg"
         },
         {
@@ -241,8 +223,26 @@
             "channel_name": "주키니TV",
             "category": "Gaming",
             "duration": "22:23",
-            "view_count": "174389",
+            "view_count": "179213",
             "thumbnail_url": "https://i.ytimg.com/vi/Dup3C7yuFTQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "QLFHpZ9YwQ4",
+            "title": "Stay with Me",
+            "channel_name": "Huh Gak - Topic",
+            "category": "Music",
+            "duration": "3:55",
+            "view_count": "63494",
+            "thumbnail_url": "https://i.ytimg.com/vi/QLFHpZ9YwQ4/hqdefault.jpg"
+        },
+        {
+            "video_id": "JXSZL8t3ckc",
+            "title": "제가 천국도에 같이 갈 여자는.. 【GTA 여우도시 15화】",
+            "channel_name": "저라뎃 JUSTLIKETHAT",
+            "category": "Gaming",
+            "duration": "41:59",
+            "view_count": "113585",
+            "thumbnail_url": "https://i.ytimg.com/vi/JXSZL8t3ckc/hqdefault.jpg"
         },
         {
             "video_id": "PfMGfcgdm3Q",
@@ -250,80 +250,8 @@
             "channel_name": "ILLIT - Topic",
             "category": "Music",
             "duration": "3:09",
-            "view_count": "186716",
+            "view_count": "191312",
             "thumbnail_url": "https://i.ytimg.com/vi/PfMGfcgdm3Q/hqdefault.jpg"
-        },
-        {
-            "video_id": "xZa5aauaEkc",
-            "title": "럭키 그웬이 만들어낸 재앙",
-            "channel_name": "잡상싱",
-            "category": "Gaming",
-            "duration": "11:06",
-            "view_count": "144014",
-            "thumbnail_url": "https://i.ytimg.com/vi/xZa5aauaEkc/hqdefault.jpg"
-        },
-        {
-            "video_id": "jM9jaZqIZw8",
-            "title": "Tell Her",
-            "channel_name": "Ella Mai - Topic",
-            "category": "Music",
-            "duration": "3:20",
-            "view_count": "373067",
-            "thumbnail_url": "https://i.ytimg.com/vi/jM9jaZqIZw8/hqdefault.jpg"
-        },
-        {
-            "video_id": "j2FbQcWjo-E",
-            "title": "해기님 괜찮으세요?",
-            "channel_name": "클리드",
-            "category": "Gaming",
-            "duration": "43:49",
-            "view_count": "205924",
-            "thumbnail_url": "https://i.ytimg.com/vi/j2FbQcWjo-E/hqdefault.jpg"
-        },
-        {
-            "video_id": "DntZ3-yCaFs",
-            "title": "Manchild",
-            "channel_name": "Sabrina Carpenter - Topic",
-            "category": "Music",
-            "duration": "3:34",
-            "view_count": "1150479",
-            "thumbnail_url": "https://i.ytimg.com/vi/DntZ3-yCaFs/hqdefault.jpg"
-        },
-        {
-            "video_id": "01--QHdsOIU",
-            "title": "'밴픽차이' 명장 AvMax가 제대로 보여드리겠습니다",
-            "channel_name": "수찬 Suchan",
-            "category": "Gaming",
-            "duration": "37:44",
-            "view_count": "88860",
-            "thumbnail_url": "https://i.ytimg.com/vi/01--QHdsOIU/hqdefault.jpg"
-        },
-        {
-            "video_id": "5Ictn_UNhCE",
-            "title": "Recognize",
-            "channel_name": "Russ - Topic",
-            "category": "Music",
-            "duration": "3:02",
-            "view_count": "273010",
-            "thumbnail_url": "https://i.ytimg.com/vi/5Ictn_UNhCE/hqdefault.jpg"
-        },
-        {
-            "video_id": "ZAlgOw2AgZY",
-            "title": "별수 빌드업의 모든 것",
-            "channel_name": "팔차선 [8LJAYWALKING]",
-            "category": "Gaming",
-            "duration": "14:39",
-            "view_count": "116168",
-            "thumbnail_url": "https://i.ytimg.com/vi/ZAlgOw2AgZY/hqdefault.jpg"
-        },
-        {
-            "video_id": "HeqsjDF7Lw0",
-            "title": "ILLIT (아일릿) '時よ止まれ (Toki Yo Tomare)' Official MV",
-            "channel_name": "HYBE LABELS",
-            "category": "Music",
-            "duration": "3:30",
-            "view_count": "686006",
-            "thumbnail_url": "https://i.ytimg.com/vi/HeqsjDF7Lw0/hqdefault.jpg"
         },
         {
             "video_id": "1lSy1EFgGGA",
@@ -331,8 +259,80 @@
             "channel_name": "동수칸TV",
             "category": "Gaming",
             "duration": "20:03",
-            "view_count": "68880",
+            "view_count": "80035",
             "thumbnail_url": "https://i.ytimg.com/vi/1lSy1EFgGGA/hqdefault.jpg"
+        },
+        {
+            "video_id": "jM9jaZqIZw8",
+            "title": "Tell Her",
+            "channel_name": "Ella Mai - Topic",
+            "category": "Music",
+            "duration": "3:20",
+            "view_count": "379663",
+            "thumbnail_url": "https://i.ytimg.com/vi/jM9jaZqIZw8/hqdefault.jpg"
+        },
+        {
+            "video_id": "xZa5aauaEkc",
+            "title": "럭키 그웬이 만들어낸 재앙",
+            "channel_name": "잡상싱",
+            "category": "Gaming",
+            "duration": "11:06",
+            "view_count": "147411",
+            "thumbnail_url": "https://i.ytimg.com/vi/xZa5aauaEkc/hqdefault.jpg"
+        },
+        {
+            "video_id": "DntZ3-yCaFs",
+            "title": "Manchild",
+            "channel_name": "Sabrina Carpenter - Topic",
+            "category": "Music",
+            "duration": "3:34",
+            "view_count": "1165463",
+            "thumbnail_url": "https://i.ytimg.com/vi/DntZ3-yCaFs/hqdefault.jpg"
+        },
+        {
+            "video_id": "j2FbQcWjo-E",
+            "title": "해기님 괜찮으세요?",
+            "channel_name": "클리드",
+            "category": "Gaming",
+            "duration": "43:49",
+            "view_count": "207289",
+            "thumbnail_url": "https://i.ytimg.com/vi/j2FbQcWjo-E/hqdefault.jpg"
+        },
+        {
+            "video_id": "5Ictn_UNhCE",
+            "title": "Recognize",
+            "channel_name": "Russ - Topic",
+            "category": "Music",
+            "duration": "3:02",
+            "view_count": "278097",
+            "thumbnail_url": "https://i.ytimg.com/vi/5Ictn_UNhCE/hqdefault.jpg"
+        },
+        {
+            "video_id": "01--QHdsOIU",
+            "title": "'밴픽차이' 명장 AvMax가 제대로 보여드리겠습니다",
+            "channel_name": "수찬 Suchan",
+            "category": "Gaming",
+            "duration": "37:44",
+            "view_count": "90550",
+            "thumbnail_url": "https://i.ytimg.com/vi/01--QHdsOIU/hqdefault.jpg"
+        },
+        {
+            "video_id": "HeqsjDF7Lw0",
+            "title": "ILLIT (아일릿) '時よ止まれ (Toki Yo Tomare)' Official MV",
+            "channel_name": "HYBE LABELS",
+            "category": "Music",
+            "duration": "3:30",
+            "view_count": "693955",
+            "thumbnail_url": "https://i.ytimg.com/vi/HeqsjDF7Lw0/hqdefault.jpg"
+        },
+        {
+            "video_id": "EC_OpjQbk78",
+            "title": "전 세계에 몇 명 없다는 레전드 레인보우 기지를 만들었습니다.. (브레인롯 훔치기)",
+            "channel_name": "밍",
+            "category": "Gaming",
+            "duration": "8:20",
+            "view_count": "39923",
+            "thumbnail_url": "https://i.ytimg.com/vi/EC_OpjQbk78/hqdefault.jpg"
         },
         {
             "video_id": "IVi4XjoWDRA",
@@ -340,17 +340,17 @@
             "channel_name": "Feel Heon - Topic",
             "category": "Music",
             "duration": "5:16",
-            "view_count": "12479",
+            "view_count": "13076",
             "thumbnail_url": "https://i.ytimg.com/vi/IVi4XjoWDRA/hqdefault.jpg"
         },
         {
-            "video_id": "snath_M3neQ",
-            "title": "유일무이 5연속 우승을 노리는 김민철의 선택!? [ASL 시즌20 16강 조지명식 3부]",
-            "channel_name": "도멘TV [DOTUBE]",
+            "video_id": "ZAlgOw2AgZY",
+            "title": "별수 빌드업의 모든 것",
+            "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
-            "duration": "9:01",
-            "view_count": "42563",
-            "thumbnail_url": "https://i.ytimg.com/vi/snath_M3neQ/hqdefault.jpg"
+            "duration": "14:39",
+            "view_count": "118000",
+            "thumbnail_url": "https://i.ytimg.com/vi/ZAlgOw2AgZY/hqdefault.jpg"
         },
         {
             "video_id": "AX53K8ElPzA",
@@ -358,26 +358,26 @@
             "channel_name": "머쉬베놈",
             "category": "Music",
             "duration": "2:16",
-            "view_count": "42482",
+            "view_count": "43463",
             "thumbnail_url": "https://i.ytimg.com/vi/AX53K8ElPzA/hqdefault.jpg"
         },
         {
-            "video_id": "1AHkehCST0Q",
-            "title": "매 시즌 아시아 1등 \"신인 중딩 스킨 세트\" 전격 리뷰",
-            "channel_name": "버니버니",
+            "video_id": "slwDJli5asM",
+            "title": "드디어 텍스쳐와 성사된 만남",
+            "channel_name": "행돌",
             "category": "Gaming",
-            "duration": "12:07",
-            "view_count": "122847",
-            "thumbnail_url": "https://i.ytimg.com/vi/1AHkehCST0Q/hqdefault.jpg"
+            "duration": "10:02",
+            "view_count": "108438",
+            "thumbnail_url": "https://i.ytimg.com/vi/slwDJli5asM/hqdefault.jpg"
         },
         {
-            "video_id": "sSm_FET7oRs",
-            "title": "love me less",
-            "channel_name": "Jessica Baio - Topic",
+            "video_id": "Eex-_ffqs7s",
+            "title": "감성 트로트ㅣ세월의 강ㅣ#케이팝 #K-pop #트로트 #노래 #가요 #대중가요 #한국음악 #감성트로트 #trot #7080",
+            "channel_name": "한국음악TV",
             "category": "Music",
-            "duration": "2:56",
-            "view_count": "207218",
-            "thumbnail_url": "https://i.ytimg.com/vi/sSm_FET7oRs/hqdefault.jpg"
+            "duration": "4:26",
+            "view_count": "16788",
+            "thumbnail_url": "https://i.ytimg.com/vi/Eex-_ffqs7s/hqdefault.jpg"
         }
     ]
 }
