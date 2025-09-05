@@ -1,14 +1,14 @@
 {
-    "scraped_time": "2025-09-05 14:13:12",
+    "scraped_time": "2025-09-05 15:19:50",
     "videos": [
         {
-            "video_id": "fcaxwAHqT20",
-            "title": "aespa 에스파 'Rich Man' MV Teaser",
+            "video_id": "5oQVTnq-UKk",
+            "title": "aespa 에스파 'Rich Man' MV",
             "channel_name": "SMTOWN",
             "category": "Music",
-            "duration": "0:28",
-            "view_count": "721478",
-            "thumbnail_url": "https://i.ytimg.com/vi/fcaxwAHqT20/hqdefault.jpg"
+            "duration": "3:30",
+            "view_count": "502685",
+            "thumbnail_url": "https://i.ytimg.com/vi/5oQVTnq-UKk/hqdefault.jpg"
         },
         {
             "video_id": "2nSv7Y_f9uc",
@@ -16,7 +16,7 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "8:27",
-            "view_count": "114623",
+            "view_count": "117995",
             "thumbnail_url": "https://i.ytimg.com/vi/2nSv7Y_f9uc/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "5:09:51",
-            "view_count": "1476773",
+            "view_count": "1477682",
             "thumbnail_url": "https://i.ytimg.com/vi/RcCrDvbvgjs/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "Jung Seung Hwan - Topic",
             "category": "Music",
             "duration": "4:05",
-            "view_count": "130760",
+            "view_count": "139034",
             "thumbnail_url": "https://i.ytimg.com/vi/dVOLIfuWbN0/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "1:42",
-            "view_count": "486956",
+            "view_count": "488506",
             "thumbnail_url": "https://i.ytimg.com/vi/NkbjgNh06bQ/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "24:13",
-            "view_count": "343353",
+            "view_count": "358248",
             "thumbnail_url": "https://i.ytimg.com/vi/GSwOKmmETuw/hqdefault.jpg"
         },
         {
@@ -61,8 +61,35 @@
             "channel_name": "황영웅 Tv",
             "category": "Music",
             "duration": "3:14",
-            "view_count": "50704",
+            "view_count": "54403",
             "thumbnail_url": "https://i.ytimg.com/vi/S6SKUwQFxgM/hqdefault.jpg"
+        },
+        {
+            "video_id": "rcUaOEu1fmQ",
+            "title": "당신이 죽였다 | 공식 티저 예고편 | 넷플릭스",
+            "channel_name": "Netflix Korea 넷플릭스 코리아",
+            "category": "Entertainment",
+            "duration": "1:24",
+            "view_count": "22473",
+            "thumbnail_url": "https://i.ytimg.com/vi/rcUaOEu1fmQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "aCrl_jqswZY",
+            "title": "[리니지M] 광전사 리부트 BURNING HEART (Teaser)",
+            "channel_name": "Lineage M",
+            "category": "Gaming",
+            "duration": "0:16",
+            "view_count": "837053",
+            "thumbnail_url": "https://i.ytimg.com/vi/aCrl_jqswZY/hqdefault.jpg"
+        },
+        {
+            "video_id": "WAQ5_7YFAVo",
+            "title": "Rich Man",
+            "channel_name": "aespa - Topic",
+            "category": "Music",
+            "duration": "3:18",
+            "view_count": "39119",
+            "thumbnail_url": "https://i.ytimg.com/vi/WAQ5_7YFAVo/hqdefault.jpg"
         },
         {
             "video_id": "NjOfd59CoG0",
@@ -70,7 +97,7 @@
             "channel_name": "Warner Bros. Korea",
             "category": "Film & Animation",
             "duration": "1:30",
-            "view_count": "334442",
+            "view_count": "346468",
             "thumbnail_url": "https://i.ytimg.com/vi/NjOfd59CoG0/hqdefault.jpg"
         },
         {
@@ -79,26 +106,8 @@
             "channel_name": "말왕TV",
             "category": "Gaming",
             "duration": "36:47",
-            "view_count": "193280",
+            "view_count": "199343",
             "thumbnail_url": "https://i.ytimg.com/vi/ORkV_Irtz5I/hqdefault.jpg"
-        },
-        {
-            "video_id": "r4RQR3OHXqg",
-            "title": "COLOR",
-            "channel_name": "NCT WISH - Topic",
-            "category": "Music",
-            "duration": "3:00",
-            "view_count": "578964",
-            "thumbnail_url": "https://i.ytimg.com/vi/r4RQR3OHXqg/hqdefault.jpg"
-        },
-        {
-            "video_id": "aCrl_jqswZY",
-            "title": "[리니지M] 광전사 리부트 BURNING HEART (Teaser)",
-            "channel_name": "Lineage M",
-            "category": "Gaming",
-            "duration": "0:16",
-            "view_count": "799585",
-            "thumbnail_url": "https://i.ytimg.com/vi/aCrl_jqswZY/hqdefault.jpg"
         },
         {
             "video_id": "khiUF-89y8A",
@@ -106,7 +115,7 @@
             "channel_name": "KID WINE - Topic",
             "category": "Music",
             "duration": "3:30",
-            "view_count": "22561",
+            "view_count": "23733",
             "thumbnail_url": "https://i.ytimg.com/vi/khiUF-89y8A/hqdefault.jpg"
         },
         {
@@ -115,8 +124,26 @@
             "channel_name": "감스트GAMST",
             "category": "Gaming",
             "duration": "35:28",
-            "view_count": "414803",
+            "view_count": "419683",
             "thumbnail_url": "https://i.ytimg.com/vi/XBzzJYA3mAA/hqdefault.jpg"
+        },
+        {
+            "video_id": "r4RQR3OHXqg",
+            "title": "COLOR",
+            "channel_name": "NCT WISH - Topic",
+            "category": "Music",
+            "duration": "3:00",
+            "view_count": "585471",
+            "thumbnail_url": "https://i.ytimg.com/vi/r4RQR3OHXqg/hqdefault.jpg"
+        },
+        {
+            "video_id": "wfLT31hCv_I",
+            "title": "모두가 무시하던 그와의 대결",
+            "channel_name": "튜브김민교",
+            "category": "Gaming",
+            "duration": "39:11",
+            "view_count": "83799",
+            "thumbnail_url": "https://i.ytimg.com/vi/wfLT31hCv_I/hqdefault.jpg"
         },
         {
             "video_id": "6-wpD2Kqr4Q",
@@ -124,7 +151,7 @@
             "channel_name": "20 Years of Age - Topic",
             "category": "Music",
             "duration": "2:59",
-            "view_count": "24909",
+            "view_count": "26358",
             "thumbnail_url": "https://i.ytimg.com/vi/6-wpD2Kqr4Q/hqdefault.jpg"
         },
         {
@@ -133,7 +160,7 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "48:16",
-            "view_count": "105235",
+            "view_count": "109131",
             "thumbnail_url": "https://i.ytimg.com/vi/Q2SgyqJt3Lo/hqdefault.jpg"
         },
         {
@@ -142,7 +169,7 @@
             "channel_name": "Rubyeye - Topic",
             "category": "Music",
             "duration": "3:22",
-            "view_count": "620251",
+            "view_count": "629969",
             "thumbnail_url": "https://i.ytimg.com/vi/lzJqhsWfSgs/hqdefault.jpg"
         },
         {
@@ -151,7 +178,7 @@
             "channel_name": "전쓰트의 게임 채널 Junsst",
             "category": "Gaming",
             "duration": "14:40",
-            "view_count": "102889",
+            "view_count": "107853",
             "thumbnail_url": "https://i.ytimg.com/vi/D0AY6vDf49Q/hqdefault.jpg"
         },
         {
@@ -160,7 +187,7 @@
             "channel_name": "homezone - Topic",
             "category": "Music",
             "duration": "3:13",
-            "view_count": "48912",
+            "view_count": "49945",
             "thumbnail_url": "https://i.ytimg.com/vi/MhxInbmOGSE/hqdefault.jpg"
         },
         {
@@ -169,7 +196,7 @@
             "channel_name": "말량",
             "category": "Gaming",
             "duration": "21:36",
-            "view_count": "135853",
+            "view_count": "136602",
             "thumbnail_url": "https://i.ytimg.com/vi/WhiDHQcHP3c/hqdefault.jpg"
         },
         {
@@ -178,7 +205,7 @@
             "channel_name": "IVE",
             "category": "Entertainment",
             "duration": "2:26",
-            "view_count": "782923",
+            "view_count": "786382",
             "thumbnail_url": "https://i.ytimg.com/vi/S5nsDT5oU90/hqdefault.jpg"
         },
         {
@@ -187,7 +214,7 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "33:34",
-            "view_count": "109263",
+            "view_count": "112876",
             "thumbnail_url": "https://i.ytimg.com/vi/7wbchk3ghFo/hqdefault.jpg"
         },
         {
@@ -196,7 +223,7 @@
             "channel_name": "Unique Vibes",
             "category": "Music",
             "duration": "3:20",
-            "view_count": "324838",
+            "view_count": "333570",
             "thumbnail_url": "https://i.ytimg.com/vi/jhnYH3PkUik/hqdefault.jpg"
         },
         {
@@ -205,26 +232,8 @@
             "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
             "duration": "12:52",
-            "view_count": "100855",
+            "view_count": "105076",
             "thumbnail_url": "https://i.ytimg.com/vi/ZcX1XVdRSjM/hqdefault.jpg"
-        },
-        {
-            "video_id": "Ca0L6sfaT80",
-            "title": "Molly Yam - TIKTOKSTA Remix (feat. 200, k4ton, 율음, 강혁, STB) [Official Video]",
-            "channel_name": "Molly Yam",
-            "category": "Music",
-            "duration": "4:47",
-            "view_count": "19581",
-            "thumbnail_url": "https://i.ytimg.com/vi/Ca0L6sfaT80/hqdefault.jpg"
-        },
-        {
-            "video_id": "wsX2-dRME20",
-            "title": "쓰리 투 원 대격ㅂ....어?",
-            "channel_name": "잡상싱",
-            "category": "Gaming",
-            "duration": "14:22",
-            "view_count": "176530",
-            "thumbnail_url": "https://i.ytimg.com/vi/wsX2-dRME20/hqdefault.jpg"
         },
         {
             "video_id": "ySBbP3Bj6dE",
@@ -232,17 +241,17 @@
             "channel_name": "KANGDANIEL - Topic",
             "category": "Music",
             "duration": "3:26",
-            "view_count": "46940",
+            "view_count": "48565",
             "thumbnail_url": "https://i.ytimg.com/vi/ySBbP3Bj6dE/hqdefault.jpg"
         },
         {
-            "video_id": "k2xEIXfVVvQ",
-            "title": "배그 DMR 너프 후 무조건 써야하는 총",
-            "channel_name": "주키니TV",
+            "video_id": "wsX2-dRME20",
+            "title": "쓰리 투 원 대격ㅂ....어?",
+            "channel_name": "잡상싱",
             "category": "Gaming",
-            "duration": "19:01",
-            "view_count": "148410",
-            "thumbnail_url": "https://i.ytimg.com/vi/k2xEIXfVVvQ/hqdefault.jpg"
+            "duration": "14:22",
+            "view_count": "182383",
+            "thumbnail_url": "https://i.ytimg.com/vi/wsX2-dRME20/hqdefault.jpg"
         },
         {
             "video_id": "xGaZBfJOyAc",
@@ -250,8 +259,26 @@
             "channel_name": "LadyGagaVEVO",
             "category": "Music",
             "duration": "4:47",
-            "view_count": "7293404",
+            "view_count": "7426173",
             "thumbnail_url": "https://i.ytimg.com/vi/xGaZBfJOyAc/hqdefault.jpg"
+        },
+        {
+            "video_id": "k2xEIXfVVvQ",
+            "title": "배그 DMR 너프 후 무조건 써야하는 총",
+            "channel_name": "주키니TV",
+            "category": "Gaming",
+            "duration": "19:01",
+            "view_count": "153528",
+            "thumbnail_url": "https://i.ytimg.com/vi/k2xEIXfVVvQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "Ca0L6sfaT80",
+            "title": "Molly Yam - TIKTOKSTA Remix (feat. 200, k4ton, 율음, 강혁, STB) [Official Video]",
+            "channel_name": "Molly Yam",
+            "category": "Music",
+            "duration": "4:47",
+            "view_count": "20547",
+            "thumbnail_url": "https://i.ytimg.com/vi/Ca0L6sfaT80/hqdefault.jpg"
         },
         {
             "video_id": "_xaPyw6Alm0",
@@ -259,7 +286,7 @@
             "channel_name": "마플 마인크래프트 채널",
             "category": "Gaming",
             "duration": "21:54",
-            "view_count": "99208",
+            "view_count": "100833",
             "thumbnail_url": "https://i.ytimg.com/vi/_xaPyw6Alm0/hqdefault.jpg"
         },
         {
@@ -268,7 +295,7 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "12:11",
-            "view_count": "1352809",
+            "view_count": "1369949",
             "thumbnail_url": "https://i.ytimg.com/vi/5JeBGCbeOJ0/hqdefault.jpg"
         },
         {
@@ -277,7 +304,7 @@
             "channel_name": "수찬 Suchan",
             "category": "Gaming",
             "duration": "39:54",
-            "view_count": "74031",
+            "view_count": "77245",
             "thumbnail_url": "https://i.ytimg.com/vi/nzxQwSBUkNo/hqdefault.jpg"
         },
         {
@@ -286,26 +313,8 @@
             "channel_name": "ZEROBASEONE",
             "category": "Music",
             "duration": "3:14",
-            "view_count": "27428835",
+            "view_count": "27799754",
             "thumbnail_url": "https://i.ytimg.com/vi/HnYtDIW7elY/hqdefault.jpg"
-        },
-        {
-            "video_id": "hRNleotOLhk",
-            "title": "알파고 부수기",
-            "channel_name": "PAKA",
-            "category": "Gaming",
-            "duration": "29:01",
-            "view_count": "489136",
-            "thumbnail_url": "https://i.ytimg.com/vi/hRNleotOLhk/hqdefault.jpg"
-        },
-        {
-            "video_id": "QLFHpZ9YwQ4",
-            "title": "Stay with Me",
-            "channel_name": "Huh Gak - Topic",
-            "category": "Music",
-            "duration": "3:55",
-            "view_count": "232437",
-            "thumbnail_url": "https://i.ytimg.com/vi/QLFHpZ9YwQ4/hqdefault.jpg"
         },
         {
             "video_id": "cqhSct4REDk",
@@ -313,44 +322,26 @@
             "channel_name": "타튜브 TATUBE",
             "category": "Gaming",
             "duration": "21:29",
-            "view_count": "162219",
+            "view_count": "169042",
             "thumbnail_url": "https://i.ytimg.com/vi/cqhSct4REDk/hqdefault.jpg"
         },
         {
-            "video_id": "wqSKx_duQEg",
-            "title": "BETTER THAN ME",
-            "channel_name": "TREASURE - Topic",
+            "video_id": "QLFHpZ9YwQ4",
+            "title": "Stay with Me",
+            "channel_name": "Huh Gak - Topic",
             "category": "Music",
-            "duration": "2:57",
-            "view_count": "659650",
-            "thumbnail_url": "https://i.ytimg.com/vi/wqSKx_duQEg/hqdefault.jpg"
+            "duration": "3:55",
+            "view_count": "236231",
+            "thumbnail_url": "https://i.ytimg.com/vi/QLFHpZ9YwQ4/hqdefault.jpg"
         },
         {
-            "video_id": "wfLT31hCv_I",
-            "title": "모두가 무시하던 그와의 대결",
-            "channel_name": "튜브김민교",
+            "video_id": "hRNleotOLhk",
+            "title": "알파고 부수기",
+            "channel_name": "PAKA",
             "category": "Gaming",
-            "duration": "39:11",
-            "view_count": "58709",
-            "thumbnail_url": "https://i.ytimg.com/vi/wfLT31hCv_I/hqdefault.jpg"
-        },
-        {
-            "video_id": "qrYHA-5GMRQ",
-            "title": "TASTE OF LIGHT",
-            "channel_name": "NCT",
-            "category": "Music",
-            "duration": "4:14",
-            "view_count": "504175",
-            "thumbnail_url": "https://i.ytimg.com/vi/qrYHA-5GMRQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "lHV_FOyne88",
-            "title": "충격적인 경기력에 흥분을 감추지 못한 감독님 【중간계 본선】",
-            "channel_name": "클리드",
-            "category": "Gaming",
-            "duration": "37:44",
-            "view_count": "103597",
-            "thumbnail_url": "https://i.ytimg.com/vi/lHV_FOyne88/hqdefault.jpg"
+            "duration": "29:01",
+            "view_count": "491274",
+            "thumbnail_url": "https://i.ytimg.com/vi/hRNleotOLhk/hqdefault.jpg"
         },
         {
             "video_id": "F-h6JN3-0qg",
@@ -358,26 +349,35 @@
             "channel_name": "Coogie - Topic",
             "category": "Music",
             "duration": "2:09",
-            "view_count": "11204",
+            "view_count": "11835",
             "thumbnail_url": "https://i.ytimg.com/vi/F-h6JN3-0qg/hqdefault.jpg"
         },
         {
-            "video_id": "fJpoWZJ9L4w",
-            "title": "신규 타코 럭키블럭 50개 연속 까봤더니!? 드디어 대박났습니다!!! 그리고 시크릿 럭키블럭도 초대박!!!!!!! (로블록스 브레인롯훔치기)",
-            "channel_name": "쉐어TV",
+            "video_id": "lHV_FOyne88",
+            "title": "충격적인 경기력에 흥분을 감추지 못한 감독님 【중간계 본선】",
+            "channel_name": "클리드",
             "category": "Gaming",
-            "duration": "20:30",
-            "view_count": "288533",
-            "thumbnail_url": "https://i.ytimg.com/vi/fJpoWZJ9L4w/hqdefault.jpg"
+            "duration": "37:44",
+            "view_count": "107055",
+            "thumbnail_url": "https://i.ytimg.com/vi/lHV_FOyne88/hqdefault.jpg"
         },
         {
-            "video_id": "IVi4XjoWDRA",
-            "title": "The Man",
-            "channel_name": "Feel Heon - Topic",
+            "video_id": "wqSKx_duQEg",
+            "title": "BETTER THAN ME",
+            "channel_name": "TREASURE - Topic",
             "category": "Music",
-            "duration": "5:16",
-            "view_count": "74472",
-            "thumbnail_url": "https://i.ytimg.com/vi/IVi4XjoWDRA/hqdefault.jpg"
+            "duration": "2:57",
+            "view_count": "664602",
+            "thumbnail_url": "https://i.ytimg.com/vi/wqSKx_duQEg/hqdefault.jpg"
+        },
+        {
+            "video_id": "4zOxPSp3Nxo",
+            "title": "메시 오브 TFT와 호날두 오브 TFT",
+            "channel_name": "동수칸TV",
+            "category": "Gaming",
+            "duration": "29:15",
+            "view_count": "117646",
+            "thumbnail_url": "https://i.ytimg.com/vi/4zOxPSp3Nxo/hqdefault.jpg"
         }
     ]
 }
