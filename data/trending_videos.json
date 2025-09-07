@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-09-07 11:58:31",
+    "scraped_time": "2025-09-07 12:33:27",
     "videos": [
         {
             "video_id": "5oQVTnq-UKk",
@@ -7,17 +7,8 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:30",
-            "view_count": "22767809",
+            "view_count": "22808587",
             "thumbnail_url": "https://i.ytimg.com/vi/5oQVTnq-UKk/hqdefault.jpg"
-        },
-        {
-            "video_id": "2nSv7Y_f9uc",
-            "title": "스파이더맨도 좀비가 될 수 있는 세계관ㄷㄷ ≪마블 좀비스≫ 공식 예고편 떡밥 총정리",
-            "channel_name": "무비띵크_Movie Think",
-            "category": "Film & Animation",
-            "duration": "8:27",
-            "view_count": "192647",
-            "thumbnail_url": "https://i.ytimg.com/vi/2nSv7Y_f9uc/hqdefault.jpg"
         },
         {
             "video_id": "XkRwy2M1Gbo",
@@ -25,7 +16,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "4:11:21",
-            "view_count": "1292688",
+            "view_count": "1292987",
             "thumbnail_url": "https://i.ytimg.com/vi/XkRwy2M1Gbo/hqdefault.jpg"
         },
         {
@@ -34,7 +25,7 @@
             "channel_name": "aespa - Topic",
             "category": "Music",
             "duration": "3:18",
-            "view_count": "1348315",
+            "view_count": "1371143",
             "thumbnail_url": "https://i.ytimg.com/vi/WAQ5_7YFAVo/hqdefault.jpg"
         },
         {
@@ -43,7 +34,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "20:48",
-            "view_count": "299872",
+            "view_count": "308274",
             "thumbnail_url": "https://i.ytimg.com/vi/o7RDws8KmM0/hqdefault.jpg"
         },
         {
@@ -52,7 +43,7 @@
             "channel_name": "DECO*27",
             "category": "Music",
             "duration": "3:03",
-            "view_count": "3613628",
+            "view_count": "3650201",
             "thumbnail_url": "https://i.ytimg.com/vi/C-CYwNz3z8w/hqdefault.jpg"
         },
         {
@@ -61,7 +52,7 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "28:10",
-            "view_count": "189733",
+            "view_count": "196429",
             "thumbnail_url": "https://i.ytimg.com/vi/EKJovSeg34c/hqdefault.jpg"
         },
         {
@@ -70,7 +61,7 @@
             "channel_name": "DAY6 - Topic",
             "category": "Music",
             "duration": "3:01",
-            "view_count": "283070",
+            "view_count": "287871",
             "thumbnail_url": "https://i.ytimg.com/vi/WNJdZqyugg4/hqdefault.jpg"
         },
         {
@@ -79,7 +70,7 @@
             "channel_name": "쉐어TV",
             "category": "Gaming",
             "duration": "20:05",
-            "view_count": "107180",
+            "view_count": "126667",
             "thumbnail_url": "https://i.ytimg.com/vi/J346qkwTAWc/hqdefault.jpg"
         },
         {
@@ -88,7 +79,7 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "3:24",
-            "view_count": "1889180",
+            "view_count": "1938269",
             "thumbnail_url": "https://i.ytimg.com/vi/-N-pmPKS-bE/hqdefault.jpg"
         },
         {
@@ -97,7 +88,7 @@
             "channel_name": "김된모",
             "category": "Gaming",
             "duration": "44:34",
-            "view_count": "174684",
+            "view_count": "177595",
             "thumbnail_url": "https://i.ytimg.com/vi/UINyakCOKKk/hqdefault.jpg"
         },
         {
@@ -106,35 +97,17 @@
             "channel_name": "Justin Bieber - Topic",
             "category": "Music",
             "duration": "3:32",
-            "view_count": "967645",
+            "view_count": "974575",
             "thumbnail_url": "https://i.ytimg.com/vi/4BsBpOCaTrA/hqdefault.jpg"
         },
         {
-            "video_id": "JomJtm_Tjao",
-            "title": "내부고발자",
-            "channel_name": "PAKA",
+            "video_id": "Y3xfzDgz8AM",
+            "title": "뉴 시크릿 \"트랄라레돈\"나눔 하겠습니다! 새로운 제작 시크릿, 브레인롯들 잔뜩 만들어보기!!! (로블록스 브레인롯 훔치기)",
+            "channel_name": "말량",
             "category": "Gaming",
-            "duration": "25:32",
-            "view_count": "401501",
-            "thumbnail_url": "https://i.ytimg.com/vi/JomJtm_Tjao/hqdefault.jpg"
-        },
-        {
-            "video_id": "dVOLIfuWbN0",
-            "title": "If I Love Again (다시 사랑한다면)",
-            "channel_name": "Jung Seung Hwan - Topic",
-            "category": "Music",
-            "duration": "4:05",
-            "view_count": "294716",
-            "thumbnail_url": "https://i.ytimg.com/vi/dVOLIfuWbN0/hqdefault.jpg"
-        },
-        {
-            "video_id": "vaA6uoJWa4w",
-            "title": "당첨 0.001% 확률 생존 복권! 죽어도 난 나간다",
-            "channel_name": "잠뜰 TV",
-            "category": "Gaming",
-            "duration": "34:30",
-            "view_count": "140281",
-            "thumbnail_url": "https://i.ytimg.com/vi/vaA6uoJWa4w/hqdefault.jpg"
+            "duration": "21:16",
+            "view_count": "96678",
+            "thumbnail_url": "https://i.ytimg.com/vi/Y3xfzDgz8AM/hqdefault.jpg"
         },
         {
             "video_id": "AGJ0N2mN9xo",
@@ -142,17 +115,35 @@
             "channel_name": "HUNTR/X - Topic",
             "category": "Music",
             "duration": "3:03",
-            "view_count": "647576",
+            "view_count": "659922",
             "thumbnail_url": "https://i.ytimg.com/vi/AGJ0N2mN9xo/hqdefault.jpg"
         },
         {
-            "video_id": "lM8XdnVHxGw",
-            "title": "'모두가 떠났다' 영광의 역사에서 오만과 자만 그리고 추락 '리니지 그리고 엔씨의 몰락'",
-            "channel_name": "당신이 몰랐던 이야기",
-            "category": "Entertainment",
-            "duration": "17:54",
-            "view_count": "419592",
-            "thumbnail_url": "https://i.ytimg.com/vi/lM8XdnVHxGw/hqdefault.jpg"
+            "video_id": "vaA6uoJWa4w",
+            "title": "당첨 0.001% 확률 생존 복권! 죽어도 난 나간다",
+            "channel_name": "잠뜰 TV",
+            "category": "Gaming",
+            "duration": "34:30",
+            "view_count": "143498",
+            "thumbnail_url": "https://i.ytimg.com/vi/vaA6uoJWa4w/hqdefault.jpg"
+        },
+        {
+            "video_id": "dVOLIfuWbN0",
+            "title": "If I Love Again (다시 사랑한다면)",
+            "channel_name": "Jung Seung Hwan - Topic",
+            "category": "Music",
+            "duration": "4:05",
+            "view_count": "296610",
+            "thumbnail_url": "https://i.ytimg.com/vi/dVOLIfuWbN0/hqdefault.jpg"
+        },
+        {
+            "video_id": "JomJtm_Tjao",
+            "title": "내부고발자",
+            "channel_name": "PAKA",
+            "category": "Gaming",
+            "duration": "25:32",
+            "view_count": "402680",
+            "thumbnail_url": "https://i.ytimg.com/vi/JomJtm_Tjao/hqdefault.jpg"
         },
         {
             "video_id": "S6SKUwQFxgM",
@@ -160,17 +151,17 @@
             "channel_name": "황영웅 Tv",
             "category": "Music",
             "duration": "3:14",
-            "view_count": "144275",
+            "view_count": "145366",
             "thumbnail_url": "https://i.ytimg.com/vi/S6SKUwQFxgM/hqdefault.jpg"
         },
         {
-            "video_id": "tk4FzA4OQ98",
-            "title": "고수만 오라는 방에 들어갔는데 알파고의 실력을 보자마자 근본 없는 초보 취급하는 상대ㄷㄷ;;",
-            "channel_name": "[ALTUBE] 김성현TV",
-            "category": "Gaming",
-            "duration": "50:36",
-            "view_count": "154975",
-            "thumbnail_url": "https://i.ytimg.com/vi/tk4FzA4OQ98/hqdefault.jpg"
+            "video_id": "lM8XdnVHxGw",
+            "title": "'모두가 떠났다' 영광의 역사에서 오만과 자만 그리고 추락 '리니지 그리고 엔씨의 몰락'",
+            "channel_name": "당신이 몰랐던 이야기",
+            "category": "Entertainment",
+            "duration": "17:54",
+            "view_count": "441323",
+            "thumbnail_url": "https://i.ytimg.com/vi/lM8XdnVHxGw/hqdefault.jpg"
         },
         {
             "video_id": "NUvkuVreNG8",
@@ -178,17 +169,17 @@
             "channel_name": "MICO - Topic",
             "category": "Music",
             "duration": "2:47",
-            "view_count": "73957",
+            "view_count": "74919",
             "thumbnail_url": "https://i.ytimg.com/vi/NUvkuVreNG8/hqdefault.jpg"
         },
         {
-            "video_id": "8n4a1FJua7A",
-            "title": "이런게 존재 하네요... 말도 안되는 초희귀 시크릿들 구경하고 다이아기지까지 만들어버렸습니다!!! (로블록스 브레인롯 훔치기)",
-            "channel_name": "말량",
+            "video_id": "tk4FzA4OQ98",
+            "title": "고수만 오라는 방에 들어갔는데 알파고의 실력을 보자마자 근본 없는 초보 취급하는 상대ㄷㄷ;;",
+            "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
-            "duration": "37:26",
-            "view_count": "298824",
-            "thumbnail_url": "https://i.ytimg.com/vi/8n4a1FJua7A/hqdefault.jpg"
+            "duration": "50:36",
+            "view_count": "156856",
+            "thumbnail_url": "https://i.ytimg.com/vi/tk4FzA4OQ98/hqdefault.jpg"
         },
         {
             "video_id": "gtiqp3M1TLU",
@@ -196,7 +187,7 @@
             "channel_name": "SEVENTEEN",
             "category": "Music",
             "duration": "3:22",
-            "view_count": "121478",
+            "view_count": "123857",
             "thumbnail_url": "https://i.ytimg.com/vi/gtiqp3M1TLU/hqdefault.jpg"
         },
         {
@@ -205,26 +196,8 @@
             "channel_name": "왈도쿤",
             "category": "Gaming",
             "duration": "24:06",
-            "view_count": "136341",
+            "view_count": "139123",
             "thumbnail_url": "https://i.ytimg.com/vi/koQpc0d8WAU/hqdefault.jpg"
-        },
-        {
-            "video_id": "y-rPpGpnSg0",
-            "title": "Stray Kids \"CREED\" Video",
-            "channel_name": "Stray Kids",
-            "category": "Music",
-            "duration": "2:51",
-            "view_count": "2409810",
-            "thumbnail_url": "https://i.ytimg.com/vi/y-rPpGpnSg0/hqdefault.jpg"
-        },
-        {
-            "video_id": "HV4lq03C1Iw",
-            "title": "사일러스 정글 체험기",
-            "channel_name": "클리드",
-            "category": "Gaming",
-            "duration": "26:01",
-            "view_count": "272976",
-            "thumbnail_url": "https://i.ytimg.com/vi/HV4lq03C1Iw/hqdefault.jpg"
         },
         {
             "video_id": "8vIfrVG44Ao",
@@ -232,7 +205,7 @@
             "channel_name": "음율 UmYull",
             "category": "Music",
             "duration": "4:08",
-            "view_count": "31667",
+            "view_count": "32322",
             "thumbnail_url": "https://i.ytimg.com/vi/8vIfrVG44Ao/hqdefault.jpg"
         },
         {
@@ -241,26 +214,26 @@
             "channel_name": "두치와뿌꾸",
             "category": "Gaming",
             "duration": "15:46",
-            "view_count": "128477",
+            "view_count": "130812",
             "thumbnail_url": "https://i.ytimg.com/vi/cfyi_53FNL8/hqdefault.jpg"
         },
         {
-            "video_id": "gU1xu9WRd_Y",
-            "title": "Last Forever",
-            "channel_name": "LANY - Topic",
+            "video_id": "y-rPpGpnSg0",
+            "title": "Stray Kids \"CREED\" Video",
+            "channel_name": "Stray Kids",
             "category": "Music",
-            "duration": "3:44",
-            "view_count": "110960",
-            "thumbnail_url": "https://i.ytimg.com/vi/gU1xu9WRd_Y/hqdefault.jpg"
+            "duration": "2:51",
+            "view_count": "2424955",
+            "thumbnail_url": "https://i.ytimg.com/vi/y-rPpGpnSg0/hqdefault.jpg"
         },
         {
-            "video_id": "cjC6rUQNNXc",
-            "title": "돌아온 낭만 해적",
-            "channel_name": "이도원",
+            "video_id": "HV4lq03C1Iw",
+            "title": "사일러스 정글 체험기",
+            "channel_name": "클리드",
             "category": "Gaming",
-            "duration": "31:35",
-            "view_count": "254316",
-            "thumbnail_url": "https://i.ytimg.com/vi/cjC6rUQNNXc/hqdefault.jpg"
+            "duration": "26:01",
+            "view_count": "274294",
+            "thumbnail_url": "https://i.ytimg.com/vi/HV4lq03C1Iw/hqdefault.jpg"
         },
         {
             "video_id": "bzqyz5R-acY",
@@ -268,26 +241,26 @@
             "channel_name": "Ricksoft",
             "category": "Music",
             "duration": "2:31",
-            "view_count": "762632",
+            "view_count": "773071",
             "thumbnail_url": "https://i.ytimg.com/vi/bzqyz5R-acY/hqdefault.jpg"
         },
         {
-            "video_id": "ZigqHWs3uDo",
-            "title": "데바데 전세계 1위, 승률 90%의 자타공인 최강자 ㅋㅋ 살구 장인초대석 [테스터훈]",
-            "channel_name": "테스터훈 TesterHoon",
+            "video_id": "cjC6rUQNNXc",
+            "title": "돌아온 낭만 해적",
+            "channel_name": "이도원",
             "category": "Gaming",
-            "duration": "42:07",
-            "view_count": "327056",
-            "thumbnail_url": "https://i.ytimg.com/vi/ZigqHWs3uDo/hqdefault.jpg"
+            "duration": "31:35",
+            "view_count": "255614",
+            "thumbnail_url": "https://i.ytimg.com/vi/cjC6rUQNNXc/hqdefault.jpg"
         },
         {
-            "video_id": "yUuWpGZOFEg",
-            "title": "Gabriela (Extended Version)",
-            "channel_name": "KATSEYE - Topic",
+            "video_id": "gU1xu9WRd_Y",
+            "title": "Last Forever",
+            "channel_name": "LANY - Topic",
             "category": "Music",
-            "duration": "5:01",
-            "view_count": "313922",
-            "thumbnail_url": "https://i.ytimg.com/vi/yUuWpGZOFEg/hqdefault.jpg"
+            "duration": "3:44",
+            "view_count": "111843",
+            "thumbnail_url": "https://i.ytimg.com/vi/gU1xu9WRd_Y/hqdefault.jpg"
         },
         {
             "video_id": "u28d6kDlQGU",
@@ -295,8 +268,26 @@
             "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
             "duration": "17:11",
-            "view_count": "128360",
+            "view_count": "130294",
             "thumbnail_url": "https://i.ytimg.com/vi/u28d6kDlQGU/hqdefault.jpg"
+        },
+        {
+            "video_id": "yUuWpGZOFEg",
+            "title": "Gabriela (Extended Version)",
+            "channel_name": "KATSEYE - Topic",
+            "category": "Music",
+            "duration": "5:01",
+            "view_count": "320283",
+            "thumbnail_url": "https://i.ytimg.com/vi/yUuWpGZOFEg/hqdefault.jpg"
+        },
+        {
+            "video_id": "ZigqHWs3uDo",
+            "title": "데바데 전세계 1위, 승률 90%의 자타공인 최강자 ㅋㅋ 살구 장인초대석 [테스터훈]",
+            "channel_name": "테스터훈 TesterHoon",
+            "category": "Gaming",
+            "duration": "42:07",
+            "view_count": "329021",
+            "thumbnail_url": "https://i.ytimg.com/vi/ZigqHWs3uDo/hqdefault.jpg"
         },
         {
             "video_id": "khiUF-89y8A",
@@ -304,26 +295,8 @@
             "channel_name": "KID WINE - Topic",
             "category": "Music",
             "duration": "3:30",
-            "view_count": "53387",
+            "view_count": "53900",
             "thumbnail_url": "https://i.ytimg.com/vi/khiUF-89y8A/hqdefault.jpg"
-        },
-        {
-            "video_id": "GJq_DQvJB3k",
-            "title": "아델 새로운 아이템을 가져왔습니다! [팡이요,  메이플스토리]",
-            "channel_name": "팡이요",
-            "category": "Gaming",
-            "duration": "9:15",
-            "view_count": "177106",
-            "thumbnail_url": "https://i.ytimg.com/vi/GJq_DQvJB3k/hqdefault.jpg"
-        },
-        {
-            "video_id": "3PLoxz1G83g",
-            "title": "If only time could stop (시간이 멈췄으면)",
-            "channel_name": "Choo young woo - Topic",
-            "category": "Music",
-            "duration": "3:32",
-            "view_count": "9935",
-            "thumbnail_url": "https://i.ytimg.com/vi/3PLoxz1G83g/hqdefault.jpg"
         },
         {
             "video_id": "J6Sve1Q1__E",
@@ -331,8 +304,26 @@
             "channel_name": "마플 마인크래프트 채널",
             "category": "Gaming",
             "duration": "20:22",
-            "view_count": "111304",
+            "view_count": "115367",
             "thumbnail_url": "https://i.ytimg.com/vi/J6Sve1Q1__E/hqdefault.jpg"
+        },
+        {
+            "video_id": "3PLoxz1G83g",
+            "title": "If only time could stop (시간이 멈췄으면)",
+            "channel_name": "Choo young woo - Topic",
+            "category": "Music",
+            "duration": "3:32",
+            "view_count": "10253",
+            "thumbnail_url": "https://i.ytimg.com/vi/3PLoxz1G83g/hqdefault.jpg"
+        },
+        {
+            "video_id": "GJq_DQvJB3k",
+            "title": "아델 새로운 아이템을 가져왔습니다! [팡이요,  메이플스토리]",
+            "channel_name": "팡이요",
+            "category": "Gaming",
+            "duration": "9:15",
+            "view_count": "179499",
+            "thumbnail_url": "https://i.ytimg.com/vi/GJq_DQvJB3k/hqdefault.jpg"
         },
         {
             "video_id": "9S6PbsZmeZY",
@@ -340,7 +331,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "0:29",
-            "view_count": "85347",
+            "view_count": "86311",
             "thumbnail_url": "https://i.ytimg.com/vi/9S6PbsZmeZY/hqdefault.jpg"
         },
         {
@@ -349,17 +340,17 @@
             "channel_name": "주키니TV",
             "category": "Gaming",
             "duration": "20:16",
-            "view_count": "130040",
+            "view_count": "132863",
             "thumbnail_url": "https://i.ytimg.com/vi/L1WUQWuI_4Q/hqdefault.jpg"
         },
         {
-            "video_id": "6-wpD2Kqr4Q",
-            "title": "아직도 널, 여전히 난",
-            "channel_name": "20 Years of Age - Topic",
+            "video_id": "tEh9yATC8Bs",
+            "title": "Soda Pop",
+            "channel_name": "Saja Boys - Topic",
             "category": "Music",
-            "duration": "2:59",
-            "view_count": "51054",
-            "thumbnail_url": "https://i.ytimg.com/vi/6-wpD2Kqr4Q/hqdefault.jpg"
+            "duration": "2:31",
+            "view_count": "167401",
+            "thumbnail_url": "https://i.ytimg.com/vi/tEh9yATC8Bs/hqdefault.jpg"
         },
         {
             "video_id": "klEpoRq38_o",
@@ -367,17 +358,26 @@
             "channel_name": "강 지",
             "category": "Gaming",
             "duration": "13:46",
-            "view_count": "229411",
+            "view_count": "233782",
             "thumbnail_url": "https://i.ytimg.com/vi/klEpoRq38_o/hqdefault.jpg"
         },
         {
-            "video_id": "UJgPpzZcxGU",
-            "title": "Fujii Kaze - Prema [Official video]",
-            "channel_name": "Fujii Kaze",
+            "video_id": "6-wpD2Kqr4Q",
+            "title": "아직도 널, 여전히 난",
+            "channel_name": "20 Years of Age - Topic",
             "category": "Music",
-            "duration": "4:34",
-            "view_count": "1583674",
-            "thumbnail_url": "https://i.ytimg.com/vi/UJgPpzZcxGU/hqdefault.jpg"
+            "duration": "2:59",
+            "view_count": "51409",
+            "thumbnail_url": "https://i.ytimg.com/vi/6-wpD2Kqr4Q/hqdefault.jpg"
+        },
+        {
+            "video_id": "wfLT31hCv_I",
+            "title": "모두가 무시하던 그와의 대결",
+            "channel_name": "튜브김민교",
+            "category": "Gaming",
+            "duration": "39:11",
+            "view_count": "321039",
+            "thumbnail_url": "https://i.ytimg.com/vi/wfLT31hCv_I/hqdefault.jpg"
         }
     ]
 }
