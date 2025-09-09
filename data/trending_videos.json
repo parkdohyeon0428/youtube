@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-09-09 18:14:47",
+    "scraped_time": "2025-09-09 19:14:33",
     "videos": [
         {
             "video_id": "pqMCgfnBx74",
@@ -7,7 +7,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:40",
-            "view_count": "1201186",
+            "view_count": "1222018",
             "thumbnail_url": "https://i.ytimg.com/vi/pqMCgfnBx74/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "2:01",
-            "view_count": "154427",
+            "view_count": "171368",
             "thumbnail_url": "https://i.ytimg.com/vi/14C4mU2KLIQ/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "25:27",
-            "view_count": "395339",
+            "view_count": "399734",
             "thumbnail_url": "https://i.ytimg.com/vi/wMz9CwJ0YZc/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "aespa - Topic",
             "category": "Music",
             "duration": "3:18",
-            "view_count": "3565991",
+            "view_count": "3611558",
             "thumbnail_url": "https://i.ytimg.com/vi/WAQ5_7YFAVo/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "27:16",
-            "view_count": "317587",
+            "view_count": "322472",
             "thumbnail_url": "https://i.ytimg.com/vi/EFYvfRBi25I/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "1433957",
+            "view_count": "1462122",
             "thumbnail_url": "https://i.ytimg.com/vi/42wfEs7oIP8/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "3:42:10",
-            "view_count": "1219999",
+            "view_count": "1220273",
             "thumbnail_url": "https://i.ytimg.com/vi/N2IIb1NVJsY/hqdefault.jpg"
         },
         {
@@ -70,26 +70,8 @@
             "channel_name": "CORTIS - Topic",
             "category": "Music",
             "duration": "2:51",
-            "view_count": "233547",
+            "view_count": "243248",
             "thumbnail_url": "https://i.ytimg.com/vi/7wJsfALKRR8/hqdefault.jpg"
-        },
-        {
-            "video_id": "QdG1PLKPgEg",
-            "title": "마나 마를 틈이 없는 초대형 말파 등장",
-            "channel_name": "잡상싱",
-            "category": "Gaming",
-            "duration": "14:35",
-            "view_count": "167976",
-            "thumbnail_url": "https://i.ytimg.com/vi/QdG1PLKPgEg/hqdefault.jpg"
-        },
-        {
-            "video_id": "WNJdZqyugg4",
-            "title": "INSIDE OUT",
-            "channel_name": "DAY6 - Topic",
-            "category": "Music",
-            "duration": "3:01",
-            "view_count": "750807",
-            "thumbnail_url": "https://i.ytimg.com/vi/WNJdZqyugg4/hqdefault.jpg"
         },
         {
             "video_id": "OZlaaNrFW6Q",
@@ -97,17 +79,17 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "25:47",
-            "view_count": "105838",
+            "view_count": "118148",
             "thumbnail_url": "https://i.ytimg.com/vi/OZlaaNrFW6Q/hqdefault.jpg"
         },
         {
-            "video_id": "C-CYwNz3z8w",
-            "title": "DECO*27 - モニタリング (Best Friend Remix) feat. 初音ミク",
-            "channel_name": "DECO*27",
+            "video_id": "WNJdZqyugg4",
+            "title": "INSIDE OUT",
+            "channel_name": "DAY6 - Topic",
             "category": "Music",
-            "duration": "3:03",
-            "view_count": "6469750",
-            "thumbnail_url": "https://i.ytimg.com/vi/C-CYwNz3z8w/hqdefault.jpg"
+            "duration": "3:01",
+            "view_count": "761437",
+            "thumbnail_url": "https://i.ytimg.com/vi/WNJdZqyugg4/hqdefault.jpg"
         },
         {
             "video_id": "hFNUlwZxXTs",
@@ -115,8 +97,44 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "29:24",
-            "view_count": "115372",
+            "view_count": "130613",
             "thumbnail_url": "https://i.ytimg.com/vi/hFNUlwZxXTs/hqdefault.jpg"
+        },
+        {
+            "video_id": "C-CYwNz3z8w",
+            "title": "DECO*27 - モニタリング (Best Friend Remix) feat. 初音ミク",
+            "channel_name": "DECO*27",
+            "category": "Music",
+            "duration": "3:03",
+            "view_count": "6516601",
+            "thumbnail_url": "https://i.ytimg.com/vi/C-CYwNz3z8w/hqdefault.jpg"
+        },
+        {
+            "video_id": "QdG1PLKPgEg",
+            "title": "마나 마를 틈이 없는 초대형 말파 등장",
+            "channel_name": "잡상싱",
+            "category": "Gaming",
+            "duration": "14:35",
+            "view_count": "171108",
+            "thumbnail_url": "https://i.ytimg.com/vi/QdG1PLKPgEg/hqdefault.jpg"
+        },
+        {
+            "video_id": "JYSufrEGPsw",
+            "title": "CRZY",
+            "channel_name": "HAECHAN - Topic",
+            "category": "Music",
+            "duration": "3:27",
+            "view_count": "102072",
+            "thumbnail_url": "https://i.ytimg.com/vi/JYSufrEGPsw/hqdefault.jpg"
+        },
+        {
+            "video_id": "13Ot2RK2K4I",
+            "title": "초희귀 갤럭시 크래프트 시크릿이 떴다!! 그리고 인생 최강드래곤 얻고 더블 드래곤 주인이 된 쉐어!!(로블록스 브레인롯훔치기)",
+            "channel_name": "쉐어TV",
+            "category": "Gaming",
+            "duration": "19:25",
+            "view_count": "100285",
+            "thumbnail_url": "https://i.ytimg.com/vi/13Ot2RK2K4I/hqdefault.jpg"
         },
         {
             "video_id": "HAJ_06-eTbk",
@@ -124,7 +142,7 @@
             "channel_name": "NCT",
             "category": "Music",
             "duration": "3:46",
-            "view_count": "171908",
+            "view_count": "175110",
             "thumbnail_url": "https://i.ytimg.com/vi/HAJ_06-eTbk/hqdefault.jpg"
         },
         {
@@ -133,26 +151,8 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "33:23",
-            "view_count": "139799",
+            "view_count": "141651",
             "thumbnail_url": "https://i.ytimg.com/vi/ImJqxDY86Rw/hqdefault.jpg"
-        },
-        {
-            "video_id": "JYSufrEGPsw",
-            "title": "CRZY",
-            "channel_name": "HAECHAN - Topic",
-            "category": "Music",
-            "duration": "3:27",
-            "view_count": "98611",
-            "thumbnail_url": "https://i.ytimg.com/vi/JYSufrEGPsw/hqdefault.jpg"
-        },
-        {
-            "video_id": "lkhVHxOrmn8",
-            "title": "SNL 김규원 본캐 6000조 새팀 갑니다 실력최초 공개!",
-            "channel_name": "두치와뿌꾸",
-            "category": "Gaming",
-            "duration": "17:32",
-            "view_count": "140350",
-            "thumbnail_url": "https://i.ytimg.com/vi/lkhVHxOrmn8/hqdefault.jpg"
         },
         {
             "video_id": "ySTOtt6GC6c",
@@ -160,35 +160,17 @@
             "channel_name": "DK - Topic",
             "category": "Music",
             "duration": "5:39",
-            "view_count": "52766",
+            "view_count": "55177",
             "thumbnail_url": "https://i.ytimg.com/vi/ySTOtt6GC6c/hqdefault.jpg"
         },
         {
-            "video_id": "Sr-Zuhy4iTI",
-            "title": "구글스타리그 개막전 우승자조 시작 [ASL 시즌20 16강 A조 1경기 김민철vs황병영]",
-            "channel_name": "도멘TV [DOTUBE]",
+            "video_id": "lkhVHxOrmn8",
+            "title": "SNL 김규원 본캐 6000조 새팀 갑니다 실력최초 공개!",
+            "channel_name": "두치와뿌꾸",
             "category": "Gaming",
-            "duration": "9:00",
-            "view_count": "72509",
-            "thumbnail_url": "https://i.ytimg.com/vi/Sr-Zuhy4iTI/hqdefault.jpg"
-        },
-        {
-            "video_id": "hZ6pts6e8dI",
-            "title": "DAY6(데이식스) \"꿈의 버스\" M/V",
-            "channel_name": "JYP Entertainment",
-            "category": "Music",
-            "duration": "3:58",
-            "view_count": "3222448",
-            "thumbnail_url": "https://i.ytimg.com/vi/hZ6pts6e8dI/hqdefault.jpg"
-        },
-        {
-            "video_id": "5zji02jiu7U",
-            "title": "새로 나온 \"모든 크래프트 시크릿\" 만들었습니다!!! 제작 시크릿들 퀄리티 왜이렇게 좋아요? ㄷㄷㄷ (로블록스 브레인롯훔치기)",
-            "channel_name": "말량",
-            "category": "Gaming",
-            "duration": "27:08",
-            "view_count": "364091",
-            "thumbnail_url": "https://i.ytimg.com/vi/5zji02jiu7U/hqdefault.jpg"
+            "duration": "17:32",
+            "view_count": "141163",
+            "thumbnail_url": "https://i.ytimg.com/vi/lkhVHxOrmn8/hqdefault.jpg"
         },
         {
             "video_id": "XaxBsE72SwY",
@@ -196,7 +178,7 @@
             "channel_name": "HUNTR/X - Topic",
             "category": "Music",
             "duration": "4:02",
-            "view_count": "285269",
+            "view_count": "292466",
             "thumbnail_url": "https://i.ytimg.com/vi/XaxBsE72SwY/hqdefault.jpg"
         },
         {
@@ -205,8 +187,26 @@
             "channel_name": "게임대장봉준",
             "category": "Gaming",
             "duration": "28:29",
-            "view_count": "143002",
+            "view_count": "146513",
             "thumbnail_url": "https://i.ytimg.com/vi/-i6X00zQCOg/hqdefault.jpg"
+        },
+        {
+            "video_id": "hZ6pts6e8dI",
+            "title": "DAY6(데이식스) \"꿈의 버스\" M/V",
+            "channel_name": "JYP Entertainment",
+            "category": "Music",
+            "duration": "3:58",
+            "view_count": "3246338",
+            "thumbnail_url": "https://i.ytimg.com/vi/hZ6pts6e8dI/hqdefault.jpg"
+        },
+        {
+            "video_id": "Sr-Zuhy4iTI",
+            "title": "구글스타리그 개막전 우승자조 시작 [ASL 시즌20 16강 A조 1경기 김민철vs황병영]",
+            "channel_name": "도멘TV [DOTUBE]",
+            "category": "Gaming",
+            "duration": "9:00",
+            "view_count": "73419",
+            "thumbnail_url": "https://i.ytimg.com/vi/Sr-Zuhy4iTI/hqdefault.jpg"
         },
         {
             "video_id": "lZXfkHOODPo",
@@ -214,7 +214,7 @@
             "channel_name": "김영우 - Topic",
             "category": "Music",
             "duration": "3:09",
-            "view_count": "46857",
+            "view_count": "50323",
             "thumbnail_url": "https://i.ytimg.com/vi/lZXfkHOODPo/hqdefault.jpg"
         },
         {
@@ -223,7 +223,7 @@
             "channel_name": "주키니TV",
             "category": "Gaming",
             "duration": "21:28",
-            "view_count": "145928",
+            "view_count": "149187",
             "thumbnail_url": "https://i.ytimg.com/vi/ULFfpFJH76k/hqdefault.jpg"
         },
         {
@@ -232,17 +232,17 @@
             "channel_name": "노래는? 허각!",
             "category": "Music",
             "duration": "4:34",
-            "view_count": "26079",
+            "view_count": "26722",
             "thumbnail_url": "https://i.ytimg.com/vi/Bb4CiwyP33A/hqdefault.jpg"
         },
         {
-            "video_id": "dsR4oe1k_CE",
-            "title": "영브 나오면 꼭 해야할 정석 조합",
-            "channel_name": "팔차선 [8LJAYWALKING]",
+            "video_id": "5zji02jiu7U",
+            "title": "새로 나온 \"모든 크래프트 시크릿\" 만들었습니다!!! 제작 시크릿들 퀄리티 왜이렇게 좋아요? ㄷㄷㄷ (로블록스 브레인롯훔치기)",
+            "channel_name": "말량",
             "category": "Gaming",
-            "duration": "13:43",
-            "view_count": "143051",
-            "thumbnail_url": "https://i.ytimg.com/vi/dsR4oe1k_CE/hqdefault.jpg"
+            "duration": "27:08",
+            "view_count": "367062",
+            "thumbnail_url": "https://i.ytimg.com/vi/5zji02jiu7U/hqdefault.jpg"
         },
         {
             "video_id": "tEh9yATC8Bs",
@@ -250,35 +250,17 @@
             "channel_name": "Saja Boys - Topic",
             "category": "Music",
             "duration": "2:31",
-            "view_count": "639840",
+            "view_count": "650433",
             "thumbnail_url": "https://i.ytimg.com/vi/tEh9yATC8Bs/hqdefault.jpg"
         },
         {
-            "video_id": "13Ot2RK2K4I",
-            "title": "초희귀 갤럭시 크래프트 시크릿이 떴다!! 그리고 인생 최강드래곤 얻고 더블 드래곤 주인이 된 쉐어!!(로블록스 브레인롯훔치기)",
-            "channel_name": "쉐어TV",
+            "video_id": "dsR4oe1k_CE",
+            "title": "영브 나오면 꼭 해야할 정석 조합",
+            "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
-            "duration": "19:25",
-            "view_count": "79001",
-            "thumbnail_url": "https://i.ytimg.com/vi/13Ot2RK2K4I/hqdefault.jpg"
-        },
-        {
-            "video_id": "qTUBLH3DtsQ",
-            "title": "Slow bloom",
-            "channel_name": "Bily Acoustie - Topic",
-            "category": "Music",
-            "duration": "4:22",
-            "view_count": "23924",
-            "thumbnail_url": "https://i.ytimg.com/vi/qTUBLH3DtsQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "46xEnPA9JjA",
-            "title": "\"아 칼챔 달라고오!!\" 강제로 세주 마오 픽해버리는 팀원에 멘탈 터진 이상호..!【중간계 완결】",
-            "channel_name": "이상호",
-            "category": "Gaming",
-            "duration": "45:01",
-            "view_count": "259907",
-            "thumbnail_url": "https://i.ytimg.com/vi/46xEnPA9JjA/hqdefault.jpg"
+            "duration": "13:43",
+            "view_count": "144647",
+            "thumbnail_url": "https://i.ytimg.com/vi/dsR4oe1k_CE/hqdefault.jpg"
         },
         {
             "video_id": "uu--LXMs_wA",
@@ -286,26 +268,8 @@
             "channel_name": "BoyWithUke - Topic",
             "category": "Music",
             "duration": "3:33",
-            "view_count": "221719",
+            "view_count": "225682",
             "thumbnail_url": "https://i.ytimg.com/vi/uu--LXMs_wA/hqdefault.jpg"
-        },
-        {
-            "video_id": "CP4WmcGYs10",
-            "title": "드디어 5% 학교 뽑았다!? 유튜버의 🍀갤럭시 시크릿 럭키블럭 12개🍀 대리깡 시작합니다!",
-            "channel_name": "꼬예유의 로블록스 저장소",
-            "category": "Gaming",
-            "duration": "44:26",
-            "view_count": "88300",
-            "thumbnail_url": "https://i.ytimg.com/vi/CP4WmcGYs10/hqdefault.jpg"
-        },
-        {
-            "video_id": "Vgpv5PtWsn4",
-            "title": "A COLD PLAY",
-            "channel_name": "The Kid Laroi - Topic",
-            "category": "Music",
-            "duration": "3:00",
-            "view_count": "472146",
-            "thumbnail_url": "https://i.ytimg.com/vi/Vgpv5PtWsn4/hqdefault.jpg"
         },
         {
             "video_id": "S5w1FwcPgCk",
@@ -313,7 +277,7 @@
             "channel_name": "마플 마인크래프트 채널",
             "category": "Gaming",
             "duration": "20:14",
-            "view_count": "83663",
+            "view_count": "90106",
             "thumbnail_url": "https://i.ytimg.com/vi/S5w1FwcPgCk/hqdefault.jpg"
         },
         {
@@ -322,8 +286,26 @@
             "channel_name": "Lucas & Steve - Topic",
             "category": "Music",
             "duration": "2:59",
-            "view_count": "88163",
+            "view_count": "90752",
             "thumbnail_url": "https://i.ytimg.com/vi/eUIV54dKVuI/hqdefault.jpg"
+        },
+        {
+            "video_id": "46xEnPA9JjA",
+            "title": "\"아 칼챔 달라고오!!\" 강제로 세주 마오 픽해버리는 팀원에 멘탈 터진 이상호..!【중간계 완결】",
+            "channel_name": "이상호",
+            "category": "Gaming",
+            "duration": "45:01",
+            "view_count": "260689",
+            "thumbnail_url": "https://i.ytimg.com/vi/46xEnPA9JjA/hqdefault.jpg"
+        },
+        {
+            "video_id": "qTUBLH3DtsQ",
+            "title": "Slow bloom",
+            "channel_name": "Bily Acoustie - Topic",
+            "category": "Music",
+            "duration": "4:22",
+            "view_count": "24508",
+            "thumbnail_url": "https://i.ytimg.com/vi/qTUBLH3DtsQ/hqdefault.jpg"
         },
         {
             "video_id": "VfkNsQerRzw",
@@ -331,26 +313,26 @@
             "channel_name": "하네 HANE - 로블록스 게임채널",
             "category": "Gaming",
             "duration": "17:40",
-            "view_count": "109126",
+            "view_count": "113668",
             "thumbnail_url": "https://i.ytimg.com/vi/VfkNsQerRzw/hqdefault.jpg"
         },
         {
-            "video_id": "oShpTlu_sqQ",
-            "title": "25 Degrees",
-            "channel_name": "UmYull - Topic",
+            "video_id": "Vgpv5PtWsn4",
+            "title": "A COLD PLAY",
+            "channel_name": "The Kid Laroi - Topic",
             "category": "Music",
-            "duration": "4:04",
-            "view_count": "78233",
-            "thumbnail_url": "https://i.ytimg.com/vi/oShpTlu_sqQ/hqdefault.jpg"
+            "duration": "3:00",
+            "view_count": "477877",
+            "thumbnail_url": "https://i.ytimg.com/vi/Vgpv5PtWsn4/hqdefault.jpg"
         },
         {
-            "video_id": "luScota2ULQ",
-            "title": "두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두두",
-            "channel_name": "전쓰트의 게임 채널 Junsst",
+            "video_id": "CP4WmcGYs10",
+            "title": "드디어 5% 학교 뽑았다!? 유튜버의 🍀갤럭시 시크릿 럭키블럭 12개🍀 대리깡 시작합니다!",
+            "channel_name": "꼬예유의 로블록스 저장소",
             "category": "Gaming",
-            "duration": "15:10",
-            "view_count": "117307",
-            "thumbnail_url": "https://i.ytimg.com/vi/luScota2ULQ/hqdefault.jpg"
+            "duration": "44:26",
+            "view_count": "90859",
+            "thumbnail_url": "https://i.ytimg.com/vi/CP4WmcGYs10/hqdefault.jpg"
         },
         {
             "video_id": "rkcyLs62TsE",
@@ -358,17 +340,17 @@
             "channel_name": "Chan - Topic",
             "category": "Music",
             "duration": "2:29",
-            "view_count": "17666",
+            "view_count": "18529",
             "thumbnail_url": "https://i.ytimg.com/vi/rkcyLs62TsE/hqdefault.jpg"
         },
         {
-            "video_id": "6AZQfIeB7MU",
-            "title": "구칠이 미니버전인 11년생 레디언트 잼민이 등장ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
-            "channel_name": "김된모",
+            "video_id": "AMHFUEBKKg0",
+            "title": "뮤탈 막으실분 구한다면서? 홍구한테 바로 사기치는 상대 ㅋㅋㅋㅋㅋ",
+            "channel_name": "발스타홍구",
             "category": "Gaming",
-            "duration": "12:07",
-            "view_count": "100655",
-            "thumbnail_url": "https://i.ytimg.com/vi/6AZQfIeB7MU/hqdefault.jpg"
+            "duration": "22:09",
+            "view_count": "71458",
+            "thumbnail_url": "https://i.ytimg.com/vi/AMHFUEBKKg0/hqdefault.jpg"
         },
         {
             "video_id": "Ovn6WnYia08",
@@ -376,8 +358,26 @@
             "channel_name": "SEVENTEEN",
             "category": "Music",
             "duration": "2:58",
-            "view_count": "374719",
+            "view_count": "382514",
             "thumbnail_url": "https://i.ytimg.com/vi/Ovn6WnYia08/hqdefault.jpg"
+        },
+        {
+            "video_id": "z3qA1n74CAI",
+            "title": "WER 첫 프리미어 시작, 이 멤버로 프로 진출 가능할까?",
+            "channel_name": "김된모",
+            "category": "Gaming",
+            "duration": "14:10",
+            "view_count": "38546",
+            "thumbnail_url": "https://i.ytimg.com/vi/z3qA1n74CAI/hqdefault.jpg"
+        },
+        {
+            "video_id": "oShpTlu_sqQ",
+            "title": "25 Degrees",
+            "channel_name": "UmYull - Topic",
+            "category": "Music",
+            "duration": "4:04",
+            "view_count": "79910",
+            "thumbnail_url": "https://i.ytimg.com/vi/oShpTlu_sqQ/hqdefault.jpg"
         }
     ]
 }
