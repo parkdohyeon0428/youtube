@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-09-11 00:13:29",
+    "scraped_time": "2025-09-11 01:16:16",
     "videos": [
         {
             "video_id": "AlNEtjBX1wU",
@@ -7,7 +7,7 @@
             "channel_name": "IU - Topic",
             "category": "Music",
             "duration": "3:39",
-            "view_count": "433971",
+            "view_count": "458108",
             "thumbnail_url": "https://i.ytimg.com/vi/AlNEtjBX1wU/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "2:01",
-            "view_count": "385895",
+            "view_count": "391519",
             "thumbnail_url": "https://i.ytimg.com/vi/14C4mU2KLIQ/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "5:29:30",
-            "view_count": "3224232",
+            "view_count": "3265887",
             "thumbnail_url": "https://i.ytimg.com/vi/zvursCcwrEQ/hqdefault.jpg"
         },
         {
@@ -34,8 +34,17 @@
             "channel_name": "CORTIS - Topic",
             "category": "Music",
             "duration": "2:51",
-            "view_count": "553903",
+            "view_count": "568190",
             "thumbnail_url": "https://i.ytimg.com/vi/7wJsfALKRR8/hqdefault.jpg"
+        },
+        {
+            "video_id": "NE-NlUiuKK0",
+            "title": "Alien Earth: Ep 7 - NEW TRAILER ‘Emergence’ | 4K",
+            "channel_name": "AD_edits",
+            "category": "Entertainment",
+            "duration": "0:42",
+            "view_count": "70061",
+            "thumbnail_url": "https://i.ytimg.com/vi/NE-NlUiuKK0/hqdefault.jpg"
         },
         {
             "video_id": "1Q7G3ZnDD8I",
@@ -43,7 +52,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "26:20",
-            "view_count": "447966",
+            "view_count": "457956",
             "thumbnail_url": "https://i.ytimg.com/vi/1Q7G3ZnDD8I/hqdefault.jpg"
         },
         {
@@ -52,7 +61,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:40",
-            "view_count": "1709180",
+            "view_count": "1723664",
             "thumbnail_url": "https://i.ytimg.com/vi/pqMCgfnBx74/hqdefault.jpg"
         },
         {
@@ -61,7 +70,7 @@
             "channel_name": "쉐어TV",
             "category": "Gaming",
             "duration": "19:08",
-            "view_count": "234390",
+            "view_count": "244601",
             "thumbnail_url": "https://i.ytimg.com/vi/H6V5UVhF2YM/hqdefault.jpg"
         },
         {
@@ -70,26 +79,8 @@
             "channel_name": "aespa - Topic",
             "category": "Music",
             "duration": "3:18",
-            "view_count": "4808571",
+            "view_count": "4850917",
             "thumbnail_url": "https://i.ytimg.com/vi/WAQ5_7YFAVo/hqdefault.jpg"
-        },
-        {
-            "video_id": "isXo-6aqLog",
-            "title": "*막장 주의* 감옥 땅을 파서 나오는 잡동사니로 탈출 해야 한다",
-            "channel_name": "잠뜰 TV",
-            "category": "Gaming",
-            "duration": "37:49",
-            "view_count": "125485",
-            "thumbnail_url": "https://i.ytimg.com/vi/isXo-6aqLog/hqdefault.jpg"
-        },
-        {
-            "video_id": "42wfEs7oIP8",
-            "title": "CORTIS (코르티스) 'FaSHioN' Official MV",
-            "channel_name": "HYBE LABELS",
-            "category": "Music",
-            "duration": "3:00",
-            "view_count": "2146452",
-            "thumbnail_url": "https://i.ytimg.com/vi/42wfEs7oIP8/hqdefault.jpg"
         },
         {
             "video_id": "Xy1wCLzGQcY",
@@ -97,8 +88,26 @@
             "channel_name": "말왕TV",
             "category": "Gaming",
             "duration": "31:14",
-            "view_count": "114137",
+            "view_count": "139485",
             "thumbnail_url": "https://i.ytimg.com/vi/Xy1wCLzGQcY/hqdefault.jpg"
+        },
+        {
+            "video_id": "42wfEs7oIP8",
+            "title": "CORTIS (코르티스) 'FaSHioN' Official MV",
+            "channel_name": "HYBE LABELS",
+            "category": "Music",
+            "duration": "3:00",
+            "view_count": "2170235",
+            "thumbnail_url": "https://i.ytimg.com/vi/42wfEs7oIP8/hqdefault.jpg"
+        },
+        {
+            "video_id": "isXo-6aqLog",
+            "title": "*막장 주의* 감옥 땅을 파서 나오는 잡동사니로 탈출 해야 한다",
+            "channel_name": "잠뜰 TV",
+            "category": "Gaming",
+            "duration": "37:49",
+            "view_count": "138668",
+            "thumbnail_url": "https://i.ytimg.com/vi/isXo-6aqLog/hqdefault.jpg"
         },
         {
             "video_id": "XaxBsE72SwY",
@@ -106,7 +115,7 @@
             "channel_name": "HUNTR/X - Topic",
             "category": "Music",
             "duration": "4:02",
-            "view_count": "579058",
+            "view_count": "589837",
             "thumbnail_url": "https://i.ytimg.com/vi/XaxBsE72SwY/hqdefault.jpg"
         },
         {
@@ -115,7 +124,7 @@
             "channel_name": "김된모",
             "category": "Gaming",
             "duration": "23:05",
-            "view_count": "94359",
+            "view_count": "110653",
             "thumbnail_url": "https://i.ytimg.com/vi/L4IISxqMJ_o/hqdefault.jpg"
         },
         {
@@ -124,7 +133,7 @@
             "channel_name": "HAECHAN - Topic",
             "category": "Music",
             "duration": "3:27",
-            "view_count": "208802",
+            "view_count": "212950",
             "thumbnail_url": "https://i.ytimg.com/vi/JYSufrEGPsw/hqdefault.jpg"
         },
         {
@@ -133,7 +142,7 @@
             "channel_name": "말량",
             "category": "Gaming",
             "duration": "23:45",
-            "view_count": "139097",
+            "view_count": "147018",
             "thumbnail_url": "https://i.ytimg.com/vi/YkfGzu4Jv5c/hqdefault.jpg"
         },
         {
@@ -142,7 +151,7 @@
             "channel_name": "DAY6",
             "category": "People & Blogs",
             "duration": "3:07",
-            "view_count": "241656",
+            "view_count": "243963",
             "thumbnail_url": "https://i.ytimg.com/vi/VEDkhmvjHcY/hqdefault.jpg"
         },
         {
@@ -151,7 +160,7 @@
             "channel_name": "이도원",
             "category": "Gaming",
             "duration": "24:11",
-            "view_count": "102898",
+            "view_count": "118644",
             "thumbnail_url": "https://i.ytimg.com/vi/a6G925MH6LQ/hqdefault.jpg"
         },
         {
@@ -160,7 +169,7 @@
             "channel_name": "DK - Topic",
             "category": "Music",
             "duration": "5:39",
-            "view_count": "144825",
+            "view_count": "147732",
             "thumbnail_url": "https://i.ytimg.com/vi/ySTOtt6GC6c/hqdefault.jpg"
         },
         {
@@ -169,7 +178,7 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "20:31",
-            "view_count": "161002",
+            "view_count": "173217",
             "thumbnail_url": "https://i.ytimg.com/vi/C5cCpPsoIJw/hqdefault.jpg"
         },
         {
@@ -178,17 +187,17 @@
             "channel_name": "김영우 - Topic",
             "category": "Music",
             "duration": "3:09",
-            "view_count": "118261",
+            "view_count": "120365",
             "thumbnail_url": "https://i.ytimg.com/vi/lZXfkHOODPo/hqdefault.jpg"
         },
         {
-            "video_id": "hFNUlwZxXTs",
-            "title": "살짝 스쳐도 치명타인 찐친들의 대화ㅋㅋㅋㅋㅋ",
-            "channel_name": "튜브김민교",
+            "video_id": "KrlzGKyCzLw",
+            "title": "리뷰 145개중 144개가 극찬인 \"파리게임\" 다운 받아봤습니다",
+            "channel_name": "혜안",
             "category": "Gaming",
-            "duration": "29:24",
-            "view_count": "302665",
-            "thumbnail_url": "https://i.ytimg.com/vi/hFNUlwZxXTs/hqdefault.jpg"
+            "duration": "35:58",
+            "view_count": "88709",
+            "thumbnail_url": "https://i.ytimg.com/vi/KrlzGKyCzLw/hqdefault.jpg"
         },
         {
             "video_id": "OO096qleqbQ",
@@ -196,17 +205,17 @@
             "channel_name": "Eunhye - Topic",
             "category": "Music",
             "duration": "3:44",
-            "view_count": "121613",
+            "view_count": "122900",
             "thumbnail_url": "https://i.ytimg.com/vi/OO096qleqbQ/hqdefault.jpg"
         },
         {
-            "video_id": "0VN8q-ycMI0",
-            "title": "낭만에 죽고 낭만에 사는 사람",
-            "channel_name": "잡상싱",
+            "video_id": "hFNUlwZxXTs",
+            "title": "살짝 스쳐도 치명타인 찐친들의 대화ㅋㅋㅋㅋㅋ",
+            "channel_name": "튜브김민교",
             "category": "Gaming",
-            "duration": "12:59",
-            "view_count": "228858",
-            "thumbnail_url": "https://i.ytimg.com/vi/0VN8q-ycMI0/hqdefault.jpg"
+            "duration": "29:24",
+            "view_count": "304833",
+            "thumbnail_url": "https://i.ytimg.com/vi/hFNUlwZxXTs/hqdefault.jpg"
         },
         {
             "video_id": "Qr7svLd9lcE",
@@ -214,7 +223,7 @@
             "channel_name": "신승훈ShinSeungHun",
             "category": "Entertainment",
             "duration": "5:25",
-            "view_count": "15077",
+            "view_count": "18224",
             "thumbnail_url": "https://i.ytimg.com/vi/Qr7svLd9lcE/hqdefault.jpg"
         },
         {
@@ -223,7 +232,7 @@
             "channel_name": "발스타홍구",
             "category": "Gaming",
             "duration": "23:12",
-            "view_count": "123636",
+            "view_count": "131922",
             "thumbnail_url": "https://i.ytimg.com/vi/JZZvoNLtcC0/hqdefault.jpg"
         },
         {
@@ -232,44 +241,8 @@
             "channel_name": "NCT WISH",
             "category": "Music",
             "duration": "3:12",
-            "view_count": "70177",
+            "view_count": "71896",
             "thumbnail_url": "https://i.ytimg.com/vi/ya_LLqsH92s/hqdefault.jpg"
-        },
-        {
-            "video_id": "OZlaaNrFW6Q",
-            "title": "이상호의 본업 모먼트에 감동받은 클리드",
-            "channel_name": "클리드",
-            "category": "Gaming",
-            "duration": "25:47",
-            "view_count": "262128",
-            "thumbnail_url": "https://i.ytimg.com/vi/OZlaaNrFW6Q/hqdefault.jpg"
-        },
-        {
-            "video_id": "yfn7EG7tQpg",
-            "title": "우기 (YUQI) '아프다' Official Music Video",
-            "channel_name": "i-dle (아이들)",
-            "category": "Music",
-            "duration": "5:04",
-            "view_count": "375886",
-            "thumbnail_url": "https://i.ytimg.com/vi/yfn7EG7tQpg/hqdefault.jpg"
-        },
-        {
-            "video_id": "wMz9CwJ0YZc",
-            "title": "파괴살",
-            "channel_name": "PAKA",
-            "category": "Gaming",
-            "duration": "25:27",
-            "view_count": "473098",
-            "thumbnail_url": "https://i.ytimg.com/vi/wMz9CwJ0YZc/hqdefault.jpg"
-        },
-        {
-            "video_id": "F4Tr-fvxMyQ",
-            "title": "Essence (향기)",
-            "channel_name": "스트레이 (The Stray) - Topic",
-            "category": "Music",
-            "duration": "3:33",
-            "view_count": "21278",
-            "thumbnail_url": "https://i.ytimg.com/vi/F4Tr-fvxMyQ/hqdefault.jpg"
         },
         {
             "video_id": "uyVw2vXmbdc",
@@ -277,8 +250,62 @@
             "channel_name": "타튜브 TATUBE",
             "category": "Gaming",
             "duration": "20:17",
-            "view_count": "101922",
+            "view_count": "124004",
             "thumbnail_url": "https://i.ytimg.com/vi/uyVw2vXmbdc/hqdefault.jpg"
+        },
+        {
+            "video_id": "yfn7EG7tQpg",
+            "title": "우기 (YUQI) '아프다' Official Music Video",
+            "channel_name": "i-dle (아이들)",
+            "category": "Music",
+            "duration": "5:04",
+            "view_count": "401951",
+            "thumbnail_url": "https://i.ytimg.com/vi/yfn7EG7tQpg/hqdefault.jpg"
+        },
+        {
+            "video_id": "0VN8q-ycMI0",
+            "title": "낭만에 죽고 낭만에 사는 사람",
+            "channel_name": "잡상싱",
+            "category": "Gaming",
+            "duration": "12:59",
+            "view_count": "231183",
+            "thumbnail_url": "https://i.ytimg.com/vi/0VN8q-ycMI0/hqdefault.jpg"
+        },
+        {
+            "video_id": "LkJctoUTICU",
+            "title": "HAECHAN 해찬 ‘CRZY’｜On the Spot｜온더스팟",
+            "channel_name": "1theK Originals - 원더케이 오리지널",
+            "category": "Entertainment",
+            "duration": "3:50",
+            "view_count": "42495",
+            "thumbnail_url": "https://i.ytimg.com/vi/LkJctoUTICU/hqdefault.jpg"
+        },
+        {
+            "video_id": "OZlaaNrFW6Q",
+            "title": "이상호의 본업 모먼트에 감동받은 클리드",
+            "channel_name": "클리드",
+            "category": "Gaming",
+            "duration": "25:47",
+            "view_count": "265254",
+            "thumbnail_url": "https://i.ytimg.com/vi/OZlaaNrFW6Q/hqdefault.jpg"
+        },
+        {
+            "video_id": "F4Tr-fvxMyQ",
+            "title": "Essence (향기)",
+            "channel_name": "스트레이 (The Stray) - Topic",
+            "category": "Music",
+            "duration": "3:33",
+            "view_count": "21835",
+            "thumbnail_url": "https://i.ytimg.com/vi/F4Tr-fvxMyQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "2Wsy87gC_1I",
+            "title": "뜨상의 호흡과 내비치는 상점을 각성한 팔지로",
+            "channel_name": "팔차선 [8LJAYWALKING]",
+            "category": "Gaming",
+            "duration": "15:07",
+            "view_count": "84322",
+            "thumbnail_url": "https://i.ytimg.com/vi/2Wsy87gC_1I/hqdefault.jpg"
         },
         {
             "video_id": "C-CYwNz3z8w",
@@ -286,7 +313,7 @@
             "channel_name": "DECO*27",
             "category": "Music",
             "duration": "3:03",
-            "view_count": "7757444",
+            "view_count": "7822268",
             "thumbnail_url": "https://i.ytimg.com/vi/C-CYwNz3z8w/hqdefault.jpg"
         },
         {
@@ -295,17 +322,17 @@
             "channel_name": "전쓰트의 게임 채널 Junsst",
             "category": "Gaming",
             "duration": "14:01",
-            "view_count": "95869",
+            "view_count": "102247",
             "thumbnail_url": "https://i.ytimg.com/vi/6EgI18DOtaI/hqdefault.jpg"
         },
         {
-            "video_id": "LkJctoUTICU",
-            "title": "HAECHAN 해찬 ‘CRZY’｜On the Spot｜온더스팟",
-            "channel_name": "1theK Originals - 원더케이 오리지널",
-            "category": "Entertainment",
-            "duration": "3:50",
-            "view_count": "32008",
-            "thumbnail_url": "https://i.ytimg.com/vi/LkJctoUTICU/hqdefault.jpg"
+            "video_id": "9HdcLny9Tkw",
+            "title": "Sunkiss",
+            "channel_name": "WENDY - Topic",
+            "category": "Music",
+            "duration": "2:58",
+            "view_count": "18292",
+            "thumbnail_url": "https://i.ytimg.com/vi/9HdcLny9Tkw/hqdefault.jpg"
         },
         {
             "video_id": "JqEfbBmP3eE",
@@ -313,7 +340,7 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "33:34",
-            "view_count": "86928",
+            "view_count": "95044",
             "thumbnail_url": "https://i.ytimg.com/vi/JqEfbBmP3eE/hqdefault.jpg"
         },
         {
@@ -322,17 +349,17 @@
             "channel_name": "AKASAKI - Topic",
             "category": "Music",
             "duration": "4:13",
-            "view_count": "75796",
+            "view_count": "78473",
             "thumbnail_url": "https://i.ytimg.com/vi/iv8D5hyd5pI/hqdefault.jpg"
         },
         {
-            "video_id": "7VuKSu5FOrU",
-            "title": "【패치노트】패치 내용 어렵습니다. 하지만 디테일 하나하나 알려드립니다 15.4 김루윈의 패치 읽어주는 남자 (롤토체스 시즌15)",
-            "channel_name": "입만산_김루윈",
+            "video_id": "wMz9CwJ0YZc",
+            "title": "파괴살",
+            "channel_name": "PAKA",
             "category": "Gaming",
-            "duration": "16:33",
-            "view_count": "102098",
-            "thumbnail_url": "https://i.ytimg.com/vi/7VuKSu5FOrU/hqdefault.jpg"
+            "duration": "25:27",
+            "view_count": "475044",
+            "thumbnail_url": "https://i.ytimg.com/vi/wMz9CwJ0YZc/hqdefault.jpg"
         },
         {
             "video_id": "9Z8Fx-OWbL4",
@@ -340,44 +367,17 @@
             "channel_name": "Dynamicduo - Topic",
             "category": "Music",
             "duration": "3:28",
-            "view_count": "25875",
+            "view_count": "26523",
             "thumbnail_url": "https://i.ytimg.com/vi/9Z8Fx-OWbL4/hqdefault.jpg"
         },
         {
-            "video_id": "fjs5ykJ49ds",
-            "title": "*긴급상황* 개발자 새미가 용보다 좋은 브레인롯을 1000만명한테 뿌려버렸습니다;;; (브레인롯훔치기)",
-            "channel_name": "밍",
+            "video_id": "Z6RW14imvZw",
+            "title": "배그 철탑에서 저격총으로 학살하기",
+            "channel_name": "주키니TV",
             "category": "Gaming",
-            "duration": "8:14",
-            "view_count": "110025",
-            "thumbnail_url": "https://i.ytimg.com/vi/fjs5ykJ49ds/hqdefault.jpg"
-        },
-        {
-            "video_id": "9HdcLny9Tkw",
-            "title": "Sunkiss",
-            "channel_name": "WENDY - Topic",
-            "category": "Music",
-            "duration": "2:58",
-            "view_count": "15251",
-            "thumbnail_url": "https://i.ytimg.com/vi/9HdcLny9Tkw/hqdefault.jpg"
-        },
-        {
-            "video_id": "wKkdAN0zBFc",
-            "title": "소설 속으로 들어가 보겠습니다",
-            "channel_name": "랄로",
-            "category": "Gaming",
-            "duration": "5:05:57",
-            "view_count": "269553",
-            "thumbnail_url": "https://i.ytimg.com/vi/wKkdAN0zBFc/hqdefault.jpg"
-        },
-        {
-            "video_id": "UDpACOBcUqY",
-            "title": "HAECHAN 해찬 'ADRENALINE' | TASTE Playlist",
-            "channel_name": "NCT",
-            "category": "Music",
-            "duration": "3:07",
-            "view_count": "213288",
-            "thumbnail_url": "https://i.ytimg.com/vi/UDpACOBcUqY/hqdefault.jpg"
+            "duration": "19:23",
+            "view_count": "70396",
+            "thumbnail_url": "https://i.ytimg.com/vi/Z6RW14imvZw/hqdefault.jpg"
         }
     ]
 }
