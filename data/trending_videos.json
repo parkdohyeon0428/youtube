@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-09-12 06:10:59",
+    "scraped_time": "2025-09-12 07:12:25",
     "videos": [
         {
             "video_id": "AlNEtjBX1wU",
@@ -7,7 +7,7 @@
             "channel_name": "IU - Topic",
             "category": "Music",
             "duration": "3:39",
-            "view_count": "1214371",
+            "view_count": "1219891",
             "thumbnail_url": "https://i.ytimg.com/vi/AlNEtjBX1wU/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:30",
-            "view_count": "85256",
+            "view_count": "86506",
             "thumbnail_url": "https://i.ytimg.com/vi/-0jLQ9sbDJo/hqdefault.jpg"
         },
         {
@@ -25,8 +25,26 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "5:29:30",
-            "view_count": "3349909",
+            "view_count": "3350273",
             "thumbnail_url": "https://i.ytimg.com/vi/zvursCcwrEQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "fNfvm3wfeL8",
+            "title": "[MV] Noel(노을) - Can you hear me(들리나요)",
+            "channel_name": "SUPER SOUND Bugs!",
+            "category": "Music",
+            "duration": "4:14",
+            "view_count": "12052",
+            "thumbnail_url": "https://i.ytimg.com/vi/fNfvm3wfeL8/hqdefault.jpg"
+        },
+        {
+            "video_id": "LDVlBsmFDEc",
+            "title": "호토르의 선택 🙋‍♂️ | T1 vs DK│2025 LCK PO 1R | 울챔스 하이라이트",
+            "channel_name": "Wolf",
+            "category": "Gaming",
+            "duration": "1:33:51",
+            "view_count": "316831",
+            "thumbnail_url": "https://i.ytimg.com/vi/LDVlBsmFDEc/hqdefault.jpg"
         },
         {
             "video_id": "7wJsfALKRR8",
@@ -34,7 +52,7 @@
             "channel_name": "CORTIS - Topic",
             "category": "Music",
             "duration": "2:51",
-            "view_count": "892477",
+            "view_count": "898686",
             "thumbnail_url": "https://i.ytimg.com/vi/7wJsfALKRR8/hqdefault.jpg"
         },
         {
@@ -43,7 +61,7 @@
             "channel_name": "메이플스토리",
             "category": "Gaming",
             "duration": "1:53:29",
-            "view_count": "186093",
+            "view_count": "186315",
             "thumbnail_url": "https://i.ytimg.com/vi/9vEEqlmYXfo/hqdefault.jpg"
         },
         {
@@ -52,26 +70,8 @@
             "channel_name": "MAIN CHEF - Topic",
             "category": "Music",
             "duration": "3:06",
-            "view_count": "61393",
+            "view_count": "61905",
             "thumbnail_url": "https://i.ytimg.com/vi/sLZ79U4caZQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "LDVlBsmFDEc",
-            "title": "호토르의 선택 🙋‍♂️ | T1 vs DK│2025 LCK PO 1R | 울챔스 하이라이트",
-            "channel_name": "Wolf",
-            "category": "Gaming",
-            "duration": "1:33:51",
-            "view_count": "314261",
-            "thumbnail_url": "https://i.ytimg.com/vi/LDVlBsmFDEc/hqdefault.jpg"
-        },
-        {
-            "video_id": "fNfvm3wfeL8",
-            "title": "[MV] Noel(노을) - Can you hear me(들리나요)",
-            "channel_name": "SUPER SOUND Bugs!",
-            "category": "Music",
-            "duration": "4:14",
-            "view_count": "11510",
-            "thumbnail_url": "https://i.ytimg.com/vi/fNfvm3wfeL8/hqdefault.jpg"
         },
         {
             "video_id": "ap8XcOVb_yE",
@@ -79,7 +79,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "23:02",
-            "view_count": "258085",
+            "view_count": "266516",
             "thumbnail_url": "https://i.ytimg.com/vi/ap8XcOVb_yE/hqdefault.jpg"
         },
         {
@@ -88,7 +88,7 @@
             "channel_name": "DAY6",
             "category": "People & Blogs",
             "duration": "2:45",
-            "view_count": "165410",
+            "view_count": "167410",
             "thumbnail_url": "https://i.ytimg.com/vi/eNMz5jnZDvg/hqdefault.jpg"
         },
         {
@@ -97,7 +97,7 @@
             "channel_name": "악동 김블루",
             "category": "Gaming",
             "duration": "16:43",
-            "view_count": "146956",
+            "view_count": "149097",
             "thumbnail_url": "https://i.ytimg.com/vi/dXR2KXjT2m4/hqdefault.jpg"
         },
         {
@@ -106,7 +106,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:40",
-            "view_count": "2072325",
+            "view_count": "2077765",
             "thumbnail_url": "https://i.ytimg.com/vi/pqMCgfnBx74/hqdefault.jpg"
         },
         {
@@ -115,7 +115,7 @@
             "channel_name": "말왕TV",
             "category": "Gaming",
             "duration": "31:14",
-            "view_count": "268736",
+            "view_count": "269102",
             "thumbnail_url": "https://i.ytimg.com/vi/Xy1wCLzGQcY/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "Eunhye - Topic",
             "category": "Music",
             "duration": "3:44",
-            "view_count": "164323",
+            "view_count": "164503",
             "thumbnail_url": "https://i.ytimg.com/vi/OO096qleqbQ/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "26:58",
-            "view_count": "141426",
+            "view_count": "143089",
             "thumbnail_url": "https://i.ytimg.com/vi/5j6gcqvMre4/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "3:17",
-            "view_count": "61554",
+            "view_count": "62372",
             "thumbnail_url": "https://i.ytimg.com/vi/21iZ19F3yYg/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "35:58",
-            "view_count": "384667",
+            "view_count": "387498",
             "thumbnail_url": "https://i.ytimg.com/vi/KrlzGKyCzLw/hqdefault.jpg"
         },
         {
@@ -160,26 +160,8 @@
             "channel_name": "WENDY - Topic",
             "category": "Music",
             "duration": "2:58",
-            "view_count": "74869",
+            "view_count": "75566",
             "thumbnail_url": "https://i.ytimg.com/vi/9HdcLny9Tkw/hqdefault.jpg"
-        },
-        {
-            "video_id": "isXo-6aqLog",
-            "title": "*막장 주의* 감옥 땅을 파서 나오는 잡동사니로 탈출 해야 한다",
-            "channel_name": "잠뜰 TV",
-            "category": "Gaming",
-            "duration": "37:49",
-            "view_count": "237504",
-            "thumbnail_url": "https://i.ytimg.com/vi/isXo-6aqLog/hqdefault.jpg"
-        },
-        {
-            "video_id": "fSKM1Verfcs",
-            "title": "Lucky MACHO",
-            "channel_name": "777 (Triple 7) - Topic",
-            "category": "Music",
-            "duration": "3:12",
-            "view_count": "51333",
-            "thumbnail_url": "https://i.ytimg.com/vi/fSKM1Verfcs/hqdefault.jpg"
         },
         {
             "video_id": "fjylA8RDmhg",
@@ -187,8 +169,26 @@
             "channel_name": "주키니TV",
             "category": "Gaming",
             "duration": "12:32",
-            "view_count": "149152",
+            "view_count": "150579",
             "thumbnail_url": "https://i.ytimg.com/vi/fjylA8RDmhg/hqdefault.jpg"
+        },
+        {
+            "video_id": "fSKM1Verfcs",
+            "title": "Lucky MACHO",
+            "channel_name": "777 (Triple 7) - Topic",
+            "category": "Music",
+            "duration": "3:12",
+            "view_count": "51876",
+            "thumbnail_url": "https://i.ytimg.com/vi/fSKM1Verfcs/hqdefault.jpg"
+        },
+        {
+            "video_id": "isXo-6aqLog",
+            "title": "*막장 주의* 감옥 땅을 파서 나오는 잡동사니로 탈출 해야 한다",
+            "channel_name": "잠뜰 TV",
+            "category": "Gaming",
+            "duration": "37:49",
+            "view_count": "237763",
+            "thumbnail_url": "https://i.ytimg.com/vi/isXo-6aqLog/hqdefault.jpg"
         },
         {
             "video_id": "42wfEs7oIP8",
@@ -196,7 +196,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "2566841",
+            "view_count": "2574947",
             "thumbnail_url": "https://i.ytimg.com/vi/42wfEs7oIP8/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "김된모",
             "category": "Gaming",
             "duration": "23:05",
-            "view_count": "210607",
+            "view_count": "210860",
             "thumbnail_url": "https://i.ytimg.com/vi/L4IISxqMJ_o/hqdefault.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "channel_name": "aespa - Topic",
             "category": "Music",
             "duration": "3:18",
-            "view_count": "5759802",
+            "view_count": "5766930",
             "thumbnail_url": "https://i.ytimg.com/vi/WAQ5_7YFAVo/hqdefault.jpg"
         },
         {
@@ -223,7 +223,7 @@
             "channel_name": "쉐어TV",
             "category": "Gaming",
             "duration": "19:08",
-            "view_count": "339841",
+            "view_count": "339929",
             "thumbnail_url": "https://i.ytimg.com/vi/H6V5UVhF2YM/hqdefault.jpg"
         },
         {
@@ -232,7 +232,7 @@
             "channel_name": "신승훈ShinSeungHun",
             "category": "Entertainment",
             "duration": "5:25",
-            "view_count": "61494",
+            "view_count": "61752",
             "thumbnail_url": "https://i.ytimg.com/vi/Qr7svLd9lcE/hqdefault.jpg"
         },
         {
@@ -241,7 +241,7 @@
             "channel_name": "이도원",
             "category": "Gaming",
             "duration": "24:11",
-            "view_count": "222395",
+            "view_count": "222844",
             "thumbnail_url": "https://i.ytimg.com/vi/a6G925MH6LQ/hqdefault.jpg"
         },
         {
@@ -250,7 +250,7 @@
             "channel_name": "The Poles - Topic",
             "category": "Music",
             "duration": "2:55",
-            "view_count": "12164",
+            "view_count": "12268",
             "thumbnail_url": "https://i.ytimg.com/vi/c8vnUGxpaUM/hqdefault.jpg"
         },
         {
@@ -259,26 +259,8 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "13:14",
-            "view_count": "240039",
+            "view_count": "240584",
             "thumbnail_url": "https://i.ytimg.com/vi/5Tw46pggvQ4/hqdefault.jpg"
-        },
-        {
-            "video_id": "XaxBsE72SwY",
-            "title": "What It Sounds Like (Acapella)",
-            "channel_name": "HUNTR/X - Topic",
-            "category": "Music",
-            "duration": "4:02",
-            "view_count": "770887",
-            "thumbnail_url": "https://i.ytimg.com/vi/XaxBsE72SwY/hqdefault.jpg"
-        },
-        {
-            "video_id": "DDcWMgkrCOI",
-            "title": "게임 시작 3분 만에 상대한테 해처리 러쉬 농락을 당했습니다;;",
-            "channel_name": "[ALTUBE] 김성현TV",
-            "category": "Gaming",
-            "duration": "28:37",
-            "view_count": "134980",
-            "thumbnail_url": "https://i.ytimg.com/vi/DDcWMgkrCOI/hqdefault.jpg"
         },
         {
             "video_id": "ZwbWMYqXtuM",
@@ -286,17 +268,35 @@
             "channel_name": "Jeon Sang Keun - Topic",
             "category": "Music",
             "duration": "4:31",
-            "view_count": "40912",
+            "view_count": "41170",
             "thumbnail_url": "https://i.ytimg.com/vi/ZwbWMYqXtuM/hqdefault.jpg"
         },
         {
-            "video_id": "60MO7YJsEjM",
-            "title": "켠왕이지? 켠왕이지? 켠왕이지?",
-            "channel_name": "왈도쿤",
+            "video_id": "DDcWMgkrCOI",
+            "title": "게임 시작 3분 만에 상대한테 해처리 러쉬 농락을 당했습니다;;",
+            "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
-            "duration": "15:04",
-            "view_count": "108597",
-            "thumbnail_url": "https://i.ytimg.com/vi/60MO7YJsEjM/hqdefault.jpg"
+            "duration": "28:37",
+            "view_count": "136338",
+            "thumbnail_url": "https://i.ytimg.com/vi/DDcWMgkrCOI/hqdefault.jpg"
+        },
+        {
+            "video_id": "XaxBsE72SwY",
+            "title": "What It Sounds Like (Acapella)",
+            "channel_name": "HUNTR/X - Topic",
+            "category": "Music",
+            "duration": "4:02",
+            "view_count": "774944",
+            "thumbnail_url": "https://i.ytimg.com/vi/XaxBsE72SwY/hqdefault.jpg"
+        },
+        {
+            "video_id": "-hKJOeI4ibU",
+            "title": "이뻐 죽겠어 아주 그냥",
+            "channel_name": "팔차선 [8LJAYWALKING]",
+            "category": "Gaming",
+            "duration": "14:36",
+            "view_count": "79267",
+            "thumbnail_url": "https://i.ytimg.com/vi/-hKJOeI4ibU/hqdefault.jpg"
         },
         {
             "video_id": "JYSufrEGPsw",
@@ -304,17 +304,17 @@
             "channel_name": "HAECHAN - Topic",
             "category": "Music",
             "duration": "3:27",
-            "view_count": "298690",
+            "view_count": "299474",
             "thumbnail_url": "https://i.ytimg.com/vi/JYSufrEGPsw/hqdefault.jpg"
         },
         {
-            "video_id": "XcBP2xMUAso",
-            "title": "잠자기 전에도 메크덱 생각하는 남자 (진짜임)",
-            "channel_name": "팔차선 [8LJAYWALKING]",
+            "video_id": "60MO7YJsEjM",
+            "title": "켠왕이지? 켠왕이지? 켠왕이지?",
+            "channel_name": "왈도쿤",
             "category": "Gaming",
-            "duration": "12:14",
-            "view_count": "95917",
-            "thumbnail_url": "https://i.ytimg.com/vi/XcBP2xMUAso/hqdefault.jpg"
+            "duration": "15:04",
+            "view_count": "109752",
+            "thumbnail_url": "https://i.ytimg.com/vi/60MO7YJsEjM/hqdefault.jpg"
         },
         {
             "video_id": "LkJctoUTICU",
@@ -322,7 +322,7 @@
             "channel_name": "1theK Originals - 원더케이 오리지널",
             "category": "Entertainment",
             "duration": "3:50",
-            "view_count": "148616",
+            "view_count": "149402",
             "thumbnail_url": "https://i.ytimg.com/vi/LkJctoUTICU/hqdefault.jpg"
         },
         {
@@ -331,26 +331,8 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "20:31",
-            "view_count": "314450",
+            "view_count": "315502",
             "thumbnail_url": "https://i.ytimg.com/vi/C5cCpPsoIJw/hqdefault.jpg"
-        },
-        {
-            "video_id": "p0oQmRuKgYc",
-            "title": "다시는 사랑 못해",
-            "channel_name": "Han Kyung il - Topic",
-            "category": "Music",
-            "duration": "3:57",
-            "view_count": "41882",
-            "thumbnail_url": "https://i.ytimg.com/vi/p0oQmRuKgYc/hqdefault.jpg"
-        },
-        {
-            "video_id": "uyVw2vXmbdc",
-            "title": "텔포 맛보고 발X한 남자",
-            "channel_name": "타튜브 TATUBE",
-            "category": "Gaming",
-            "duration": "20:17",
-            "view_count": "242673",
-            "thumbnail_url": "https://i.ytimg.com/vi/uyVw2vXmbdc/hqdefault.jpg"
         },
         {
             "video_id": "ySTOtt6GC6c",
@@ -358,17 +340,35 @@
             "channel_name": "DK - Topic",
             "category": "Music",
             "duration": "5:39",
-            "view_count": "246923",
+            "view_count": "248171",
             "thumbnail_url": "https://i.ytimg.com/vi/ySTOtt6GC6c/hqdefault.jpg"
         },
         {
-            "video_id": "rejsaHCvYEw",
-            "title": "저와맵 만담 듀오ㅋㅋㅋ",
-            "channel_name": "스맵",
+            "video_id": "uyVw2vXmbdc",
+            "title": "텔포 맛보고 발X한 남자",
+            "channel_name": "타튜브 TATUBE",
             "category": "Gaming",
-            "duration": "20:25",
-            "view_count": "126058",
-            "thumbnail_url": "https://i.ytimg.com/vi/rejsaHCvYEw/hqdefault.jpg"
+            "duration": "20:17",
+            "view_count": "243085",
+            "thumbnail_url": "https://i.ytimg.com/vi/uyVw2vXmbdc/hqdefault.jpg"
+        },
+        {
+            "video_id": "p0oQmRuKgYc",
+            "title": "다시는 사랑 못해",
+            "channel_name": "Han Kyung il - Topic",
+            "category": "Music",
+            "duration": "3:57",
+            "view_count": "41970",
+            "thumbnail_url": "https://i.ytimg.com/vi/p0oQmRuKgYc/hqdefault.jpg"
+        },
+        {
+            "video_id": "FQW4B7RSAFw",
+            "title": "랭킹 1위가 말하는 리니지의 몰락",
+            "channel_name": "지존조세",
+            "category": "Gaming",
+            "duration": "16:49",
+            "view_count": "196738",
+            "thumbnail_url": "https://i.ytimg.com/vi/FQW4B7RSAFw/hqdefault.jpg"
         },
         {
             "video_id": "dyMLWGa0boc",
@@ -376,7 +376,7 @@
             "channel_name": "DAYOUNG - Topic",
             "category": "Music",
             "duration": "2:48",
-            "view_count": "78689",
+            "view_count": "79559",
             "thumbnail_url": "https://i.ytimg.com/vi/dyMLWGa0boc/hqdefault.jpg"
         }
     ]
