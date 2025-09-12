@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-09-12 21:25:36",
+    "scraped_time": "2025-09-12 22:20:55",
     "videos": [
         {
             "video_id": "AlNEtjBX1wU",
@@ -7,7 +7,7 @@
             "channel_name": "IU - Topic",
             "category": "Music",
             "duration": "3:39",
-            "view_count": "1741814",
+            "view_count": "1767262",
             "thumbnail_url": "https://i.ytimg.com/vi/AlNEtjBX1wU/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "소니픽쳐스코리아",
             "category": "Film & Animation",
             "duration": "1:07",
-            "view_count": "66579",
+            "view_count": "72211",
             "thumbnail_url": "https://i.ytimg.com/vi/dOihGQCIw_w/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "5:29:30",
-            "view_count": "3360214",
+            "view_count": "3361153",
             "thumbnail_url": "https://i.ytimg.com/vi/zvursCcwrEQ/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "aespa - Topic",
             "category": "Music",
             "duration": "3:18",
-            "view_count": "100549",
+            "view_count": "112488",
             "thumbnail_url": "https://i.ytimg.com/vi/afaBdMRxN-g/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:30",
-            "view_count": "159454",
+            "view_count": "164521",
             "thumbnail_url": "https://i.ytimg.com/vi/-0jLQ9sbDJo/hqdefault.jpg"
         },
         {
@@ -52,26 +52,8 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "23:02",
-            "view_count": "410438",
+            "view_count": "416406",
             "thumbnail_url": "https://i.ytimg.com/vi/ap8XcOVb_yE/hqdefault.jpg"
-        },
-        {
-            "video_id": "sLZ79U4caZQ",
-            "title": "MAIN DISH",
-            "channel_name": "MAIN CHEF - Topic",
-            "category": "Music",
-            "duration": "3:06",
-            "view_count": "96258",
-            "thumbnail_url": "https://i.ytimg.com/vi/sLZ79U4caZQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "LDVlBsmFDEc",
-            "title": "호토르의 선택 🙋‍♂️ | T1 vs DK│2025 LCK PO 1R | 울챔스 하이라이트",
-            "channel_name": "Wolf",
-            "category": "Gaming",
-            "duration": "1:33:51",
-            "view_count": "386083",
-            "thumbnail_url": "https://i.ytimg.com/vi/LDVlBsmFDEc/hqdefault.jpg"
         },
         {
             "video_id": "21iZ19F3yYg",
@@ -79,8 +61,26 @@
             "channel_name": "Love Is - Topic",
             "category": "Music",
             "duration": "3:17",
-            "view_count": "108507",
+            "view_count": "111209",
             "thumbnail_url": "https://i.ytimg.com/vi/21iZ19F3yYg/hqdefault.jpg"
+        },
+        {
+            "video_id": "LDVlBsmFDEc",
+            "title": "호토르의 선택 🙋‍♂️ | T1 vs DK│2025 LCK PO 1R | 울챔스 하이라이트",
+            "channel_name": "Wolf",
+            "category": "Gaming",
+            "duration": "1:33:51",
+            "view_count": "391604",
+            "thumbnail_url": "https://i.ytimg.com/vi/LDVlBsmFDEc/hqdefault.jpg"
+        },
+        {
+            "video_id": "sLZ79U4caZQ",
+            "title": "MAIN DISH",
+            "channel_name": "MAIN CHEF - Topic",
+            "category": "Music",
+            "duration": "3:06",
+            "view_count": "98024",
+            "thumbnail_url": "https://i.ytimg.com/vi/sLZ79U4caZQ/hqdefault.jpg"
         },
         {
             "video_id": "ymcmpRy8Wyw",
@@ -88,7 +88,7 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "47:21",
-            "view_count": "88454",
+            "view_count": "101917",
             "thumbnail_url": "https://i.ytimg.com/vi/ymcmpRy8Wyw/hqdefault.jpg"
         },
         {
@@ -97,8 +97,26 @@
             "channel_name": "SUPER SOUND Bugs!",
             "category": "Music",
             "duration": "4:14",
-            "view_count": "21995",
+            "view_count": "22147",
             "thumbnail_url": "https://i.ytimg.com/vi/fNfvm3wfeL8/hqdefault.jpg"
+        },
+        {
+            "video_id": "RNJkq9bithI",
+            "title": "새신랑 곽튜브 왔다! 본캐 토츠 호날두 10카 최초 등장!!",
+            "channel_name": "두치와뿌꾸",
+            "category": "Gaming",
+            "duration": "23:12",
+            "view_count": "135279",
+            "thumbnail_url": "https://i.ytimg.com/vi/RNJkq9bithI/hqdefault.jpg"
+        },
+        {
+            "video_id": "tl2luF-JRlU",
+            "title": "CHAEYOUNG “SHOOT (Firecracker)” M/V",
+            "channel_name": "JYP Entertainment",
+            "category": "Music",
+            "duration": "3:02",
+            "view_count": "543598",
+            "thumbnail_url": "https://i.ytimg.com/vi/tl2luF-JRlU/hqdefault.jpg"
         },
         {
             "video_id": "9vEEqlmYXfo",
@@ -106,7 +124,7 @@
             "channel_name": "메이플스토리",
             "category": "Gaming",
             "duration": "1:53:29",
-            "view_count": "191011",
+            "view_count": "191242",
             "thumbnail_url": "https://i.ytimg.com/vi/9vEEqlmYXfo/hqdefault.jpg"
         },
         {
@@ -115,7 +133,7 @@
             "channel_name": "WENDY - Topic",
             "category": "Music",
             "duration": "3:09",
-            "view_count": "115809",
+            "view_count": "118290",
             "thumbnail_url": "https://i.ytimg.com/vi/4ygLJUslBRU/hqdefault.jpg"
         },
         {
@@ -124,26 +142,8 @@
             "channel_name": "악동 김블루",
             "category": "Gaming",
             "duration": "16:43",
-            "view_count": "270383",
+            "view_count": "278197",
             "thumbnail_url": "https://i.ytimg.com/vi/dXR2KXjT2m4/hqdefault.jpg"
-        },
-        {
-            "video_id": "tl2luF-JRlU",
-            "title": "CHAEYOUNG “SHOOT (Firecracker)” M/V",
-            "channel_name": "JYP Entertainment",
-            "category": "Music",
-            "duration": "3:02",
-            "view_count": "505944",
-            "thumbnail_url": "https://i.ytimg.com/vi/tl2luF-JRlU/hqdefault.jpg"
-        },
-        {
-            "video_id": "RNJkq9bithI",
-            "title": "새신랑 곽튜브 왔다! 본캐 토츠 호날두 10카 최초 등장!!",
-            "channel_name": "두치와뿌꾸",
-            "category": "Gaming",
-            "duration": "23:12",
-            "view_count": "127256",
-            "thumbnail_url": "https://i.ytimg.com/vi/RNJkq9bithI/hqdefault.jpg"
         },
         {
             "video_id": "fSKM1Verfcs",
@@ -151,26 +151,8 @@
             "channel_name": "777 (Triple 7) - Topic",
             "category": "Music",
             "duration": "3:12",
-            "view_count": "92001",
+            "view_count": "94596",
             "thumbnail_url": "https://i.ytimg.com/vi/fSKM1Verfcs/hqdefault.jpg"
-        },
-        {
-            "video_id": "ZHQC0idYjzg",
-            "title": "나혼렙 망치 나가신다!!!!!!!!",
-            "channel_name": "잡상싱",
-            "category": "Gaming",
-            "duration": "12:19",
-            "view_count": "187346",
-            "thumbnail_url": "https://i.ytimg.com/vi/ZHQC0idYjzg/hqdefault.jpg"
-        },
-        {
-            "video_id": "eNMz5jnZDvg",
-            "title": "DAY6(데이식스) \"꿈의 버스\" LIVE CLIP",
-            "channel_name": "DAY6",
-            "category": "People & Blogs",
-            "duration": "2:45",
-            "view_count": "239483",
-            "thumbnail_url": "https://i.ytimg.com/vi/eNMz5jnZDvg/hqdefault.jpg"
         },
         {
             "video_id": "M6OId0KfvjU",
@@ -178,8 +160,26 @@
             "channel_name": "백앤아",
             "category": "Gaming",
             "duration": "16:08",
-            "view_count": "53578",
+            "view_count": "74285",
             "thumbnail_url": "https://i.ytimg.com/vi/M6OId0KfvjU/hqdefault.jpg"
+        },
+        {
+            "video_id": "eNMz5jnZDvg",
+            "title": "DAY6(데이식스) \"꿈의 버스\" LIVE CLIP",
+            "channel_name": "DAY6",
+            "category": "People & Blogs",
+            "duration": "2:45",
+            "view_count": "245831",
+            "thumbnail_url": "https://i.ytimg.com/vi/eNMz5jnZDvg/hqdefault.jpg"
+        },
+        {
+            "video_id": "ZHQC0idYjzg",
+            "title": "나혼렙 망치 나가신다!!!!!!!!",
+            "channel_name": "잡상싱",
+            "category": "Gaming",
+            "duration": "12:19",
+            "view_count": "194467",
+            "thumbnail_url": "https://i.ytimg.com/vi/ZHQC0idYjzg/hqdefault.jpg"
         },
         {
             "video_id": "7wJsfALKRR8",
@@ -187,8 +187,26 @@
             "channel_name": "CORTIS - Topic",
             "category": "Music",
             "duration": "2:51",
-            "view_count": "1082923",
+            "view_count": "1094694",
             "thumbnail_url": "https://i.ytimg.com/vi/7wJsfALKRR8/hqdefault.jpg"
+        },
+        {
+            "video_id": "N1bCOHXeqrU",
+            "title": "\"잡히면 접힌다\" 클상도 추격전",
+            "channel_name": "클리드",
+            "category": "Gaming",
+            "duration": "35:57",
+            "view_count": "65477",
+            "thumbnail_url": "https://i.ytimg.com/vi/N1bCOHXeqrU/hqdefault.jpg"
+        },
+        {
+            "video_id": "haTK1Q73FaI",
+            "title": "김희재 1st Mini Album [HEE'story] Highlight Medley",
+            "channel_name": "김희재 HEEJAE",
+            "category": "People & Blogs",
+            "duration": "2:07",
+            "view_count": "8301",
+            "thumbnail_url": "https://i.ytimg.com/vi/haTK1Q73FaI/hqdefault.jpg"
         },
         {
             "video_id": "FQW4B7RSAFw",
@@ -196,7 +214,7 @@
             "channel_name": "지존조세",
             "category": "Gaming",
             "duration": "16:49",
-            "view_count": "382512",
+            "view_count": "393529",
             "thumbnail_url": "https://i.ytimg.com/vi/FQW4B7RSAFw/hqdefault.jpg"
         },
         {
@@ -205,35 +223,17 @@
             "channel_name": "Nyangnyang Chuchu - Topic",
             "category": "Music",
             "duration": "2:58",
-            "view_count": "63011",
+            "view_count": "64855",
             "thumbnail_url": "https://i.ytimg.com/vi/C4kiCJlijnw/hqdefault.jpg"
         },
         {
-            "video_id": "N1bCOHXeqrU",
-            "title": "\"잡히면 접힌다\" 클상도 추격전",
-            "channel_name": "클리드",
-            "category": "Gaming",
-            "duration": "35:57",
-            "view_count": "57109",
-            "thumbnail_url": "https://i.ytimg.com/vi/N1bCOHXeqrU/hqdefault.jpg"
-        },
-        {
-            "video_id": "glptno5ohjc",
-            "title": "SHOOT (Firecracker)",
-            "channel_name": "CHAEYOUNG - Topic",
-            "category": "Music",
-            "duration": "2:49",
-            "view_count": "33064",
-            "thumbnail_url": "https://i.ytimg.com/vi/glptno5ohjc/hqdefault.jpg"
-        },
-        {
-            "video_id": "-hKJOeI4ibU",
-            "title": "이뻐 죽겠어 아주 그냥",
-            "channel_name": "팔차선 [8LJAYWALKING]",
-            "category": "Gaming",
-            "duration": "14:36",
-            "view_count": "129160",
-            "thumbnail_url": "https://i.ytimg.com/vi/-hKJOeI4ibU/hqdefault.jpg"
+            "video_id": "yzzGn5bGcts",
+            "title": "3.6 버전 「긴 밤 속에 다시 대지로」 프리뷰 스페셜 프로그램 |〈붕괴: 스타레일〉",
+            "channel_name": "붕괴: 스타레일",
+            "category": "Entertainment",
+            "duration": "38:24",
+            "view_count": "33815",
+            "thumbnail_url": "https://i.ytimg.com/vi/yzzGn5bGcts/hqdefault.jpg"
         },
         {
             "video_id": "Nv1fZZxpg9s",
@@ -241,17 +241,17 @@
             "channel_name": "Jeon Gunho - Topic",
             "category": "Music",
             "duration": "3:40",
-            "view_count": "17990",
+            "view_count": "18841",
             "thumbnail_url": "https://i.ytimg.com/vi/Nv1fZZxpg9s/hqdefault.jpg"
         },
         {
-            "video_id": "DOWvjPtyJFo",
-            "title": "핵 1발당 10000원 미션에 눈이 제대로 돌아간 알파고, 상대는 영문도 모른 채 무차별 핵 폭격을 맞기 시작하는데?ㅋㅋ",
-            "channel_name": "[ALTUBE] 김성현TV",
+            "video_id": "-hKJOeI4ibU",
+            "title": "이뻐 죽겠어 아주 그냥",
+            "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
-            "duration": "25:04",
-            "view_count": "81088",
-            "thumbnail_url": "https://i.ytimg.com/vi/DOWvjPtyJFo/hqdefault.jpg"
+            "duration": "14:36",
+            "view_count": "130581",
+            "thumbnail_url": "https://i.ytimg.com/vi/-hKJOeI4ibU/hqdefault.jpg"
         },
         {
             "video_id": "fTenzhSsYZU",
@@ -259,17 +259,17 @@
             "channel_name": "BIG Naughty - Topic",
             "category": "Music",
             "duration": "4:28",
-            "view_count": "7257",
+            "view_count": "9285",
             "thumbnail_url": "https://i.ytimg.com/vi/fTenzhSsYZU/hqdefault.jpg"
         },
         {
-            "video_id": "yp6IukDi49I",
-            "title": "[Limbus Company x Arknights - teaser] Chapter 8.5 EX  - 선의의 순례 / 善意の巡礼 / Pilgrimage of Compassion",
-            "channel_name": "ProjectMoon Official",
+            "video_id": "DOWvjPtyJFo",
+            "title": "핵 1발당 10000원 미션에 눈이 제대로 돌아간 알파고, 상대는 영문도 모른 채 무차별 핵 폭격을 맞기 시작하는데?ㅋㅋ",
+            "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
-            "duration": "0:51",
-            "view_count": "107869",
-            "thumbnail_url": "https://i.ytimg.com/vi/yp6IukDi49I/hqdefault.jpg"
+            "duration": "25:04",
+            "view_count": "85866",
+            "thumbnail_url": "https://i.ytimg.com/vi/DOWvjPtyJFo/hqdefault.jpg"
         },
         {
             "video_id": "c8vnUGxpaUM",
@@ -277,8 +277,26 @@
             "channel_name": "The Poles - Topic",
             "category": "Music",
             "duration": "2:55",
-            "view_count": "23042",
+            "view_count": "24484",
             "thumbnail_url": "https://i.ytimg.com/vi/c8vnUGxpaUM/hqdefault.jpg"
+        },
+        {
+            "video_id": "yp6IukDi49I",
+            "title": "[Limbus Company x Arknights - teaser] Chapter 8.5 EX  - 선의의 순례 / 善意の巡礼 / Pilgrimage of Compassion",
+            "channel_name": "ProjectMoon Official",
+            "category": "Gaming",
+            "duration": "0:51",
+            "view_count": "127254",
+            "thumbnail_url": "https://i.ytimg.com/vi/yp6IukDi49I/hqdefault.jpg"
+        },
+        {
+            "video_id": "glptno5ohjc",
+            "title": "SHOOT (Firecracker)",
+            "channel_name": "CHAEYOUNG - Topic",
+            "category": "Music",
+            "duration": "2:49",
+            "view_count": "36315",
+            "thumbnail_url": "https://i.ytimg.com/vi/glptno5ohjc/hqdefault.jpg"
         },
         {
             "video_id": "fjylA8RDmhg",
@@ -286,26 +304,8 @@
             "channel_name": "주키니TV",
             "category": "Gaming",
             "duration": "12:32",
-            "view_count": "200566",
+            "view_count": "203575",
             "thumbnail_url": "https://i.ytimg.com/vi/fjylA8RDmhg/hqdefault.jpg"
-        },
-        {
-            "video_id": "haTK1Q73FaI",
-            "title": "김희재 1st Mini Album [HEE'story] Highlight Medley",
-            "channel_name": "김희재 HEEJAE",
-            "category": "People & Blogs",
-            "duration": "2:07",
-            "view_count": "6807",
-            "thumbnail_url": "https://i.ytimg.com/vi/haTK1Q73FaI/hqdefault.jpg"
-        },
-        {
-            "video_id": "Xy1wCLzGQcY",
-            "title": "드디어 엔더드래곤 종결ㅋ",
-            "channel_name": "말왕TV",
-            "category": "Gaming",
-            "duration": "31:14",
-            "view_count": "290798",
-            "thumbnail_url": "https://i.ytimg.com/vi/Xy1wCLzGQcY/hqdefault.jpg"
         },
         {
             "video_id": "dyMLWGa0boc",
@@ -313,44 +313,8 @@
             "channel_name": "DAYOUNG - Topic",
             "category": "Music",
             "duration": "2:48",
-            "view_count": "141818",
+            "view_count": "146329",
             "thumbnail_url": "https://i.ytimg.com/vi/dyMLWGa0boc/hqdefault.jpg"
-        },
-        {
-            "video_id": "4dNSxUsZ_4k",
-            "title": "\"마스터 500점에서 살아남기\" 중간계 이후 교전력 성장한 이상호.. 그마 도전?!",
-            "channel_name": "이상호",
-            "category": "Gaming",
-            "duration": "23:33",
-            "view_count": "178773",
-            "thumbnail_url": "https://i.ytimg.com/vi/4dNSxUsZ_4k/hqdefault.jpg"
-        },
-        {
-            "video_id": "OO096qleqbQ",
-            "title": "How Could You",
-            "channel_name": "Eunhye - Topic",
-            "category": "Music",
-            "duration": "3:44",
-            "view_count": "181121",
-            "thumbnail_url": "https://i.ytimg.com/vi/OO096qleqbQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "WGXdH3kvmHw",
-            "title": "실종된 아이… 주민들이 만든 무덤 속에서 괴물로 변해 있었습니다 (마인크래프트)",
-            "channel_name": "로빈",
-            "category": "Gaming",
-            "duration": "13:05",
-            "view_count": "101979",
-            "thumbnail_url": "https://i.ytimg.com/vi/WGXdH3kvmHw/hqdefault.jpg"
-        },
-        {
-            "video_id": "KUpDKbsRayA",
-            "title": "Happiness (2025) (Happiness (2025))",
-            "channel_name": "Gavy NJ - Topic",
-            "category": "Music",
-            "duration": "3:44",
-            "view_count": "36970",
-            "thumbnail_url": "https://i.ytimg.com/vi/KUpDKbsRayA/hqdefault.jpg"
         },
         {
             "video_id": "-EXponhFd0g",
@@ -358,8 +322,44 @@
             "channel_name": "김된모",
             "category": "Gaming",
             "duration": "17:52",
-            "view_count": "51471",
+            "view_count": "59374",
             "thumbnail_url": "https://i.ytimg.com/vi/-EXponhFd0g/hqdefault.jpg"
+        },
+        {
+            "video_id": "OO096qleqbQ",
+            "title": "How Could You",
+            "channel_name": "Eunhye - Topic",
+            "category": "Music",
+            "duration": "3:44",
+            "view_count": "181942",
+            "thumbnail_url": "https://i.ytimg.com/vi/OO096qleqbQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "BQbmhtH4IOg",
+            "title": "소리 안지르면 죽는다?! 소리 질러야 사는게임! 목 다나감ㅋㅋㅋㅋㅋㅋㅋ",
+            "channel_name": "흔한남매",
+            "category": "Entertainment",
+            "duration": "17:56",
+            "view_count": "58309",
+            "thumbnail_url": "https://i.ytimg.com/vi/BQbmhtH4IOg/hqdefault.jpg"
+        },
+        {
+            "video_id": "KUpDKbsRayA",
+            "title": "Happiness (2025) (Happiness (2025))",
+            "channel_name": "Gavy NJ - Topic",
+            "category": "Music",
+            "duration": "3:44",
+            "view_count": "38394",
+            "thumbnail_url": "https://i.ytimg.com/vi/KUpDKbsRayA/hqdefault.jpg"
+        },
+        {
+            "video_id": "Xy1wCLzGQcY",
+            "title": "드디어 엔더드래곤 종결ㅋ",
+            "channel_name": "말왕TV",
+            "category": "Gaming",
+            "duration": "31:14",
+            "view_count": "292555",
+            "thumbnail_url": "https://i.ytimg.com/vi/Xy1wCLzGQcY/hqdefault.jpg"
         },
         {
             "video_id": "ZwbWMYqXtuM",
@@ -367,17 +367,17 @@
             "channel_name": "Jeon Sang Keun - Topic",
             "category": "Music",
             "duration": "4:31",
-            "view_count": "60474",
+            "view_count": "61503",
             "thumbnail_url": "https://i.ytimg.com/vi/ZwbWMYqXtuM/hqdefault.jpg"
         },
         {
-            "video_id": "WKFVd1i20v4",
-            "title": "9.12 LIVE 신진서 이제 2억원짜리 단판승부다~ 우승 2억원 제1회 쏘팔코사놀배 결승최종국 신진서 vs 투샤오위 #김성룡바둑랩 #바둑",
-            "channel_name": "김성룡 바둑랩",
+            "video_id": "4dNSxUsZ_4k",
+            "title": "\"마스터 500점에서 살아남기\" 중간계 이후 교전력 성장한 이상호.. 그마 도전?!",
+            "channel_name": "이상호",
             "category": "Gaming",
-            "duration": "3:43:13",
-            "view_count": "114115",
-            "thumbnail_url": "https://i.ytimg.com/vi/WKFVd1i20v4/hqdefault.jpg"
+            "duration": "23:33",
+            "view_count": "182833",
+            "thumbnail_url": "https://i.ytimg.com/vi/4dNSxUsZ_4k/hqdefault.jpg"
         }
     ]
 }
