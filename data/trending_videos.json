@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-09-13 16:10:41",
+    "scraped_time": "2025-09-13 17:15:17",
     "videos": [
         {
             "video_id": "AlNEtjBX1wU",
@@ -7,7 +7,7 @@
             "channel_name": "IU - Topic",
             "category": "Music",
             "duration": "3:39",
-            "view_count": "2156574",
+            "view_count": "2189630",
             "thumbnail_url": "https://i.ytimg.com/vi/AlNEtjBX1wU/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "포켓몬 공식 채널 Pokémon Korea, Inc.",
             "category": "Gaming",
             "duration": "3:10",
-            "view_count": "84971",
+            "view_count": "86561",
             "thumbnail_url": "https://i.ytimg.com/vi/EG1EKJ3kBBc/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "5:29:30",
-            "view_count": "3371335",
+            "view_count": "3372082",
             "thumbnail_url": "https://i.ytimg.com/vi/zvursCcwrEQ/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "aespa - Topic",
             "category": "Music",
             "duration": "3:18",
-            "view_count": "268227",
+            "view_count": "285439",
             "thumbnail_url": "https://i.ytimg.com/vi/afaBdMRxN-g/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "0:47",
-            "view_count": "100341",
+            "view_count": "104636",
             "thumbnail_url": "https://i.ytimg.com/vi/ZytDdozihs0/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "24:50",
-            "view_count": "424484",
+            "view_count": "433642",
             "thumbnail_url": "https://i.ytimg.com/vi/-8wuhTW-p_M/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "BIG Naughty - Topic",
             "category": "Music",
             "duration": "4:28",
-            "view_count": "37296",
+            "view_count": "39959",
             "thumbnail_url": "https://i.ytimg.com/vi/fTenzhSsYZU/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "소니픽쳐스코리아",
             "category": "Film & Animation",
             "duration": "1:07",
-            "view_count": "145437",
+            "view_count": "153064",
             "thumbnail_url": "https://i.ytimg.com/vi/dOihGQCIw_w/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "47:21",
-            "view_count": "241674",
+            "view_count": "251696",
             "thumbnail_url": "https://i.ytimg.com/vi/ymcmpRy8Wyw/hqdefault.jpg"
         },
         {
@@ -88,17 +88,17 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "3:59",
-            "view_count": "124575",
+            "view_count": "126681",
             "thumbnail_url": "https://i.ytimg.com/vi/Y2oox-OGg3Y/hqdefault.jpg"
         },
         {
-            "video_id": "zzPvK4YkHPI",
-            "title": "\"내가 정글해도 이상호 이길 듯?\" 여기서 지면 진짜 평생 놀림감이다..! 이상호 vs 강만식 드디어 붙었습니다!",
-            "channel_name": "이상호",
+            "video_id": "6W6SX6ro7I0",
+            "title": "선처 절대 없습니다",
+            "channel_name": "클리드",
             "category": "Gaming",
-            "duration": "40:41",
-            "view_count": "209686",
-            "thumbnail_url": "https://i.ytimg.com/vi/zzPvK4YkHPI/hqdefault.jpg"
+            "duration": "9:30",
+            "view_count": "120763",
+            "thumbnail_url": "https://i.ytimg.com/vi/6W6SX6ro7I0/hqdefault.jpg"
         },
         {
             "video_id": "haTK1Q73FaI",
@@ -106,8 +106,26 @@
             "channel_name": "김희재 HEEJAE",
             "category": "People & Blogs",
             "duration": "2:07",
-            "view_count": "19382",
+            "view_count": "19890",
             "thumbnail_url": "https://i.ytimg.com/vi/haTK1Q73FaI/hqdefault.jpg"
+        },
+        {
+            "video_id": "zzPvK4YkHPI",
+            "title": "\"내가 정글해도 이상호 이길 듯?\" 여기서 지면 진짜 평생 놀림감이다..! 이상호 vs 강만식 드디어 붙었습니다!",
+            "channel_name": "이상호",
+            "category": "Gaming",
+            "duration": "40:41",
+            "view_count": "215368",
+            "thumbnail_url": "https://i.ytimg.com/vi/zzPvK4YkHPI/hqdefault.jpg"
+        },
+        {
+            "video_id": "21iZ19F3yYg",
+            "title": "Chains",
+            "channel_name": "Love Is - Topic",
+            "category": "Music",
+            "duration": "3:17",
+            "view_count": "161026",
+            "thumbnail_url": "https://i.ytimg.com/vi/21iZ19F3yYg/hqdefault.jpg"
         },
         {
             "video_id": "dwXkP5KKSnE",
@@ -115,7 +133,7 @@
             "channel_name": "말량",
             "category": "Gaming",
             "duration": "30:32",
-            "view_count": "161425",
+            "view_count": "166815",
             "thumbnail_url": "https://i.ytimg.com/vi/dwXkP5KKSnE/hqdefault.jpg"
         },
         {
@@ -124,35 +142,17 @@
             "channel_name": "SUPER SOUND Bugs!",
             "category": "Music",
             "duration": "4:14",
-            "view_count": "34785",
+            "view_count": "34910",
             "thumbnail_url": "https://i.ytimg.com/vi/fNfvm3wfeL8/hqdefault.jpg"
         },
         {
-            "video_id": "M6OId0KfvjU",
-            "title": "점프맵 연습을 안해서 평학이가 화났습니다.. 참교육 위기 ㅠㅠ",
-            "channel_name": "백앤아",
+            "video_id": "-rgUiiGMTbo",
+            "title": "곽튜브 본캐 호날두 10카로 새팀 갑니다 뿌드컵 딱 대!",
+            "channel_name": "두치와뿌꾸",
             "category": "Gaming",
-            "duration": "16:08",
-            "view_count": "171358",
-            "thumbnail_url": "https://i.ytimg.com/vi/M6OId0KfvjU/hqdefault.jpg"
-        },
-        {
-            "video_id": "21iZ19F3yYg",
-            "title": "Chains",
-            "channel_name": "Love Is - Topic",
-            "category": "Music",
-            "duration": "3:17",
-            "view_count": "157436",
-            "thumbnail_url": "https://i.ytimg.com/vi/21iZ19F3yYg/hqdefault.jpg"
-        },
-        {
-            "video_id": "LDVlBsmFDEc",
-            "title": "호토르의 선택 🙋‍♂️ | T1 vs DK│2025 LCK PO 1R | 울챔스 하이라이트",
-            "channel_name": "Wolf",
-            "category": "Gaming",
-            "duration": "1:33:51",
-            "view_count": "451324",
-            "thumbnail_url": "https://i.ytimg.com/vi/LDVlBsmFDEc/hqdefault.jpg"
+            "duration": "12:05",
+            "view_count": "65368",
+            "thumbnail_url": "https://i.ytimg.com/vi/-rgUiiGMTbo/hqdefault.jpg"
         },
         {
             "video_id": "Nv1fZZxpg9s",
@@ -160,17 +160,17 @@
             "channel_name": "Jeon Gunho - Topic",
             "category": "Music",
             "duration": "3:40",
-            "view_count": "34502",
+            "view_count": "36456",
             "thumbnail_url": "https://i.ytimg.com/vi/Nv1fZZxpg9s/hqdefault.jpg"
         },
         {
-            "video_id": "6W6SX6ro7I0",
-            "title": "선처 절대 없습니다",
-            "channel_name": "클리드",
+            "video_id": "M6OId0KfvjU",
+            "title": "점프맵 연습을 안해서 평학이가 화났습니다.. 참교육 위기 ㅠㅠ",
+            "channel_name": "백앤아",
             "category": "Gaming",
-            "duration": "9:30",
-            "view_count": "66601",
-            "thumbnail_url": "https://i.ytimg.com/vi/6W6SX6ro7I0/hqdefault.jpg"
+            "duration": "16:08",
+            "view_count": "175035",
+            "thumbnail_url": "https://i.ytimg.com/vi/M6OId0KfvjU/hqdefault.jpg"
         },
         {
             "video_id": "4ygLJUslBRU",
@@ -178,7 +178,7 @@
             "channel_name": "WENDY - Topic",
             "category": "Music",
             "duration": "3:09",
-            "view_count": "157900",
+            "view_count": "161858",
             "thumbnail_url": "https://i.ytimg.com/vi/4ygLJUslBRU/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "흔한남매",
             "category": "Entertainment",
             "duration": "17:56",
-            "view_count": "165771",
+            "view_count": "171793",
             "thumbnail_url": "https://i.ytimg.com/vi/BQbmhtH4IOg/hqdefault.jpg"
         },
         {
@@ -196,17 +196,17 @@
             "channel_name": "MAIN CHEF - Topic",
             "category": "Music",
             "duration": "3:06",
-            "view_count": "122778",
+            "view_count": "124615",
             "thumbnail_url": "https://i.ytimg.com/vi/sLZ79U4caZQ/hqdefault.jpg"
         },
         {
-            "video_id": "JmZC9-IZOE0",
-            "title": "발키리로 오버로드만 미친 듯이 잡고 있었는데.. 화를 참지 못하고 현피 제안하는 상대ㄷㄷ",
-            "channel_name": "[ALTUBE] 김성현TV",
+            "video_id": "LDVlBsmFDEc",
+            "title": "호토르의 선택 🙋‍♂️ | T1 vs DK│2025 LCK PO 1R | 울챔스 하이라이트",
+            "channel_name": "Wolf",
             "category": "Gaming",
-            "duration": "44:35",
-            "view_count": "139469",
-            "thumbnail_url": "https://i.ytimg.com/vi/JmZC9-IZOE0/hqdefault.jpg"
+            "duration": "1:33:51",
+            "view_count": "453864",
+            "thumbnail_url": "https://i.ytimg.com/vi/LDVlBsmFDEc/hqdefault.jpg"
         },
         {
             "video_id": "ZywaRfJSwK8",
@@ -214,17 +214,17 @@
             "channel_name": "TOIL - Topic",
             "category": "Music",
             "duration": "2:51",
-            "view_count": "36128",
+            "view_count": "38470",
             "thumbnail_url": "https://i.ytimg.com/vi/ZywaRfJSwK8/hqdefault.jpg"
         },
         {
-            "video_id": "-rgUiiGMTbo",
-            "title": "곽튜브 본캐 호날두 10카로 새팀 갑니다 뿌드컵 딱 대!",
-            "channel_name": "두치와뿌꾸",
+            "video_id": "JmZC9-IZOE0",
+            "title": "발키리로 오버로드만 미친 듯이 잡고 있었는데.. 화를 참지 못하고 현피 제안하는 상대ㄷㄷ",
+            "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
-            "duration": "12:05",
-            "view_count": "54168",
-            "thumbnail_url": "https://i.ytimg.com/vi/-rgUiiGMTbo/hqdefault.jpg"
+            "duration": "44:35",
+            "view_count": "142273",
+            "thumbnail_url": "https://i.ytimg.com/vi/JmZC9-IZOE0/hqdefault.jpg"
         },
         {
             "video_id": "fSKM1Verfcs",
@@ -232,8 +232,26 @@
             "channel_name": "777 (Triple 7) - Topic",
             "category": "Music",
             "duration": "3:12",
-            "view_count": "129413",
+            "view_count": "131870",
             "thumbnail_url": "https://i.ytimg.com/vi/fSKM1Verfcs/hqdefault.jpg"
+        },
+        {
+            "video_id": "amUxMXTMAHs",
+            "title": "태양의 호흡 1형 \"위더 베기\"",
+            "channel_name": "말왕TV",
+            "category": "Gaming",
+            "duration": "25:59",
+            "view_count": "61235",
+            "thumbnail_url": "https://i.ytimg.com/vi/amUxMXTMAHs/hqdefault.jpg"
+        },
+        {
+            "video_id": "glptno5ohjc",
+            "title": "SHOOT (Firecracker)",
+            "channel_name": "CHAEYOUNG - Topic",
+            "category": "Music",
+            "duration": "2:49",
+            "view_count": "89969",
+            "thumbnail_url": "https://i.ytimg.com/vi/glptno5ohjc/hqdefault.jpg"
         },
         {
             "video_id": "LCqSmxQ3Xig",
@@ -241,7 +259,7 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "14:35",
-            "view_count": "143885",
+            "view_count": "150366",
             "thumbnail_url": "https://i.ytimg.com/vi/LCqSmxQ3Xig/hqdefault.jpg"
         },
         {
@@ -250,7 +268,7 @@
             "channel_name": "Nyangnyang Chuchu - Topic",
             "category": "Music",
             "duration": "2:58",
-            "view_count": "93912",
+            "view_count": "96573",
             "thumbnail_url": "https://i.ytimg.com/vi/C4kiCJlijnw/hqdefault.jpg"
         },
         {
@@ -259,26 +277,8 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "16:36",
-            "view_count": "117998",
+            "view_count": "120953",
             "thumbnail_url": "https://i.ytimg.com/vi/Jq95nki9zBc/hqdefault.jpg"
-        },
-        {
-            "video_id": "glptno5ohjc",
-            "title": "SHOOT (Firecracker)",
-            "channel_name": "CHAEYOUNG - Topic",
-            "category": "Music",
-            "duration": "2:49",
-            "view_count": "86479",
-            "thumbnail_url": "https://i.ytimg.com/vi/glptno5ohjc/hqdefault.jpg"
-        },
-        {
-            "video_id": "_RuEl4vAKHo",
-            "title": "악령 버프와 미쳐버린 성능의 9천 초과 케일 (점수 복사덱)",
-            "channel_name": "팔차선 [8LJAYWALKING]",
-            "category": "Gaming",
-            "duration": "16:05",
-            "view_count": "135096",
-            "thumbnail_url": "https://i.ytimg.com/vi/_RuEl4vAKHo/hqdefault.jpg"
         },
         {
             "video_id": "eNMz5jnZDvg",
@@ -286,26 +286,8 @@
             "channel_name": "DAY6",
             "category": "People & Blogs",
             "duration": "2:45",
-            "view_count": "311698",
+            "view_count": "315729",
             "thumbnail_url": "https://i.ytimg.com/vi/eNMz5jnZDvg/hqdefault.jpg"
-        },
-        {
-            "video_id": "MNyJHcGMzhE",
-            "title": "PRX vs XLG / GX vs SEN — 챔피언스 파리 — 그룹 스테이지 — 1일차",
-            "channel_name": "발로란트 챔피언스 투어",
-            "category": "Gaming",
-            "duration": "5:45:59",
-            "view_count": "176415",
-            "thumbnail_url": "https://i.ytimg.com/vi/MNyJHcGMzhE/hqdefault.jpg"
-        },
-        {
-            "video_id": "c8vnUGxpaUM",
-            "title": "Echo! (talk to me baby)",
-            "channel_name": "The Poles - Topic",
-            "category": "Music",
-            "duration": "2:55",
-            "view_count": "41163",
-            "thumbnail_url": "https://i.ytimg.com/vi/c8vnUGxpaUM/hqdefault.jpg"
         },
         {
             "video_id": "CiHoDGiKWR8",
@@ -313,8 +295,26 @@
             "channel_name": "기리TV",
             "category": "Gaming",
             "duration": "12:51",
-            "view_count": "64606",
+            "view_count": "69293",
             "thumbnail_url": "https://i.ytimg.com/vi/CiHoDGiKWR8/hqdefault.jpg"
+        },
+        {
+            "video_id": "c8vnUGxpaUM",
+            "title": "Echo! (talk to me baby)",
+            "channel_name": "The Poles - Topic",
+            "category": "Music",
+            "duration": "2:55",
+            "view_count": "42710",
+            "thumbnail_url": "https://i.ytimg.com/vi/c8vnUGxpaUM/hqdefault.jpg"
+        },
+        {
+            "video_id": "_RuEl4vAKHo",
+            "title": "악령 버프와 미쳐버린 성능의 9천 초과 케일 (점수 복사덱)",
+            "channel_name": "팔차선 [8LJAYWALKING]",
+            "category": "Gaming",
+            "duration": "16:05",
+            "view_count": "136894",
+            "thumbnail_url": "https://i.ytimg.com/vi/_RuEl4vAKHo/hqdefault.jpg"
         },
         {
             "video_id": "KUpDKbsRayA",
@@ -322,17 +322,17 @@
             "channel_name": "Gavy NJ - Topic",
             "category": "Music",
             "duration": "3:44",
-            "view_count": "57365",
+            "view_count": "58660",
             "thumbnail_url": "https://i.ytimg.com/vi/KUpDKbsRayA/hqdefault.jpg"
         },
         {
-            "video_id": "amUxMXTMAHs",
-            "title": "태양의 호흡 1형 \"위더 베기\"",
-            "channel_name": "말왕TV",
+            "video_id": "MNyJHcGMzhE",
+            "title": "PRX vs XLG / GX vs SEN — 챔피언스 파리 — 그룹 스테이지 — 1일차",
+            "channel_name": "발로란트 챔피언스 투어",
             "category": "Gaming",
-            "duration": "25:59",
-            "view_count": "44205",
-            "thumbnail_url": "https://i.ytimg.com/vi/amUxMXTMAHs/hqdefault.jpg"
+            "duration": "5:45:59",
+            "view_count": "177225",
+            "thumbnail_url": "https://i.ytimg.com/vi/MNyJHcGMzhE/hqdefault.jpg"
         },
         {
             "video_id": "MT1wYxM4c9c",
@@ -340,26 +340,8 @@
             "channel_name": "TAEMIN - Topic",
             "category": "Music",
             "duration": "3:08",
-            "view_count": "25917",
+            "view_count": "27112",
             "thumbnail_url": "https://i.ytimg.com/vi/MT1wYxM4c9c/hqdefault.jpg"
-        },
-        {
-            "video_id": "bkU6LL5lWRQ",
-            "title": "신규 메가진화 기습 대공개【닌텐도 다이렉트】",
-            "channel_name": "근가놈",
-            "category": "Gaming",
-            "duration": "11:38",
-            "view_count": "88948",
-            "thumbnail_url": "https://i.ytimg.com/vi/bkU6LL5lWRQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "7wJsfALKRR8",
-            "title": "GO!",
-            "channel_name": "CORTIS - Topic",
-            "category": "Music",
-            "duration": "2:51",
-            "view_count": "1286021",
-            "thumbnail_url": "https://i.ytimg.com/vi/7wJsfALKRR8/hqdefault.jpg"
         },
         {
             "video_id": "Gb0d8jPk_RM",
@@ -367,7 +349,7 @@
             "channel_name": "쉐어TV",
             "category": "Gaming",
             "duration": "17:54",
-            "view_count": "55323",
+            "view_count": "64194",
             "thumbnail_url": "https://i.ytimg.com/vi/Gb0d8jPk_RM/hqdefault.jpg"
         },
         {
@@ -376,8 +358,26 @@
             "channel_name": "DAYOUNG - Topic",
             "category": "Music",
             "duration": "2:48",
-            "view_count": "207500",
+            "view_count": "211979",
             "thumbnail_url": "https://i.ytimg.com/vi/dyMLWGa0boc/hqdefault.jpg"
+        },
+        {
+            "video_id": "bkU6LL5lWRQ",
+            "title": "신규 메가진화 기습 대공개【닌텐도 다이렉트】",
+            "channel_name": "근가놈",
+            "category": "Gaming",
+            "duration": "11:38",
+            "view_count": "95899",
+            "thumbnail_url": "https://i.ytimg.com/vi/bkU6LL5lWRQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "7wJsfALKRR8",
+            "title": "GO!",
+            "channel_name": "CORTIS - Topic",
+            "category": "Music",
+            "duration": "2:51",
+            "view_count": "1297853",
+            "thumbnail_url": "https://i.ytimg.com/vi/7wJsfALKRR8/hqdefault.jpg"
         }
     ]
 }
