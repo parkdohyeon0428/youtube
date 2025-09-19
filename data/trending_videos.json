@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-09-19 08:12:11",
+    "scraped_time": "2025-09-19 10:02:34",
     "videos": [
         {
             "video_id": "67fdzVRPIEE",
@@ -7,7 +7,7 @@
             "channel_name": "MA ENTERTAINMENT",
             "category": "Entertainment",
             "duration": "3:35",
-            "view_count": "139015",
+            "view_count": "161971",
             "thumbnail_url": "https://i.ytimg.com/vi/67fdzVRPIEE/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:42",
-            "view_count": "175762",
+            "view_count": "182821",
             "thumbnail_url": "https://i.ytimg.com/vi/vHva0Cr5tO0/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "4:52:15",
-            "view_count": "3706667",
+            "view_count": "3713620",
             "thumbnail_url": "https://i.ytimg.com/vi/n9LrMFXEXKw/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "임영웅",
             "category": "Music",
             "duration": "3:33",
-            "view_count": "719225",
+            "view_count": "723684",
             "thumbnail_url": "https://i.ytimg.com/vi/30hZXHeB85U/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "Well Go USA Entertainment",
             "category": "Film & Animation",
             "duration": "1:00",
-            "view_count": "202384",
+            "view_count": "205353",
             "thumbnail_url": "https://i.ytimg.com/vi/CYc0uVAcotA/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "22:23",
-            "view_count": "268257",
+            "view_count": "290300",
             "thumbnail_url": "https://i.ytimg.com/vi/hRIylEZ_tLg/hqdefault.jpg"
         },
         {
@@ -61,8 +61,26 @@
             "channel_name": "Kenshi Yonezu  米津玄師",
             "category": "Music",
             "duration": "2:34",
-            "view_count": "8042030",
+            "view_count": "8207607",
             "thumbnail_url": "https://i.ytimg.com/vi/LmZD-TU96q4/hqdefault.jpg"
+        },
+        {
+            "video_id": "XomUlBgX0ns",
+            "title": "김민교를 무시하던 이상한 탑 라이너와 맞대결ㅋㅋㅋㅋ",
+            "channel_name": "튜브김민교",
+            "category": "Gaming",
+            "duration": "48:21",
+            "view_count": "162746",
+            "thumbnail_url": "https://i.ytimg.com/vi/XomUlBgX0ns/hqdefault.jpg"
+        },
+        {
+            "video_id": "L_S5JtOf2-8",
+            "title": "In Me (In Me)",
+            "channel_name": "Woody - Topic",
+            "category": "Music",
+            "duration": "2:59",
+            "view_count": "27396",
+            "thumbnail_url": "https://i.ytimg.com/vi/L_S5JtOf2-8/hqdefault.jpg"
         },
         {
             "video_id": "RXBj6SLdkEY",
@@ -70,7 +88,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "26:03",
-            "view_count": "212749",
+            "view_count": "221870",
             "thumbnail_url": "https://i.ytimg.com/vi/RXBj6SLdkEY/hqdefault.jpg"
         },
         {
@@ -79,26 +97,8 @@
             "channel_name": "황영웅 Tv",
             "category": "Music",
             "duration": "4:30",
-            "view_count": "27720",
+            "view_count": "30991",
             "thumbnail_url": "https://i.ytimg.com/vi/rOZFX6O_sT0/hqdefault.jpg"
-        },
-        {
-            "video_id": "XomUlBgX0ns",
-            "title": "김민교를 무시하던 이상한 탑 라이너와 맞대결ㅋㅋㅋㅋ",
-            "channel_name": "튜브김민교",
-            "category": "Gaming",
-            "duration": "48:21",
-            "view_count": "141644",
-            "thumbnail_url": "https://i.ytimg.com/vi/XomUlBgX0ns/hqdefault.jpg"
-        },
-        {
-            "video_id": "p2NISvg_0yA",
-            "title": "기억예보 - Hebi X 시라카미 후부키 | 가디스오더 OST",
-            "channel_name": "Hebi.",
-            "category": "Music",
-            "duration": "3:19",
-            "view_count": "616709",
-            "thumbnail_url": "https://i.ytimg.com/vi/p2NISvg_0yA/hqdefault.jpg"
         },
         {
             "video_id": "uZdQyNLgvRA",
@@ -106,8 +106,26 @@
             "channel_name": "두치와뿌꾸",
             "category": "Gaming",
             "duration": "19:34",
-            "view_count": "222969",
+            "view_count": "229215",
             "thumbnail_url": "https://i.ytimg.com/vi/uZdQyNLgvRA/hqdefault.jpg"
+        },
+        {
+            "video_id": "p2NISvg_0yA",
+            "title": "기억예보 - Hebi X 시라카미 후부키 | 가디스오더 OST",
+            "channel_name": "Hebi.",
+            "category": "Music",
+            "duration": "3:19",
+            "view_count": "651894",
+            "thumbnail_url": "https://i.ytimg.com/vi/p2NISvg_0yA/hqdefault.jpg"
+        },
+        {
+            "video_id": "Ud2lMdhMnLw",
+            "title": "배그가 중국게임이 된 어이없는 이유 [크래프톤의 역사는 여기서 끝나는가]",
+            "channel_name": "김성회의 G식백과",
+            "category": "Gaming",
+            "duration": "22:02",
+            "view_count": "179759",
+            "thumbnail_url": "https://i.ytimg.com/vi/Ud2lMdhMnLw/hqdefault.jpg"
         },
         {
             "video_id": "yZ3y0rYGkag",
@@ -115,26 +133,8 @@
             "channel_name": "김희재 HEEJAE",
             "category": "People & Blogs",
             "duration": "4:02",
-            "view_count": "18767",
+            "view_count": "20219",
             "thumbnail_url": "https://i.ytimg.com/vi/yZ3y0rYGkag/hqdefault.jpg"
-        },
-        {
-            "video_id": "az91CE7VngQ",
-            "title": "\" Top10 생존 1초 전 \" 살기만 해도 200만원인데 하필 레전드 상황 발생..!",
-            "channel_name": "이상호",
-            "category": "Gaming",
-            "duration": "22:57",
-            "view_count": "223991",
-            "thumbnail_url": "https://i.ytimg.com/vi/az91CE7VngQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "L_S5JtOf2-8",
-            "title": "In Me (In Me)",
-            "channel_name": "Woody - Topic",
-            "category": "Music",
-            "duration": "2:59",
-            "view_count": "20244",
-            "thumbnail_url": "https://i.ytimg.com/vi/L_S5JtOf2-8/hqdefault.jpg"
         },
         {
             "video_id": "PpWUSoCzJYQ",
@@ -142,7 +142,7 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "10:55",
-            "view_count": "207376",
+            "view_count": "214230",
             "thumbnail_url": "https://i.ytimg.com/vi/PpWUSoCzJYQ/hqdefault.jpg"
         },
         {
@@ -151,17 +151,17 @@
             "channel_name": "PLAVE - Topic",
             "category": "Music",
             "duration": "3:25",
-            "view_count": "356551",
+            "view_count": "363547",
             "thumbnail_url": "https://i.ytimg.com/vi/v79reBX5JfE/hqdefault.jpg"
         },
         {
-            "video_id": "maJ92zFU__Q",
-            "title": "쓰는 빌드마다 하나같이 근본이라고는 찾아볼 수 없는 이상한 빌드만 계속 써봤더니 머리끝까지 화난 상대ㅋㅋ",
-            "channel_name": "[ALTUBE] 김성현TV",
+            "video_id": "az91CE7VngQ",
+            "title": "\" Top10 생존 1초 전 \" 살기만 해도 200만원인데 하필 레전드 상황 발생..!",
+            "channel_name": "이상호",
             "category": "Gaming",
-            "duration": "30:35",
-            "view_count": "137698",
-            "thumbnail_url": "https://i.ytimg.com/vi/maJ92zFU__Q/hqdefault.jpg"
+            "duration": "22:57",
+            "view_count": "226057",
+            "thumbnail_url": "https://i.ytimg.com/vi/az91CE7VngQ/hqdefault.jpg"
         },
         {
             "video_id": "SbzU_9hKfIo",
@@ -169,7 +169,7 @@
             "channel_name": "DAY6",
             "category": "People & Blogs",
             "duration": "3:04",
-            "view_count": "70913",
+            "view_count": "72142",
             "thumbnail_url": "https://i.ytimg.com/vi/SbzU_9hKfIo/hqdefault.jpg"
         },
         {
@@ -178,8 +178,26 @@
             "channel_name": "근가놈",
             "category": "Gaming",
             "duration": "23:09",
-            "view_count": "101967",
+            "view_count": "105721",
             "thumbnail_url": "https://i.ytimg.com/vi/_klf3Spvhyc/hqdefault.jpg"
+        },
+        {
+            "video_id": "rvMsWB1vUzQ",
+            "title": "GALA",
+            "channel_name": "XG - Topic",
+            "category": "Music",
+            "duration": "3:48",
+            "view_count": "60325",
+            "thumbnail_url": "https://i.ytimg.com/vi/rvMsWB1vUzQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "maJ92zFU__Q",
+            "title": "쓰는 빌드마다 하나같이 근본이라고는 찾아볼 수 없는 이상한 빌드만 계속 써봤더니 머리끝까지 화난 상대ㅋㅋ",
+            "channel_name": "[ALTUBE] 김성현TV",
+            "category": "Gaming",
+            "duration": "30:35",
+            "view_count": "141001",
+            "thumbnail_url": "https://i.ytimg.com/vi/maJ92zFU__Q/hqdefault.jpg"
         },
         {
             "video_id": "t9EUv_4Q7Sw",
@@ -187,26 +205,8 @@
             "channel_name": "BL8M - Topic",
             "category": "Music",
             "duration": "3:40",
-            "view_count": "507217",
+            "view_count": "515643",
             "thumbnail_url": "https://i.ytimg.com/vi/t9EUv_4Q7Sw/hqdefault.jpg"
-        },
-        {
-            "video_id": "uS-b7SY7A9A",
-            "title": "TH vs T1 / FNC vs MIBR — 챔피언스 파리 — 그룹 스테이지 — 6일차",
-            "channel_name": "발로란트 챔피언스 투어",
-            "category": "Gaming",
-            "duration": "6:04:21",
-            "view_count": "185036",
-            "thumbnail_url": "https://i.ytimg.com/vi/uS-b7SY7A9A/hqdefault.jpg"
-        },
-        {
-            "video_id": "psc3AT3OgRI",
-            "title": "DUMB (Feat. PENOMECO)",
-            "channel_name": "D.O. - Topic",
-            "category": "Music",
-            "duration": "2:09",
-            "view_count": "114457",
-            "thumbnail_url": "https://i.ytimg.com/vi/psc3AT3OgRI/hqdefault.jpg"
         },
         {
             "video_id": "VFvH4Zj71T4",
@@ -214,44 +214,26 @@
             "channel_name": "꼬예유의 로블록스 저장소",
             "category": "Gaming",
             "duration": "33:08",
-            "view_count": "84256",
+            "view_count": "97929",
             "thumbnail_url": "https://i.ytimg.com/vi/VFvH4Zj71T4/hqdefault.jpg"
         },
         {
-            "video_id": "nZFH-gZa9R4",
-            "title": "우기 (YUQI) 'M.O.' Official Music Video",
-            "channel_name": "i-dle (아이들)",
+            "video_id": "psc3AT3OgRI",
+            "title": "DUMB (Feat. PENOMECO)",
+            "channel_name": "D.O. - Topic",
             "category": "Music",
-            "duration": "3:11",
-            "view_count": "11086432",
-            "thumbnail_url": "https://i.ytimg.com/vi/nZFH-gZa9R4/hqdefault.jpg"
+            "duration": "2:09",
+            "view_count": "118215",
+            "thumbnail_url": "https://i.ytimg.com/vi/psc3AT3OgRI/hqdefault.jpg"
         },
         {
-            "video_id": "Ud2lMdhMnLw",
-            "title": "배그가 중국게임이 된 어이없는 이유 [크래프톤의 역사는 여기서 끝나는가]",
-            "channel_name": "김성회의 G식백과",
+            "video_id": "uS-b7SY7A9A",
+            "title": "TH vs T1 / FNC vs MIBR — 챔피언스 파리 — 그룹 스테이지 — 6일차",
+            "channel_name": "발로란트 챔피언스 투어",
             "category": "Gaming",
-            "duration": "22:02",
-            "view_count": "141470",
-            "thumbnail_url": "https://i.ytimg.com/vi/Ud2lMdhMnLw/hqdefault.jpg"
-        },
-        {
-            "video_id": "RR39YeFQpw4",
-            "title": "U",
-            "channel_name": "jungwooseok - Topic",
-            "category": "Music",
-            "duration": "3:41",
-            "view_count": "35382",
-            "thumbnail_url": "https://i.ytimg.com/vi/RR39YeFQpw4/hqdefault.jpg"
-        },
-        {
-            "video_id": "5U3Y5AXhn80",
-            "title": "확률의 미학",
-            "channel_name": "이도원",
-            "category": "Gaming",
-            "duration": "29:10",
-            "view_count": "206788",
-            "thumbnail_url": "https://i.ytimg.com/vi/5U3Y5AXhn80/hqdefault.jpg"
+            "duration": "6:04:21",
+            "view_count": "189200",
+            "thumbnail_url": "https://i.ytimg.com/vi/uS-b7SY7A9A/hqdefault.jpg"
         },
         {
             "video_id": "LFZK8GbCmQY",
@@ -259,8 +241,26 @@
             "channel_name": "煮ル果実 / NILFRUITS",
             "category": "Music",
             "duration": "2:52",
-            "view_count": "192775",
+            "view_count": "214497",
             "thumbnail_url": "https://i.ytimg.com/vi/LFZK8GbCmQY/hqdefault.jpg"
+        },
+        {
+            "video_id": "5U3Y5AXhn80",
+            "title": "확률의 미학",
+            "channel_name": "이도원",
+            "category": "Gaming",
+            "duration": "29:10",
+            "view_count": "208600",
+            "thumbnail_url": "https://i.ytimg.com/vi/5U3Y5AXhn80/hqdefault.jpg"
+        },
+        {
+            "video_id": "nZFH-gZa9R4",
+            "title": "우기 (YUQI) 'M.O.' Official Music Video",
+            "channel_name": "i-dle (아이들)",
+            "category": "Music",
+            "duration": "3:11",
+            "view_count": "11124856",
+            "thumbnail_url": "https://i.ytimg.com/vi/nZFH-gZa9R4/hqdefault.jpg"
         },
         {
             "video_id": "sQw0JvKoFTY",
@@ -268,17 +268,17 @@
             "channel_name": "주키니TV",
             "category": "Gaming",
             "duration": "25:39",
-            "view_count": "107896",
+            "view_count": "113943",
             "thumbnail_url": "https://i.ytimg.com/vi/sQw0JvKoFTY/hqdefault.jpg"
         },
         {
-            "video_id": "jE9Y905_lco",
-            "title": "NEO EUI HYANG GI",
-            "channel_name": "So Soo Bin - Topic",
+            "video_id": "RR39YeFQpw4",
+            "title": "U",
+            "channel_name": "jungwooseok - Topic",
             "category": "Music",
-            "duration": "3:55",
-            "view_count": "25027",
-            "thumbnail_url": "https://i.ytimg.com/vi/jE9Y905_lco/hqdefault.jpg"
+            "duration": "3:41",
+            "view_count": "36319",
+            "thumbnail_url": "https://i.ytimg.com/vi/RR39YeFQpw4/hqdefault.jpg"
         },
         {
             "video_id": "4ZKj556qSt0",
@@ -286,26 +286,26 @@
             "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
             "duration": "17:45",
-            "view_count": "83229",
+            "view_count": "91803",
             "thumbnail_url": "https://i.ytimg.com/vi/4ZKj556qSt0/hqdefault.jpg"
         },
         {
-            "video_id": "KcW1_wI6rsc",
-            "title": "TREASURE - ‘EVERYTHING’ M/V",
-            "channel_name": "TREASURE (트레저)",
-            "category": "Entertainment",
-            "duration": "3:52",
-            "view_count": "398486",
-            "thumbnail_url": "https://i.ytimg.com/vi/KcW1_wI6rsc/hqdefault.jpg"
+            "video_id": "jE9Y905_lco",
+            "title": "NEO EUI HYANG GI",
+            "channel_name": "So Soo Bin - Topic",
+            "category": "Music",
+            "duration": "3:55",
+            "view_count": "26522",
+            "thumbnail_url": "https://i.ytimg.com/vi/jE9Y905_lco/hqdefault.jpg"
         },
         {
-            "video_id": "wJSdj9k11Wk",
-            "title": "다시는 못얻는 \"한정 타코 시크릿\" 등장!!!ㄷㄷㄷ 그런데 초희귀 돌연변이!? 짧은 시간에 모두 품절 돼버린 한정 시크릿 공개!!! (로블록스 브레인롯 훔치기)",
-            "channel_name": "말량",
+            "video_id": "-tV8Ctj96pE",
+            "title": "브레인롯에서 무한 소환 버그가 진짜 될까?",
+            "channel_name": "강태풍의 로블록스",
             "category": "Gaming",
-            "duration": "24:14",
-            "view_count": "201356",
-            "thumbnail_url": "https://i.ytimg.com/vi/wJSdj9k11Wk/hqdefault.jpg"
+            "duration": "17:28",
+            "view_count": "84954",
+            "thumbnail_url": "https://i.ytimg.com/vi/-tV8Ctj96pE/hqdefault.jpg"
         },
         {
             "video_id": "VK5GZvbhEd4",
@@ -313,44 +313,26 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "4:04",
-            "view_count": "39933",
+            "view_count": "42719",
             "thumbnail_url": "https://i.ytimg.com/vi/VK5GZvbhEd4/hqdefault.jpg"
         },
         {
-            "video_id": "a3J1D-27qOk",
-            "title": "날씨의 아이",
-            "channel_name": "클리드",
+            "video_id": "nVwnsIE4pow",
+            "title": "펜타킬, 오창섭의 정상화! 롤드컵 확정 | LCK 플레이오프 T1 vs DK 스트리머 리액션 반응 모음",
+            "channel_name": "Ju1st",
             "category": "Gaming",
-            "duration": "27:35",
-            "view_count": "171400",
-            "thumbnail_url": "https://i.ytimg.com/vi/a3J1D-27qOk/hqdefault.jpg"
+            "duration": "1:54:12",
+            "view_count": "37937",
+            "thumbnail_url": "https://i.ytimg.com/vi/nVwnsIE4pow/hqdefault.jpg"
         },
         {
-            "video_id": "ZaPAvNetCoE",
-            "title": "M.O. (M.O.)",
-            "channel_name": "YUQI - Topic",
-            "category": "Music",
-            "duration": "3:04",
-            "view_count": "73495",
-            "thumbnail_url": "https://i.ytimg.com/vi/ZaPAvNetCoE/hqdefault.jpg"
-        },
-        {
-            "video_id": "bZFzNESDVHk",
-            "title": "2-2에 3성 제이스 띄우는 사람 ㅋㅋㅋㅋㅋ",
-            "channel_name": "전쓰트의 게임 채널 Junsst",
-            "category": "Gaming",
-            "duration": "14:07",
-            "view_count": "112471",
-            "thumbnail_url": "https://i.ytimg.com/vi/bZFzNESDVHk/hqdefault.jpg"
-        },
-        {
-            "video_id": "bdm8fvph39A",
-            "title": "[COVER] 정서주 - 끝이 없는 길(원곡: 박인희)",
-            "channel_name": "정서주 JUNG SEO JOO",
-            "category": "Music",
-            "duration": "3:58",
-            "view_count": "36444",
-            "thumbnail_url": "https://i.ytimg.com/vi/bdm8fvph39A/hqdefault.jpg"
+            "video_id": "KcW1_wI6rsc",
+            "title": "TREASURE - ‘EVERYTHING’ M/V",
+            "channel_name": "TREASURE (트레저)",
+            "category": "Entertainment",
+            "duration": "3:52",
+            "view_count": "529897",
+            "thumbnail_url": "https://i.ytimg.com/vi/KcW1_wI6rsc/hqdefault.jpg"
         },
         {
             "video_id": "ndcJ4nOMtPc",
@@ -358,17 +340,17 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "13:38",
-            "view_count": "128643",
+            "view_count": "137746",
             "thumbnail_url": "https://i.ytimg.com/vi/ndcJ4nOMtPc/hqdefault.jpg"
         },
         {
-            "video_id": "QPCvaiYTpB4",
-            "title": "Ash",
-            "channel_name": "ATEEZ - Topic",
+            "video_id": "bdm8fvph39A",
+            "title": "[COVER] 정서주 - 끝이 없는 길(원곡: 박인희)",
+            "channel_name": "정서주 JUNG SEO JOO",
             "category": "Music",
-            "duration": "3:18",
-            "view_count": "220297",
-            "thumbnail_url": "https://i.ytimg.com/vi/QPCvaiYTpB4/hqdefault.jpg"
+            "duration": "3:58",
+            "view_count": "37419",
+            "thumbnail_url": "https://i.ytimg.com/vi/bdm8fvph39A/hqdefault.jpg"
         },
         {
             "video_id": "jjSCtKGcXs8",
@@ -376,8 +358,26 @@
             "channel_name": "랄로",
             "category": "Gaming",
             "duration": "1:10:05",
-            "view_count": "144540",
+            "view_count": "153182",
             "thumbnail_url": "https://i.ytimg.com/vi/jjSCtKGcXs8/hqdefault.jpg"
+        },
+        {
+            "video_id": "ZaPAvNetCoE",
+            "title": "M.O. (M.O.)",
+            "channel_name": "YUQI - Topic",
+            "category": "Music",
+            "duration": "3:04",
+            "view_count": "75793",
+            "thumbnail_url": "https://i.ytimg.com/vi/ZaPAvNetCoE/hqdefault.jpg"
+        },
+        {
+            "video_id": "wJSdj9k11Wk",
+            "title": "다시는 못얻는 \"한정 타코 시크릿\" 등장!!!ㄷㄷㄷ 그런데 초희귀 돌연변이!? 짧은 시간에 모두 품절 돼버린 한정 시크릿 공개!!! (로블록스 브레인롯 훔치기)",
+            "channel_name": "말량",
+            "category": "Gaming",
+            "duration": "24:14",
+            "view_count": "205555",
+            "thumbnail_url": "https://i.ytimg.com/vi/wJSdj9k11Wk/hqdefault.jpg"
         }
     ]
 }
