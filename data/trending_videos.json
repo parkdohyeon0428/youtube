@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-09-20 09:59:07",
+    "scraped_time": "2025-09-20 11:18:23",
     "videos": [
         {
             "video_id": "67fdzVRPIEE",
@@ -7,7 +7,7 @@
             "channel_name": "MA ENTERTAINMENT",
             "category": "Entertainment",
             "duration": "3:35",
-            "view_count": "250226",
+            "view_count": "263171",
             "thumbnail_url": "https://i.ytimg.com/vi/67fdzVRPIEE/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:42",
-            "view_count": "290642",
+            "view_count": "293742",
             "thumbnail_url": "https://i.ytimg.com/vi/vHva0Cr5tO0/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "4:52:15",
-            "view_count": "3760269",
+            "view_count": "3761375",
             "thumbnail_url": "https://i.ytimg.com/vi/n9LrMFXEXKw/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "Woody - Topic",
             "category": "Music",
             "duration": "2:59",
-            "view_count": "98816",
+            "view_count": "104168",
             "thumbnail_url": "https://i.ytimg.com/vi/L_S5JtOf2-8/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "Well Go USA Entertainment",
             "category": "Film & Animation",
             "duration": "1:00",
-            "view_count": "241298",
+            "view_count": "242495",
             "thumbnail_url": "https://i.ytimg.com/vi/CYc0uVAcotA/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "Wolf",
             "category": "Gaming",
             "duration": "1:39:40",
-            "view_count": "418419",
+            "view_count": "426411",
             "thumbnail_url": "https://i.ytimg.com/vi/5AgHzlznvd0/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "Bruklin - Topic",
             "category": "Music",
             "duration": "2:51",
-            "view_count": "1303458",
+            "view_count": "1361686",
             "thumbnail_url": "https://i.ytimg.com/vi/n4Nj8WMrkjk/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "OSR Digital",
             "category": "Film & Animation",
             "duration": "3:21",
-            "view_count": "545750",
+            "view_count": "560542",
             "thumbnail_url": "https://i.ytimg.com/vi/ZtZSSgDDXrk/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "21:54",
-            "view_count": "300158",
+            "view_count": "319825",
             "thumbnail_url": "https://i.ytimg.com/vi/pHv64XlTH8Q/hqdefault.jpg"
         },
         {
@@ -88,8 +88,17 @@
             "channel_name": "황영웅 Tv",
             "category": "Music",
             "duration": "4:30",
-            "view_count": "56472",
+            "view_count": "57994",
             "thumbnail_url": "https://i.ytimg.com/vi/rOZFX6O_sT0/hqdefault.jpg"
+        },
+        {
+            "video_id": "d3HZ5r6BjrU",
+            "title": "731 — Official Trailer (2025) #2",
+            "channel_name": "MTube",
+            "category": "Entertainment",
+            "duration": "1:19",
+            "view_count": "4021",
+            "thumbnail_url": "https://i.ytimg.com/vi/d3HZ5r6BjrU/hqdefault.jpg"
         },
         {
             "video_id": "nSc61aDLYHU",
@@ -97,7 +106,7 @@
             "channel_name": "마비노기 모바일",
             "category": "Gaming",
             "duration": "2:41:20",
-            "view_count": "141951",
+            "view_count": "142636",
             "thumbnail_url": "https://i.ytimg.com/vi/nSc61aDLYHU/hqdefault.jpg"
         },
         {
@@ -106,7 +115,7 @@
             "channel_name": "XG - Topic",
             "category": "Music",
             "duration": "3:48",
-            "view_count": "306093",
+            "view_count": "316323",
             "thumbnail_url": "https://i.ytimg.com/vi/rvMsWB1vUzQ/hqdefault.jpg"
         },
         {
@@ -115,26 +124,8 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "48:21",
-            "view_count": "337506",
+            "view_count": "340746",
             "thumbnail_url": "https://i.ytimg.com/vi/XomUlBgX0ns/hqdefault.jpg"
-        },
-        {
-            "video_id": "vAtcdBLuZfo",
-            "title": "Alone",
-            "channel_name": "LEE CHANGSUB - Topic",
-            "category": "Music",
-            "duration": "3:55",
-            "view_count": "21217",
-            "thumbnail_url": "https://i.ytimg.com/vi/vAtcdBLuZfo/hqdefault.jpg"
-        },
-        {
-            "video_id": "7HfiFVPyoXQ",
-            "title": "[LIVE] 로스트아크 On Air l 2025.9.19 19:00",
-            "channel_name": "로스트아크 LOST ARK",
-            "category": "Gaming",
-            "duration": "1:10:55",
-            "view_count": "141495",
-            "thumbnail_url": "https://i.ytimg.com/vi/7HfiFVPyoXQ/hqdefault.jpg"
         },
         {
             "video_id": "vkLpkQV8v4w",
@@ -142,62 +133,26 @@
             "channel_name": "aespa - Topic",
             "category": "Music",
             "duration": "3:18",
-            "view_count": "48725",
+            "view_count": "52173",
             "thumbnail_url": "https://i.ytimg.com/vi/vkLpkQV8v4w/hqdefault.jpg"
         },
         {
-            "video_id": "RXBj6SLdkEY",
-            "title": "날아가고 생각하기",
-            "channel_name": "PAKA",
+            "video_id": "7HfiFVPyoXQ",
+            "title": "[LIVE] 로스트아크 On Air l 2025.9.19 19:00",
+            "channel_name": "로스트아크 LOST ARK",
             "category": "Gaming",
-            "duration": "26:03",
-            "view_count": "340392",
-            "thumbnail_url": "https://i.ytimg.com/vi/RXBj6SLdkEY/hqdefault.jpg"
+            "duration": "1:10:55",
+            "view_count": "142278",
+            "thumbnail_url": "https://i.ytimg.com/vi/7HfiFVPyoXQ/hqdefault.jpg"
         },
         {
-            "video_id": "yZ3y0rYGkag",
-            "title": "김희재 KIM HEE JAE '다신 볼 수 없는 내 사랑 (My Love, Gone Forever)' MV",
-            "channel_name": "김희재 HEEJAE",
-            "category": "People & Blogs",
-            "duration": "4:02",
-            "view_count": "38865",
-            "thumbnail_url": "https://i.ytimg.com/vi/yZ3y0rYGkag/hqdefault.jpg"
-        },
-        {
-            "video_id": "O3s8Ejek1r4",
-            "title": "[Limbus Company x Arknights - PV] Chapter 8.5 EX - 선의의 순례 / 善意の巡礼 / Pilgrimage of Compassion",
-            "channel_name": "ProjectMoon Official",
-            "category": "Gaming",
-            "duration": "5:12",
-            "view_count": "433990",
-            "thumbnail_url": "https://i.ytimg.com/vi/O3s8Ejek1r4/hqdefault.jpg"
-        },
-        {
-            "video_id": "LmZD-TU96q4",
-            "title": "米津玄師  Kenshi Yonezu - IRIS OUT",
-            "channel_name": "Kenshi Yonezu  米津玄師",
+            "video_id": "vAtcdBLuZfo",
+            "title": "Alone",
+            "channel_name": "LEE CHANGSUB - Topic",
             "category": "Music",
-            "duration": "2:34",
-            "view_count": "10257099",
-            "thumbnail_url": "https://i.ytimg.com/vi/LmZD-TU96q4/hqdefault.jpg"
-        },
-        {
-            "video_id": "CydqmKPB2CE",
-            "title": "케일 졸업 작품 제출합니다",
-            "channel_name": "잡상싱",
-            "category": "Gaming",
-            "duration": "12:13",
-            "view_count": "125794",
-            "thumbnail_url": "https://i.ytimg.com/vi/CydqmKPB2CE/hqdefault.jpg"
-        },
-        {
-            "video_id": "30hZXHeB85U",
-            "title": "임영웅 'ULSSIGU' Official M/V",
-            "channel_name": "임영웅",
-            "category": "Music",
-            "duration": "3:33",
-            "view_count": "841318",
-            "thumbnail_url": "https://i.ytimg.com/vi/30hZXHeB85U/hqdefault.jpg"
+            "duration": "3:55",
+            "view_count": "23580",
+            "thumbnail_url": "https://i.ytimg.com/vi/vAtcdBLuZfo/hqdefault.jpg"
         },
         {
             "video_id": "x2c0VqEtLMY",
@@ -205,8 +160,62 @@
             "channel_name": "멜로우TV",
             "category": "Gaming",
             "duration": "12:58",
-            "view_count": "114690",
+            "view_count": "128178",
             "thumbnail_url": "https://i.ytimg.com/vi/x2c0VqEtLMY/hqdefault.jpg"
+        },
+        {
+            "video_id": "yZ3y0rYGkag",
+            "title": "김희재 KIM HEE JAE '다신 볼 수 없는 내 사랑 (My Love, Gone Forever)' MV",
+            "channel_name": "김희재 HEEJAE",
+            "category": "People & Blogs",
+            "duration": "4:02",
+            "view_count": "39871",
+            "thumbnail_url": "https://i.ytimg.com/vi/yZ3y0rYGkag/hqdefault.jpg"
+        },
+        {
+            "video_id": "CydqmKPB2CE",
+            "title": "케일 졸업 작품 제출합니다",
+            "channel_name": "잡상싱",
+            "category": "Gaming",
+            "duration": "12:13",
+            "view_count": "133498",
+            "thumbnail_url": "https://i.ytimg.com/vi/CydqmKPB2CE/hqdefault.jpg"
+        },
+        {
+            "video_id": "LmZD-TU96q4",
+            "title": "米津玄師  Kenshi Yonezu - IRIS OUT",
+            "channel_name": "Kenshi Yonezu  米津玄師",
+            "category": "Music",
+            "duration": "2:34",
+            "view_count": "10368969",
+            "thumbnail_url": "https://i.ytimg.com/vi/LmZD-TU96q4/hqdefault.jpg"
+        },
+        {
+            "video_id": "RXBj6SLdkEY",
+            "title": "날아가고 생각하기",
+            "channel_name": "PAKA",
+            "category": "Gaming",
+            "duration": "26:03",
+            "view_count": "342745",
+            "thumbnail_url": "https://i.ytimg.com/vi/RXBj6SLdkEY/hqdefault.jpg"
+        },
+        {
+            "video_id": "30hZXHeB85U",
+            "title": "임영웅 'ULSSIGU' Official M/V",
+            "channel_name": "임영웅",
+            "category": "Music",
+            "duration": "3:33",
+            "view_count": "849482",
+            "thumbnail_url": "https://i.ytimg.com/vi/30hZXHeB85U/hqdefault.jpg"
+        },
+        {
+            "video_id": "O3s8Ejek1r4",
+            "title": "[Limbus Company x Arknights - PV] Chapter 8.5 EX - 선의의 순례 / 善意の巡礼 / Pilgrimage of Compassion",
+            "channel_name": "ProjectMoon Official",
+            "category": "Gaming",
+            "duration": "5:12",
+            "view_count": "442347",
+            "thumbnail_url": "https://i.ytimg.com/vi/O3s8Ejek1r4/hqdefault.jpg"
         },
         {
             "video_id": "p2NISvg_0yA",
@@ -214,26 +223,8 @@
             "channel_name": "Hebi.",
             "category": "Music",
             "duration": "3:19",
-            "view_count": "923288",
+            "view_count": "933104",
             "thumbnail_url": "https://i.ytimg.com/vi/p2NISvg_0yA/hqdefault.jpg"
-        },
-        {
-            "video_id": "UH1A56U97hI",
-            "title": "다시 돌아온 찐득한 솔랭내기 【777점 솔랭내기#1】",
-            "channel_name": "저라뎃 JUSTLIKETHAT",
-            "category": "Gaming",
-            "duration": "33:42",
-            "view_count": "127478",
-            "thumbnail_url": "https://i.ytimg.com/vi/UH1A56U97hI/hqdefault.jpg"
-        },
-        {
-            "video_id": "4uKgxsPcA_I",
-            "title": "DAY6(데이식스) \"꿈의 버스\" LIVE CLIP (with My Day ver.)",
-            "channel_name": "DAY6",
-            "category": "People & Blogs",
-            "duration": "2:49",
-            "view_count": "58793",
-            "thumbnail_url": "https://i.ytimg.com/vi/4uKgxsPcA_I/hqdefault.jpg"
         },
         {
             "video_id": "-B76G5wjYJs",
@@ -241,8 +232,26 @@
             "channel_name": "왈도쿤",
             "category": "Gaming",
             "duration": "32:07",
-            "view_count": "140962",
+            "view_count": "148603",
             "thumbnail_url": "https://i.ytimg.com/vi/-B76G5wjYJs/hqdefault.jpg"
+        },
+        {
+            "video_id": "4uKgxsPcA_I",
+            "title": "DAY6(데이식스) \"꿈의 버스\" LIVE CLIP (with My Day ver.)",
+            "channel_name": "DAY6",
+            "category": "People & Blogs",
+            "duration": "2:49",
+            "view_count": "59573",
+            "thumbnail_url": "https://i.ytimg.com/vi/4uKgxsPcA_I/hqdefault.jpg"
+        },
+        {
+            "video_id": "UH1A56U97hI",
+            "title": "다시 돌아온 찐득한 솔랭내기 【777점 솔랭내기#1】",
+            "channel_name": "저라뎃 JUSTLIKETHAT",
+            "category": "Gaming",
+            "duration": "33:42",
+            "view_count": "129917",
+            "thumbnail_url": "https://i.ytimg.com/vi/UH1A56U97hI/hqdefault.jpg"
         },
         {
             "video_id": "BinNkFZ89ZQ",
@@ -250,7 +259,7 @@
             "channel_name": "제이통",
             "category": "Music",
             "duration": "4:58",
-            "view_count": "21317",
+            "view_count": "23110",
             "thumbnail_url": "https://i.ytimg.com/vi/BinNkFZ89ZQ/hqdefault.jpg"
         },
         {
@@ -259,7 +268,7 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "23:49",
-            "view_count": "133694",
+            "view_count": "143936",
             "thumbnail_url": "https://i.ytimg.com/vi/c6bWtaEDvfg/hqdefault.jpg"
         },
         {
@@ -268,7 +277,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "0:25",
-            "view_count": "139464",
+            "view_count": "147685",
             "thumbnail_url": "https://i.ytimg.com/vi/FtOrtd-6X6s/hqdefault.jpg"
         },
         {
@@ -277,26 +286,8 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "21:29",
-            "view_count": "122492",
+            "view_count": "126415",
             "thumbnail_url": "https://i.ytimg.com/vi/i_yxNTd-4tI/hqdefault.jpg"
-        },
-        {
-            "video_id": "LFZK8GbCmQY",
-            "title": "∴煮ル果実「オーパーツ」with 初音ミク【Official】- OOPÁRTS",
-            "channel_name": "煮ル果実 / NILFRUITS",
-            "category": "Music",
-            "duration": "2:52",
-            "view_count": "465555",
-            "thumbnail_url": "https://i.ytimg.com/vi/LFZK8GbCmQY/hqdefault.jpg"
-        },
-        {
-            "video_id": "cYc6x0u-y2A",
-            "title": "100승 달성 생각에 굉장히 들떠있는 상대, 하지만 공방의 악마 알파고를 만나버리고 마는데?ㅋㅋ",
-            "channel_name": "[ALTUBE] 김성현TV",
-            "category": "Gaming",
-            "duration": "1:09:48",
-            "view_count": "113281",
-            "thumbnail_url": "https://i.ytimg.com/vi/cYc6x0u-y2A/hqdefault.jpg"
         },
         {
             "video_id": "VK5GZvbhEd4",
@@ -304,26 +295,26 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "4:04",
-            "view_count": "71906",
+            "view_count": "74076",
             "thumbnail_url": "https://i.ytimg.com/vi/VK5GZvbhEd4/hqdefault.jpg"
         },
         {
-            "video_id": "ul_U-LdEW4g",
-            "title": "[트릭컬 리바이브] 2주년 기념 특별 방송",
-            "channel_name": "EPID Games",
+            "video_id": "cYc6x0u-y2A",
+            "title": "100승 달성 생각에 굉장히 들떠있는 상대, 하지만 공방의 악마 알파고를 만나버리고 마는데?ㅋㅋ",
+            "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
-            "duration": "1:44:21",
-            "view_count": "114877",
-            "thumbnail_url": "https://i.ytimg.com/vi/ul_U-LdEW4g/hqdefault.jpg"
+            "duration": "1:09:48",
+            "view_count": "118438",
+            "thumbnail_url": "https://i.ytimg.com/vi/cYc6x0u-y2A/hqdefault.jpg"
         },
         {
-            "video_id": "mQ4z7nGwT_U",
-            "title": "山歩 - スーパー登山部 (Live from 白馬岳 白馬山荘)",
-            "channel_name": "スーパー登山部",
+            "video_id": "LFZK8GbCmQY",
+            "title": "∴煮ル果実「オーパーツ」with 初音ミク【Official】- OOPÁRTS",
+            "channel_name": "煮ル果実 / NILFRUITS",
             "category": "Music",
-            "duration": "4:03",
-            "view_count": "64547",
-            "thumbnail_url": "https://i.ytimg.com/vi/mQ4z7nGwT_U/hqdefault.jpg"
+            "duration": "2:52",
+            "view_count": "473718",
+            "thumbnail_url": "https://i.ytimg.com/vi/LFZK8GbCmQY/hqdefault.jpg"
         },
         {
             "video_id": "bbd_0zMUbLc",
@@ -331,8 +322,26 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "28:47",
-            "view_count": "150227",
+            "view_count": "159607",
             "thumbnail_url": "https://i.ytimg.com/vi/bbd_0zMUbLc/hqdefault.jpg"
+        },
+        {
+            "video_id": "mQ4z7nGwT_U",
+            "title": "山歩 - スーパー登山部 (Live from 白馬岳 白馬山荘)",
+            "channel_name": "スーパー登山部",
+            "category": "Music",
+            "duration": "4:03",
+            "view_count": "65603",
+            "thumbnail_url": "https://i.ytimg.com/vi/mQ4z7nGwT_U/hqdefault.jpg"
+        },
+        {
+            "video_id": "ul_U-LdEW4g",
+            "title": "[트릭컬 리바이브] 2주년 기념 특별 방송",
+            "channel_name": "EPID Games",
+            "category": "Gaming",
+            "duration": "1:44:21",
+            "view_count": "119100",
+            "thumbnail_url": "https://i.ytimg.com/vi/ul_U-LdEW4g/hqdefault.jpg"
         },
         {
             "video_id": "v79reBX5JfE",
@@ -340,17 +349,17 @@
             "channel_name": "PLAVE - Topic",
             "category": "Music",
             "duration": "3:25",
-            "view_count": "431659",
+            "view_count": "434655",
             "thumbnail_url": "https://i.ytimg.com/vi/v79reBX5JfE/hqdefault.jpg"
         },
         {
-            "video_id": "dfdbMsMTUAY",
-            "title": "다시 돌아온 믿고 보는 솔랭내기ㅋㅋㅋ",
-            "channel_name": "스맵",
+            "video_id": "tR_7P-yfKBg",
+            "title": "\"오답노트를 보고온 T1\"",
+            "channel_name": "프로관전러 P.S",
             "category": "Gaming",
-            "duration": "30:54",
-            "view_count": "120021",
-            "thumbnail_url": "https://i.ytimg.com/vi/dfdbMsMTUAY/hqdefault.jpg"
+            "duration": "36:49",
+            "view_count": "127508",
+            "thumbnail_url": "https://i.ytimg.com/vi/tR_7P-yfKBg/hqdefault.jpg"
         },
         {
             "video_id": "8Cm-7oCq9HA",
@@ -358,26 +367,17 @@
             "channel_name": "TAK / DORIDORI",
             "category": "Music",
             "duration": "2:37",
-            "view_count": "243877",
+            "view_count": "248329",
             "thumbnail_url": "https://i.ytimg.com/vi/8Cm-7oCq9HA/hqdefault.jpg"
         },
         {
-            "video_id": "Ud2lMdhMnLw",
-            "title": "배그 출생의 비밀이 폭로되다 [크래프톤의 역사는 여기서 끝나는가]",
-            "channel_name": "김성회의 G식백과",
+            "video_id": "dfdbMsMTUAY",
+            "title": "다시 돌아온 믿고 보는 솔랭내기ㅋㅋㅋ",
+            "channel_name": "스맵",
             "category": "Gaming",
-            "duration": "21:59",
-            "view_count": "369268",
-            "thumbnail_url": "https://i.ytimg.com/vi/Ud2lMdhMnLw/hqdefault.jpg"
-        },
-        {
-            "video_id": "255DEHRkZk0",
-            "title": "[2025 박지현 콘서트 'SHOWMANSHIP'] 박지현 '미운 사랑' LIVE CLIP",
-            "channel_name": "박지현",
-            "category": "People & Blogs",
-            "duration": "3:54",
-            "view_count": "9968",
-            "thumbnail_url": "https://i.ytimg.com/vi/255DEHRkZk0/hqdefault.jpg"
+            "duration": "30:54",
+            "view_count": "120685",
+            "thumbnail_url": "https://i.ytimg.com/vi/dfdbMsMTUAY/hqdefault.jpg"
         }
     ]
 }
