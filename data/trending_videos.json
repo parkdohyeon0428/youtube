@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-09-22 08:11:22",
+    "scraped_time": "2025-09-22 10:06:46",
     "videos": [
         {
             "video_id": "67fdzVRPIEE",
@@ -7,7 +7,7 @@
             "channel_name": "MA ENTERTAINMENT",
             "category": "Entertainment",
             "duration": "3:35",
-            "view_count": "438834",
+            "view_count": "470500",
             "thumbnail_url": "https://i.ytimg.com/vi/67fdzVRPIEE/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "MTube",
             "category": "Entertainment",
             "duration": "1:19",
-            "view_count": "53117",
+            "view_count": "53789",
             "thumbnail_url": "https://i.ytimg.com/vi/d3HZ5r6BjrU/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "5:59:50",
-            "view_count": "5122934",
+            "view_count": "5126185",
             "thumbnail_url": "https://i.ytimg.com/vi/u4XS_GvMJuI/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "aespa - Topic",
             "category": "Music",
             "duration": "3:18",
-            "view_count": "295761",
+            "view_count": "312788",
             "thumbnail_url": "https://i.ytimg.com/vi/vkLpkQV8v4w/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "27:30",
-            "view_count": "282905",
+            "view_count": "303736",
             "thumbnail_url": "https://i.ytimg.com/vi/gTNU3fZRVqc/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "LEE CHANGSUB - Topic",
             "category": "Music",
             "duration": "3:55",
-            "view_count": "149071",
+            "view_count": "157450",
             "thumbnail_url": "https://i.ytimg.com/vi/vAtcdBLuZfo/hqdefault.jpg"
         },
         {
@@ -61,26 +61,8 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "23:07",
-            "view_count": "260196",
+            "view_count": "268963",
             "thumbnail_url": "https://i.ytimg.com/vi/AG-fpVEcoyY/hqdefault.jpg"
-        },
-        {
-            "video_id": "n4Nj8WMrkjk",
-            "title": "Through It All",
-            "channel_name": "Bruklin - Topic",
-            "category": "Music",
-            "duration": "2:51",
-            "view_count": "1887650",
-            "thumbnail_url": "https://i.ytimg.com/vi/n4Nj8WMrkjk/hqdefault.jpg"
-        },
-        {
-            "video_id": "GDCekhMAfvg",
-            "title": "K-직장인 5명과 땅 파는 게임을 했더니...",
-            "channel_name": "우주하마",
-            "category": "Gaming",
-            "duration": "19:00",
-            "view_count": "270473",
-            "thumbnail_url": "https://i.ytimg.com/vi/GDCekhMAfvg/hqdefault.jpg"
         },
         {
             "video_id": "m29sImIihTo",
@@ -88,7 +70,7 @@
             "channel_name": "ASHATREE - Topic",
             "category": "Music",
             "duration": "3:26",
-            "view_count": "21123",
+            "view_count": "24288",
             "thumbnail_url": "https://i.ytimg.com/vi/m29sImIihTo/hqdefault.jpg"
         },
         {
@@ -97,8 +79,44 @@
             "channel_name": "마쟈TV",
             "category": "Gaming",
             "duration": "17:24",
-            "view_count": "152005",
+            "view_count": "189314",
             "thumbnail_url": "https://i.ytimg.com/vi/RIWFP8icQIY/hqdefault.jpg"
+        },
+        {
+            "video_id": "n4Nj8WMrkjk",
+            "title": "Through It All",
+            "channel_name": "Bruklin - Topic",
+            "category": "Music",
+            "duration": "2:51",
+            "view_count": "1895596",
+            "thumbnail_url": "https://i.ytimg.com/vi/n4Nj8WMrkjk/hqdefault.jpg"
+        },
+        {
+            "video_id": "GDCekhMAfvg",
+            "title": "K-직장인 5명과 땅 파는 게임을 했더니...",
+            "channel_name": "우주하마",
+            "category": "Gaming",
+            "duration": "19:00",
+            "view_count": "277666",
+            "thumbnail_url": "https://i.ytimg.com/vi/GDCekhMAfvg/hqdefault.jpg"
+        },
+        {
+            "video_id": "zuO2fClon98",
+            "title": "JANE DOE",
+            "channel_name": "Kenshi Yonezu - Topic",
+            "category": "Music",
+            "duration": "3:56",
+            "view_count": "42239",
+            "thumbnail_url": "https://i.ytimg.com/vi/zuO2fClon98/hqdefault.jpg"
+        },
+        {
+            "video_id": "9IgIREhG-b8",
+            "title": "\"배그로 웃기는 유일한 사람\"  배그 아티스트 이상호의 치킨 야랼쇼..!",
+            "channel_name": "이상호",
+            "category": "Gaming",
+            "duration": "23:15",
+            "view_count": "144936",
+            "thumbnail_url": "https://i.ytimg.com/vi/9IgIREhG-b8/hqdefault.jpg"
         },
         {
             "video_id": "8QZeXvOjgGE",
@@ -106,26 +124,8 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "2:52",
-            "view_count": "826830",
+            "view_count": "838053",
             "thumbnail_url": "https://i.ytimg.com/vi/8QZeXvOjgGE/hqdefault.jpg"
-        },
-        {
-            "video_id": "848ab_nX50c",
-            "title": "엄청난 퀄리티의 멕시코 업뎃 등장!! 신규 시크릿들 싹다 뽑기 도전!!!! (로블록스 브레인롯훔치기)",
-            "channel_name": "쉐어TV",
-            "category": "Gaming",
-            "duration": "19:39",
-            "view_count": "230676",
-            "thumbnail_url": "https://i.ytimg.com/vi/848ab_nX50c/hqdefault.jpg"
-        },
-        {
-            "video_id": "L_S5JtOf2-8",
-            "title": "In Me (In Me)",
-            "channel_name": "Woody - Topic",
-            "category": "Music",
-            "duration": "2:59",
-            "view_count": "226610",
-            "thumbnail_url": "https://i.ytimg.com/vi/L_S5JtOf2-8/hqdefault.jpg"
         },
         {
             "video_id": "XYPDr38c8MA",
@@ -133,7 +133,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "27:45",
-            "view_count": "162996",
+            "view_count": "168606",
             "thumbnail_url": "https://i.ytimg.com/vi/XYPDr38c8MA/hqdefault.jpg"
         },
         {
@@ -142,17 +142,17 @@
             "channel_name": "Russ - Topic",
             "category": "Music",
             "duration": "3:02",
-            "view_count": "65820",
+            "view_count": "70630",
             "thumbnail_url": "https://i.ytimg.com/vi/ezdZ-ll4H5o/hqdefault.jpg"
         },
         {
-            "video_id": "btrYa1aohVU",
-            "title": "레인보우 드래곤, 피냐타 1% 시크릿, 로스 타코자전거까지 모두 만났던 멕시코 시크릿 업데이트!! ㄷㄷㄷ진짜 말도 안되네요!!!!! (로블록스 브레인롯 훔치기)",
-            "channel_name": "말량",
+            "video_id": "848ab_nX50c",
+            "title": "엄청난 퀄리티의 멕시코 업뎃 등장!! 신규 시크릿들 싹다 뽑기 도전!!!! (로블록스 브레인롯훔치기)",
+            "channel_name": "쉐어TV",
             "category": "Gaming",
-            "duration": "22:27",
-            "view_count": "219982",
-            "thumbnail_url": "https://i.ytimg.com/vi/btrYa1aohVU/hqdefault.jpg"
+            "duration": "19:39",
+            "view_count": "240518",
+            "thumbnail_url": "https://i.ytimg.com/vi/848ab_nX50c/hqdefault.jpg"
         },
         {
             "video_id": "0ZCCBPeRVLo",
@@ -160,26 +160,26 @@
             "channel_name": "Brave Girls - Topic",
             "category": "Music",
             "duration": "3:18",
-            "view_count": "46012",
+            "view_count": "50068",
             "thumbnail_url": "https://i.ytimg.com/vi/0ZCCBPeRVLo/hqdefault.jpg"
         },
         {
-            "video_id": "9IgIREhG-b8",
-            "title": "\"배그로 웃기는 유일한 사람\"  배그 아티스트 이상호의 치킨 야랼쇼..!",
-            "channel_name": "이상호",
+            "video_id": "btrYa1aohVU",
+            "title": "레인보우 드래곤, 피냐타 1% 시크릿, 로스 타코자전거까지 모두 만났던 멕시코 시크릿 업데이트!! ㄷㄷㄷ진짜 말도 안되네요!!!!! (로블록스 브레인롯 훔치기)",
+            "channel_name": "말량",
             "category": "Gaming",
-            "duration": "23:15",
-            "view_count": "137212",
-            "thumbnail_url": "https://i.ytimg.com/vi/9IgIREhG-b8/hqdefault.jpg"
+            "duration": "22:27",
+            "view_count": "229379",
+            "thumbnail_url": "https://i.ytimg.com/vi/btrYa1aohVU/hqdefault.jpg"
         },
         {
-            "video_id": "zuO2fClon98",
-            "title": "JANE DOE",
-            "channel_name": "Kenshi Yonezu - Topic",
+            "video_id": "L_S5JtOf2-8",
+            "title": "In Me (In Me)",
+            "channel_name": "Woody - Topic",
             "category": "Music",
-            "duration": "3:56",
-            "view_count": "32487",
-            "thumbnail_url": "https://i.ytimg.com/vi/zuO2fClon98/hqdefault.jpg"
+            "duration": "2:59",
+            "view_count": "235062",
+            "thumbnail_url": "https://i.ytimg.com/vi/L_S5JtOf2-8/hqdefault.jpg"
         },
         {
             "video_id": "kLmQHW9wU7g",
@@ -187,44 +187,8 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "13:43",
-            "view_count": "129145",
+            "view_count": "139958",
             "thumbnail_url": "https://i.ytimg.com/vi/kLmQHW9wU7g/hqdefault.jpg"
-        },
-        {
-            "video_id": "slul7AgGpbU",
-            "title": "WICKED (Diplo Remix)",
-            "channel_name": "ALLDAY PROJECT - Topic",
-            "category": "Music",
-            "duration": "2:38",
-            "view_count": "77278",
-            "thumbnail_url": "https://i.ytimg.com/vi/slul7AgGpbU/hqdefault.jpg"
-        },
-        {
-            "video_id": "FrZ8XZY7mfk",
-            "title": "죽지도 않고 돌아온 -400좌",
-            "channel_name": "스맵",
-            "category": "Gaming",
-            "duration": "32:56",
-            "view_count": "115965",
-            "thumbnail_url": "https://i.ytimg.com/vi/FrZ8XZY7mfk/hqdefault.jpg"
-        },
-        {
-            "video_id": "h876RCmitNk",
-            "title": "LoveSketch (러브스케치)",
-            "channel_name": "Juho - Topic",
-            "category": "Music",
-            "duration": "3:35",
-            "view_count": "28768",
-            "thumbnail_url": "https://i.ytimg.com/vi/h876RCmitNk/hqdefault.jpg"
-        },
-        {
-            "video_id": "L9fBrKMijPo",
-            "title": "상대가 먹을 멀티까지 전부 뺏어먹고 게임 끝날 때까지 우주방어 모드로 수비만 해본다면?ㅋㅋ",
-            "channel_name": "[ALTUBE] 김성현TV",
-            "category": "Gaming",
-            "duration": "43:54",
-            "view_count": "124707",
-            "thumbnail_url": "https://i.ytimg.com/vi/L9fBrKMijPo/hqdefault.jpg"
         },
         {
             "video_id": "XDlzKC-LEIY",
@@ -232,8 +196,44 @@
             "channel_name": "1theK (원더케이)",
             "category": "Music",
             "duration": "0:20",
-            "view_count": "11477",
+            "view_count": "13232",
             "thumbnail_url": "https://i.ytimg.com/vi/XDlzKC-LEIY/hqdefault.jpg"
+        },
+        {
+            "video_id": "FrZ8XZY7mfk",
+            "title": "죽지도 않고 돌아온 -400좌",
+            "channel_name": "스맵",
+            "category": "Gaming",
+            "duration": "32:56",
+            "view_count": "117430",
+            "thumbnail_url": "https://i.ytimg.com/vi/FrZ8XZY7mfk/hqdefault.jpg"
+        },
+        {
+            "video_id": "slul7AgGpbU",
+            "title": "WICKED (Diplo Remix)",
+            "channel_name": "ALLDAY PROJECT - Topic",
+            "category": "Music",
+            "duration": "2:38",
+            "view_count": "77697",
+            "thumbnail_url": "https://i.ytimg.com/vi/slul7AgGpbU/hqdefault.jpg"
+        },
+        {
+            "video_id": "L9fBrKMijPo",
+            "title": "상대가 먹을 멀티까지 전부 뺏어먹고 게임 끝날 때까지 우주방어 모드로 수비만 해본다면?ㅋㅋ",
+            "channel_name": "[ALTUBE] 김성현TV",
+            "category": "Gaming",
+            "duration": "43:54",
+            "view_count": "126956",
+            "thumbnail_url": "https://i.ytimg.com/vi/L9fBrKMijPo/hqdefault.jpg"
+        },
+        {
+            "video_id": "h876RCmitNk",
+            "title": "LoveSketch (러브스케치)",
+            "channel_name": "Juho - Topic",
+            "category": "Music",
+            "duration": "3:35",
+            "view_count": "29905",
+            "thumbnail_url": "https://i.ytimg.com/vi/h876RCmitNk/hqdefault.jpg"
         },
         {
             "video_id": "uq1A27J7pCU",
@@ -241,7 +241,7 @@
             "channel_name": "전략적죽음",
             "category": "Gaming",
             "duration": "24:45",
-            "view_count": "113635",
+            "view_count": "119470",
             "thumbnail_url": "https://i.ytimg.com/vi/uq1A27J7pCU/hqdefault.jpg"
         },
         {
@@ -250,7 +250,7 @@
             "channel_name": "It's - Topic",
             "category": "Music",
             "duration": "3:45",
-            "view_count": "24168",
+            "view_count": "27359",
             "thumbnail_url": "https://i.ytimg.com/vi/uX6FyH01DdE/hqdefault.jpg"
         },
         {
@@ -259,7 +259,7 @@
             "channel_name": "주키니TV",
             "category": "Gaming",
             "duration": "23:02",
-            "view_count": "172097",
+            "view_count": "181512",
             "thumbnail_url": "https://i.ytimg.com/vi/3-owNDbrLw4/hqdefault.jpg"
         },
         {
@@ -268,80 +268,8 @@
             "channel_name": "Leonora",
             "category": "People & Blogs",
             "duration": "3:27:37",
-            "view_count": "10896",
+            "view_count": "11955",
             "thumbnail_url": "https://i.ytimg.com/vi/-QR2vNaC1Vo/hqdefault.jpg"
-        },
-        {
-            "video_id": "i3gXUbFEOuc",
-            "title": "한정판 브레인롯 다 훔치고 0.01% 기지 만들었더니… 비밀선물 받았습니다",
-            "channel_name": "PMY",
-            "category": "Gaming",
-            "duration": "16:01",
-            "view_count": "106690",
-            "thumbnail_url": "https://i.ytimg.com/vi/i3gXUbFEOuc/hqdefault.jpg"
-        },
-        {
-            "video_id": "P5NNcXuSNPs",
-            "title": "Starlight (너라는 별빛)",
-            "channel_name": "Bong Hun - Topic",
-            "category": "Music",
-            "duration": "3:07",
-            "view_count": "11251",
-            "thumbnail_url": "https://i.ytimg.com/vi/P5NNcXuSNPs/hqdefault.jpg"
-        },
-        {
-            "video_id": "h9aOdRQdMHE",
-            "title": "가성비로 표도 풀셋팅 맞췄습니다",
-            "channel_name": "김데데",
-            "category": "Gaming",
-            "duration": "25:10",
-            "view_count": "114028",
-            "thumbnail_url": "https://i.ytimg.com/vi/h9aOdRQdMHE/hqdefault.jpg"
-        },
-        {
-            "video_id": "f5IVoXgLuGs",
-            "title": "Ed Sheeran - Shape of You (Lyrics)",
-            "channel_name": "7clouds UK",
-            "category": "People & Blogs",
-            "duration": "3:54",
-            "view_count": "1036100",
-            "thumbnail_url": "https://i.ytimg.com/vi/f5IVoXgLuGs/hqdefault.jpg"
-        },
-        {
-            "video_id": "KZoF1iG7eEA",
-            "title": "99일 생존에 악마의 염소가 나왔습니다 ㄷㄷ",
-            "channel_name": "김왼팔",
-            "category": "Gaming",
-            "duration": "18:19",
-            "view_count": "84535",
-            "thumbnail_url": "https://i.ytimg.com/vi/KZoF1iG7eEA/hqdefault.jpg"
-        },
-        {
-            "video_id": "rvMsWB1vUzQ",
-            "title": "GALA",
-            "channel_name": "XG - Topic",
-            "category": "Music",
-            "duration": "3:48",
-            "view_count": "631337",
-            "thumbnail_url": "https://i.ytimg.com/vi/rvMsWB1vUzQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "8SeF3U1ueZg",
-            "title": "리뷰1000개중 999개가 극찬??? 도파민 개미친≪쥐 생존게임≫ㅋㅋㅋㅋㅋㅋㅋ",
-            "channel_name": "혜안",
-            "category": "Gaming",
-            "duration": "58:09",
-            "view_count": "166754",
-            "thumbnail_url": "https://i.ytimg.com/vi/8SeF3U1ueZg/hqdefault.jpg"
-        },
-        {
-            "video_id": "rOZFX6O_sT0",
-            "title": "2025 팬미팅LIVE_그대내친구여",
-            "channel_name": "황영웅 Tv",
-            "category": "Music",
-            "duration": "4:30",
-            "view_count": "88871",
-            "thumbnail_url": "https://i.ytimg.com/vi/rOZFX6O_sT0/hqdefault.jpg"
         },
         {
             "video_id": "4waKp29jEew",
@@ -349,26 +277,26 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "25:29",
-            "view_count": "111971",
+            "view_count": "122634",
             "thumbnail_url": "https://i.ytimg.com/vi/4waKp29jEew/hqdefault.jpg"
         },
         {
-            "video_id": "uyS63NHcLEc",
-            "title": "정승환 '빨래' Cover (원곡 : 이적) | SeungTUDIO",
-            "channel_name": "정승환 Jung Seung Hwan",
+            "video_id": "P5NNcXuSNPs",
+            "title": "Starlight (너라는 별빛)",
+            "channel_name": "Bong Hun - Topic",
             "category": "Music",
-            "duration": "3:55",
-            "view_count": "55309",
-            "thumbnail_url": "https://i.ytimg.com/vi/uyS63NHcLEc/hqdefault.jpg"
+            "duration": "3:07",
+            "view_count": "11888",
+            "thumbnail_url": "https://i.ytimg.com/vi/P5NNcXuSNPs/hqdefault.jpg"
         },
         {
-            "video_id": "5AgHzlznvd0",
-            "title": "닿았다... 그의 은총이🎇 | T1 vs DK│2025 LCK PO LR2 | 울챔스 하이라이트",
-            "channel_name": "Wolf",
+            "video_id": "KZoF1iG7eEA",
+            "title": "99일 생존에 악마의 염소가 나왔습니다 ㄷㄷ",
+            "channel_name": "김왼팔",
             "category": "Gaming",
-            "duration": "1:39:40",
-            "view_count": "538468",
-            "thumbnail_url": "https://i.ytimg.com/vi/5AgHzlznvd0/hqdefault.jpg"
+            "duration": "18:19",
+            "view_count": "93757",
+            "thumbnail_url": "https://i.ytimg.com/vi/KZoF1iG7eEA/hqdefault.jpg"
         },
         {
             "video_id": "xCiDaRx2PXM",
@@ -376,8 +304,80 @@
             "channel_name": "Enoch - Topic",
             "category": "Music",
             "duration": "3:40",
-            "view_count": "6615",
+            "view_count": "7840",
             "thumbnail_url": "https://i.ytimg.com/vi/xCiDaRx2PXM/hqdefault.jpg"
+        },
+        {
+            "video_id": "i3gXUbFEOuc",
+            "title": "한정판 브레인롯 다 훔치고 0.01% 기지 만들었더니… 비밀선물 받았습니다",
+            "channel_name": "PMY",
+            "category": "Gaming",
+            "duration": "16:01",
+            "view_count": "115139",
+            "thumbnail_url": "https://i.ytimg.com/vi/i3gXUbFEOuc/hqdefault.jpg"
+        },
+        {
+            "video_id": "f5IVoXgLuGs",
+            "title": "Ed Sheeran - Shape of You (Lyrics)",
+            "channel_name": "7clouds UK",
+            "category": "People & Blogs",
+            "duration": "3:54",
+            "view_count": "1037243",
+            "thumbnail_url": "https://i.ytimg.com/vi/f5IVoXgLuGs/hqdefault.jpg"
+        },
+        {
+            "video_id": "8SeF3U1ueZg",
+            "title": "리뷰1000개중 999개가 극찬??? 도파민 개미친≪쥐 생존게임≫ㅋㅋㅋㅋㅋㅋㅋ",
+            "channel_name": "혜안",
+            "category": "Gaming",
+            "duration": "58:09",
+            "view_count": "177175",
+            "thumbnail_url": "https://i.ytimg.com/vi/8SeF3U1ueZg/hqdefault.jpg"
+        },
+        {
+            "video_id": "rvMsWB1vUzQ",
+            "title": "GALA",
+            "channel_name": "XG - Topic",
+            "category": "Music",
+            "duration": "3:48",
+            "view_count": "642212",
+            "thumbnail_url": "https://i.ytimg.com/vi/rvMsWB1vUzQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "h9aOdRQdMHE",
+            "title": "가성비로 표도 풀셋팅 맞췄습니다",
+            "channel_name": "김데데",
+            "category": "Gaming",
+            "duration": "25:10",
+            "view_count": "118123",
+            "thumbnail_url": "https://i.ytimg.com/vi/h9aOdRQdMHE/hqdefault.jpg"
+        },
+        {
+            "video_id": "uyS63NHcLEc",
+            "title": "정승환 '빨래' Cover (원곡 : 이적) | SeungTUDIO",
+            "channel_name": "정승환 Jung Seung Hwan",
+            "category": "Music",
+            "duration": "3:55",
+            "view_count": "56970",
+            "thumbnail_url": "https://i.ytimg.com/vi/uyS63NHcLEc/hqdefault.jpg"
+        },
+        {
+            "video_id": "yOf8a6qvhQQ",
+            "title": "지우랑 레드 싸우면 누가 이김? : 격투타입 하트골드【포켓몬 모든타입 깨기】#2",
+            "channel_name": "근가놈",
+            "category": "Gaming",
+            "duration": "18:06",
+            "view_count": "106878",
+            "thumbnail_url": "https://i.ytimg.com/vi/yOf8a6qvhQQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "rOZFX6O_sT0",
+            "title": "2025 팬미팅LIVE_그대내친구여",
+            "channel_name": "황영웅 Tv",
+            "category": "Music",
+            "duration": "4:30",
+            "view_count": "90338",
+            "thumbnail_url": "https://i.ytimg.com/vi/rOZFX6O_sT0/hqdefault.jpg"
         }
     ]
 }
