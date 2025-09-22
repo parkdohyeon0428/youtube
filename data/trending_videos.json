@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-09-22 13:16:24",
+    "scraped_time": "2025-09-22 14:16:58",
     "videos": [
         {
             "video_id": "67fdzVRPIEE",
@@ -7,7 +7,7 @@
             "channel_name": "MA ENTERTAINMENT",
             "category": "Entertainment",
             "duration": "3:35",
-            "view_count": "494124",
+            "view_count": "497620",
             "thumbnail_url": "https://i.ytimg.com/vi/67fdzVRPIEE/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "MTube",
             "category": "Entertainment",
             "duration": "1:19",
-            "view_count": "55556",
+            "view_count": "56081",
             "thumbnail_url": "https://i.ytimg.com/vi/d3HZ5r6BjrU/hqdefault.jpg"
         },
         {
@@ -25,17 +25,17 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "5:59:50",
-            "view_count": "5131988",
+            "view_count": "5133782",
             "thumbnail_url": "https://i.ytimg.com/vi/u4XS_GvMJuI/hqdefault.jpg"
         },
         {
-            "video_id": "vkLpkQV8v4w",
-            "title": "Rich Man",
-            "channel_name": "aespa - Topic",
+            "video_id": "m29sImIihTo",
+            "title": "Sending signals to the star called you",
+            "channel_name": "ASHATREE - Topic",
             "category": "Music",
-            "duration": "3:18",
-            "view_count": "343424",
-            "thumbnail_url": "https://i.ytimg.com/vi/vkLpkQV8v4w/hqdefault.jpg"
+            "duration": "3:26",
+            "view_count": "31694",
+            "thumbnail_url": "https://i.ytimg.com/vi/m29sImIihTo/hqdefault.jpg"
         },
         {
             "video_id": "D0r2aQ-M3Xs",
@@ -43,7 +43,7 @@
             "channel_name": "EMK MUSICAL",
             "category": "Entertainment",
             "duration": "1:44",
-            "view_count": "4184",
+            "view_count": "5520",
             "thumbnail_url": "https://i.ytimg.com/vi/D0r2aQ-M3Xs/hqdefault.jpg"
         },
         {
@@ -52,17 +52,17 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "27:30",
-            "view_count": "338259",
+            "view_count": "349748",
             "thumbnail_url": "https://i.ytimg.com/vi/gTNU3fZRVqc/hqdefault.jpg"
         },
         {
-            "video_id": "m29sImIihTo",
-            "title": "Sending signals to the star called you",
-            "channel_name": "ASHATREE - Topic",
+            "video_id": "vkLpkQV8v4w",
+            "title": "Rich Man",
+            "channel_name": "aespa - Topic",
             "category": "Music",
-            "duration": "3:26",
-            "view_count": "30508",
-            "thumbnail_url": "https://i.ytimg.com/vi/m29sImIihTo/hqdefault.jpg"
+            "duration": "3:18",
+            "view_count": "349024",
+            "thumbnail_url": "https://i.ytimg.com/vi/vkLpkQV8v4w/hqdefault.jpg"
         },
         {
             "video_id": "AG-fpVEcoyY",
@@ -70,26 +70,8 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "23:07",
-            "view_count": "286706",
+            "view_count": "293087",
             "thumbnail_url": "https://i.ytimg.com/vi/AG-fpVEcoyY/hqdefault.jpg"
-        },
-        {
-            "video_id": "vAtcdBLuZfo",
-            "title": "Alone",
-            "channel_name": "LEE CHANGSUB - Topic",
-            "category": "Music",
-            "duration": "3:55",
-            "view_count": "171886",
-            "thumbnail_url": "https://i.ytimg.com/vi/vAtcdBLuZfo/hqdefault.jpg"
-        },
-        {
-            "video_id": "RIWFP8icQIY",
-            "title": "혼자 60,000일 생존하고 세계 랭커가 되었습니다!! (로블록스 99나이트인더포레스트)",
-            "channel_name": "마쟈TV",
-            "category": "Gaming",
-            "duration": "17:24",
-            "view_count": "195789",
-            "thumbnail_url": "https://i.ytimg.com/vi/RIWFP8icQIY/hqdefault.jpg"
         },
         {
             "video_id": "zuO2fClon98",
@@ -97,7 +79,7 @@
             "channel_name": "Kenshi Yonezu - Topic",
             "category": "Music",
             "duration": "3:56",
-            "view_count": "67543",
+            "view_count": "74314",
             "thumbnail_url": "https://i.ytimg.com/vi/zuO2fClon98/hqdefault.jpg"
         },
         {
@@ -106,8 +88,26 @@
             "channel_name": "우주하마",
             "category": "Gaming",
             "duration": "19:00",
-            "view_count": "291632",
+            "view_count": "297533",
             "thumbnail_url": "https://i.ytimg.com/vi/GDCekhMAfvg/hqdefault.jpg"
+        },
+        {
+            "video_id": "vAtcdBLuZfo",
+            "title": "Alone",
+            "channel_name": "LEE CHANGSUB - Topic",
+            "category": "Music",
+            "duration": "3:55",
+            "view_count": "175134",
+            "thumbnail_url": "https://i.ytimg.com/vi/vAtcdBLuZfo/hqdefault.jpg"
+        },
+        {
+            "video_id": "RIWFP8icQIY",
+            "title": "혼자 60,000일 생존하고 세계 랭커가 되었습니다!! (로블록스 99나이트인더포레스트)",
+            "channel_name": "마쟈TV",
+            "category": "Gaming",
+            "duration": "17:24",
+            "view_count": "196985",
+            "thumbnail_url": "https://i.ytimg.com/vi/RIWFP8icQIY/hqdefault.jpg"
         },
         {
             "video_id": "n4Nj8WMrkjk",
@@ -115,7 +115,7 @@
             "channel_name": "Bruklin - Topic",
             "category": "Music",
             "duration": "2:51",
-            "view_count": "1909893",
+            "view_count": "1912990",
             "thumbnail_url": "https://i.ytimg.com/vi/n4Nj8WMrkjk/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "23:15",
-            "view_count": "161759",
+            "view_count": "168104",
             "thumbnail_url": "https://i.ytimg.com/vi/9IgIREhG-b8/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "2:52",
-            "view_count": "865748",
+            "view_count": "874765",
             "thumbnail_url": "https://i.ytimg.com/vi/8QZeXvOjgGE/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "27:45",
-            "view_count": "179960",
+            "view_count": "183779",
             "thumbnail_url": "https://i.ytimg.com/vi/XYPDr38c8MA/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "Russ - Topic",
             "category": "Music",
             "duration": "3:02",
-            "view_count": "79586",
+            "view_count": "81934",
             "thumbnail_url": "https://i.ytimg.com/vi/ezdZ-ll4H5o/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "쉐어TV",
             "category": "Gaming",
             "duration": "19:39",
-            "view_count": "242992",
+            "view_count": "243323",
             "thumbnail_url": "https://i.ytimg.com/vi/848ab_nX50c/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "Brave Girls - Topic",
             "category": "Music",
             "duration": "3:18",
-            "view_count": "57271",
+            "view_count": "59016",
             "thumbnail_url": "https://i.ytimg.com/vi/0ZCCBPeRVLo/hqdefault.jpg"
         },
         {
@@ -178,26 +178,8 @@
             "channel_name": "말량",
             "category": "Gaming",
             "duration": "22:27",
-            "view_count": "231333",
+            "view_count": "231595",
             "thumbnail_url": "https://i.ytimg.com/vi/btrYa1aohVU/hqdefault.jpg"
-        },
-        {
-            "video_id": "L_S5JtOf2-8",
-            "title": "In Me (In Me)",
-            "channel_name": "Woody - Topic",
-            "category": "Music",
-            "duration": "2:59",
-            "view_count": "247571",
-            "thumbnail_url": "https://i.ytimg.com/vi/L_S5JtOf2-8/hqdefault.jpg"
-        },
-        {
-            "video_id": "kLmQHW9wU7g",
-            "title": "역사상 전례 없는 스킬 단 한 방 컷 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
-            "channel_name": "잡상싱",
-            "category": "Gaming",
-            "duration": "13:43",
-            "view_count": "155320",
-            "thumbnail_url": "https://i.ytimg.com/vi/kLmQHW9wU7g/hqdefault.jpg"
         },
         {
             "video_id": "XDlzKC-LEIY",
@@ -205,8 +187,26 @@
             "channel_name": "1theK (원더케이)",
             "category": "Music",
             "duration": "0:20",
-            "view_count": "16277",
+            "view_count": "17042",
             "thumbnail_url": "https://i.ytimg.com/vi/XDlzKC-LEIY/hqdefault.jpg"
+        },
+        {
+            "video_id": "kLmQHW9wU7g",
+            "title": "역사상 전례 없는 스킬 단 한 방 컷 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+            "channel_name": "잡상싱",
+            "category": "Gaming",
+            "duration": "13:43",
+            "view_count": "160527",
+            "thumbnail_url": "https://i.ytimg.com/vi/kLmQHW9wU7g/hqdefault.jpg"
+        },
+        {
+            "video_id": "L_S5JtOf2-8",
+            "title": "In Me (In Me)",
+            "channel_name": "Woody - Topic",
+            "category": "Music",
+            "duration": "2:59",
+            "view_count": "250281",
+            "thumbnail_url": "https://i.ytimg.com/vi/L_S5JtOf2-8/hqdefault.jpg"
         },
         {
             "video_id": "4waKp29jEew",
@@ -214,7 +214,7 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "25:29",
-            "view_count": "141858",
+            "view_count": "148051",
             "thumbnail_url": "https://i.ytimg.com/vi/4waKp29jEew/hqdefault.jpg"
         },
         {
@@ -223,7 +223,7 @@
             "channel_name": "It's - Topic",
             "category": "Music",
             "duration": "3:45",
-            "view_count": "33118",
+            "view_count": "34174",
             "thumbnail_url": "https://i.ytimg.com/vi/uX6FyH01DdE/hqdefault.jpg"
         },
         {
@@ -232,7 +232,7 @@
             "channel_name": "전략적죽음",
             "category": "Gaming",
             "duration": "24:45",
-            "view_count": "129638",
+            "view_count": "132657",
             "thumbnail_url": "https://i.ytimg.com/vi/uq1A27J7pCU/hqdefault.jpg"
         },
         {
@@ -241,7 +241,7 @@
             "channel_name": "Leonora",
             "category": "People & Blogs",
             "duration": "3:27:37",
-            "view_count": "14011",
+            "view_count": "14640",
             "thumbnail_url": "https://i.ytimg.com/vi/-QR2vNaC1Vo/hqdefault.jpg"
         },
         {
@@ -250,7 +250,7 @@
             "channel_name": "스맵",
             "category": "Gaming",
             "duration": "32:56",
-            "view_count": "120114",
+            "view_count": "120948",
             "thumbnail_url": "https://i.ytimg.com/vi/FrZ8XZY7mfk/hqdefault.jpg"
         },
         {
@@ -259,26 +259,8 @@
             "channel_name": "Juho - Topic",
             "category": "Music",
             "duration": "3:35",
-            "view_count": "31663",
+            "view_count": "32086",
             "thumbnail_url": "https://i.ytimg.com/vi/h876RCmitNk/hqdefault.jpg"
-        },
-        {
-            "video_id": "L9fBrKMijPo",
-            "title": "상대가 먹을 멀티까지 전부 뺏어먹고 게임 끝날 때까지 우주방어 모드로 수비만 해본다면?ㅋㅋ",
-            "channel_name": "[ALTUBE] 김성현TV",
-            "category": "Gaming",
-            "duration": "43:54",
-            "view_count": "131459",
-            "thumbnail_url": "https://i.ytimg.com/vi/L9fBrKMijPo/hqdefault.jpg"
-        },
-        {
-            "video_id": "slul7AgGpbU",
-            "title": "WICKED (Diplo Remix)",
-            "channel_name": "ALLDAY PROJECT - Topic",
-            "category": "Music",
-            "duration": "2:38",
-            "view_count": "78425",
-            "thumbnail_url": "https://i.ytimg.com/vi/slul7AgGpbU/hqdefault.jpg"
         },
         {
             "video_id": "3-owNDbrLw4",
@@ -286,8 +268,26 @@
             "channel_name": "주키니TV",
             "category": "Gaming",
             "duration": "23:02",
-            "view_count": "197209",
+            "view_count": "202478",
             "thumbnail_url": "https://i.ytimg.com/vi/3-owNDbrLw4/hqdefault.jpg"
+        },
+        {
+            "video_id": "slul7AgGpbU",
+            "title": "WICKED (Diplo Remix)",
+            "channel_name": "ALLDAY PROJECT - Topic",
+            "category": "Music",
+            "duration": "2:38",
+            "view_count": "78592",
+            "thumbnail_url": "https://i.ytimg.com/vi/slul7AgGpbU/hqdefault.jpg"
+        },
+        {
+            "video_id": "L9fBrKMijPo",
+            "title": "상대가 먹을 멀티까지 전부 뺏어먹고 게임 끝날 때까지 우주방어 모드로 수비만 해본다면?ㅋㅋ",
+            "channel_name": "[ALTUBE] 김성현TV",
+            "category": "Gaming",
+            "duration": "43:54",
+            "view_count": "133147",
+            "thumbnail_url": "https://i.ytimg.com/vi/L9fBrKMijPo/hqdefault.jpg"
         },
         {
             "video_id": "P5NNcXuSNPs",
@@ -295,7 +295,7 @@
             "channel_name": "Bong Hun - Topic",
             "category": "Music",
             "duration": "3:07",
-            "view_count": "13076",
+            "view_count": "13477",
             "thumbnail_url": "https://i.ytimg.com/vi/P5NNcXuSNPs/hqdefault.jpg"
         },
         {
@@ -304,7 +304,7 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "58:09",
-            "view_count": "191962",
+            "view_count": "196441",
             "thumbnail_url": "https://i.ytimg.com/vi/8SeF3U1ueZg/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "Enoch - Topic",
             "category": "Music",
             "duration": "3:40",
-            "view_count": "10047",
+            "view_count": "10512",
             "thumbnail_url": "https://i.ytimg.com/vi/xCiDaRx2PXM/hqdefault.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "29:10",
-            "view_count": "104709",
+            "view_count": "108238",
             "thumbnail_url": "https://i.ytimg.com/vi/iDV-yaGELtA/hqdefault.jpg"
         },
         {
@@ -331,7 +331,7 @@
             "channel_name": "Lee A Young - Topic",
             "category": "Music",
             "duration": "4:04",
-            "view_count": "21494",
+            "view_count": "21983",
             "thumbnail_url": "https://i.ytimg.com/vi/H_IYE571F-s/hqdefault.jpg"
         },
         {
@@ -340,7 +340,7 @@
             "channel_name": "김데데",
             "category": "Gaming",
             "duration": "25:10",
-            "view_count": "124719",
+            "view_count": "126863",
             "thumbnail_url": "https://i.ytimg.com/vi/h9aOdRQdMHE/hqdefault.jpg"
         },
         {
@@ -349,7 +349,7 @@
             "channel_name": "7clouds UK",
             "category": "People & Blogs",
             "duration": "3:54",
-            "view_count": "1039207",
+            "view_count": "1039755",
             "thumbnail_url": "https://i.ytimg.com/vi/f5IVoXgLuGs/hqdefault.jpg"
         },
         {
@@ -358,7 +358,7 @@
             "channel_name": "김왼팔",
             "category": "Gaming",
             "duration": "18:19",
-            "view_count": "95936",
+            "view_count": "96352",
             "thumbnail_url": "https://i.ytimg.com/vi/KZoF1iG7eEA/hqdefault.jpg"
         },
         {
@@ -367,7 +367,7 @@
             "channel_name": "XG - Topic",
             "category": "Music",
             "duration": "3:48",
-            "view_count": "662487",
+            "view_count": "666844",
             "thumbnail_url": "https://i.ytimg.com/vi/rvMsWB1vUzQ/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "근가놈",
             "category": "Gaming",
             "duration": "18:06",
-            "view_count": "112534",
+            "view_count": "114582",
             "thumbnail_url": "https://i.ytimg.com/vi/yOf8a6qvhQQ/hqdefault.jpg"
         }
     ]
