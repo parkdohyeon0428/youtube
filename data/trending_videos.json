@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-09-29 22:24:51",
+    "scraped_time": "2025-09-29 23:13:47",
     "videos": [
         {
             "video_id": "u89aNeJlyg0",
@@ -7,7 +7,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "3:54",
-            "view_count": "448848",
+            "view_count": "492551",
             "thumbnail_url": "https://i.ytimg.com/vi/u89aNeJlyg0/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Disney Plus Korea 디즈니 플러스 코리아",
             "category": "Film & Animation",
             "duration": "1:36",
-            "view_count": "207126",
+            "view_count": "216577",
             "thumbnail_url": "https://i.ytimg.com/vi/TFgsOgFcooE/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "6:03:10",
-            "view_count": "3460806",
+            "view_count": "3461533",
             "thumbnail_url": "https://i.ytimg.com/vi/UDhayyRQh7o/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "2:40",
-            "view_count": "39466",
+            "view_count": "46228",
             "thumbnail_url": "https://i.ytimg.com/vi/v1BuuCPleqo/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:42",
-            "view_count": "86183",
+            "view_count": "91231",
             "thumbnail_url": "https://i.ytimg.com/vi/PeSrrrDSLSc/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "32:24",
-            "view_count": "418205",
+            "view_count": "424359",
             "thumbnail_url": "https://i.ytimg.com/vi/OpY__DVKqCk/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "Mrs. GREEN APPLE - Topic",
             "category": "Music",
             "duration": "4:18",
-            "view_count": "1408557",
+            "view_count": "1424062",
             "thumbnail_url": "https://i.ytimg.com/vi/U7vLNXWwMbk/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "20th Century Studios Korea",
             "category": "Film & Animation",
             "duration": "2:43",
-            "view_count": "1326282",
+            "view_count": "1337013",
             "thumbnail_url": "https://i.ytimg.com/vi/11jbQ6FMI4c/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "22:54",
-            "view_count": "439001",
+            "view_count": "442119",
             "thumbnail_url": "https://i.ytimg.com/vi/_BVo7kqRYiY/hqdefault.jpg"
         },
         {
@@ -88,7 +88,7 @@
             "channel_name": "Park Da Hye - Topic",
             "category": "Music",
             "duration": "3:46",
-            "view_count": "92580",
+            "view_count": "94177",
             "thumbnail_url": "https://i.ytimg.com/vi/Lq7K02xIiY8/hqdefault.jpg"
         },
         {
@@ -97,7 +97,7 @@
             "channel_name": "말량",
             "category": "Gaming",
             "duration": "28:28",
-            "view_count": "142380",
+            "view_count": "153651",
             "thumbnail_url": "https://i.ytimg.com/vi/fhl3Itd_suM/hqdefault.jpg"
         },
         {
@@ -106,26 +106,8 @@
             "channel_name": "워너뮤직코리아 (Warner Music Korea)",
             "category": "Music",
             "duration": "4:38",
-            "view_count": "52183",
+            "view_count": "53664",
             "thumbnail_url": "https://i.ytimg.com/vi/MYHeH6dlvBc/hqdefault.jpg"
-        },
-        {
-            "video_id": "JjePrcxbE84",
-            "title": "서커스 듀오",
-            "channel_name": "PAKA",
-            "category": "Gaming",
-            "duration": "19:16",
-            "view_count": "295506",
-            "thumbnail_url": "https://i.ytimg.com/vi/JjePrcxbE84/hqdefault.jpg"
-        },
-        {
-            "video_id": "W8gVKFDsT9o",
-            "title": "그날에 나는 맘이 편했을까",
-            "channel_name": "전상근 - Topic",
-            "category": "Music",
-            "duration": "3:39",
-            "view_count": "14939",
-            "thumbnail_url": "https://i.ytimg.com/vi/W8gVKFDsT9o/hqdefault.jpg"
         },
         {
             "video_id": "zFpkY0_cfEU",
@@ -133,8 +115,26 @@
             "channel_name": "싸모스",
             "category": "Gaming",
             "duration": "11:49",
-            "view_count": "94499",
+            "view_count": "104003",
             "thumbnail_url": "https://i.ytimg.com/vi/zFpkY0_cfEU/hqdefault.jpg"
+        },
+        {
+            "video_id": "W8gVKFDsT9o",
+            "title": "그날에 나는 맘이 편했을까",
+            "channel_name": "전상근 - Topic",
+            "category": "Music",
+            "duration": "3:39",
+            "view_count": "15638",
+            "thumbnail_url": "https://i.ytimg.com/vi/W8gVKFDsT9o/hqdefault.jpg"
+        },
+        {
+            "video_id": "JjePrcxbE84",
+            "title": "서커스 듀오",
+            "channel_name": "PAKA",
+            "category": "Gaming",
+            "duration": "19:16",
+            "view_count": "297856",
+            "thumbnail_url": "https://i.ytimg.com/vi/JjePrcxbE84/hqdefault.jpg"
         },
         {
             "video_id": "7VZRf1EFDlM",
@@ -142,26 +142,8 @@
             "channel_name": "GyeongseoYeji - Topic",
             "category": "Music",
             "duration": "3:42",
-            "view_count": "14530",
+            "view_count": "15084",
             "thumbnail_url": "https://i.ytimg.com/vi/7VZRf1EFDlM/hqdefault.jpg"
-        },
-        {
-            "video_id": "tuQAc0ZncsQ",
-            "title": "롤판 🔥최고 실력자🔥만 모였습니다",
-            "channel_name": "클리드",
-            "category": "Gaming",
-            "duration": "55:11",
-            "view_count": "249029",
-            "thumbnail_url": "https://i.ytimg.com/vi/tuQAc0ZncsQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "4ZOY6Bd-ajY",
-            "title": "I'll Never Love Again (I'll Never Love Again)",
-            "channel_name": "WOODZ - Topic",
-            "category": "Music",
-            "duration": "3:45",
-            "view_count": "1146728",
-            "thumbnail_url": "https://i.ytimg.com/vi/4ZOY6Bd-ajY/hqdefault.jpg"
         },
         {
             "video_id": "XTwZY49WVMk",
@@ -169,8 +151,26 @@
             "channel_name": "행돌",
             "category": "Gaming",
             "duration": "12:04",
-            "view_count": "120332",
+            "view_count": "123762",
             "thumbnail_url": "https://i.ytimg.com/vi/XTwZY49WVMk/hqdefault.jpg"
+        },
+        {
+            "video_id": "4ZOY6Bd-ajY",
+            "title": "I'll Never Love Again (I'll Never Love Again)",
+            "channel_name": "WOODZ - Topic",
+            "category": "Music",
+            "duration": "3:45",
+            "view_count": "1152315",
+            "thumbnail_url": "https://i.ytimg.com/vi/4ZOY6Bd-ajY/hqdefault.jpg"
+        },
+        {
+            "video_id": "tuQAc0ZncsQ",
+            "title": "롤판 🔥최고 실력자🔥만 모였습니다",
+            "channel_name": "클리드",
+            "category": "Gaming",
+            "duration": "55:11",
+            "view_count": "250252",
+            "thumbnail_url": "https://i.ytimg.com/vi/tuQAc0ZncsQ/hqdefault.jpg"
         },
         {
             "video_id": "TuL2RAoMcxY",
@@ -178,7 +178,7 @@
             "channel_name": "Lofi Shop",
             "category": "Music",
             "duration": "1:20:28",
-            "view_count": "81230",
+            "view_count": "82535",
             "thumbnail_url": "https://i.ytimg.com/vi/TuL2RAoMcxY/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "1:35:21",
-            "view_count": "253084",
+            "view_count": "255394",
             "thumbnail_url": "https://i.ytimg.com/vi/HRsPbNTePiw/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "P1Harmony - Topic",
             "category": "Music",
             "duration": "4:03",
-            "view_count": "332946",
+            "view_count": "334240",
             "thumbnail_url": "https://i.ytimg.com/vi/C_D0XADvL1o/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "이도원",
             "category": "Gaming",
             "duration": "34:37",
-            "view_count": "212631",
+            "view_count": "215081",
             "thumbnail_url": "https://i.ytimg.com/vi/fE6wuPA1tKs/hqdefault.jpg"
         },
         {
@@ -214,17 +214,17 @@
             "channel_name": "Jang Minho - Topic",
             "category": "Music",
             "duration": "4:35",
-            "view_count": "35875",
+            "view_count": "36667",
             "thumbnail_url": "https://i.ytimg.com/vi/q78AVE07wdI/hqdefault.jpg"
         },
         {
-            "video_id": "Hxaa9cWm7F4",
-            "title": "역대급 멋진 음양 특성 업데이트!! 신규 시크릿 모두 뽑기 도전하고 신규 이스터에그도 해보기!!! (로블록스 브레인롯훔치기)",
-            "channel_name": "쉐어TV",
+            "video_id": "HjObKgRaclU",
+            "title": "꼭 이길게요 [ASL 시즌20 8강 C조 도재욱vs박상현 2경기]",
+            "channel_name": "도멘TV [DOTUBE]",
             "category": "Gaming",
-            "duration": "21:53",
-            "view_count": "341199",
-            "thumbnail_url": "https://i.ytimg.com/vi/Hxaa9cWm7F4/hqdefault.jpg"
+            "duration": "8:35",
+            "view_count": "19219",
+            "thumbnail_url": "https://i.ytimg.com/vi/HjObKgRaclU/hqdefault.jpg"
         },
         {
             "video_id": "07JjrBdl02c",
@@ -232,17 +232,17 @@
             "channel_name": "Beautiful Life",
             "category": "Music",
             "duration": "1:33:40",
-            "view_count": "60765",
+            "view_count": "61159",
             "thumbnail_url": "https://i.ytimg.com/vi/07JjrBdl02c/hqdefault.jpg"
         },
         {
-            "video_id": "ZOfhllBrOOk",
-            "title": "롤만 안하면 극락가는 황밸듀오ㅋㅋㅋㅋ",
-            "channel_name": "튜브김민교",
+            "video_id": "Hxaa9cWm7F4",
+            "title": "역대급 멋진 음양 특성 업데이트!! 신규 시크릿 모두 뽑기 도전하고 신규 이스터에그도 해보기!!! (로블록스 브레인롯훔치기)",
+            "channel_name": "쉐어TV",
             "category": "Gaming",
-            "duration": "29:31",
-            "view_count": "282987",
-            "thumbnail_url": "https://i.ytimg.com/vi/ZOfhllBrOOk/hqdefault.jpg"
+            "duration": "21:53",
+            "view_count": "342527",
+            "thumbnail_url": "https://i.ytimg.com/vi/Hxaa9cWm7F4/hqdefault.jpg"
         },
         {
             "video_id": "4sOVtBDPTwM",
@@ -250,35 +250,17 @@
             "channel_name": "임영웅",
             "category": "Music",
             "duration": "3:21",
-            "view_count": "401625",
+            "view_count": "404008",
             "thumbnail_url": "https://i.ytimg.com/vi/4sOVtBDPTwM/hqdefault.jpg"
         },
         {
-            "video_id": "p0VTCFFig8A",
-            "title": "\"공격력 750\" 단 한방에 터트리는 미친 딜뽕 \"탑 극딜 오만 진\" 🔫🎭",
-            "channel_name": "전략적죽음",
+            "video_id": "UERv6gMlNi8",
+            "title": "T1 vs BFX | 2025 LCK CL PLAYOFFS LOWER FINAL",
+            "channel_name": "LCK CL",
             "category": "Gaming",
-            "duration": "26:52",
-            "view_count": "174491",
-            "thumbnail_url": "https://i.ytimg.com/vi/p0VTCFFig8A/hqdefault.jpg"
-        },
-        {
-            "video_id": "B8lY03OEASo",
-            "title": "[Official Video] 스티(STi) - feels like something",
-            "channel_name": "스티 STi",
-            "category": "Music",
-            "duration": "3:06",
-            "view_count": "6370",
-            "thumbnail_url": "https://i.ytimg.com/vi/B8lY03OEASo/hqdefault.jpg"
-        },
-        {
-            "video_id": "FP6xFsqA8tM",
-            "title": "직업 바꾸고 다시 메린이가 되었다...",
-            "channel_name": "타튜브 TATUBE",
-            "category": "Gaming",
-            "duration": "16:08",
-            "view_count": "76449",
-            "thumbnail_url": "https://i.ytimg.com/vi/FP6xFsqA8tM/hqdefault.jpg"
+            "duration": "5:15:29",
+            "view_count": "160344",
+            "thumbnail_url": "https://i.ytimg.com/vi/UERv6gMlNi8/hqdefault.jpg"
         },
         {
             "video_id": "eAuv9J2R6yM",
@@ -286,17 +268,17 @@
             "channel_name": "ENHYPEN",
             "category": "Entertainment",
             "duration": "4:36",
-            "view_count": "1280758",
+            "view_count": "1292831",
             "thumbnail_url": "https://i.ytimg.com/vi/eAuv9J2R6yM/hqdefault.jpg"
         },
         {
-            "video_id": "DYjfDmJ4xLw",
-            "title": "믿었던 성골 유스의 배신...ㅣ펨플릭스 EP.6",
-            "channel_name": "동수칸TV",
+            "video_id": "ZOfhllBrOOk",
+            "title": "롤만 안하면 극락가는 황밸듀오ㅋㅋㅋㅋ",
+            "channel_name": "튜브김민교",
             "category": "Gaming",
-            "duration": "50:55",
-            "view_count": "131938",
-            "thumbnail_url": "https://i.ytimg.com/vi/DYjfDmJ4xLw/hqdefault.jpg"
+            "duration": "29:31",
+            "view_count": "285140",
+            "thumbnail_url": "https://i.ytimg.com/vi/ZOfhllBrOOk/hqdefault.jpg"
         },
         {
             "video_id": "zEAZlsk6ezs",
@@ -304,8 +286,26 @@
             "channel_name": "브라운아이드소울(Brown Eyed Soul)",
             "category": "Music",
             "duration": "4:43",
-            "view_count": "428269",
+            "view_count": "430229",
             "thumbnail_url": "https://i.ytimg.com/vi/zEAZlsk6ezs/hqdefault.jpg"
+        },
+        {
+            "video_id": "FP6xFsqA8tM",
+            "title": "직업 바꾸고 다시 메린이가 되었다...",
+            "channel_name": "타튜브 TATUBE",
+            "category": "Gaming",
+            "duration": "16:08",
+            "view_count": "84156",
+            "thumbnail_url": "https://i.ytimg.com/vi/FP6xFsqA8tM/hqdefault.jpg"
+        },
+        {
+            "video_id": "B8lY03OEASo",
+            "title": "[Official Video] 스티(STi) - feels like something",
+            "channel_name": "스티 STi",
+            "category": "Music",
+            "duration": "3:06",
+            "view_count": "6955",
+            "thumbnail_url": "https://i.ytimg.com/vi/B8lY03OEASo/hqdefault.jpg"
         },
         {
             "video_id": "vyHM6GmnA3g",
@@ -313,7 +313,7 @@
             "channel_name": "김된모",
             "category": "Gaming",
             "duration": "15:15",
-            "view_count": "81012",
+            "view_count": "88252",
             "thumbnail_url": "https://i.ytimg.com/vi/vyHM6GmnA3g/hqdefault.jpg"
         },
         {
@@ -322,17 +322,35 @@
             "channel_name": "ZEROBASEONE",
             "category": "Music",
             "duration": "3:36",
-            "view_count": "58663",
+            "view_count": "59773",
             "thumbnail_url": "https://i.ytimg.com/vi/nGAOK6Y8TV8/hqdefault.jpg"
         },
         {
-            "video_id": "xp7eyXw8lHQ",
-            "title": "《수현이 직접 만든 콘텐츠》마크에서 펼쳐진 탤런트들 체육대회🐰",
-            "channel_name": "잠뜰 TV",
+            "video_id": "p0VTCFFig8A",
+            "title": "\"공격력 750\" 단 한방에 터트리는 미친 딜뽕 \"탑 극딜 오만 진\" 🔫🎭",
+            "channel_name": "전략적죽음",
             "category": "Gaming",
-            "duration": "33:55",
-            "view_count": "164813",
-            "thumbnail_url": "https://i.ytimg.com/vi/xp7eyXw8lHQ/hqdefault.jpg"
+            "duration": "26:52",
+            "view_count": "175789",
+            "thumbnail_url": "https://i.ytimg.com/vi/p0VTCFFig8A/hqdefault.jpg"
+        },
+        {
+            "video_id": "2etCHMEA-JM",
+            "title": "I′m Toxic",
+            "channel_name": "SOMIN - Topic",
+            "category": "Music",
+            "duration": "3:09",
+            "view_count": "84915",
+            "thumbnail_url": "https://i.ytimg.com/vi/2etCHMEA-JM/hqdefault.jpg"
+        },
+        {
+            "video_id": "DYjfDmJ4xLw",
+            "title": "믿었던 성골 유스의 배신...ㅣ펨플릭스 EP.6",
+            "channel_name": "동수칸TV",
+            "category": "Gaming",
+            "duration": "50:55",
+            "view_count": "134026",
+            "thumbnail_url": "https://i.ytimg.com/vi/DYjfDmJ4xLw/hqdefault.jpg"
         },
         {
             "video_id": "R0dwJ6Pp6GA",
@@ -340,7 +358,7 @@
             "channel_name": "AILEE - Topic",
             "category": "Music",
             "duration": "4:17",
-            "view_count": "102764",
+            "view_count": "103315",
             "thumbnail_url": "https://i.ytimg.com/vi/R0dwJ6Pp6GA/hqdefault.jpg"
         },
         {
@@ -349,26 +367,8 @@
             "channel_name": "발스타홍구",
             "category": "Gaming",
             "duration": "22:15",
-            "view_count": "101021",
+            "view_count": "104680",
             "thumbnail_url": "https://i.ytimg.com/vi/YVVs1Enizsk/hqdefault.jpg"
-        },
-        {
-            "video_id": "2etCHMEA-JM",
-            "title": "I′m Toxic",
-            "channel_name": "SOMIN - Topic",
-            "category": "Music",
-            "duration": "3:09",
-            "view_count": "84392",
-            "thumbnail_url": "https://i.ytimg.com/vi/2etCHMEA-JM/hqdefault.jpg"
-        },
-        {
-            "video_id": "fbzkgc5cC34",
-            "title": "저클맵이 한 팀이라고?! 천상계 대전 출격합니다",
-            "channel_name": "저라뎃 JUSTLIKETHAT",
-            "category": "Gaming",
-            "duration": "52:51",
-            "view_count": "140666",
-            "thumbnail_url": "https://i.ytimg.com/vi/fbzkgc5cC34/hqdefault.jpg"
         },
         {
             "video_id": "cmRnoymbq1c",
@@ -376,7 +376,7 @@
             "channel_name": "yung kai - Topic",
             "category": "Music",
             "duration": "3:57",
-            "view_count": "32443",
+            "view_count": "33213",
             "thumbnail_url": "https://i.ytimg.com/vi/cmRnoymbq1c/hqdefault.jpg"
         }
     ]
