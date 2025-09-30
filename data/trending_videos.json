@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-09-30 23:14:06",
+    "scraped_time": "2025-10-01 00:12:20",
     "videos": [
         {
             "video_id": "u89aNeJlyg0",
@@ -7,7 +7,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "3:54",
-            "view_count": "5112546",
+            "view_count": "5455453",
             "thumbnail_url": "https://i.ytimg.com/vi/u89aNeJlyg0/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Disney Plus Korea 디즈니 플러스 코리아",
             "category": "Film & Animation",
             "duration": "1:06",
-            "view_count": "46317",
+            "view_count": "49916",
             "thumbnail_url": "https://i.ytimg.com/vi/NtVHdghsp4M/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "6:03:10",
-            "view_count": "3469564",
+            "view_count": "3470030",
             "thumbnail_url": "https://i.ytimg.com/vi/UDhayyRQh7o/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "izna (이즈나)",
             "category": "Entertainment",
             "duration": "3:48",
-            "view_count": "1145297",
+            "view_count": "1308133",
             "thumbnail_url": "https://i.ytimg.com/vi/2fyFx2u5fbU/hqdefault.jpg"
         },
         {
@@ -43,17 +43,17 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "9:04",
-            "view_count": "114147",
+            "view_count": "126430",
             "thumbnail_url": "https://i.ytimg.com/vi/q39zsXlKCHQ/hqdefault.jpg"
         },
         {
-            "video_id": "OpY__DVKqCk",
-            "title": "\"너 인생 그렇게 살지마\" 도파민 파티 시작【지상계 Ep. 08】",
-            "channel_name": "이상호",
+            "video_id": "dKm0AHoxQP8",
+            "title": "그 시절 자신의 최전성기 빌드를 꺼낸 택신;;; [ASL 시즌20 8강 D조 김택용vs임홍규 2경기]",
+            "channel_name": "도멘TV [DOTUBE]",
             "category": "Gaming",
-            "duration": "32:24",
-            "view_count": "541104",
-            "thumbnail_url": "https://i.ytimg.com/vi/OpY__DVKqCk/hqdefault.jpg"
+            "duration": "8:59",
+            "view_count": "39468",
+            "thumbnail_url": "https://i.ytimg.com/vi/dKm0AHoxQP8/hqdefault.jpg"
         },
         {
             "video_id": "W8gVKFDsT9o",
@@ -61,7 +61,7 @@
             "channel_name": "Jeon Sang Keun - Topic",
             "category": "Music",
             "duration": "3:39",
-            "view_count": "79120",
+            "view_count": "80602",
             "thumbnail_url": "https://i.ytimg.com/vi/W8gVKFDsT9o/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:13",
-            "view_count": "30679",
+            "view_count": "32681",
             "thumbnail_url": "https://i.ytimg.com/vi/gQVmqVyoWo0/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "36:16",
-            "view_count": "129370",
+            "view_count": "145251",
             "thumbnail_url": "https://i.ytimg.com/vi/IG8NTA26E3k/hqdefault.jpg"
         },
         {
@@ -88,17 +88,26 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "2:46",
-            "view_count": "141542",
+            "view_count": "145927",
             "thumbnail_url": "https://i.ytimg.com/vi/vdSEWDOhMh4/hqdefault.jpg"
         },
         {
-            "video_id": "dKm0AHoxQP8",
-            "title": "그 시절 자신의 최전성기 빌드를 꺼낸 택신;;; [ASL 시즌20 8강 D조 김택용vs임홍규 2경기]",
-            "channel_name": "도멘TV [DOTUBE]",
+            "video_id": "fyBzoOcVs5o",
+            "title": "《탁류》4-5화 예고편 리뷰🔥역대급 액션 사극《탁류》🔥[로운X신예은X박서함X박지환]디즈니플러스/혼탁한 조선에 반기를 든 세 청춘의 이야기/#로운#신예은#박서함 #박지환 #탁류",
+            "channel_name": "파란무비",
+            "category": "Film & Animation",
+            "duration": "5:04",
+            "view_count": "4559",
+            "thumbnail_url": "https://i.ytimg.com/vi/fyBzoOcVs5o/hqdefault.jpg"
+        },
+        {
+            "video_id": "OpY__DVKqCk",
+            "title": "\"너 인생 그렇게 살지마\" 도파민 파티 시작【지상계 Ep. 08】",
+            "channel_name": "이상호",
             "category": "Gaming",
-            "duration": "8:59",
-            "view_count": "23872",
-            "thumbnail_url": "https://i.ytimg.com/vi/dKm0AHoxQP8/hqdefault.jpg"
+            "duration": "32:24",
+            "view_count": "544494",
+            "thumbnail_url": "https://i.ytimg.com/vi/OpY__DVKqCk/hqdefault.jpg"
         },
         {
             "video_id": "LzHj8jUhTI8",
@@ -106,7 +115,7 @@
             "channel_name": "THE FIRST TAKE",
             "category": "Music",
             "duration": "4:03",
-            "view_count": "355654",
+            "view_count": "375011",
             "thumbnail_url": "https://i.ytimg.com/vi/LzHj8jUhTI8/hqdefault.jpg"
         },
         {
@@ -115,7 +124,7 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "13:09",
-            "view_count": "146001",
+            "view_count": "154991",
             "thumbnail_url": "https://i.ytimg.com/vi/OOrc_wPh2GU/hqdefault.jpg"
         },
         {
@@ -124,7 +133,7 @@
             "channel_name": "GyeongseoYeji - Topic",
             "category": "Music",
             "duration": "3:42",
-            "view_count": "35566",
+            "view_count": "36190",
             "thumbnail_url": "https://i.ytimg.com/vi/7VZRf1EFDlM/hqdefault.jpg"
         },
         {
@@ -133,7 +142,7 @@
             "channel_name": "발로란트 챔피언스 투어",
             "category": "Gaming",
             "duration": "7:27:47",
-            "view_count": "234686",
+            "view_count": "235542",
             "thumbnail_url": "https://i.ytimg.com/vi/E1TEVGohQaI/hqdefault.jpg"
         },
         {
@@ -142,44 +151,8 @@
             "channel_name": "Park Da Hye - Topic",
             "category": "Music",
             "duration": "3:46",
-            "view_count": "172685",
+            "view_count": "175924",
             "thumbnail_url": "https://i.ytimg.com/vi/Lq7K02xIiY8/hqdefault.jpg"
-        },
-        {
-            "video_id": "fhl3Itd_suM",
-            "title": "\"24시간 음양 이벤트\"에 행운4배를 쓰면 얼마나 좋은 음양 시크릿들이 뜰지 실험해봤습니다 ㅋㅋㅋ 아니 그런데 초대박인데!? (로블록스 브레인롯 훔치기)",
-            "channel_name": "말량",
-            "category": "Gaming",
-            "duration": "28:28",
-            "view_count": "256301",
-            "thumbnail_url": "https://i.ytimg.com/vi/fhl3Itd_suM/hqdefault.jpg"
-        },
-        {
-            "video_id": "MvTyo7NdKC0",
-            "title": "HUNTRX & KPop Demon Hunters Cast – How It's Done",
-            "channel_name": "Latin City",
-            "category": "Music",
-            "duration": "2:57",
-            "view_count": "235688",
-            "thumbnail_url": "https://i.ytimg.com/vi/MvTyo7NdKC0/hqdefault.jpg"
-        },
-        {
-            "video_id": "E3PTNwiRWZc",
-            "title": "갑자기 역대급 깜짝 선물을 해준 개발자님!? 드래곤 버프 2배 초대박!! 그럼 음양 드래곤도 선물 주실거죠?!!ㅋㅋㅋㅋㅋ (로블록스 브레인롯훔치기)",
-            "channel_name": "쉐어TV",
-            "category": "Gaming",
-            "duration": "19:40",
-            "view_count": "139111",
-            "thumbnail_url": "https://i.ytimg.com/vi/E3PTNwiRWZc/hqdefault.jpg"
-        },
-        {
-            "video_id": "MYHeH6dlvBc",
-            "title": "장민호 - 잊으리오 (폭군의 셰프 OST) [Live Clip]",
-            "channel_name": "워너뮤직코리아 (Warner Music Korea)",
-            "category": "Music",
-            "duration": "4:38",
-            "view_count": "89347",
-            "thumbnail_url": "https://i.ytimg.com/vi/MYHeH6dlvBc/hqdefault.jpg"
         },
         {
             "video_id": "9a510Z9JV2Q",
@@ -187,8 +160,44 @@
             "channel_name": "우주하마",
             "category": "Gaming",
             "duration": "40:44",
-            "view_count": "121223",
+            "view_count": "132637",
             "thumbnail_url": "https://i.ytimg.com/vi/9a510Z9JV2Q/hqdefault.jpg"
+        },
+        {
+            "video_id": "MvTyo7NdKC0",
+            "title": "HUNTRX & KPop Demon Hunters Cast – How It's Done",
+            "channel_name": "Latin City",
+            "category": "Music",
+            "duration": "2:57",
+            "view_count": "247302",
+            "thumbnail_url": "https://i.ytimg.com/vi/MvTyo7NdKC0/hqdefault.jpg"
+        },
+        {
+            "video_id": "fhl3Itd_suM",
+            "title": "\"24시간 음양 이벤트\"에 행운4배를 쓰면 얼마나 좋은 음양 시크릿들이 뜰지 실험해봤습니다 ㅋㅋㅋ 아니 그런데 초대박인데!? (로블록스 브레인롯 훔치기)",
+            "channel_name": "말량",
+            "category": "Gaming",
+            "duration": "28:28",
+            "view_count": "259167",
+            "thumbnail_url": "https://i.ytimg.com/vi/fhl3Itd_suM/hqdefault.jpg"
+        },
+        {
+            "video_id": "MYHeH6dlvBc",
+            "title": "장민호 - 잊으리오 (폭군의 셰프 OST) [Live Clip]",
+            "channel_name": "워너뮤직코리아 (Warner Music Korea)",
+            "category": "Music",
+            "duration": "4:38",
+            "view_count": "90918",
+            "thumbnail_url": "https://i.ytimg.com/vi/MYHeH6dlvBc/hqdefault.jpg"
+        },
+        {
+            "video_id": "E3PTNwiRWZc",
+            "title": "갑자기 역대급 깜짝 선물을 해준 개발자님!? 드래곤 버프 2배 초대박!! 그럼 음양 드래곤도 선물 주실거죠?!!ㅋㅋㅋㅋㅋ (로블록스 브레인롯훔치기)",
+            "channel_name": "쉐어TV",
+            "category": "Gaming",
+            "duration": "19:40",
+            "view_count": "150190",
+            "thumbnail_url": "https://i.ytimg.com/vi/E3PTNwiRWZc/hqdefault.jpg"
         },
         {
             "video_id": "Hy7GWPkrZv0",
@@ -196,7 +205,7 @@
             "channel_name": "Vaundy - Topic",
             "category": "Music",
             "duration": "4:03",
-            "view_count": "111446",
+            "view_count": "116259",
             "thumbnail_url": "https://i.ytimg.com/vi/Hy7GWPkrZv0/hqdefault.jpg"
         },
         {
@@ -205,7 +214,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "22:54",
-            "view_count": "511783",
+            "view_count": "514316",
             "thumbnail_url": "https://i.ytimg.com/vi/_BVo7kqRYiY/hqdefault.jpg"
         },
         {
@@ -214,17 +223,17 @@
             "channel_name": "Mrs. GREEN APPLE - Topic",
             "category": "Music",
             "duration": "4:18",
-            "view_count": "1796501",
+            "view_count": "1815231",
             "thumbnail_url": "https://i.ytimg.com/vi/U7vLNXWwMbk/hqdefault.jpg"
         },
         {
-            "video_id": "zFpkY0_cfEU",
-            "title": "서버 최초로 둘둘둘 100마리를 의식에 사용해봤습니다 (로블록스 브레인롯훔치기)",
-            "channel_name": "싸모스",
+            "video_id": "s_jUG8FuW8Y",
+            "title": "2-2에 징크스를 뽑으면 생기는 일",
+            "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
-            "duration": "11:49",
-            "view_count": "189486",
-            "thumbnail_url": "https://i.ytimg.com/vi/zFpkY0_cfEU/hqdefault.jpg"
+            "duration": "14:26",
+            "view_count": "78636",
+            "thumbnail_url": "https://i.ytimg.com/vi/s_jUG8FuW8Y/hqdefault.jpg"
         },
         {
             "video_id": "eaB6QmLSJbU",
@@ -232,7 +241,7 @@
             "channel_name": "Heo Hoy Kyung - Topic",
             "category": "Music",
             "duration": "3:55",
-            "view_count": "29608",
+            "view_count": "30133",
             "thumbnail_url": "https://i.ytimg.com/vi/eaB6QmLSJbU/hqdefault.jpg"
         },
         {
@@ -241,7 +250,7 @@
             "channel_name": "백앤아",
             "category": "Gaming",
             "duration": "17:53",
-            "view_count": "85596",
+            "view_count": "95643",
             "thumbnail_url": "https://i.ytimg.com/vi/mN1yNdZljxY/hqdefault.jpg"
         },
         {
@@ -250,17 +259,17 @@
             "channel_name": "Jang Minho - Topic",
             "category": "Music",
             "duration": "4:35",
-            "view_count": "64358",
+            "view_count": "65394",
             "thumbnail_url": "https://i.ytimg.com/vi/q78AVE07wdI/hqdefault.jpg"
         },
         {
-            "video_id": "zn_lEEIy4OY",
-            "title": "초면에 정치질 때리는 이상한 팀원들ㅋㅋㅋ",
-            "channel_name": "스맵",
+            "video_id": "zFpkY0_cfEU",
+            "title": "서버 최초로 둘둘둘 100마리를 의식에 사용해봤습니다 (로블록스 브레인롯훔치기)",
+            "channel_name": "싸모스",
             "category": "Gaming",
-            "duration": "32:10",
-            "view_count": "83550",
-            "thumbnail_url": "https://i.ytimg.com/vi/zn_lEEIy4OY/hqdefault.jpg"
+            "duration": "11:49",
+            "view_count": "193887",
+            "thumbnail_url": "https://i.ytimg.com/vi/zFpkY0_cfEU/hqdefault.jpg"
         },
         {
             "video_id": "TuL2RAoMcxY",
@@ -268,17 +277,35 @@
             "channel_name": "Lofi Shop",
             "category": "Music",
             "duration": "1:20:28",
-            "view_count": "124556",
+            "view_count": "125846",
             "thumbnail_url": "https://i.ytimg.com/vi/TuL2RAoMcxY/hqdefault.jpg"
         },
         {
-            "video_id": "s_jUG8FuW8Y",
-            "title": "2-2에 징크스를 뽑으면 생기는 일",
-            "channel_name": "팔차선 [8LJAYWALKING]",
+            "video_id": "zn_lEEIy4OY",
+            "title": "초면에 정치질 때리는 이상한 팀원들ㅋㅋㅋ",
+            "channel_name": "스맵",
             "category": "Gaming",
-            "duration": "14:26",
-            "view_count": "67846",
-            "thumbnail_url": "https://i.ytimg.com/vi/s_jUG8FuW8Y/hqdefault.jpg"
+            "duration": "32:10",
+            "view_count": "88387",
+            "thumbnail_url": "https://i.ytimg.com/vi/zn_lEEIy4OY/hqdefault.jpg"
+        },
+        {
+            "video_id": "nGAOK6Y8TV8",
+            "title": "'있잖아' 폴킴 Covered by ZEROBASEONE (제로베이스원) GUN WOOK | RECORDING RM 01.",
+            "channel_name": "ZEROBASEONE",
+            "category": "Music",
+            "duration": "3:36",
+            "view_count": "84842",
+            "thumbnail_url": "https://i.ytimg.com/vi/nGAOK6Y8TV8/hqdefault.jpg"
+        },
+        {
+            "video_id": "NZWlIE1q7O0",
+            "title": "리니지 공성 어뷰징, 사과는 했지만 제재할 수 없다. 이유는? (+ 공성전 성주 바꿔치기)",
+            "channel_name": "중년게이머 김실장",
+            "category": "Gaming",
+            "duration": "37:27",
+            "view_count": "108186",
+            "thumbnail_url": "https://i.ytimg.com/vi/NZWlIE1q7O0/hqdefault.jpg"
         },
         {
             "video_id": "9rYothC5nUQ",
@@ -286,7 +313,7 @@
             "channel_name": "Catch The Young - Topic",
             "category": "Music",
             "duration": "3:54",
-            "view_count": "10530",
+            "view_count": "10743",
             "thumbnail_url": "https://i.ytimg.com/vi/9rYothC5nUQ/hqdefault.jpg"
         },
         {
@@ -295,26 +322,8 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "14:50",
-            "view_count": "151567",
+            "view_count": "154925",
             "thumbnail_url": "https://i.ytimg.com/vi/zT4mjQIq8to/hqdefault.jpg"
-        },
-        {
-            "video_id": "nGAOK6Y8TV8",
-            "title": "'있잖아' 폴킴 Covered by ZEROBASEONE (제로베이스원) GUN WOOK | RECORDING RM 01.",
-            "channel_name": "ZEROBASEONE",
-            "category": "Music",
-            "duration": "3:36",
-            "view_count": "83579",
-            "thumbnail_url": "https://i.ytimg.com/vi/nGAOK6Y8TV8/hqdefault.jpg"
-        },
-        {
-            "video_id": "FP6xFsqA8tM",
-            "title": "직업 바꾸고 다시 메린이가 되었다...",
-            "channel_name": "타튜브 TATUBE",
-            "category": "Gaming",
-            "duration": "16:08",
-            "view_count": "191832",
-            "thumbnail_url": "https://i.ytimg.com/vi/FP6xFsqA8tM/hqdefault.jpg"
         },
         {
             "video_id": "fsGjRf-N71I",
@@ -322,17 +331,17 @@
             "channel_name": "Olivia Dean - Topic",
             "category": "Music",
             "duration": "3:04",
-            "view_count": "224092",
+            "view_count": "231513",
             "thumbnail_url": "https://i.ytimg.com/vi/fsGjRf-N71I/hqdefault.jpg"
         },
         {
-            "video_id": "NZWlIE1q7O0",
-            "title": "리니지 공성 어뷰징, 사과는 했지만 제재할 수 없다. 이유는? (+ 공성전 성주 바꿔치기)",
-            "channel_name": "중년게이머 김실장",
+            "video_id": "q--OaEgYzS4",
+            "title": "[생]바둑 황태자 까꿍프로",
+            "channel_name": "까꿍프로_바둑채널",
             "category": "Gaming",
-            "duration": "37:27",
-            "view_count": "97298",
-            "thumbnail_url": "https://i.ytimg.com/vi/NZWlIE1q7O0/hqdefault.jpg"
+            "duration": "4:52:20",
+            "view_count": "48132",
+            "thumbnail_url": "https://i.ytimg.com/vi/q--OaEgYzS4/hqdefault.jpg"
         },
         {
             "video_id": "B8lY03OEASo",
@@ -340,17 +349,17 @@
             "channel_name": "스티 STi",
             "category": "Music",
             "duration": "3:06",
-            "view_count": "14132",
+            "view_count": "14144",
             "thumbnail_url": "https://i.ytimg.com/vi/B8lY03OEASo/hqdefault.jpg"
         },
         {
-            "video_id": "sN2On70M98w",
-            "title": "고수만 오라고 해서 들어갔는데 웬 초보가 기어들어왔냐며 무시하는 상대..",
-            "channel_name": "[ALTUBE] 김성현TV",
+            "video_id": "FWS7HhebVo8",
+            "title": "표도 진짜 ㅈㄴ재밌다..",
+            "channel_name": "김데데",
             "category": "Gaming",
-            "duration": "39:55",
-            "view_count": "143348",
-            "thumbnail_url": "https://i.ytimg.com/vi/sN2On70M98w/hqdefault.jpg"
+            "duration": "20:04",
+            "view_count": "71444",
+            "thumbnail_url": "https://i.ytimg.com/vi/FWS7HhebVo8/hqdefault.jpg"
         },
         {
             "video_id": "4ZOY6Bd-ajY",
@@ -358,26 +367,17 @@
             "channel_name": "WOODZ - Topic",
             "category": "Music",
             "duration": "3:45",
-            "view_count": "1351321",
+            "view_count": "1359595",
             "thumbnail_url": "https://i.ytimg.com/vi/4ZOY6Bd-ajY/hqdefault.jpg"
         },
         {
-            "video_id": "XTwZY49WVMk",
-            "title": "지는 사람이 다 사줘야하는 레전드 야시장 내기 ㅋㅋㅋㅋㅋㅋㅋ",
-            "channel_name": "행돌",
+            "video_id": "taZ7RlexKqo",
+            "title": "보스레이드로 착실하게 메소모으기 [팡이요,  메이플스토리]",
+            "channel_name": "팡이요",
             "category": "Gaming",
-            "duration": "12:04",
-            "view_count": "175957",
-            "thumbnail_url": "https://i.ytimg.com/vi/XTwZY49WVMk/hqdefault.jpg"
-        },
-        {
-            "video_id": "cxh9NKqoek8",
-            "title": "[최신가요 실시간 인기차트] 2025년 9월 30일 4주차, 멜론차트 X, 종합차트, 차트둥이 노래모음 KPOP 플레이리스트",
-            "channel_name": "Beautiful Life",
-            "category": "Music",
-            "duration": "1:40:13",
-            "view_count": "6970",
-            "thumbnail_url": "https://i.ytimg.com/vi/cxh9NKqoek8/hqdefault.jpg"
+            "duration": "9:22",
+            "view_count": "73552",
+            "thumbnail_url": "https://i.ytimg.com/vi/taZ7RlexKqo/hqdefault.jpg"
         }
     ]
 }
