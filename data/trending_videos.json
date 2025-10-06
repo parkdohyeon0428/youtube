@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-10-06 14:13:16",
+    "scraped_time": "2025-10-06 15:20:53",
     "videos": [
         {
             "video_id": "-QdWntrZ4KY",
@@ -7,7 +7,7 @@
             "channel_name": "ROCOBERRY - Topic",
             "category": "Music",
             "duration": "3:23",
-            "view_count": "85518",
+            "view_count": "94274",
             "thumbnail_url": "https://i.ytimg.com/vi/-QdWntrZ4KY/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Disney Plus Korea 디즈니 플러스 코리아",
             "category": "Film & Animation",
             "duration": "1:12",
-            "view_count": "62080",
+            "view_count": "63405",
             "thumbnail_url": "https://i.ytimg.com/vi/1Psq93NYhto/hqdefault.jpg"
         },
         {
@@ -25,17 +25,17 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "24:17",
-            "view_count": "392775",
+            "view_count": "408015",
             "thumbnail_url": "https://i.ytimg.com/vi/tMcMcVEEqXk/hqdefault.jpg"
         },
         {
-            "video_id": "fJ2W-oQ5cTk",
-            "title": "If You Love Me (feat. 박재범)",
-            "channel_name": "NS 윤지 - Topic",
+            "video_id": "ko70cExuzZM",
+            "title": "Taylor Swift - The Fate of Ophelia (Official Music Video)",
+            "channel_name": "Taylor Swift",
             "category": "Music",
-            "duration": "3:19",
-            "view_count": "121784",
-            "thumbnail_url": "https://i.ytimg.com/vi/fJ2W-oQ5cTk/hqdefault.jpg"
+            "duration": "3:59",
+            "view_count": "5945318",
+            "thumbnail_url": "https://i.ytimg.com/vi/ko70cExuzZM/hqdefault.jpg"
         },
         {
             "video_id": "hRddv7ee_F0",
@@ -43,7 +43,7 @@
             "channel_name": "드라마Talk",
             "category": "Film & Animation",
             "duration": "28:31",
-            "view_count": "4953",
+            "view_count": "6593",
             "thumbnail_url": "https://i.ytimg.com/vi/hRddv7ee_F0/hqdefault.jpg"
         },
         {
@@ -52,17 +52,17 @@
             "channel_name": "승상싱",
             "category": "Gaming",
             "duration": "16:33",
-            "view_count": "571010",
+            "view_count": "575203",
             "thumbnail_url": "https://i.ytimg.com/vi/GnS1jIZ95oo/hqdefault.jpg"
         },
         {
-            "video_id": "ko70cExuzZM",
-            "title": "Taylor Swift - The Fate of Ophelia (Official Music Video)",
-            "channel_name": "Taylor Swift",
+            "video_id": "fJ2W-oQ5cTk",
+            "title": "If You Love Me (feat. 박재범)",
+            "channel_name": "NS 윤지 - Topic",
             "category": "Music",
-            "duration": "3:59",
-            "view_count": "5018533",
-            "thumbnail_url": "https://i.ytimg.com/vi/ko70cExuzZM/hqdefault.jpg"
+            "duration": "3:19",
+            "view_count": "125468",
+            "thumbnail_url": "https://i.ytimg.com/vi/fJ2W-oQ5cTk/hqdefault.jpg"
         },
         {
             "video_id": "HdqIPnC81io",
@@ -70,26 +70,8 @@
             "channel_name": "파란무비",
             "category": "Film & Animation",
             "duration": "5:00",
-            "view_count": "22479",
+            "view_count": "23961",
             "thumbnail_url": "https://i.ytimg.com/vi/HdqIPnC81io/hqdefault.jpg"
-        },
-        {
-            "video_id": "4lPd53A-_5k",
-            "title": "NRG vs FNC — 챔피언스 파리 — 플레이오프 — 결승전",
-            "channel_name": "발로란트 챔피언스 투어",
-            "category": "Gaming",
-            "duration": "6:44:19",
-            "view_count": "367595",
-            "thumbnail_url": "https://i.ytimg.com/vi/4lPd53A-_5k/hqdefault.jpg"
-        },
-        {
-            "video_id": "fhTW9RGjSg0",
-            "title": "Your Other Name",
-            "channel_name": "Kwon Jin-ah - Topic",
-            "category": "Music",
-            "duration": "4:13",
-            "view_count": "88417",
-            "thumbnail_url": "https://i.ytimg.com/vi/fhTW9RGjSg0/hqdefault.jpg"
         },
         {
             "video_id": "Jcp7PbWF560",
@@ -97,8 +79,26 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "25:47",
-            "view_count": "256590",
+            "view_count": "262916",
             "thumbnail_url": "https://i.ytimg.com/vi/Jcp7PbWF560/hqdefault.jpg"
+        },
+        {
+            "video_id": "fhTW9RGjSg0",
+            "title": "Your Other Name",
+            "channel_name": "Kwon Jin-ah - Topic",
+            "category": "Music",
+            "duration": "4:13",
+            "view_count": "93176",
+            "thumbnail_url": "https://i.ytimg.com/vi/fhTW9RGjSg0/hqdefault.jpg"
+        },
+        {
+            "video_id": "4lPd53A-_5k",
+            "title": "NRG vs FNC — 챔피언스 파리 — 플레이오프 — 결승전",
+            "channel_name": "발로란트 챔피언스 투어",
+            "category": "Gaming",
+            "duration": "6:44:19",
+            "view_count": "368910",
+            "thumbnail_url": "https://i.ytimg.com/vi/4lPd53A-_5k/hqdefault.jpg"
         },
         {
             "video_id": "GnUW4AF1LZo",
@@ -106,7 +106,7 @@
             "channel_name": "Bruno Mars - Topic",
             "category": "Music",
             "duration": "3:41",
-            "view_count": "1980938",
+            "view_count": "2023916",
             "thumbnail_url": "https://i.ytimg.com/vi/GnUW4AF1LZo/hqdefault.jpg"
         },
         {
@@ -115,7 +115,7 @@
             "channel_name": "쉐어TV",
             "category": "Gaming",
             "duration": "21:34",
-            "view_count": "262576",
+            "view_count": "267308",
             "thumbnail_url": "https://i.ytimg.com/vi/a3QKSuV2qLI/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "3:27",
-            "view_count": "1323225",
+            "view_count": "1336852",
             "thumbnail_url": "https://i.ytimg.com/vi/RblIsNFR1j4/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "37:21",
-            "view_count": "137195",
+            "view_count": "147175",
             "thumbnail_url": "https://i.ytimg.com/vi/_hVmSJAHxAU/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "LEAH DOU",
             "category": "Music",
             "duration": "5:34",
-            "view_count": "24956",
+            "view_count": "25766",
             "thumbnail_url": "https://i.ytimg.com/vi/IKXsYRGHsFY/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "코마",
             "category": "Gaming",
             "duration": "41:40",
-            "view_count": "1012219",
+            "view_count": "1019176",
             "thumbnail_url": "https://i.ytimg.com/vi/zm5MryuYN_M/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "4:02",
-            "view_count": "26788",
+            "view_count": "29148",
             "thumbnail_url": "https://i.ytimg.com/vi/1czQIBhhe1A/hqdefault.jpg"
         },
         {
@@ -169,44 +169,8 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "49:38",
-            "view_count": "170311",
+            "view_count": "176249",
             "thumbnail_url": "https://i.ytimg.com/vi/v4hrDjqYfcA/hqdefault.jpg"
-        },
-        {
-            "video_id": "DQ86mHITapA",
-            "title": "MIRROR",
-            "channel_name": "Yerin Baek - Topic",
-            "category": "Music",
-            "duration": "3:08",
-            "view_count": "262871",
-            "thumbnail_url": "https://i.ytimg.com/vi/DQ86mHITapA/hqdefault.jpg"
-        },
-        {
-            "video_id": "9MmqsHP-EqY",
-            "title": "※최초 플레이※ 모든 스킬을 무효화하는 개 사기 요원 \"비토\" 프랑스에서 먼저 해봤는데ㅋㅋㅋㅋㅋㅋ",
-            "channel_name": "버니버니",
-            "category": "Gaming",
-            "duration": "9:33",
-            "view_count": "111824",
-            "thumbnail_url": "https://i.ytimg.com/vi/9MmqsHP-EqY/hqdefault.jpg"
-        },
-        {
-            "video_id": "MkgXuZPA_d0",
-            "title": "LIKE THIS FOREVER (feat. Jordan Grace)",
-            "channel_name": "SakaZan - Topic",
-            "category": "Music",
-            "duration": "3:04",
-            "view_count": "171470",
-            "thumbnail_url": "https://i.ytimg.com/vi/MkgXuZPA_d0/hqdefault.jpg"
-        },
-        {
-            "video_id": "IuXKUMdkRVk",
-            "title": "숲속에서 사라진 슈뻘맨과 숲속에서 99일 살아남기!!!",
-            "channel_name": "흔한남매",
-            "category": "Entertainment",
-            "duration": "14:52",
-            "view_count": "150450",
-            "thumbnail_url": "https://i.ytimg.com/vi/IuXKUMdkRVk/hqdefault.jpg"
         },
         {
             "video_id": "pa2So92kquc",
@@ -214,8 +178,44 @@
             "channel_name": "황영웅 Tv",
             "category": "Music",
             "duration": "3:22",
-            "view_count": "5623",
+            "view_count": "8274",
             "thumbnail_url": "https://i.ytimg.com/vi/pa2So92kquc/hqdefault.jpg"
+        },
+        {
+            "video_id": "9MmqsHP-EqY",
+            "title": "※최초 플레이※ 모든 스킬을 무효화하는 개 사기 요원 \"비토\" 프랑스에서 먼저 해봤는데ㅋㅋㅋㅋㅋㅋ",
+            "channel_name": "버니버니",
+            "category": "Gaming",
+            "duration": "9:33",
+            "view_count": "119803",
+            "thumbnail_url": "https://i.ytimg.com/vi/9MmqsHP-EqY/hqdefault.jpg"
+        },
+        {
+            "video_id": "DQ86mHITapA",
+            "title": "MIRROR",
+            "channel_name": "Yerin Baek - Topic",
+            "category": "Music",
+            "duration": "3:08",
+            "view_count": "267763",
+            "thumbnail_url": "https://i.ytimg.com/vi/DQ86mHITapA/hqdefault.jpg"
+        },
+        {
+            "video_id": "IuXKUMdkRVk",
+            "title": "숲속에서 사라진 슈뻘맨과 숲속에서 99일 살아남기!!!",
+            "channel_name": "흔한남매",
+            "category": "Entertainment",
+            "duration": "14:52",
+            "view_count": "157546",
+            "thumbnail_url": "https://i.ytimg.com/vi/IuXKUMdkRVk/hqdefault.jpg"
+        },
+        {
+            "video_id": "MkgXuZPA_d0",
+            "title": "LIKE THIS FOREVER (feat. Jordan Grace)",
+            "channel_name": "SakaZan - Topic",
+            "category": "Music",
+            "duration": "3:04",
+            "view_count": "173826",
+            "thumbnail_url": "https://i.ytimg.com/vi/MkgXuZPA_d0/hqdefault.jpg"
         },
         {
             "video_id": "ZWN_0lXx-n8",
@@ -223,7 +223,7 @@
             "channel_name": "전략적죽음",
             "category": "Gaming",
             "duration": "29:00",
-            "view_count": "123528",
+            "view_count": "126914",
             "thumbnail_url": "https://i.ytimg.com/vi/ZWN_0lXx-n8/hqdefault.jpg"
         },
         {
@@ -232,44 +232,8 @@
             "channel_name": "이준영 - Topic",
             "category": "Music",
             "duration": "3:46",
-            "view_count": "21583",
+            "view_count": "23635",
             "thumbnail_url": "https://i.ytimg.com/vi/XdKaLpD4YyE/hqdefault.jpg"
-        },
-        {
-            "video_id": "nIbFZlYKDUo",
-            "title": "(긴급속보) 신요원 \"VETO\" 스킬 선 공개, 모든 스킬을 먹어버리는 자동사냥기 부터 체임버 텔포까지??????",
-            "channel_name": "김된모",
-            "category": "Gaming",
-            "duration": "10:01",
-            "view_count": "292702",
-            "thumbnail_url": "https://i.ytimg.com/vi/nIbFZlYKDUo/hqdefault.jpg"
-        },
-        {
-            "video_id": "vFr8eTRcbJo",
-            "title": "A Night Full of You",
-            "channel_name": "Suzy - Topic",
-            "category": "Music",
-            "duration": "3:49",
-            "view_count": "37495",
-            "thumbnail_url": "https://i.ytimg.com/vi/vFr8eTRcbJo/hqdefault.jpg"
-        },
-        {
-            "video_id": "zJVSFhjlqus",
-            "title": "샤코타임 역대급 도발에 찐텐 터져버린 김봉준;;",
-            "channel_name": "게임대장봉준",
-            "category": "Gaming",
-            "duration": "39:27",
-            "view_count": "106393",
-            "thumbnail_url": "https://i.ytimg.com/vi/zJVSFhjlqus/hqdefault.jpg"
-        },
-        {
-            "video_id": "-llNF_9QZ1A",
-            "title": "Wind that blows",
-            "channel_name": "HYNN - Topic",
-            "category": "Music",
-            "duration": "3:59",
-            "view_count": "362688",
-            "thumbnail_url": "https://i.ytimg.com/vi/-llNF_9QZ1A/hqdefault.jpg"
         },
         {
             "video_id": "6VN9zPE-xWI",
@@ -277,8 +241,44 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "16:48",
-            "view_count": "136859",
+            "view_count": "142358",
             "thumbnail_url": "https://i.ytimg.com/vi/6VN9zPE-xWI/hqdefault.jpg"
+        },
+        {
+            "video_id": "vFr8eTRcbJo",
+            "title": "A Night Full of You",
+            "channel_name": "Suzy - Topic",
+            "category": "Music",
+            "duration": "3:49",
+            "view_count": "39225",
+            "thumbnail_url": "https://i.ytimg.com/vi/vFr8eTRcbJo/hqdefault.jpg"
+        },
+        {
+            "video_id": "nIbFZlYKDUo",
+            "title": "(긴급속보) 신요원 \"VETO\" 스킬 선 공개, 모든 스킬을 먹어버리는 자동사냥기 부터 체임버 텔포까지??????",
+            "channel_name": "김된모",
+            "category": "Gaming",
+            "duration": "10:01",
+            "view_count": "296744",
+            "thumbnail_url": "https://i.ytimg.com/vi/nIbFZlYKDUo/hqdefault.jpg"
+        },
+        {
+            "video_id": "-llNF_9QZ1A",
+            "title": "Wind that blows",
+            "channel_name": "HYNN - Topic",
+            "category": "Music",
+            "duration": "3:59",
+            "view_count": "367427",
+            "thumbnail_url": "https://i.ytimg.com/vi/-llNF_9QZ1A/hqdefault.jpg"
+        },
+        {
+            "video_id": "zJVSFhjlqus",
+            "title": "샤코타임 역대급 도발에 찐텐 터져버린 김봉준;;",
+            "channel_name": "게임대장봉준",
+            "category": "Gaming",
+            "duration": "39:27",
+            "view_count": "107622",
+            "thumbnail_url": "https://i.ytimg.com/vi/zJVSFhjlqus/hqdefault.jpg"
         },
         {
             "video_id": "Dl1tx7jcbPM",
@@ -286,7 +286,7 @@
             "channel_name": "LEE YEEUN - Topic",
             "category": "Music",
             "duration": "4:41",
-            "view_count": "14072",
+            "view_count": "14894",
             "thumbnail_url": "https://i.ytimg.com/vi/Dl1tx7jcbPM/hqdefault.jpg"
         },
         {
@@ -295,7 +295,7 @@
             "channel_name": "말량",
             "category": "Gaming",
             "duration": "19:19",
-            "view_count": "109376",
+            "view_count": "112792",
             "thumbnail_url": "https://i.ytimg.com/vi/GcsXxts2Sdo/hqdefault.jpg"
         },
         {
@@ -304,7 +304,7 @@
             "channel_name": "BE:FIRST - Topic",
             "category": "Music",
             "duration": "3:18",
-            "view_count": "78074",
+            "view_count": "86727",
             "thumbnail_url": "https://i.ytimg.com/vi/aKxRuwDuXaM/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "EA SPORTS FC 온라인",
             "category": "Gaming",
             "duration": "10:29",
-            "view_count": "288013",
+            "view_count": "302482",
             "thumbnail_url": "https://i.ytimg.com/vi/MG5BssG7WKA/hqdefault.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "channel_name": "정승환 Jung Seung Hwan",
             "category": "Entertainment",
             "duration": "3:36",
-            "view_count": "57230",
+            "view_count": "58901",
             "thumbnail_url": "https://i.ytimg.com/vi/MfrCVYWZh7g/hqdefault.jpg"
         },
         {
@@ -331,7 +331,7 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "27:01",
-            "view_count": "120474",
+            "view_count": "125389",
             "thumbnail_url": "https://i.ytimg.com/vi/vyk1DxpKUZA/hqdefault.jpg"
         },
         {
@@ -340,7 +340,7 @@
             "channel_name": "SEVENTEEN",
             "category": "Music",
             "duration": "3:08",
-            "view_count": "417899",
+            "view_count": "421132",
             "thumbnail_url": "https://i.ytimg.com/vi/mopEDYi-1bg/hqdefault.jpg"
         },
         {
@@ -349,26 +349,8 @@
             "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
             "duration": "16:34",
-            "view_count": "120637",
+            "view_count": "124120",
             "thumbnail_url": "https://i.ytimg.com/vi/YTJGrnRgUKw/hqdefault.jpg"
-        },
-        {
-            "video_id": "f1qGy3CR1Bw",
-            "title": "있잖아",
-            "channel_name": "Paul Kim - Topic",
-            "category": "Music",
-            "duration": "3:28",
-            "view_count": "35178",
-            "thumbnail_url": "https://i.ytimg.com/vi/f1qGy3CR1Bw/hqdefault.jpg"
-        },
-        {
-            "video_id": "gIGLw1pCJaw",
-            "title": "💗팀나빠 커플💗끼리 어부바 하고 대결하면 누가 이길까?! 어부바 잼못타! (상대방 한테 싫어요 날릴 수 있음ㅋ)",
-            "channel_name": "멜로우TV",
-            "category": "Gaming",
-            "duration": "10:07",
-            "view_count": "101421",
-            "thumbnail_url": "https://i.ytimg.com/vi/gIGLw1pCJaw/hqdefault.jpg"
         },
         {
             "video_id": "SAHD7o5C6f8",
@@ -376,8 +358,26 @@
             "channel_name": "이용진 - Topic",
             "category": "Music",
             "duration": "3:57",
-            "view_count": "10633",
+            "view_count": "11937",
             "thumbnail_url": "https://i.ytimg.com/vi/SAHD7o5C6f8/hqdefault.jpg"
+        },
+        {
+            "video_id": "gIGLw1pCJaw",
+            "title": "💗팀나빠 커플💗끼리 어부바 하고 대결하면 누가 이길까?! 어부바 잼못타! (상대방 한테 싫어요 날릴 수 있음ㅋ)",
+            "channel_name": "멜로우TV",
+            "category": "Gaming",
+            "duration": "10:07",
+            "view_count": "104376",
+            "thumbnail_url": "https://i.ytimg.com/vi/gIGLw1pCJaw/hqdefault.jpg"
+        },
+        {
+            "video_id": "f1qGy3CR1Bw",
+            "title": "있잖아",
+            "channel_name": "Paul Kim - Topic",
+            "category": "Music",
+            "duration": "3:28",
+            "view_count": "36146",
+            "thumbnail_url": "https://i.ytimg.com/vi/f1qGy3CR1Bw/hqdefault.jpg"
         }
     ]
 }
