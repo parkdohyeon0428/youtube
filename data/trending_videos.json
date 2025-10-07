@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-10-07 19:13:59",
+    "scraped_time": "2025-10-07 20:11:23",
     "videos": [
         {
             "video_id": "-QdWntrZ4KY",
@@ -7,7 +7,7 @@
             "channel_name": "ROCOBERRY - Topic",
             "category": "Music",
             "duration": "3:23",
-            "view_count": "196170",
+            "view_count": "201463",
             "thumbnail_url": "https://i.ytimg.com/vi/-QdWntrZ4KY/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Disney Plus Korea 디즈니 플러스 코리아",
             "category": "Film & Animation",
             "duration": "1:12",
-            "view_count": "92682",
+            "view_count": "93327",
             "thumbnail_url": "https://i.ytimg.com/vi/1Psq93NYhto/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "21:42",
-            "view_count": "376651",
+            "view_count": "383305",
             "thumbnail_url": "https://i.ytimg.com/vi/aR0FgbkVNew/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "QWER - Topic",
             "category": "Music",
             "duration": "4:06",
-            "view_count": "93011",
+            "view_count": "99124",
             "thumbnail_url": "https://i.ytimg.com/vi/6tXCKF33IzM/hqdefault.jpg"
         },
         {
@@ -43,16 +43,16 @@
             "channel_name": "드라마Talk",
             "category": "Film & Animation",
             "duration": "28:31",
-            "view_count": "31607",
+            "view_count": "32371",
             "thumbnail_url": "https://i.ytimg.com/vi/hRddv7ee_F0/hqdefault.jpg"
         },
         {
             "video_id": "J7earg7zxHE",
-            "title": "2년만에 다시 뭉친 순수재미 GOAT 레전드 멤버들ㅋㅋㅋ",
+            "title": "2년만에 다시 뭉친 순수재미 GOAT 레전드 멤버들ㅋㅋㅋ 【지옥의 합숙 킬내기】",
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "20:03",
-            "view_count": "193056",
+            "view_count": "203838",
             "thumbnail_url": "https://i.ytimg.com/vi/J7earg7zxHE/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "Taylor Swift",
             "category": "Music",
             "duration": "3:59",
-            "view_count": "16539074",
+            "view_count": "16743391",
             "thumbnail_url": "https://i.ytimg.com/vi/ko70cExuzZM/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "20th Century Studios Korea",
             "category": "Film & Animation",
             "duration": "2:06",
-            "view_count": "90572",
+            "view_count": "94091",
             "thumbnail_url": "https://i.ytimg.com/vi/I3awPAzyOtY/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "DaFuq!?Boom!",
             "category": "Entertainment",
             "duration": "6:19",
-            "view_count": "6262335",
+            "view_count": "6338234",
             "thumbnail_url": "https://i.ytimg.com/vi/8VdHp0ZoryE/hqdefault.jpg"
         },
         {
@@ -88,26 +88,8 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "4:02",
-            "view_count": "104443",
+            "view_count": "109712",
             "thumbnail_url": "https://i.ytimg.com/vi/1czQIBhhe1A/hqdefault.jpg"
-        },
-        {
-            "video_id": "uyAkD8Ygjzc",
-            "title": "정글러라고 무시해? 스맵 미드 접게 만들겠습니다ㅋㅋㅋ",
-            "channel_name": "저라뎃 JUSTLIKETHAT",
-            "category": "Gaming",
-            "duration": "59:03",
-            "view_count": "173996",
-            "thumbnail_url": "https://i.ytimg.com/vi/uyAkD8Ygjzc/hqdefault.jpg"
-        },
-        {
-            "video_id": "pa2So92kquc",
-            "title": "2025 팬미팅_어쿠스틱LIVE_빗속을둘이서",
-            "channel_name": "황영웅 Tv",
-            "category": "Music",
-            "duration": "3:22",
-            "view_count": "33336",
-            "thumbnail_url": "https://i.ytimg.com/vi/pa2So92kquc/hqdefault.jpg"
         },
         {
             "video_id": "1MMCHE7fd94",
@@ -115,8 +97,26 @@
             "channel_name": "집사TV",
             "category": "Gaming",
             "duration": "13:16",
-            "view_count": "76337",
+            "view_count": "82421",
             "thumbnail_url": "https://i.ytimg.com/vi/1MMCHE7fd94/hqdefault.jpg"
+        },
+        {
+            "video_id": "pa2So92kquc",
+            "title": "2025 팬미팅_어쿠스틱LIVE_빗속을둘이서",
+            "channel_name": "황영웅 Tv",
+            "category": "Music",
+            "duration": "3:22",
+            "view_count": "34062",
+            "thumbnail_url": "https://i.ytimg.com/vi/pa2So92kquc/hqdefault.jpg"
+        },
+        {
+            "video_id": "uyAkD8Ygjzc",
+            "title": "정글러라고 무시해? 스맵 미드 접게 만들겠습니다ㅋㅋㅋ",
+            "channel_name": "저라뎃 JUSTLIKETHAT",
+            "category": "Gaming",
+            "duration": "59:03",
+            "view_count": "177299",
+            "thumbnail_url": "https://i.ytimg.com/vi/uyAkD8Ygjzc/hqdefault.jpg"
         },
         {
             "video_id": "gDoDAazOEgI",
@@ -124,26 +124,8 @@
             "channel_name": "THE FIRST TAKE",
             "category": "Music",
             "duration": "4:05",
-            "view_count": "436735",
+            "view_count": "444849",
             "thumbnail_url": "https://i.ytimg.com/vi/gDoDAazOEgI/hqdefault.jpg"
-        },
-        {
-            "video_id": "blPjUvD_5ao",
-            "title": "매칭주작에 관하여",
-            "channel_name": "클리드",
-            "category": "Gaming",
-            "duration": "29:21",
-            "view_count": "190524",
-            "thumbnail_url": "https://i.ytimg.com/vi/blPjUvD_5ao/hqdefault.jpg"
-        },
-        {
-            "video_id": "XdKaLpD4YyE",
-            "title": "널 그리며",
-            "channel_name": "이준영 - Topic",
-            "category": "Music",
-            "duration": "3:46",
-            "view_count": "74638",
-            "thumbnail_url": "https://i.ytimg.com/vi/XdKaLpD4YyE/hqdefault.jpg"
         },
         {
             "video_id": "hkq2NpAanAc",
@@ -151,8 +133,26 @@
             "channel_name": "싸모스",
             "category": "Gaming",
             "duration": "11:40",
-            "view_count": "75850",
+            "view_count": "81694",
             "thumbnail_url": "https://i.ytimg.com/vi/hkq2NpAanAc/hqdefault.jpg"
+        },
+        {
+            "video_id": "XdKaLpD4YyE",
+            "title": "널 그리며",
+            "channel_name": "이준영 - Topic",
+            "category": "Music",
+            "duration": "3:46",
+            "view_count": "77609",
+            "thumbnail_url": "https://i.ytimg.com/vi/XdKaLpD4YyE/hqdefault.jpg"
+        },
+        {
+            "video_id": "blPjUvD_5ao",
+            "title": "매칭주작에 관하여",
+            "channel_name": "클리드",
+            "category": "Gaming",
+            "duration": "29:21",
+            "view_count": "194339",
+            "thumbnail_url": "https://i.ytimg.com/vi/blPjUvD_5ao/hqdefault.jpg"
         },
         {
             "video_id": "fJ2W-oQ5cTk",
@@ -160,7 +160,7 @@
             "channel_name": "NS 윤지 - Topic",
             "category": "Music",
             "duration": "3:19",
-            "view_count": "179436",
+            "view_count": "182218",
             "thumbnail_url": "https://i.ytimg.com/vi/fJ2W-oQ5cTk/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "유봉훈",
             "category": "Gaming",
             "duration": "9:23",
-            "view_count": "142873",
+            "view_count": "145562",
             "thumbnail_url": "https://i.ytimg.com/vi/Lt48GTyiGRk/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "Kwon Jin-ah - Topic",
             "category": "Music",
             "duration": "4:13",
-            "view_count": "157966",
+            "view_count": "160839",
             "thumbnail_url": "https://i.ytimg.com/vi/fhTW9RGjSg0/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
             "duration": "16:23",
-            "view_count": "142410",
+            "view_count": "144812",
             "thumbnail_url": "https://i.ytimg.com/vi/H34V7jHn5kI/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "LEE YEEUN - Topic",
             "category": "Music",
             "duration": "4:41",
-            "view_count": "43134",
+            "view_count": "44921",
             "thumbnail_url": "https://i.ytimg.com/vi/Dl1tx7jcbPM/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "김된모",
             "category": "Gaming",
             "duration": "13:07",
-            "view_count": "147602",
+            "view_count": "148986",
             "thumbnail_url": "https://i.ytimg.com/vi/aYrIRPuV2BM/hqdefault.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "channel_name": "Bruno Mars - Topic",
             "category": "Music",
             "duration": "3:59",
-            "view_count": "196444",
+            "view_count": "205695",
             "thumbnail_url": "https://i.ytimg.com/vi/HUvIJRFH2cA/hqdefault.jpg"
         },
         {
@@ -223,8 +223,26 @@
             "channel_name": "김데데",
             "category": "Gaming",
             "duration": "27:57",
-            "view_count": "143050",
+            "view_count": "144922",
             "thumbnail_url": "https://i.ytimg.com/vi/BBeA0nZ1CXE/hqdefault.jpg"
+        },
+        {
+            "video_id": "P3oBM3jkNtE",
+            "title": "NMIXX(엔믹스) “SPINNIN’ ON IT” Stage Practice",
+            "channel_name": "NMIXX",
+            "category": "Entertainment",
+            "duration": "3:24",
+            "view_count": "31258",
+            "thumbnail_url": "https://i.ytimg.com/vi/P3oBM3jkNtE/hqdefault.jpg"
+        },
+        {
+            "video_id": "PpCePcgf_K8",
+            "title": "초보인척하며 양학하다 홍구한테 지니까? ... 바로 맵핵이라고 확신하는 상대 ㅋㅋㅋㅋㅋ",
+            "channel_name": "발스타홍구",
+            "category": "Gaming",
+            "duration": "21:46",
+            "view_count": "91745",
+            "thumbnail_url": "https://i.ytimg.com/vi/PpCePcgf_K8/hqdefault.jpg"
         },
         {
             "video_id": "vFr8eTRcbJo",
@@ -232,7 +250,7 @@
             "channel_name": "Suzy - Topic",
             "category": "Music",
             "duration": "3:49",
-            "view_count": "75812",
+            "view_count": "77471",
             "thumbnail_url": "https://i.ytimg.com/vi/vFr8eTRcbJo/hqdefault.jpg"
         },
         {
@@ -241,7 +259,7 @@
             "channel_name": "근가놈",
             "category": "Gaming",
             "duration": "23:15",
-            "view_count": "125595",
+            "view_count": "127092",
             "thumbnail_url": "https://i.ytimg.com/vi/F9Enc3w3cHE/hqdefault.jpg"
         },
         {
@@ -250,7 +268,7 @@
             "channel_name": "Paul Kim - Topic",
             "category": "Music",
             "duration": "3:28",
-            "view_count": "62118",
+            "view_count": "64177",
             "thumbnail_url": "https://i.ytimg.com/vi/f1qGy3CR1Bw/hqdefault.jpg"
         },
         {
@@ -259,7 +277,7 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "45:29",
-            "view_count": "127795",
+            "view_count": "129613",
             "thumbnail_url": "https://i.ytimg.com/vi/G9XGRZjLPLo/hqdefault.jpg"
         },
         {
@@ -268,26 +286,8 @@
             "channel_name": "LEAH DOU",
             "category": "Music",
             "duration": "5:34",
-            "view_count": "36589",
+            "view_count": "36933",
             "thumbnail_url": "https://i.ytimg.com/vi/IKXsYRGHsFY/hqdefault.jpg"
-        },
-        {
-            "video_id": "PpCePcgf_K8",
-            "title": "초보인척하며 양학하다 홍구한테 지니까? ... 바로 맵핵이라고 확신하는 상대 ㅋㅋㅋㅋㅋ",
-            "channel_name": "발스타홍구",
-            "category": "Gaming",
-            "duration": "21:46",
-            "view_count": "86262",
-            "thumbnail_url": "https://i.ytimg.com/vi/PpCePcgf_K8/hqdefault.jpg"
-        },
-        {
-            "video_id": "RblIsNFR1j4",
-            "title": "NMIXX(엔믹스) Blue Valentine Core: “SPINNIN’ ON IT”",
-            "channel_name": "JYP Entertainment",
-            "category": "Music",
-            "duration": "3:27",
-            "view_count": "1707556",
-            "thumbnail_url": "https://i.ytimg.com/vi/RblIsNFR1j4/hqdefault.jpg"
         },
         {
             "video_id": "ho_FolXi8tI",
@@ -295,26 +295,26 @@
             "channel_name": "꼬예유 & 한예찬의 게임저장소",
             "category": "Gaming",
             "duration": "25:38",
-            "view_count": "144652",
+            "view_count": "147478",
             "thumbnail_url": "https://i.ytimg.com/vi/ho_FolXi8tI/hqdefault.jpg"
         },
         {
-            "video_id": "wefNyUNqvjQ",
-            "title": "7080 추억의 발라드 명곡💿🎬중년을 위한 50곡💿🎬아직도 못다한 사랑 - 솔개트리오/김광석 - 어느 60대 노부부 이야기",
-            "channel_name": "Radio Love",
-            "category": "People & Blogs",
-            "duration": "1:05:38",
-            "view_count": "18340",
-            "thumbnail_url": "https://i.ytimg.com/vi/wefNyUNqvjQ/hqdefault.jpg"
+            "video_id": "RblIsNFR1j4",
+            "title": "NMIXX(엔믹스) Blue Valentine Core: “SPINNIN’ ON IT”",
+            "channel_name": "JYP Entertainment",
+            "category": "Music",
+            "duration": "3:27",
+            "view_count": "1716786",
+            "thumbnail_url": "https://i.ytimg.com/vi/RblIsNFR1j4/hqdefault.jpg"
         },
         {
-            "video_id": "v-p8FJBbH8g",
-            "title": "버섯 축제 [코어키퍼]",
-            "channel_name": "PAKA",
+            "video_id": "HeWY7_7Czhg",
+            "title": "우린 명절 섯다에 150만원을 썻다. 우리에게 이건 무료게임이 아니다",
+            "channel_name": "YouTube지누",
             "category": "Gaming",
-            "duration": "47:44",
-            "view_count": "112493",
-            "thumbnail_url": "https://i.ytimg.com/vi/v-p8FJBbH8g/hqdefault.jpg"
+            "duration": "1:06:30",
+            "view_count": "50342",
+            "thumbnail_url": "https://i.ytimg.com/vi/HeWY7_7Czhg/hqdefault.jpg"
         },
         {
             "video_id": "zVrHCm58N-o",
@@ -322,26 +322,26 @@
             "channel_name": "Mili",
             "category": "Music",
             "duration": "4:22",
-            "view_count": "271222",
+            "view_count": "277124",
             "thumbnail_url": "https://i.ytimg.com/vi/zVrHCm58N-o/hqdefault.jpg"
         },
         {
-            "video_id": "Jcp7PbWF560",
-            "title": "\"우에하라 상호\" 난생 처음 보는 팬미팅에 할 말을 잃어버린 이상호..!",
-            "channel_name": "이상호",
+            "video_id": "v-p8FJBbH8g",
+            "title": "버섯 축제 [코어키퍼]",
+            "channel_name": "PAKA",
             "category": "Gaming",
-            "duration": "25:47",
-            "view_count": "328621",
-            "thumbnail_url": "https://i.ytimg.com/vi/Jcp7PbWF560/hqdefault.jpg"
+            "duration": "47:44",
+            "view_count": "114796",
+            "thumbnail_url": "https://i.ytimg.com/vi/v-p8FJBbH8g/hqdefault.jpg"
         },
         {
-            "video_id": "6kYkevl1Lbo",
-            "title": "KWANWOOK LEE – first round (19th Chopin Competition, Warsaw)",
-            "channel_name": "Chopin Institute",
-            "category": "Music",
-            "duration": "24:39",
-            "view_count": "21842",
-            "thumbnail_url": "https://i.ytimg.com/vi/6kYkevl1Lbo/hqdefault.jpg"
+            "video_id": "wefNyUNqvjQ",
+            "title": "7080 추억의 발라드 명곡💿🎬중년을 위한 50곡💿🎬아직도 못다한 사랑 - 솔개트리오/김광석 - 어느 60대 노부부 이야기",
+            "channel_name": "Radio Love",
+            "category": "People & Blogs",
+            "duration": "1:05:38",
+            "view_count": "18958",
+            "thumbnail_url": "https://i.ytimg.com/vi/wefNyUNqvjQ/hqdefault.jpg"
         },
         {
             "video_id": "NelZXLA8XDE",
@@ -349,7 +349,7 @@
             "channel_name": "홍챠",
             "category": "People & Blogs",
             "duration": "28:39",
-            "view_count": "74590",
+            "view_count": "77302",
             "thumbnail_url": "https://i.ytimg.com/vi/NelZXLA8XDE/hqdefault.jpg"
         },
         {
@@ -358,7 +358,7 @@
             "channel_name": "Spicy 온!",
             "category": "Music",
             "duration": "1:32:35",
-            "view_count": "23213",
+            "view_count": "24020",
             "thumbnail_url": "https://i.ytimg.com/vi/C8IDOGr7xio/hqdefault.jpg"
         },
         {
@@ -367,17 +367,17 @@
             "channel_name": "JUNE",
             "category": "Gaming",
             "duration": "12:31",
-            "view_count": "126952",
+            "view_count": "129628",
             "thumbnail_url": "https://i.ytimg.com/vi/6iDuFt3KYyo/hqdefault.jpg"
         },
         {
-            "video_id": "SAHD7o5C6f8",
-            "title": "이제는",
-            "channel_name": "이용진 - Topic",
+            "video_id": "6kYkevl1Lbo",
+            "title": "KWANWOOK LEE – first round (19th Chopin Competition, Warsaw)",
+            "channel_name": "Chopin Institute",
             "category": "Music",
-            "duration": "3:57",
-            "view_count": "31996",
-            "thumbnail_url": "https://i.ytimg.com/vi/SAHD7o5C6f8/hqdefault.jpg"
+            "duration": "24:39",
+            "view_count": "22739",
+            "thumbnail_url": "https://i.ytimg.com/vi/6kYkevl1Lbo/hqdefault.jpg"
         }
     ]
 }
