@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-10-10 20:11:33",
+    "scraped_time": "2025-10-10 21:27:50",
     "videos": [
         {
             "video_id": "aTqchg0BUG4",
@@ -7,7 +7,7 @@
             "channel_name": "JISOO - Topic",
             "category": "Music",
             "duration": "3:02",
-            "view_count": "1733531",
+            "view_count": "1892507",
             "thumbnail_url": "https://i.ytimg.com/vi/aTqchg0BUG4/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Hearts2Hearts",
             "category": "Music",
             "duration": "1:34",
-            "view_count": "323538",
+            "view_count": "338407",
             "thumbnail_url": "https://i.ytimg.com/vi/tPNGxVu5d68/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "이도원",
             "category": "Gaming",
             "duration": "46:02",
-            "view_count": "325091",
+            "view_count": "333759",
             "thumbnail_url": "https://i.ytimg.com/vi/0VLyXvNoTEk/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "임영웅",
             "category": "Music",
             "duration": "3:43",
-            "view_count": "235793",
+            "view_count": "245958",
             "thumbnail_url": "https://i.ytimg.com/vi/ylTuLv9iDmY/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "GUNDAM CHANNEL INTL",
             "category": "Film & Animation",
             "duration": "0:58",
-            "view_count": "125369",
+            "view_count": "130749",
             "thumbnail_url": "https://i.ytimg.com/vi/fAW_xmAahsc/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "22:10",
-            "view_count": "364888",
+            "view_count": "371360",
             "thumbnail_url": "https://i.ytimg.com/vi/rmDNyaUQftk/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "BABYMONSTER",
             "category": "Music",
             "duration": "3:23",
-            "view_count": "2572751",
+            "view_count": "2944872",
             "thumbnail_url": "https://i.ytimg.com/vi/wlHwjkYpSr0/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:00",
-            "view_count": "25485",
+            "view_count": "27274",
             "thumbnail_url": "https://i.ytimg.com/vi/D2NkMQsNPGg/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "20:56",
-            "view_count": "401409",
+            "view_count": "412393",
             "thumbnail_url": "https://i.ytimg.com/vi/8itdlN1g3NQ/hqdefault.jpg"
         },
         {
@@ -88,7 +88,7 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "4:08",
-            "view_count": "877015",
+            "view_count": "1011855",
             "thumbnail_url": "https://i.ytimg.com/vi/zqorlX_5oHQ/hqdefault.jpg"
         },
         {
@@ -97,26 +97,8 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "35:05",
-            "view_count": "132970",
+            "view_count": "144028",
             "thumbnail_url": "https://i.ytimg.com/vi/N6J6_EVnH-k/hqdefault.jpg"
-        },
-        {
-            "video_id": "ux3QETpLcPs",
-            "title": "劇場版『チェンソーマン レゼ篇』オープニングムービー 　主題歌：米津玄師「IRIS OUT」“Chainsaw Man – The Movie: Reze Arc” – Opening Movie",
-            "channel_name": "Kenshi Yonezu  米津玄師",
-            "category": "Music",
-            "duration": "2:31",
-            "view_count": "6169005",
-            "thumbnail_url": "https://i.ytimg.com/vi/ux3QETpLcPs/hqdefault.jpg"
-        },
-        {
-            "video_id": "AkEiQfLValA",
-            "title": "오랜만에 성사된 저밧록인데 상대 탑도 스맵?!ㅋㅋㅋㅋ",
-            "channel_name": "저라뎃 JUSTLIKETHAT",
-            "category": "Gaming",
-            "duration": "1:23:25",
-            "view_count": "82845",
-            "thumbnail_url": "https://i.ytimg.com/vi/AkEiQfLValA/hqdefault.jpg"
         },
         {
             "video_id": "y9j0CRgylnw",
@@ -124,8 +106,26 @@
             "channel_name": "Madison Beer - Topic",
             "category": "Music",
             "duration": "3:23",
-            "view_count": "58163",
+            "view_count": "67730",
             "thumbnail_url": "https://i.ytimg.com/vi/y9j0CRgylnw/hqdefault.jpg"
+        },
+        {
+            "video_id": "AkEiQfLValA",
+            "title": "오랜만에 성사된 저밧록인데 상대 탑도 스맵?!ㅋㅋㅋㅋ",
+            "channel_name": "저라뎃 JUSTLIKETHAT",
+            "category": "Gaming",
+            "duration": "1:23:25",
+            "view_count": "94008",
+            "thumbnail_url": "https://i.ytimg.com/vi/AkEiQfLValA/hqdefault.jpg"
+        },
+        {
+            "video_id": "ux3QETpLcPs",
+            "title": "劇場版『チェンソーマン レゼ篇』オープニングムービー 　主題歌：米津玄師「IRIS OUT」“Chainsaw Man – The Movie: Reze Arc” – Opening Movie",
+            "channel_name": "Kenshi Yonezu  米津玄師",
+            "category": "Music",
+            "duration": "2:31",
+            "view_count": "6227760",
+            "thumbnail_url": "https://i.ytimg.com/vi/ux3QETpLcPs/hqdefault.jpg"
         },
         {
             "video_id": "zkNqfrAFnUo",
@@ -133,7 +133,7 @@
             "channel_name": "멜로우TV",
             "category": "Gaming",
             "duration": "13:03",
-            "view_count": "105518",
+            "view_count": "133281",
             "thumbnail_url": "https://i.ytimg.com/vi/zkNqfrAFnUo/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "NMIXX",
             "category": "Entertainment",
             "duration": "3:26",
-            "view_count": "411941",
+            "view_count": "426409",
             "thumbnail_url": "https://i.ytimg.com/vi/NGV2vnOx2Ps/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "25:33",
-            "view_count": "151920",
+            "view_count": "155709",
             "thumbnail_url": "https://i.ytimg.com/vi/MvKANxo8u8M/hqdefault.jpg"
         },
         {
@@ -160,8 +160,26 @@
             "channel_name": "대건 - Topic",
             "category": "Music",
             "duration": "3:37",
-            "view_count": "26163",
+            "view_count": "27079",
             "thumbnail_url": "https://i.ytimg.com/vi/cTtLbiUYVM8/hqdefault.jpg"
+        },
+        {
+            "video_id": "zC_cVosszhU",
+            "title": "귀멸의칼날 세상에서 요리이치로 살아남기",
+            "channel_name": "가넷",
+            "category": "Gaming",
+            "duration": "22:13",
+            "view_count": "40959",
+            "thumbnail_url": "https://i.ytimg.com/vi/zC_cVosszhU/hqdefault.jpg"
+        },
+        {
+            "video_id": "AUoqoW7P3dg",
+            "title": "ME+YOU",
+            "channel_name": "TWICE - Topic",
+            "category": "Music",
+            "duration": "2:55",
+            "view_count": "52286",
+            "thumbnail_url": "https://i.ytimg.com/vi/AUoqoW7P3dg/hqdefault.jpg"
         },
         {
             "video_id": "O6DyjzqfbxY",
@@ -169,7 +187,7 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "38:56",
-            "view_count": "164936",
+            "view_count": "168470",
             "thumbnail_url": "https://i.ytimg.com/vi/O6DyjzqfbxY/hqdefault.jpg"
         },
         {
@@ -178,7 +196,7 @@
             "channel_name": "One More Chance - Topic",
             "category": "Music",
             "duration": "4:08",
-            "view_count": "25296",
+            "view_count": "26727",
             "thumbnail_url": "https://i.ytimg.com/vi/TUuPkwps2pA/hqdefault.jpg"
         },
         {
@@ -187,7 +205,7 @@
             "channel_name": "마쟈TV",
             "category": "Gaming",
             "duration": "16:15",
-            "view_count": "261119",
+            "view_count": "265599",
             "thumbnail_url": "https://i.ytimg.com/vi/kHpo7qxi4pI/hqdefault.jpg"
         },
         {
@@ -196,7 +214,7 @@
             "channel_name": "Spicy 온!",
             "category": "Music",
             "duration": "2:05:23",
-            "view_count": "33535",
+            "view_count": "35331",
             "thumbnail_url": "https://i.ytimg.com/vi/fc8152QvCzI/hqdefault.jpg"
         },
         {
@@ -205,26 +223,8 @@
             "channel_name": "전략적죽음",
             "category": "Gaming",
             "duration": "19:01",
-            "view_count": "149123",
+            "view_count": "151387",
             "thumbnail_url": "https://i.ytimg.com/vi/T_VoBjMG_is/hqdefault.jpg"
-        },
-        {
-            "video_id": "AUoqoW7P3dg",
-            "title": "ME+YOU",
-            "channel_name": "TWICE - Topic",
-            "category": "Music",
-            "duration": "2:55",
-            "view_count": "42223",
-            "thumbnail_url": "https://i.ytimg.com/vi/AUoqoW7P3dg/hqdefault.jpg"
-        },
-        {
-            "video_id": "r1GZseu7zPY",
-            "title": "떴냐..? 떴냐..? 떴냐..? 떴냐..? 떴냐..? 떴다..! 떴다..! 떴다..! 떴다..! 떴다..!",
-            "channel_name": "혜안",
-            "category": "Gaming",
-            "duration": "1:10:16",
-            "view_count": "540426",
-            "thumbnail_url": "https://i.ytimg.com/vi/r1GZseu7zPY/hqdefault.jpg"
         },
         {
             "video_id": "6tXCKF33IzM",
@@ -232,35 +232,17 @@
             "channel_name": "QWER - Topic",
             "category": "Music",
             "duration": "4:06",
-            "view_count": "385778",
+            "view_count": "392290",
             "thumbnail_url": "https://i.ytimg.com/vi/6tXCKF33IzM/hqdefault.jpg"
         },
         {
-            "video_id": "7-VatM60dck",
-            "title": "여자 전용 서버에 남자가 들어가면 생기는 일ㅋㅋㅋㅋ (브레인롯 훔치기)",
-            "channel_name": "강태풍의 로블록스",
+            "video_id": "r1GZseu7zPY",
+            "title": "떴냐..? 떴냐..? 떴냐..? 떴냐..? 떴냐..? 떴다..! 떴다..! 떴다..! 떴다..! 떴다..!",
+            "channel_name": "혜안",
             "category": "Gaming",
-            "duration": "16:12",
-            "view_count": "142687",
-            "thumbnail_url": "https://i.ytimg.com/vi/7-VatM60dck/hqdefault.jpg"
-        },
-        {
-            "video_id": "ZIzEnTdR368",
-            "title": "DECO*27 - マシュマロ feat. 初音ミク",
-            "channel_name": "DECO*27",
-            "category": "Music",
-            "duration": "2:58",
-            "view_count": "1450307",
-            "thumbnail_url": "https://i.ytimg.com/vi/ZIzEnTdR368/hqdefault.jpg"
-        },
-        {
-            "video_id": "rN3m8bJRHJo",
-            "title": "꼭 한번 해보고 싶었던 시작부터 프리즘 투자전략으로 키운 올3성 올도장 황금 별빛기사덱 ㅋㅋㅋㅋㅋ",
-            "channel_name": "전쓰트의 게임 채널 Junsst",
-            "category": "Gaming",
-            "duration": "16:49",
-            "view_count": "195360",
-            "thumbnail_url": "https://i.ytimg.com/vi/rN3m8bJRHJo/hqdefault.jpg"
+            "duration": "1:10:16",
+            "view_count": "545493",
+            "thumbnail_url": "https://i.ytimg.com/vi/r1GZseu7zPY/hqdefault.jpg"
         },
         {
             "video_id": "Malu2Xu1fhU",
@@ -268,17 +250,35 @@
             "channel_name": "Radio Love",
             "category": "People & Blogs",
             "duration": "1:05:39",
-            "view_count": "8560",
+            "view_count": "9867",
             "thumbnail_url": "https://i.ytimg.com/vi/Malu2Xu1fhU/hqdefault.jpg"
         },
         {
-            "video_id": "l3EoP-GIVXk",
-            "title": "롤체 하다가 진짜 화성을 가버린 팔론 머스크,, 레전드 8테슬라 전기차덱",
-            "channel_name": "팔차선 [8LJAYWALKING]",
+            "video_id": "6yZkoqChK30",
+            "title": "미스터리 수사반 시즌2 [특별편: 92년도 최강의 콤비]",
+            "channel_name": "잠뜰 TV",
             "category": "Gaming",
-            "duration": "15:49",
-            "view_count": "141760",
-            "thumbnail_url": "https://i.ytimg.com/vi/l3EoP-GIVXk/hqdefault.jpg"
+            "duration": "1:13:26",
+            "view_count": "59416",
+            "thumbnail_url": "https://i.ytimg.com/vi/6yZkoqChK30/hqdefault.jpg"
+        },
+        {
+            "video_id": "ZIzEnTdR368",
+            "title": "DECO*27 - マシュマロ feat. 初音ミク",
+            "channel_name": "DECO*27",
+            "category": "Music",
+            "duration": "2:58",
+            "view_count": "1476426",
+            "thumbnail_url": "https://i.ytimg.com/vi/ZIzEnTdR368/hqdefault.jpg"
+        },
+        {
+            "video_id": "7-VatM60dck",
+            "title": "여자 전용 서버에 남자가 들어가면 생기는 일ㅋㅋㅋㅋ (브레인롯 훔치기)",
+            "channel_name": "강태풍의 로블록스",
+            "category": "Gaming",
+            "duration": "16:12",
+            "view_count": "145882",
+            "thumbnail_url": "https://i.ytimg.com/vi/7-VatM60dck/hqdefault.jpg"
         },
         {
             "video_id": "-QdWntrZ4KY",
@@ -286,17 +286,17 @@
             "channel_name": "ROCOBERRY - Topic",
             "category": "Music",
             "duration": "3:23",
-            "view_count": "523977",
+            "view_count": "532687",
             "thumbnail_url": "https://i.ytimg.com/vi/-QdWntrZ4KY/hqdefault.jpg"
         },
         {
-            "video_id": "63nA8MoJ6zo",
-            "title": "프리즘 상현",
-            "channel_name": "잡상싱",
+            "video_id": "rN3m8bJRHJo",
+            "title": "꼭 한번 해보고 싶었던 시작부터 프리즘 투자전략으로 키운 올3성 올도장 황금 별빛기사덱 ㅋㅋㅋㅋㅋ",
+            "channel_name": "전쓰트의 게임 채널 Junsst",
             "category": "Gaming",
-            "duration": "11:52",
-            "view_count": "198487",
-            "thumbnail_url": "https://i.ytimg.com/vi/63nA8MoJ6zo/hqdefault.jpg"
+            "duration": "16:49",
+            "view_count": "197284",
+            "thumbnail_url": "https://i.ytimg.com/vi/rN3m8bJRHJo/hqdefault.jpg"
         },
         {
             "video_id": "ui2KH0putwU",
@@ -304,17 +304,17 @@
             "channel_name": "Official 홍창우",
             "category": "Music",
             "duration": "4:32",
-            "view_count": "171392",
+            "view_count": "172080",
             "thumbnail_url": "https://i.ytimg.com/vi/ui2KH0putwU/hqdefault.jpg"
         },
         {
-            "video_id": "zC_cVosszhU",
-            "title": "귀멸의칼날 세상에서 요리이치로 살아남기",
-            "channel_name": "가넷",
-            "category": "Gaming",
-            "duration": "22:13",
-            "view_count": "27884",
-            "thumbnail_url": "https://i.ytimg.com/vi/zC_cVosszhU/hqdefault.jpg"
+            "video_id": "SsSLUGHMdGY",
+            "title": "인간인척 하는 괴물을 잡아내시오! 노아임낫 휴먼 정식출시!",
+            "channel_name": "흔한남매",
+            "category": "Entertainment",
+            "duration": "22:43",
+            "view_count": "73584",
+            "thumbnail_url": "https://i.ytimg.com/vi/SsSLUGHMdGY/hqdefault.jpg"
         },
         {
             "video_id": "kBm0LHnGdl4",
@@ -322,17 +322,35 @@
             "channel_name": "Kim Hyunchang - Topic",
             "category": "Music",
             "duration": "4:18",
-            "view_count": "24738",
+            "view_count": "25335",
             "thumbnail_url": "https://i.ytimg.com/vi/kBm0LHnGdl4/hqdefault.jpg"
         },
         {
-            "video_id": "0xi4H2oJKWA",
-            "title": "진짜 안 맞는 녀석들",
-            "channel_name": "킴성태TV",
+            "video_id": "l3EoP-GIVXk",
+            "title": "롤체 하다가 진짜 화성을 가버린 팔론 머스크,, 레전드 8테슬라 전기차덱",
+            "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
-            "duration": "24:42",
-            "view_count": "271882",
-            "thumbnail_url": "https://i.ytimg.com/vi/0xi4H2oJKWA/hqdefault.jpg"
+            "duration": "15:49",
+            "view_count": "142912",
+            "thumbnail_url": "https://i.ytimg.com/vi/l3EoP-GIVXk/hqdefault.jpg"
+        },
+        {
+            "video_id": "EjvAa0RxDLo",
+            "title": "Stuck",
+            "channel_name": "LANY - Topic",
+            "category": "Music",
+            "duration": "3:04",
+            "view_count": "20298",
+            "thumbnail_url": "https://i.ytimg.com/vi/EjvAa0RxDLo/hqdefault.jpg"
+        },
+        {
+            "video_id": "63nA8MoJ6zo",
+            "title": "프리즘 상현",
+            "channel_name": "잡상싱",
+            "category": "Gaming",
+            "duration": "11:52",
+            "view_count": "200093",
+            "thumbnail_url": "https://i.ytimg.com/vi/63nA8MoJ6zo/hqdefault.jpg"
         },
         {
             "video_id": "IFdguuVHANA",
@@ -340,7 +358,7 @@
             "channel_name": "Onewe - Topic",
             "category": "Music",
             "duration": "4:09",
-            "view_count": "102422",
+            "view_count": "104768",
             "thumbnail_url": "https://i.ytimg.com/vi/IFdguuVHANA/hqdefault.jpg"
         },
         {
@@ -349,7 +367,7 @@
             "channel_name": "두치와뿌꾸",
             "category": "Gaming",
             "duration": "12:03",
-            "view_count": "84967",
+            "view_count": "91748",
             "thumbnail_url": "https://i.ytimg.com/vi/8ItLfXmX-Ng/hqdefault.jpg"
         },
         {
@@ -358,26 +376,8 @@
             "channel_name": "Jatanpung - Topic",
             "category": "Music",
             "duration": "3:43",
-            "view_count": "16008",
+            "view_count": "17694",
             "thumbnail_url": "https://i.ytimg.com/vi/NXUsJ4ASnhk/hqdefault.jpg"
-        },
-        {
-            "video_id": "SsSLUGHMdGY",
-            "title": "인간인척 하는 괴물을 잡아내시오! 노아임낫 휴먼 정식출시!",
-            "channel_name": "흔한남매",
-            "category": "Entertainment",
-            "duration": "22:43",
-            "view_count": "58682",
-            "thumbnail_url": "https://i.ytimg.com/vi/SsSLUGHMdGY/hqdefault.jpg"
-        },
-        {
-            "video_id": "e54_Omlf1j4",
-            "title": "Young K - English Man In New York (Sting cover)",
-            "channel_name": "DAY6",
-            "category": "People & Blogs",
-            "duration": "3:30",
-            "view_count": "83130",
-            "thumbnail_url": "https://i.ytimg.com/vi/e54_Omlf1j4/hqdefault.jpg"
         }
     ]
 }
