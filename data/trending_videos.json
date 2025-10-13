@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-10-14 04:10:39",
+    "scraped_time": "2025-10-14 05:15:03",
     "videos": [
         {
             "video_id": "EmeW6li6bbo",
@@ -7,7 +7,7 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "3:15",
-            "view_count": "3307223",
+            "view_count": "3396791",
             "thumbnail_url": "https://i.ytimg.com/vi/EmeW6li6bbo/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "9:26",
-            "view_count": "129984",
+            "view_count": "132065",
             "thumbnail_url": "https://i.ytimg.com/vi/Uzl25IOfnM8/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "League of Legends",
             "category": "Gaming",
             "duration": "4:12",
-            "view_count": "1791735",
+            "view_count": "1981590",
             "thumbnail_url": "https://i.ytimg.com/vi/pzt6SmvGpXk/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "3:29",
-            "view_count": "2651580",
+            "view_count": "2666329",
             "thumbnail_url": "https://i.ytimg.com/vi/TzbGBkEh9ms/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "Disney Plus Korea 디즈니 플러스 코리아",
             "category": "Film & Animation",
             "duration": "1:23",
-            "view_count": "99956",
+            "view_count": "100296",
             "thumbnail_url": "https://i.ytimg.com/vi/qw_JJRWLnII/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "22:03",
-            "view_count": "223428",
+            "view_count": "233762",
             "thumbnail_url": "https://i.ytimg.com/vi/Qia_06nvCJ4/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "고추잠자리 - Topic",
             "category": "Music",
             "duration": "4:18",
-            "view_count": "184822",
+            "view_count": "187170",
             "thumbnail_url": "https://i.ytimg.com/vi/4WFsxzp7SBc/hqdefault.jpg"
         },
         {
@@ -70,17 +70,17 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:01",
-            "view_count": "27783",
+            "view_count": "28140",
             "thumbnail_url": "https://i.ytimg.com/vi/viwIK-mzO9E/hqdefault.jpg"
         },
         {
-            "video_id": "1hIR75GsjFA",
-            "title": "마인크래프트, 코마가 서버의 신이 되는 PVP",
-            "channel_name": "꼬예유 & 한예찬의 게임저장소",
+            "video_id": "AdwWWRGWd7w",
+            "title": "메가 봉크 체험기",
+            "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
-            "duration": "14:17",
-            "view_count": "108147",
-            "thumbnail_url": "https://i.ytimg.com/vi/1hIR75GsjFA/hqdefault.jpg"
+            "duration": "23:57",
+            "view_count": "180271",
+            "thumbnail_url": "https://i.ytimg.com/vi/AdwWWRGWd7w/hqdefault.jpg"
         },
         {
             "video_id": "TLftyCObb_E",
@@ -88,26 +88,8 @@
             "channel_name": "NMIXX - Topic",
             "category": "Music",
             "duration": "3:06",
-            "view_count": "116667",
+            "view_count": "123882",
             "thumbnail_url": "https://i.ytimg.com/vi/TLftyCObb_E/hqdefault.jpg"
-        },
-        {
-            "video_id": "4AFjS2EyfHw",
-            "title": "이 독재자의 끝을 아는 사람:",
-            "channel_name": "괴물쥐 유튜브",
-            "category": "Gaming",
-            "duration": "26:01",
-            "view_count": "337736",
-            "thumbnail_url": "https://i.ytimg.com/vi/4AFjS2EyfHw/hqdefault.jpg"
-        },
-        {
-            "video_id": "aTqchg0BUG4",
-            "title": "EYES CLOSED",
-            "channel_name": "JISOO - Topic",
-            "category": "Music",
-            "duration": "3:02",
-            "view_count": "6936541",
-            "thumbnail_url": "https://i.ytimg.com/vi/aTqchg0BUG4/hqdefault.jpg"
         },
         {
             "video_id": "xvRpIebeul4",
@@ -115,8 +97,26 @@
             "channel_name": "근가놈",
             "category": "Gaming",
             "duration": "22:29",
-            "view_count": "116696",
+            "view_count": "120558",
             "thumbnail_url": "https://i.ytimg.com/vi/xvRpIebeul4/hqdefault.jpg"
+        },
+        {
+            "video_id": "aTqchg0BUG4",
+            "title": "EYES CLOSED",
+            "channel_name": "JISOO - Topic",
+            "category": "Music",
+            "duration": "3:02",
+            "view_count": "6989732",
+            "thumbnail_url": "https://i.ytimg.com/vi/aTqchg0BUG4/hqdefault.jpg"
+        },
+        {
+            "video_id": "1hIR75GsjFA",
+            "title": "마인크래프트, 코마가 서버의 신이 되는 PVP",
+            "channel_name": "꼬예유 & 한예찬의 게임저장소",
+            "category": "Gaming",
+            "duration": "14:17",
+            "view_count": "110537",
+            "thumbnail_url": "https://i.ytimg.com/vi/1hIR75GsjFA/hqdefault.jpg"
         },
         {
             "video_id": "EcgekHwsBgA",
@@ -124,17 +124,17 @@
             "channel_name": "Kenshi Yonezu - Topic",
             "category": "Music",
             "duration": "3:48",
-            "view_count": "125659",
+            "view_count": "127689",
             "thumbnail_url": "https://i.ytimg.com/vi/EcgekHwsBgA/hqdefault.jpg"
         },
         {
-            "video_id": "uNZftYhKehk",
-            "title": "혼자 자막 독점하는 말 많은 중국인ㅋㅋㅋㅋㅋ",
-            "channel_name": "스맵",
+            "video_id": "L-zcj4R9WOk",
+            "title": "리신을 극한까지 이해하면 생기는 일 ㅋㅋㅋ",
+            "channel_name": "클리드",
             "category": "Gaming",
-            "duration": "27:59",
-            "view_count": "127780",
-            "thumbnail_url": "https://i.ytimg.com/vi/uNZftYhKehk/hqdefault.jpg"
+            "duration": "25:46",
+            "view_count": "138308",
+            "thumbnail_url": "https://i.ytimg.com/vi/L-zcj4R9WOk/hqdefault.jpg"
         },
         {
             "video_id": "BdiQl3z5C7Y",
@@ -142,26 +142,8 @@
             "channel_name": "Kim Na-young - Topic",
             "category": "Music",
             "duration": "3:25",
-            "view_count": "103116",
+            "view_count": "103776",
             "thumbnail_url": "https://i.ytimg.com/vi/BdiQl3z5C7Y/hqdefault.jpg"
-        },
-        {
-            "video_id": "zM8fkvomoWI",
-            "title": "아무도 예상못한 WER 프리미어 \"김된모 비토\", 상대도 당황한 슈퍼 크랙 플레이ㅋㅋㅋㅋㅋㅋㅋ [WER 5주차 프리미어]",
-            "channel_name": "김된모",
-            "category": "Gaming",
-            "duration": "17:38",
-            "view_count": "105322",
-            "thumbnail_url": "https://i.ytimg.com/vi/zM8fkvomoWI/hqdefault.jpg"
-        },
-        {
-            "video_id": "wlHwjkYpSr0",
-            "title": "BABYMONSTER - ‘WE GO UP’ M/V",
-            "channel_name": "BABYMONSTER",
-            "category": "Music",
-            "duration": "3:23",
-            "view_count": "28359613",
-            "thumbnail_url": "https://i.ytimg.com/vi/wlHwjkYpSr0/hqdefault.jpg"
         },
         {
             "video_id": "SPR25NWVIrs",
@@ -169,7 +151,7 @@
             "channel_name": "도멘TV [DOTUBE]",
             "category": "Gaming",
             "duration": "9:01",
-            "view_count": "47928",
+            "view_count": "49487",
             "thumbnail_url": "https://i.ytimg.com/vi/SPR25NWVIrs/hqdefault.jpg"
         },
         {
@@ -178,17 +160,17 @@
             "channel_name": "TWS - Topic",
             "category": "Music",
             "duration": "2:40",
-            "view_count": "32361",
+            "view_count": "35293",
             "thumbnail_url": "https://i.ytimg.com/vi/QPAWJ2FyRRw/hqdefault.jpg"
         },
         {
-            "video_id": "FYURzirq6wY",
-            "title": "90%유저들은 못본 모든 희귀 할로윈 브레인롯까지 싹다 뽑기 도전!! 다 모으고 마녀 시크릿 퓨즈에 엄청난 재료를 넣고 돌렸더니!!?? (로블록스 브레인롯훔치기)",
-            "channel_name": "쉐어TV",
+            "video_id": "uNZftYhKehk",
+            "title": "혼자 자막 독점하는 말 많은 중국인ㅋㅋㅋㅋㅋ",
+            "channel_name": "스맵",
             "category": "Gaming",
-            "duration": "24:26",
-            "view_count": "128301",
-            "thumbnail_url": "https://i.ytimg.com/vi/FYURzirq6wY/hqdefault.jpg"
+            "duration": "27:59",
+            "view_count": "129243",
+            "thumbnail_url": "https://i.ytimg.com/vi/uNZftYhKehk/hqdefault.jpg"
         },
         {
             "video_id": "EloT6CmIkBc",
@@ -196,8 +178,26 @@
             "channel_name": "BIG Naughty - Topic",
             "category": "Music",
             "duration": "3:38",
-            "view_count": "52955",
+            "view_count": "53749",
             "thumbnail_url": "https://i.ytimg.com/vi/EloT6CmIkBc/hqdefault.jpg"
+        },
+        {
+            "video_id": "zM8fkvomoWI",
+            "title": "아무도 예상못한 WER 프리미어 \"김된모 비토\", 상대도 당황한 슈퍼 크랙 플레이ㅋㅋㅋㅋㅋㅋㅋ [WER 5주차 프리미어]",
+            "channel_name": "김된모",
+            "category": "Gaming",
+            "duration": "17:38",
+            "view_count": "107505",
+            "thumbnail_url": "https://i.ytimg.com/vi/zM8fkvomoWI/hqdefault.jpg"
+        },
+        {
+            "video_id": "wlHwjkYpSr0",
+            "title": "BABYMONSTER - ‘WE GO UP’ M/V",
+            "channel_name": "BABYMONSTER",
+            "category": "Music",
+            "duration": "3:23",
+            "view_count": "28549262",
+            "thumbnail_url": "https://i.ytimg.com/vi/wlHwjkYpSr0/hqdefault.jpg"
         },
         {
             "video_id": "NCItYk90p1A",
@@ -205,7 +205,7 @@
             "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
             "duration": "17:07",
-            "view_count": "125037",
+            "view_count": "131251",
             "thumbnail_url": "https://i.ytimg.com/vi/NCItYk90p1A/hqdefault.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "channel_name": "임영웅",
             "category": "Music",
             "duration": "3:43",
-            "view_count": "569328",
+            "view_count": "570365",
             "thumbnail_url": "https://i.ytimg.com/vi/ylTuLv9iDmY/hqdefault.jpg"
         },
         {
@@ -223,7 +223,7 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "8:57",
-            "view_count": "179230",
+            "view_count": "184956",
             "thumbnail_url": "https://i.ytimg.com/vi/IukQ2gI7bck/hqdefault.jpg"
         },
         {
@@ -232,17 +232,17 @@
             "channel_name": "Lee Soo Yeon - Topic",
             "category": "Music",
             "duration": "3:25",
-            "view_count": "23439",
+            "view_count": "23712",
             "thumbnail_url": "https://i.ytimg.com/vi/hmsKIOvyfaQ/hqdefault.jpg"
         },
         {
-            "video_id": "KULUkjwXqBs",
-            "title": "본캐 레알 급여 290에 맞춰서 새롭게 단장 합니다",
-            "channel_name": "두치와뿌꾸",
+            "video_id": "FYURzirq6wY",
+            "title": "90%유저들은 못본 모든 희귀 할로윈 브레인롯까지 싹다 뽑기 도전!! 다 모으고 마녀 시크릿 퓨즈에 엄청난 재료를 넣고 돌렸더니!!?? (로블록스 브레인롯훔치기)",
+            "channel_name": "쉐어TV",
             "category": "Gaming",
-            "duration": "13:09",
-            "view_count": "103934",
-            "thumbnail_url": "https://i.ytimg.com/vi/KULUkjwXqBs/hqdefault.jpg"
+            "duration": "24:26",
+            "view_count": "128436",
+            "thumbnail_url": "https://i.ytimg.com/vi/FYURzirq6wY/hqdefault.jpg"
         },
         {
             "video_id": "2s1RxTphqps",
@@ -250,44 +250,8 @@
             "channel_name": "Sofia Camara - Topic",
             "category": "Music",
             "duration": "2:58",
-            "view_count": "61693",
+            "view_count": "62697",
             "thumbnail_url": "https://i.ytimg.com/vi/2s1RxTphqps/hqdefault.jpg"
-        },
-        {
-            "video_id": "L-zcj4R9WOk",
-            "title": "리신을 극한까지 이해하면 생기는 일 ㅋㅋㅋ",
-            "channel_name": "클리드",
-            "category": "Gaming",
-            "duration": "25:46",
-            "view_count": "131585",
-            "thumbnail_url": "https://i.ytimg.com/vi/L-zcj4R9WOk/hqdefault.jpg"
-        },
-        {
-            "video_id": "xkEtuIrfLjs",
-            "title": "Follow Your Steps - Acoustic",
-            "channel_name": "10CM - Topic",
-            "category": "Music",
-            "duration": "4:09",
-            "view_count": "16058",
-            "thumbnail_url": "https://i.ytimg.com/vi/xkEtuIrfLjs/hqdefault.jpg"
-        },
-        {
-            "video_id": "L8bB82_bXYY",
-            "title": "게임하면서 욕하거나 화내면 패배하는 방, 제가 한번 들어가 봤습니다ㅋㅋ",
-            "channel_name": "[ALTUBE] 김성현TV",
-            "category": "Gaming",
-            "duration": "33:37",
-            "view_count": "102582",
-            "thumbnail_url": "https://i.ytimg.com/vi/L8bB82_bXYY/hqdefault.jpg"
-        },
-        {
-            "video_id": "DN5rqMZRmqg",
-            "title": "All I Want Is You (Would You Marry Me? : Original Television Soundtrack)",
-            "channel_name": "SEUNGMIN - Topic",
-            "category": "Music",
-            "duration": "3:13",
-            "view_count": "265792",
-            "thumbnail_url": "https://i.ytimg.com/vi/DN5rqMZRmqg/hqdefault.jpg"
         },
         {
             "video_id": "_FBaj2zfqEA",
@@ -295,26 +259,44 @@
             "channel_name": "전쓰트의 게임 채널 Junsst",
             "category": "Gaming",
             "duration": "14:49",
-            "view_count": "93631",
+            "view_count": "96961",
             "thumbnail_url": "https://i.ytimg.com/vi/_FBaj2zfqEA/hqdefault.jpg"
         },
         {
-            "video_id": "hopzjNHQmqU",
-            "title": "HUNTR/X (Huntrix) - Golden (Lyrics) from KPop Demon Hunters",
-            "channel_name": "7clouds Future House",
+            "video_id": "xkEtuIrfLjs",
+            "title": "Follow Your Steps - Acoustic",
+            "channel_name": "10CM - Topic",
             "category": "Music",
-            "duration": "3:15",
-            "view_count": "201159",
-            "thumbnail_url": "https://i.ytimg.com/vi/hopzjNHQmqU/hqdefault.jpg"
+            "duration": "4:09",
+            "view_count": "16112",
+            "thumbnail_url": "https://i.ytimg.com/vi/xkEtuIrfLjs/hqdefault.jpg"
         },
         {
-            "video_id": "FDSQ67tfWYY",
-            "title": "갬빗 장인한테 자이라 2성을 주면 생기는 일",
-            "channel_name": "잡상싱",
+            "video_id": "KULUkjwXqBs",
+            "title": "본캐 레알 급여 290에 맞춰서 새롭게 단장 합니다",
+            "channel_name": "두치와뿌꾸",
             "category": "Gaming",
-            "duration": "13:41",
-            "view_count": "184809",
-            "thumbnail_url": "https://i.ytimg.com/vi/FDSQ67tfWYY/hqdefault.jpg"
+            "duration": "13:09",
+            "view_count": "106152",
+            "thumbnail_url": "https://i.ytimg.com/vi/KULUkjwXqBs/hqdefault.jpg"
+        },
+        {
+            "video_id": "DN5rqMZRmqg",
+            "title": "All I Want Is You (Would You Marry Me? : Original Television Soundtrack)",
+            "channel_name": "SEUNGMIN - Topic",
+            "category": "Music",
+            "duration": "3:13",
+            "view_count": "267808",
+            "thumbnail_url": "https://i.ytimg.com/vi/DN5rqMZRmqg/hqdefault.jpg"
+        },
+        {
+            "video_id": "L8bB82_bXYY",
+            "title": "게임하면서 욕하거나 화내면 패배하는 방, 제가 한번 들어가 봤습니다ㅋㅋ",
+            "channel_name": "[ALTUBE] 김성현TV",
+            "category": "Gaming",
+            "duration": "33:37",
+            "view_count": "104965",
+            "thumbnail_url": "https://i.ytimg.com/vi/L8bB82_bXYY/hqdefault.jpg"
         },
         {
             "video_id": "y9j0CRgylnw",
@@ -322,7 +304,7 @@
             "channel_name": "Madison Beer - Topic",
             "category": "Music",
             "duration": "3:23",
-            "view_count": "434244",
+            "view_count": "438729",
             "thumbnail_url": "https://i.ytimg.com/vi/y9j0CRgylnw/hqdefault.jpg"
         },
         {
@@ -331,17 +313,17 @@
             "channel_name": "괴물연구소",
             "category": "Entertainment",
             "duration": "34:12",
-            "view_count": "295189",
+            "view_count": "300349",
             "thumbnail_url": "https://i.ytimg.com/vi/9VGivoFZE-c/hqdefault.jpg"
         },
         {
-            "video_id": "sL7DznxhzwY",
-            "title": "WONDERING",
-            "channel_name": "BamBam  - Topic",
+            "video_id": "hopzjNHQmqU",
+            "title": "HUNTR/X (Huntrix) - Golden (Lyrics) from KPop Demon Hunters",
+            "channel_name": "7clouds Future House",
             "category": "Music",
-            "duration": "2:48",
-            "view_count": "89346",
-            "thumbnail_url": "https://i.ytimg.com/vi/sL7DznxhzwY/hqdefault.jpg"
+            "duration": "3:15",
+            "view_count": "208887",
+            "thumbnail_url": "https://i.ytimg.com/vi/hopzjNHQmqU/hqdefault.jpg"
         },
         {
             "video_id": "ewZLrcou_8A",
@@ -349,8 +331,26 @@
             "channel_name": "발스타홍구",
             "category": "Gaming",
             "duration": "21:11",
-            "view_count": "119013",
+            "view_count": "120544",
             "thumbnail_url": "https://i.ytimg.com/vi/ewZLrcou_8A/hqdefault.jpg"
+        },
+        {
+            "video_id": "sL7DznxhzwY",
+            "title": "WONDERING",
+            "channel_name": "BamBam  - Topic",
+            "category": "Music",
+            "duration": "2:48",
+            "view_count": "90611",
+            "thumbnail_url": "https://i.ytimg.com/vi/sL7DznxhzwY/hqdefault.jpg"
+        },
+        {
+            "video_id": "FDSQ67tfWYY",
+            "title": "갬빗 장인한테 자이라 2성을 주면 생기는 일",
+            "channel_name": "잡상싱",
+            "category": "Gaming",
+            "duration": "13:41",
+            "view_count": "185692",
+            "thumbnail_url": "https://i.ytimg.com/vi/FDSQ67tfWYY/hqdefault.jpg"
         },
         {
             "video_id": "bqAxhFxwfW8",
@@ -358,17 +358,17 @@
             "channel_name": "Radio Love",
             "category": "People & Blogs",
             "duration": "57:58",
-            "view_count": "46616",
+            "view_count": "46709",
             "thumbnail_url": "https://i.ytimg.com/vi/bqAxhFxwfW8/hqdefault.jpg"
         },
         {
-            "video_id": "qptvuPRIBuI",
-            "title": "한국최초 \"음양 스푸키 펌키\"가 떴습니다!!! 모든 할로윈 시크릿 얻고 새로나온 여자 치클레테이라까지!!! (로블록스 브레인롯 훔치기)",
-            "channel_name": "말량",
+            "video_id": "C6PnSRjWo84",
+            "title": "2025 한글작 시작하겠소",
+            "channel_name": "머독",
             "category": "Gaming",
-            "duration": "21:29",
-            "view_count": "234510",
-            "thumbnail_url": "https://i.ytimg.com/vi/qptvuPRIBuI/hqdefault.jpg"
+            "duration": "18:42",
+            "view_count": "105336",
+            "thumbnail_url": "https://i.ytimg.com/vi/C6PnSRjWo84/hqdefault.jpg"
         },
         {
             "video_id": "j8ZZR1jhVeY",
@@ -376,7 +376,7 @@
             "channel_name": "LANY - Topic",
             "category": "Music",
             "duration": "3:11",
-            "view_count": "165599",
+            "view_count": "167196",
             "thumbnail_url": "https://i.ytimg.com/vi/j8ZZR1jhVeY/hqdefault.jpg"
         }
     ]
