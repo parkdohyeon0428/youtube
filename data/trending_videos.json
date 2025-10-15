@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-10-16 07:11:23",
+    "scraped_time": "2025-10-16 08:11:59",
     "videos": [
         {
             "video_id": "4L_YopHT3Gg",
@@ -7,7 +7,7 @@
             "channel_name": "임영웅",
             "category": "Music",
             "duration": "3:32",
-            "view_count": "263037",
+            "view_count": "265389",
             "thumbnail_url": "https://i.ytimg.com/vi/4L_YopHT3Gg/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "2:02",
-            "view_count": "159913",
+            "view_count": "160466",
             "thumbnail_url": "https://i.ytimg.com/vi/hJni_MNP_tk/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "8:39:44",
-            "view_count": "3890511",
+            "view_count": "3892922",
             "thumbnail_url": "https://i.ytimg.com/vi/o9ND2jwEjRQ/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "3:15",
-            "view_count": "11544676",
+            "view_count": "11562846",
             "thumbnail_url": "https://i.ytimg.com/vi/EmeW6li6bbo/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "9:10",
-            "view_count": "168755",
+            "view_count": "169046",
             "thumbnail_url": "https://i.ytimg.com/vi/JyL1B6JjmiQ/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "20:17",
-            "view_count": "229314",
+            "view_count": "236062",
             "thumbnail_url": "https://i.ytimg.com/vi/YJ29t8BNGzo/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "THEBLACKLABEL",
             "category": "Music",
             "duration": "2:56",
-            "view_count": "4461852",
+            "view_count": "4487084",
             "thumbnail_url": "https://i.ytimg.com/vi/hlULtigNNao/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "OfficialGDRAGON",
             "category": "People & Blogs",
             "duration": "0:32",
-            "view_count": "25691",
+            "view_count": "26118",
             "thumbnail_url": "https://i.ytimg.com/vi/sIGBBl9kY-M/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "Wolf",
             "category": "Gaming",
             "duration": "1:50:00",
-            "view_count": "250321",
+            "view_count": "252650",
             "thumbnail_url": "https://i.ytimg.com/vi/4hbZSuQ_DmM/hqdefault.jpg"
         },
         {
@@ -88,7 +88,7 @@
             "channel_name": "HWASA",
             "category": "Music",
             "duration": "3:46",
-            "view_count": "948531",
+            "view_count": "961001",
             "thumbnail_url": "https://i.ytimg.com/vi/Qe8fa4b5xNU/hqdefault.jpg"
         },
         {
@@ -97,26 +97,8 @@
             "channel_name": "SEVENTEEN",
             "category": "Music",
             "duration": "0:52",
-            "view_count": "84193",
+            "view_count": "84628",
             "thumbnail_url": "https://i.ytimg.com/vi/cSWv4Znnti8/hqdefault.jpg"
-        },
-        {
-            "video_id": "75CvzhHsrk0",
-            "title": "자고 일어났더니 제 장례식이 치뤄졌습니다...",
-            "channel_name": "김된모",
-            "category": "Gaming",
-            "duration": "16:10",
-            "view_count": "200644",
-            "thumbnail_url": "https://i.ytimg.com/vi/75CvzhHsrk0/hqdefault.jpg"
-        },
-        {
-            "video_id": "TLftyCObb_E",
-            "title": "Blue Valentine",
-            "channel_name": "NMIXX - Topic",
-            "category": "Music",
-            "duration": "3:06",
-            "view_count": "817198",
-            "thumbnail_url": "https://i.ytimg.com/vi/TLftyCObb_E/hqdefault.jpg"
         },
         {
             "video_id": "CdlOm6x_CS4",
@@ -124,8 +106,26 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "1:00:35",
-            "view_count": "221614",
+            "view_count": "225552",
             "thumbnail_url": "https://i.ytimg.com/vi/CdlOm6x_CS4/hqdefault.jpg"
+        },
+        {
+            "video_id": "TLftyCObb_E",
+            "title": "Blue Valentine",
+            "channel_name": "NMIXX - Topic",
+            "category": "Music",
+            "duration": "3:06",
+            "view_count": "823181",
+            "thumbnail_url": "https://i.ytimg.com/vi/TLftyCObb_E/hqdefault.jpg"
+        },
+        {
+            "video_id": "75CvzhHsrk0",
+            "title": "자고 일어났더니 제 장례식이 치뤄졌습니다...",
+            "channel_name": "김된모",
+            "category": "Gaming",
+            "duration": "16:10",
+            "view_count": "201809",
+            "thumbnail_url": "https://i.ytimg.com/vi/75CvzhHsrk0/hqdefault.jpg"
         },
         {
             "video_id": "roSUXQ4fGvg",
@@ -133,7 +133,7 @@
             "channel_name": "MEOVV - Topic",
             "category": "Music",
             "duration": "2:50",
-            "view_count": "91424",
+            "view_count": "92319",
             "thumbnail_url": "https://i.ytimg.com/vi/roSUXQ4fGvg/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "League of Legends",
             "category": "Gaming",
             "duration": "4:12",
-            "view_count": "8202663",
+            "view_count": "8294251",
             "thumbnail_url": "https://i.ytimg.com/vi/pzt6SmvGpXk/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "고추잠자리 - Topic",
             "category": "Music",
             "duration": "4:18",
-            "view_count": "440565",
+            "view_count": "442153",
             "thumbnail_url": "https://i.ytimg.com/vi/4WFsxzp7SBc/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "38:00",
-            "view_count": "138119",
+            "view_count": "140666",
             "thumbnail_url": "https://i.ytimg.com/vi/Zv63PnXZm2Q/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "3:29",
-            "view_count": "3136092",
+            "view_count": "3137781",
             "thumbnail_url": "https://i.ytimg.com/vi/TzbGBkEh9ms/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "쉐어TV",
             "category": "Gaming",
             "duration": "22:02",
-            "view_count": "134377",
+            "view_count": "134793",
             "thumbnail_url": "https://i.ytimg.com/vi/wigp5tSuX_k/hqdefault.jpg"
         },
         {
@@ -187,26 +187,8 @@
             "channel_name": "BABYMONSTER",
             "category": "Music",
             "duration": "3:26",
-            "view_count": "19400403",
+            "view_count": "19433500",
             "thumbnail_url": "https://i.ytimg.com/vi/o9V8HrgJgIg/hqdefault.jpg"
-        },
-        {
-            "video_id": "Pjoknd7lMP8",
-            "title": "10.15 LIVE 신진서 오늘 이기면 란커배 2년 연속 우승~ 제3회 란커배 결승최종국 신진서 vs 당이페이 #김성룡바둑랩 #바둑",
-            "channel_name": "김성룡 바둑랩",
-            "category": "Gaming",
-            "duration": "4:38:17",
-            "view_count": "268615",
-            "thumbnail_url": "https://i.ytimg.com/vi/Pjoknd7lMP8/hqdefault.jpg"
-        },
-        {
-            "video_id": "QPAWJ2FyRRw",
-            "title": "OVERDRIVE",
-            "channel_name": "TWS - Topic",
-            "category": "Music",
-            "duration": "2:40",
-            "view_count": "188754",
-            "thumbnail_url": "https://i.ytimg.com/vi/QPAWJ2FyRRw/hqdefault.jpg"
         },
         {
             "video_id": "CD0USh6VCoU",
@@ -214,8 +196,26 @@
             "channel_name": "이도원",
             "category": "Gaming",
             "duration": "37:50",
-            "view_count": "160069",
+            "view_count": "161596",
             "thumbnail_url": "https://i.ytimg.com/vi/CD0USh6VCoU/hqdefault.jpg"
+        },
+        {
+            "video_id": "QPAWJ2FyRRw",
+            "title": "OVERDRIVE",
+            "channel_name": "TWS - Topic",
+            "category": "Music",
+            "duration": "2:40",
+            "view_count": "189618",
+            "thumbnail_url": "https://i.ytimg.com/vi/QPAWJ2FyRRw/hqdefault.jpg"
+        },
+        {
+            "video_id": "Pjoknd7lMP8",
+            "title": "10.15 LIVE 신진서 오늘 이기면 란커배 2년 연속 우승~ 제3회 란커배 결승최종국 신진서 vs 당이페이 #김성룡바둑랩 #바둑",
+            "channel_name": "김성룡 바둑랩",
+            "category": "Gaming",
+            "duration": "4:38:17",
+            "view_count": "268784",
+            "thumbnail_url": "https://i.ytimg.com/vi/Pjoknd7lMP8/hqdefault.jpg"
         },
         {
             "video_id": "Y6hQOI-hdkk",
@@ -223,7 +223,7 @@
             "channel_name": "SOHEE - Topic",
             "category": "Music",
             "duration": "3:12",
-            "view_count": "20661",
+            "view_count": "21024",
             "thumbnail_url": "https://i.ytimg.com/vi/Y6hQOI-hdkk/hqdefault.jpg"
         },
         {
@@ -232,7 +232,7 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "38:19",
-            "view_count": "292719",
+            "view_count": "293229",
             "thumbnail_url": "https://i.ytimg.com/vi/05-__NCbbAA/hqdefault.jpg"
         },
         {
@@ -241,7 +241,7 @@
             "channel_name": "장민호",
             "category": "People & Blogs",
             "duration": "4:46",
-            "view_count": "42377",
+            "view_count": "42705",
             "thumbnail_url": "https://i.ytimg.com/vi/0JeQF_nrSmU/hqdefault.jpg"
         },
         {
@@ -250,7 +250,7 @@
             "channel_name": "붐바야",
             "category": "Gaming",
             "duration": "4:20",
-            "view_count": "142069",
+            "view_count": "142592",
             "thumbnail_url": "https://i.ytimg.com/vi/5e8f6u3bBbI/hqdefault.jpg"
         },
         {
@@ -259,26 +259,8 @@
             "channel_name": "BIG Naughty - Topic",
             "category": "Music",
             "duration": "3:38",
-            "view_count": "213027",
+            "view_count": "214001",
             "thumbnail_url": "https://i.ytimg.com/vi/EloT6CmIkBc/hqdefault.jpg"
-        },
-        {
-            "video_id": "rK07jtmga-A",
-            "title": "그녀와의 재회는 최악이었다 [피어앤헝거2 완]",
-            "channel_name": "랄로",
-            "category": "Gaming",
-            "duration": "2:03:21",
-            "view_count": "189890",
-            "thumbnail_url": "https://i.ytimg.com/vi/rK07jtmga-A/hqdefault.jpg"
-        },
-        {
-            "video_id": "SERO52BIfQo",
-            "title": "last night (지울 수 없던 그날 밤)",
-            "channel_name": "차가을 - Topic",
-            "category": "Music",
-            "duration": "3:41",
-            "view_count": "15361",
-            "thumbnail_url": "https://i.ytimg.com/vi/SERO52BIfQo/hqdefault.jpg"
         },
         {
             "video_id": "5kqtNk5qmlQ",
@@ -286,7 +268,7 @@
             "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
             "duration": "13:23",
-            "view_count": "99568",
+            "view_count": "101283",
             "thumbnail_url": "https://i.ytimg.com/vi/5kqtNk5qmlQ/hqdefault.jpg"
         },
         {
@@ -295,8 +277,26 @@
             "channel_name": "ALEPH - Topic",
             "category": "Music",
             "duration": "3:38",
-            "view_count": "35404",
+            "view_count": "35783",
             "thumbnail_url": "https://i.ytimg.com/vi/3dfzSeh_9Yg/hqdefault.jpg"
+        },
+        {
+            "video_id": "rK07jtmga-A",
+            "title": "그녀와의 재회는 최악이었다 [피어앤헝거2 완]",
+            "channel_name": "랄로",
+            "category": "Gaming",
+            "duration": "2:03:21",
+            "view_count": "190851",
+            "thumbnail_url": "https://i.ytimg.com/vi/rK07jtmga-A/hqdefault.jpg"
+        },
+        {
+            "video_id": "SERO52BIfQo",
+            "title": "last night (지울 수 없던 그날 밤)",
+            "channel_name": "차가을 - Topic",
+            "category": "Music",
+            "duration": "3:41",
+            "view_count": "15565",
+            "thumbnail_url": "https://i.ytimg.com/vi/SERO52BIfQo/hqdefault.jpg"
         },
         {
             "video_id": "5KSg-fs_dVs",
@@ -304,7 +304,7 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "45:14",
-            "view_count": "76459",
+            "view_count": "78314",
             "thumbnail_url": "https://i.ytimg.com/vi/5KSg-fs_dVs/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "Young K - Topic",
             "category": "Music",
             "duration": "2:54",
-            "view_count": "32308",
+            "view_count": "32590",
             "thumbnail_url": "https://i.ytimg.com/vi/6HMANFXtoQI/hqdefault.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "13:18",
-            "view_count": "108082",
+            "view_count": "110251",
             "thumbnail_url": "https://i.ytimg.com/vi/3HVOIsmTgq0/hqdefault.jpg"
         },
         {
@@ -331,7 +331,7 @@
             "channel_name": "Kenshi Yonezu - Topic",
             "category": "Music",
             "duration": "3:48",
-            "view_count": "267436",
+            "view_count": "268275",
             "thumbnail_url": "https://i.ytimg.com/vi/EcgekHwsBgA/hqdefault.jpg"
         },
         {
@@ -340,26 +340,8 @@
             "channel_name": "김데데",
             "category": "Gaming",
             "duration": "27:13",
-            "view_count": "121025",
+            "view_count": "122989",
             "thumbnail_url": "https://i.ytimg.com/vi/AD3ERtwXJhQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "KxaM3RMTWI0",
-            "title": "I",
-            "channel_name": "BUMP OF CHICKEN - Topic",
-            "category": "Music",
-            "duration": "4:07",
-            "view_count": "137223",
-            "thumbnail_url": "https://i.ytimg.com/vi/KxaM3RMTWI0/hqdefault.jpg"
-        },
-        {
-            "video_id": "HOgoyl32TiI",
-            "title": "삼형제 집에 찾아온 어디서 많이 본(?) 공포의 인형",
-            "channel_name": "잠뜰 TV",
-            "category": "Gaming",
-            "duration": "33:05",
-            "view_count": "262140",
-            "thumbnail_url": "https://i.ytimg.com/vi/HOgoyl32TiI/hqdefault.jpg"
         },
         {
             "video_id": "xkEtuIrfLjs",
@@ -367,8 +349,26 @@
             "channel_name": "10CM - Topic",
             "category": "Music",
             "duration": "4:09",
-            "view_count": "64751",
+            "view_count": "65071",
             "thumbnail_url": "https://i.ytimg.com/vi/xkEtuIrfLjs/hqdefault.jpg"
+        },
+        {
+            "video_id": "HOgoyl32TiI",
+            "title": "삼형제 집에 찾아온 어디서 많이 본(?) 공포의 인형",
+            "channel_name": "잠뜰 TV",
+            "category": "Gaming",
+            "duration": "33:05",
+            "view_count": "262471",
+            "thumbnail_url": "https://i.ytimg.com/vi/HOgoyl32TiI/hqdefault.jpg"
+        },
+        {
+            "video_id": "KxaM3RMTWI0",
+            "title": "I",
+            "channel_name": "BUMP OF CHICKEN - Topic",
+            "category": "Music",
+            "duration": "4:07",
+            "view_count": "139154",
+            "thumbnail_url": "https://i.ytimg.com/vi/KxaM3RMTWI0/hqdefault.jpg"
         },
         {
             "video_id": "4F3S3MW9jqE",
@@ -376,7 +376,7 @@
             "channel_name": "주키니TV",
             "category": "Gaming",
             "duration": "19:00",
-            "view_count": "102127",
+            "view_count": "103861",
             "thumbnail_url": "https://i.ytimg.com/vi/4F3S3MW9jqE/hqdefault.jpg"
         }
     ]
