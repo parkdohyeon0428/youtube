@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-10-15 10:03:19",
+    "scraped_time": "2025-10-15 12:00:20",
     "videos": [
         {
             "video_id": "4L_YopHT3Gg",
@@ -7,7 +7,7 @@
             "channel_name": "임영웅",
             "category": "Music",
             "duration": "3:32",
-            "view_count": "161782",
+            "view_count": "174762",
             "thumbnail_url": "https://i.ytimg.com/vi/4L_YopHT3Gg/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "2:02",
-            "view_count": "79225",
+            "view_count": "85083",
             "thumbnail_url": "https://i.ytimg.com/vi/hJni_MNP_tk/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "5:17:09",
-            "view_count": "3466165",
+            "view_count": "3473882",
             "thumbnail_url": "https://i.ytimg.com/vi/VGAH2DOOrhM/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "3:15",
-            "view_count": "7999409",
+            "view_count": "8272275",
             "thumbnail_url": "https://i.ytimg.com/vi/EmeW6li6bbo/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "9:10",
-            "view_count": "133173",
+            "view_count": "136262",
             "thumbnail_url": "https://i.ytimg.com/vi/JyL1B6JjmiQ/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "League of Legends",
             "category": "Gaming",
             "duration": "4:12",
-            "view_count": "5128829",
+            "view_count": "5228284",
             "thumbnail_url": "https://i.ytimg.com/vi/pzt6SmvGpXk/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "NMIXX - Topic",
             "category": "Music",
             "duration": "3:06",
-            "view_count": "483585",
+            "view_count": "524357",
             "thumbnail_url": "https://i.ytimg.com/vi/TLftyCObb_E/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "Disney Plus Korea 디즈니 플러스 코리아",
             "category": "Film & Animation",
             "duration": "1:23",
-            "view_count": "111442",
+            "view_count": "111830",
             "thumbnail_url": "https://i.ytimg.com/vi/qw_JJRWLnII/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "27:41",
-            "view_count": "237561",
+            "view_count": "251849",
             "thumbnail_url": "https://i.ytimg.com/vi/2zmK13zOCkk/hqdefault.jpg"
         },
         {
@@ -88,8 +88,17 @@
             "channel_name": "THEBLACKLABEL",
             "category": "Music",
             "duration": "2:56",
-            "view_count": "1863691",
+            "view_count": "1941105",
             "thumbnail_url": "https://i.ytimg.com/vi/hlULtigNNao/hqdefault.jpg"
+        },
+        {
+            "video_id": "cSWv4Znnti8",
+            "title": "[SEVENTEEN: OUR CHAPTER] Teaser Trailer",
+            "channel_name": "SEVENTEEN",
+            "category": "Music",
+            "duration": "0:52",
+            "view_count": "28911",
+            "thumbnail_url": "https://i.ytimg.com/vi/cSWv4Znnti8/hqdefault.jpg"
         },
         {
             "video_id": "UixyMGp-xAo",
@@ -97,7 +106,7 @@
             "channel_name": "도멘TV [DOTUBE]",
             "category": "Gaming",
             "duration": "9:00",
-            "view_count": "68452",
+            "view_count": "70876",
             "thumbnail_url": "https://i.ytimg.com/vi/UixyMGp-xAo/hqdefault.jpg"
         },
         {
@@ -106,26 +115,8 @@
             "channel_name": "고추잠자리 - Topic",
             "category": "Music",
             "duration": "4:18",
-            "view_count": "340797",
+            "view_count": "353586",
             "thumbnail_url": "https://i.ytimg.com/vi/4WFsxzp7SBc/hqdefault.jpg"
-        },
-        {
-            "video_id": "HOgoyl32TiI",
-            "title": "삼형제 집에 찾아온 어디서 많이 본(?) 공포의 인형",
-            "channel_name": "잠뜰 TV",
-            "category": "Gaming",
-            "duration": "33:05",
-            "view_count": "190775",
-            "thumbnail_url": "https://i.ytimg.com/vi/HOgoyl32TiI/hqdefault.jpg"
-        },
-        {
-            "video_id": "TzbGBkEh9ms",
-            "title": "TWS (투어스) 'OVERDRIVE' Official MV",
-            "channel_name": "HYBE LABELS",
-            "category": "Music",
-            "duration": "3:29",
-            "view_count": "2966383",
-            "thumbnail_url": "https://i.ytimg.com/vi/TzbGBkEh9ms/hqdefault.jpg"
         },
         {
             "video_id": "n3juGmiDje8",
@@ -133,17 +124,17 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "41:09",
-            "view_count": "119424",
+            "view_count": "132528",
             "thumbnail_url": "https://i.ytimg.com/vi/n3juGmiDje8/hqdefault.jpg"
         },
         {
-            "video_id": "o9V8HrgJgIg",
-            "title": "BABYMONSTER - 'WE GO UP' EXCLUSIVE PERFORMANCE VIDEO",
-            "channel_name": "BABYMONSTER",
+            "video_id": "TzbGBkEh9ms",
+            "title": "TWS (투어스) 'OVERDRIVE' Official MV",
+            "channel_name": "HYBE LABELS",
             "category": "Music",
-            "duration": "3:26",
-            "view_count": "10073635",
-            "thumbnail_url": "https://i.ytimg.com/vi/o9V8HrgJgIg/hqdefault.jpg"
+            "duration": "3:29",
+            "view_count": "2979658",
+            "thumbnail_url": "https://i.ytimg.com/vi/TzbGBkEh9ms/hqdefault.jpg"
         },
         {
             "video_id": "05-__NCbbAA",
@@ -151,7 +142,7 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "38:19",
-            "view_count": "156759",
+            "view_count": "179846",
             "thumbnail_url": "https://i.ytimg.com/vi/05-__NCbbAA/hqdefault.jpg"
         },
         {
@@ -160,26 +151,26 @@
             "channel_name": "MEOVV - Topic",
             "category": "Music",
             "duration": "2:50",
-            "view_count": "25931",
+            "view_count": "33061",
             "thumbnail_url": "https://i.ytimg.com/vi/roSUXQ4fGvg/hqdefault.jpg"
         },
         {
-            "video_id": "f_PrVdOYJR8",
-            "title": "4년 전 계정으로 새 배치를 본다면... 김된모 티어는 어디가 나올까????",
-            "channel_name": "김된모",
+            "video_id": "HOgoyl32TiI",
+            "title": "삼형제 집에 찾아온 어디서 많이 본(?) 공포의 인형",
+            "channel_name": "잠뜰 TV",
             "category": "Gaming",
-            "duration": "12:48",
-            "view_count": "162462",
-            "thumbnail_url": "https://i.ytimg.com/vi/f_PrVdOYJR8/hqdefault.jpg"
+            "duration": "33:05",
+            "view_count": "194188",
+            "thumbnail_url": "https://i.ytimg.com/vi/HOgoyl32TiI/hqdefault.jpg"
         },
         {
-            "video_id": "QPAWJ2FyRRw",
-            "title": "OVERDRIVE",
-            "channel_name": "TWS - Topic",
+            "video_id": "o9V8HrgJgIg",
+            "title": "BABYMONSTER - 'WE GO UP' EXCLUSIVE PERFORMANCE VIDEO",
+            "channel_name": "BABYMONSTER",
             "category": "Music",
-            "duration": "2:40",
-            "view_count": "129512",
-            "thumbnail_url": "https://i.ytimg.com/vi/QPAWJ2FyRRw/hqdefault.jpg"
+            "duration": "3:26",
+            "view_count": "11132725",
+            "thumbnail_url": "https://i.ytimg.com/vi/o9V8HrgJgIg/hqdefault.jpg"
         },
         {
             "video_id": "6oYN_k5-Njc",
@@ -187,8 +178,26 @@
             "channel_name": "붐바야",
             "category": "Gaming",
             "duration": "4:48",
-            "view_count": "158236",
+            "view_count": "181489",
             "thumbnail_url": "https://i.ytimg.com/vi/6oYN_k5-Njc/hqdefault.jpg"
+        },
+        {
+            "video_id": "QPAWJ2FyRRw",
+            "title": "OVERDRIVE",
+            "channel_name": "TWS - Topic",
+            "category": "Music",
+            "duration": "2:40",
+            "view_count": "138143",
+            "thumbnail_url": "https://i.ytimg.com/vi/QPAWJ2FyRRw/hqdefault.jpg"
+        },
+        {
+            "video_id": "f_PrVdOYJR8",
+            "title": "4년 전 계정으로 새 배치를 본다면... 김된모 티어는 어디가 나올까????",
+            "channel_name": "김된모",
+            "category": "Gaming",
+            "duration": "12:48",
+            "view_count": "167443",
+            "thumbnail_url": "https://i.ytimg.com/vi/f_PrVdOYJR8/hqdefault.jpg"
         },
         {
             "video_id": "EloT6CmIkBc",
@@ -196,7 +205,7 @@
             "channel_name": "BIG Naughty - Topic",
             "category": "Music",
             "duration": "3:38",
-            "view_count": "138885",
+            "view_count": "148508",
             "thumbnail_url": "https://i.ytimg.com/vi/EloT6CmIkBc/hqdefault.jpg"
         },
         {
@@ -205,26 +214,8 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "22:03",
-            "view_count": "324801",
+            "view_count": "326825",
             "thumbnail_url": "https://i.ytimg.com/vi/Qia_06nvCJ4/hqdefault.jpg"
-        },
-        {
-            "video_id": "EcgekHwsBgA",
-            "title": "1991",
-            "channel_name": "Kenshi Yonezu - Topic",
-            "category": "Music",
-            "duration": "3:48",
-            "view_count": "215005",
-            "thumbnail_url": "https://i.ytimg.com/vi/EcgekHwsBgA/hqdefault.jpg"
-        },
-        {
-            "video_id": "j2gxw4EX0Ig",
-            "title": "10.14 LIVE 신진서 대역전 우승 가즈아~ 제3회 란커배 결승2국 신진서 vs 당이페이 #김성룡바둑랩 #바둑",
-            "channel_name": "김성룡 바둑랩",
-            "category": "Gaming",
-            "duration": "5:11:28",
-            "view_count": "225224",
-            "thumbnail_url": "https://i.ytimg.com/vi/j2gxw4EX0Ig/hqdefault.jpg"
         },
         {
             "video_id": "0JeQF_nrSmU",
@@ -232,7 +223,7 @@
             "channel_name": "장민호",
             "category": "People & Blogs",
             "duration": "4:46",
-            "view_count": "22136",
+            "view_count": "24746",
             "thumbnail_url": "https://i.ytimg.com/vi/0JeQF_nrSmU/hqdefault.jpg"
         },
         {
@@ -241,8 +232,26 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "11:52",
-            "view_count": "165066",
+            "view_count": "176955",
             "thumbnail_url": "https://i.ytimg.com/vi/zkADAtblfkE/hqdefault.jpg"
+        },
+        {
+            "video_id": "EcgekHwsBgA",
+            "title": "1991",
+            "channel_name": "Kenshi Yonezu - Topic",
+            "category": "Music",
+            "duration": "3:48",
+            "view_count": "221039",
+            "thumbnail_url": "https://i.ytimg.com/vi/EcgekHwsBgA/hqdefault.jpg"
+        },
+        {
+            "video_id": "j2gxw4EX0Ig",
+            "title": "10.14 LIVE 신진서 대역전 우승 가즈아~ 제3회 란커배 결승2국 신진서 vs 당이페이 #김성룡바둑랩 #바둑",
+            "channel_name": "김성룡 바둑랩",
+            "category": "Gaming",
+            "duration": "5:11:28",
+            "view_count": "225706",
+            "thumbnail_url": "https://i.ytimg.com/vi/j2gxw4EX0Ig/hqdefault.jpg"
         },
         {
             "video_id": "aTqchg0BUG4",
@@ -250,26 +259,26 @@
             "channel_name": "JISOO - Topic",
             "category": "Music",
             "duration": "3:02",
-            "view_count": "8366860",
+            "view_count": "8456508",
             "thumbnail_url": "https://i.ytimg.com/vi/aTqchg0BUG4/hqdefault.jpg"
         },
         {
-            "video_id": "OI1DXw7Uh6o",
-            "title": "T1 vs IG | WORLDS 2025 | Play-Ins",
-            "channel_name": "LoL Esports",
+            "video_id": "WSX0cJ63S6Y",
+            "title": "'T1 10:0 LPL' 월즈 개막전, 멸망전 공항빵 | 롤드컵 플레이인 T1 vs IG 스트리머 리액션 반응 모음",
+            "channel_name": "Ju1st",
             "category": "Gaming",
-            "duration": "5:22:25",
-            "view_count": "2210910",
-            "thumbnail_url": "https://i.ytimg.com/vi/OI1DXw7Uh6o/hqdefault.jpg"
+            "duration": "1:37:42",
+            "view_count": "46654",
+            "thumbnail_url": "https://i.ytimg.com/vi/WSX0cJ63S6Y/hqdefault.jpg"
         },
         {
-            "video_id": "BdiQl3z5C7Y",
-            "title": "I’m Still Into You (Would You Marry Me? : Original Television Soundtrack)",
-            "channel_name": "Kim Na-young - Topic",
+            "video_id": "6HMANFXtoQI",
+            "title": "Go Beyond",
+            "channel_name": "Young K - Topic",
             "category": "Music",
-            "duration": "3:25",
-            "view_count": "158403",
-            "thumbnail_url": "https://i.ytimg.com/vi/BdiQl3z5C7Y/hqdefault.jpg"
+            "duration": "2:54",
+            "view_count": "15928",
+            "thumbnail_url": "https://i.ytimg.com/vi/6HMANFXtoQI/hqdefault.jpg"
         },
         {
             "video_id": "2aSYYeFNtP8",
@@ -277,7 +286,7 @@
             "channel_name": "전략적죽음",
             "category": "Gaming",
             "duration": "27:23",
-            "view_count": "100111",
+            "view_count": "105677",
             "thumbnail_url": "https://i.ytimg.com/vi/2aSYYeFNtP8/hqdefault.jpg"
         },
         {
@@ -286,8 +295,26 @@
             "channel_name": "10CM - Topic",
             "category": "Music",
             "duration": "4:09",
-            "view_count": "40738",
+            "view_count": "43328",
             "thumbnail_url": "https://i.ytimg.com/vi/xkEtuIrfLjs/hqdefault.jpg"
+        },
+        {
+            "video_id": "OI1DXw7Uh6o",
+            "title": "T1 vs IG | WORLDS 2025 | Play-Ins",
+            "channel_name": "LoL Esports",
+            "category": "Gaming",
+            "duration": "5:22:25",
+            "view_count": "2226675",
+            "thumbnail_url": "https://i.ytimg.com/vi/OI1DXw7Uh6o/hqdefault.jpg"
+        },
+        {
+            "video_id": "BdiQl3z5C7Y",
+            "title": "I’m Still Into You (Would You Marry Me? : Original Television Soundtrack)",
+            "channel_name": "Kim Na-young - Topic",
+            "category": "Music",
+            "duration": "3:25",
+            "view_count": "163447",
+            "thumbnail_url": "https://i.ytimg.com/vi/BdiQl3z5C7Y/hqdefault.jpg"
         },
         {
             "video_id": "l8zRm_0XOZk",
@@ -295,26 +322,8 @@
             "channel_name": "아리tv-롤정보통",
             "category": "Gaming",
             "duration": "5:11",
-            "view_count": "127047",
+            "view_count": "134830",
             "thumbnail_url": "https://i.ytimg.com/vi/l8zRm_0XOZk/hqdefault.jpg"
-        },
-        {
-            "video_id": "6HMANFXtoQI",
-            "title": "Go Beyond",
-            "channel_name": "Young K - Topic",
-            "category": "Music",
-            "duration": "2:54",
-            "view_count": "13197",
-            "thumbnail_url": "https://i.ytimg.com/vi/6HMANFXtoQI/hqdefault.jpg"
-        },
-        {
-            "video_id": "yjzsZxetrFw",
-            "title": "이번 판 지면 롤 접는다는 즐겜유저ㅋㅋㅋ",
-            "channel_name": "스맵",
-            "category": "Gaming",
-            "duration": "39:54",
-            "view_count": "120745",
-            "thumbnail_url": "https://i.ytimg.com/vi/yjzsZxetrFw/hqdefault.jpg"
         },
         {
             "video_id": "CZKU4JpzTg8",
@@ -322,17 +331,17 @@
             "channel_name": "KCM - Topic",
             "category": "Music",
             "duration": "4:35",
-            "view_count": "32819",
+            "view_count": "34644",
             "thumbnail_url": "https://i.ytimg.com/vi/CZKU4JpzTg8/hqdefault.jpg"
         },
         {
-            "video_id": "rcKpXyyO9D8",
-            "title": "드디어 통나무를 부러트리며 각성한 동희ㅣ펨플릭스 EP.11",
-            "channel_name": "동수칸TV",
+            "video_id": "rK07jtmga-A",
+            "title": "그녀와의 재회는 최악이었다 [피어앤헝거2 완]",
+            "channel_name": "랄로",
             "category": "Gaming",
-            "duration": "37:10",
-            "view_count": "106634",
-            "thumbnail_url": "https://i.ytimg.com/vi/rcKpXyyO9D8/hqdefault.jpg"
+            "duration": "2:03:21",
+            "view_count": "96660",
+            "thumbnail_url": "https://i.ytimg.com/vi/rK07jtmga-A/hqdefault.jpg"
         },
         {
             "video_id": "hopzjNHQmqU",
@@ -340,17 +349,17 @@
             "channel_name": "7clouds Future House",
             "category": "Music",
             "duration": "3:15",
-            "view_count": "595259",
+            "view_count": "621890",
             "thumbnail_url": "https://i.ytimg.com/vi/hopzjNHQmqU/hqdefault.jpg"
         },
         {
-            "video_id": "wKjnqQl5RJs",
-            "title": "가챠 성공",
-            "channel_name": "팔차선 [8LJAYWALKING]",
+            "video_id": "5IcM28_5OM0",
+            "title": "🔥T1 vs IG 역대급 롤드컵 스타트!? 지키라고만 하였거늘...🔥 [2025 롤드컵 시작 리뷰 찍어x3]",
+            "channel_name": "[꿀템TV] 클템 유튜브",
             "category": "Gaming",
-            "duration": "12:30",
-            "view_count": "121748",
-            "thumbnail_url": "https://i.ytimg.com/vi/wKjnqQl5RJs/hqdefault.jpg"
+            "duration": "51:48",
+            "view_count": "54353",
+            "thumbnail_url": "https://i.ytimg.com/vi/5IcM28_5OM0/hqdefault.jpg"
         },
         {
             "video_id": "vufLyeOg_Qc",
@@ -358,26 +367,17 @@
             "channel_name": "Spicy 온!",
             "category": "Music",
             "duration": "1:17:16",
-            "view_count": "13675",
+            "view_count": "14668",
             "thumbnail_url": "https://i.ytimg.com/vi/vufLyeOg_Qc/hqdefault.jpg"
         },
         {
-            "video_id": "L-zcj4R9WOk",
-            "title": "리신을 극한까지 이해하면 생기는 일 ㅋㅋㅋ",
-            "channel_name": "클리드",
+            "video_id": "yjzsZxetrFw",
+            "title": "이번 판 지면 롤 접는다는 즐겜유저ㅋㅋㅋ",
+            "channel_name": "스맵",
             "category": "Gaming",
-            "duration": "25:46",
-            "view_count": "207140",
-            "thumbnail_url": "https://i.ytimg.com/vi/L-zcj4R9WOk/hqdefault.jpg"
-        },
-        {
-            "video_id": "Xae31lmXYqo",
-            "title": "Sacrifice",
-            "channel_name": "League of Legends - Topic",
-            "category": "Music",
-            "duration": "4:10",
-            "view_count": "109526",
-            "thumbnail_url": "https://i.ytimg.com/vi/Xae31lmXYqo/hqdefault.jpg"
+            "duration": "39:54",
+            "view_count": "122207",
+            "thumbnail_url": "https://i.ytimg.com/vi/yjzsZxetrFw/hqdefault.jpg"
         }
     ]
 }
