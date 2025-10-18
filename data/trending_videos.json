@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-10-18 21:24:16",
+    "scraped_time": "2025-10-18 22:18:38",
     "videos": [
         {
             "video_id": "aLUvL0mNQmY",
@@ -7,17 +7,17 @@
             "channel_name": "DAVICHI - Topic",
             "category": "Music",
             "duration": "4:12",
-            "view_count": "441462",
+            "view_count": "447831",
             "thumbnail_url": "https://i.ytimg.com/vi/aLUvL0mNQmY/hqdefault.jpg"
         },
         {
-            "video_id": "XFgHwOiobhk",
-            "title": "스위스 스테이지 Day 3 | 2025 월드 챔피언십",
+            "video_id": "LoIWA8fFtpY",
+            "title": "스위스 스테이지 Day 4 | 2025 월드 챔피언십",
             "channel_name": "LCK",
             "category": "Gaming",
-            "duration": "5:09:01",
-            "view_count": "2205094",
-            "thumbnail_url": "https://i.ytimg.com/vi/XFgHwOiobhk/hqdefault.jpg"
+            "duration": "4:20:40",
+            "view_count": "2241375",
+            "thumbnail_url": "https://i.ytimg.com/vi/LoIWA8fFtpY/hqdefault.jpg"
         },
         {
             "video_id": "6yJ1L6tb_nk",
@@ -25,7 +25,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "0:33",
-            "view_count": "439221",
+            "view_count": "483687",
             "thumbnail_url": "https://i.ytimg.com/vi/6yJ1L6tb_nk/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "15:02",
-            "view_count": "152446",
+            "view_count": "161709",
             "thumbnail_url": "https://i.ytimg.com/vi/rDpWfay9SeQ/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "HIGHLIGHT - Topic",
             "category": "Music",
             "duration": "4:06",
-            "view_count": "180482",
+            "view_count": "182930",
             "thumbnail_url": "https://i.ytimg.com/vi/Yzg6qMmzaZ0/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "22:36",
-            "view_count": "347338",
+            "view_count": "349441",
             "thumbnail_url": "https://i.ytimg.com/vi/jqCEg486ke4/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "HWASA",
             "category": "Music",
             "duration": "3:46",
-            "view_count": "4316305",
+            "view_count": "4432341",
             "thumbnail_url": "https://i.ytimg.com/vi/Qe8fa4b5xNU/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "41:30",
-            "view_count": "302126",
+            "view_count": "304161",
             "thumbnail_url": "https://i.ytimg.com/vi/RLZTqvEEOg8/hqdefault.jpg"
         },
         {
@@ -79,26 +79,8 @@
             "channel_name": "이찬원",
             "category": "Music",
             "duration": "4:41",
-            "view_count": "137462",
+            "view_count": "138630",
             "thumbnail_url": "https://i.ytimg.com/vi/nPdAYsCxcO8/hqdefault.jpg"
-        },
-        {
-            "video_id": "AqMkI9LQ7QQ",
-            "title": "마크 고인물 불러서 마알못 탈출시켜주기",
-            "channel_name": "잠뜰 TV",
-            "category": "Gaming",
-            "duration": "25:28",
-            "view_count": "245478",
-            "thumbnail_url": "https://i.ytimg.com/vi/AqMkI9LQ7QQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "PnevfhNlEVo",
-            "title": "오빠가 돌아왔다",
-            "channel_name": "황영웅 - Topic",
-            "category": "Music",
-            "duration": "3:11",
-            "view_count": "36981",
-            "thumbnail_url": "https://i.ytimg.com/vi/PnevfhNlEVo/hqdefault.jpg"
         },
         {
             "video_id": "Wufc1nOedj4",
@@ -106,8 +88,26 @@
             "channel_name": "꼬예유의 로블록스 저장소",
             "category": "Gaming",
             "duration": "26:34",
-            "view_count": "92441",
+            "view_count": "99821",
             "thumbnail_url": "https://i.ytimg.com/vi/Wufc1nOedj4/hqdefault.jpg"
+        },
+        {
+            "video_id": "PnevfhNlEVo",
+            "title": "오빠가 돌아왔다",
+            "channel_name": "황영웅 - Topic",
+            "category": "Music",
+            "duration": "3:11",
+            "view_count": "37409",
+            "thumbnail_url": "https://i.ytimg.com/vi/PnevfhNlEVo/hqdefault.jpg"
+        },
+        {
+            "video_id": "AqMkI9LQ7QQ",
+            "title": "마크 고인물 불러서 마알못 탈출시켜주기",
+            "channel_name": "잠뜰 TV",
+            "category": "Gaming",
+            "duration": "25:28",
+            "view_count": "248493",
+            "thumbnail_url": "https://i.ytimg.com/vi/AqMkI9LQ7QQ/hqdefault.jpg"
         },
         {
             "video_id": "Y6hQOI-hdkk",
@@ -115,7 +115,7 @@
             "channel_name": "SOHEE - Topic",
             "category": "Music",
             "duration": "3:12",
-            "view_count": "289520",
+            "view_count": "292152",
             "thumbnail_url": "https://i.ytimg.com/vi/Y6hQOI-hdkk/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "25:31",
-            "view_count": "204670",
+            "view_count": "207499",
             "thumbnail_url": "https://i.ytimg.com/vi/nehq8tPHLh4/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "NMIXX - Topic",
             "category": "Music",
             "duration": "3:06",
-            "view_count": "123299",
+            "view_count": "125415",
             "thumbnail_url": "https://i.ytimg.com/vi/vAaO70QaPm0/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "근가놈",
             "category": "Gaming",
             "duration": "5:01:51",
-            "view_count": "225916",
+            "view_count": "229482",
             "thumbnail_url": "https://i.ytimg.com/vi/Uktzv3wYkMA/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "NCT WISH - Topic",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "56489",
+            "view_count": "58183",
             "thumbnail_url": "https://i.ytimg.com/vi/NBBnK38FJKc/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "말량",
             "category": "Gaming",
             "duration": "35:36",
-            "view_count": "71351",
+            "view_count": "80751",
             "thumbnail_url": "https://i.ytimg.com/vi/nZQT8WMBVzo/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "Huh Gak - Topic",
             "category": "Music",
             "duration": "3:40",
-            "view_count": "127734",
+            "view_count": "129340",
             "thumbnail_url": "https://i.ytimg.com/vi/1dYd1ekp4UY/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "소멸",
             "category": "Gaming",
             "duration": "10:23",
-            "view_count": "223316",
+            "view_count": "226459",
             "thumbnail_url": "https://i.ytimg.com/vi/m9--Y9QYAuQ/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "Jang Deok Cheol - Topic",
             "category": "Music",
             "duration": "3:14",
-            "view_count": "60786",
+            "view_count": "61898",
             "thumbnail_url": "https://i.ytimg.com/vi/pOjqxz3dXVk/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "22:00",
-            "view_count": "434296",
+            "view_count": "435671",
             "thumbnail_url": "https://i.ytimg.com/vi/bHR621eIKUQ/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "MEOVV - Topic",
             "category": "Music",
             "duration": "2:50",
-            "view_count": "428493",
+            "view_count": "433822",
             "thumbnail_url": "https://i.ytimg.com/vi/roSUXQ4fGvg/hqdefault.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "channel_name": "꼬예유 & 한예찬의 게임저장소",
             "category": "Gaming",
             "duration": "20:02",
-            "view_count": "181481",
+            "view_count": "184004",
             "thumbnail_url": "https://i.ytimg.com/vi/oq-fvFI2cB0/hqdefault.jpg"
         },
         {
@@ -223,7 +223,7 @@
             "channel_name": "Aiphonic Vibes",
             "category": "People & Blogs",
             "duration": "53:14",
-            "view_count": "19268",
+            "view_count": "19683",
             "thumbnail_url": "https://i.ytimg.com/vi/L5X8mrmEbUw/hqdefault.jpg"
         },
         {
@@ -232,7 +232,7 @@
             "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
             "duration": "21:36",
-            "view_count": "168697",
+            "view_count": "169358",
             "thumbnail_url": "https://i.ytimg.com/vi/Qms8oUcgXzk/hqdefault.jpg"
         },
         {
@@ -241,7 +241,7 @@
             "channel_name": "Charlie Puth - Topic",
             "category": "Music",
             "duration": "3:05",
-            "view_count": "201035",
+            "view_count": "203584",
             "thumbnail_url": "https://i.ytimg.com/vi/U9pWCNM-040/hqdefault.jpg"
         },
         {
@@ -250,7 +250,7 @@
             "channel_name": "두치와뿌꾸",
             "category": "Gaming",
             "duration": "15:28",
-            "view_count": "89965",
+            "view_count": "93305",
             "thumbnail_url": "https://i.ytimg.com/vi/IRGzYtlJDMI/hqdefault.jpg"
         },
         {
@@ -259,7 +259,7 @@
             "channel_name": "임영웅",
             "category": "Music",
             "duration": "3:32",
-            "view_count": "448753",
+            "view_count": "450591",
             "thumbnail_url": "https://i.ytimg.com/vi/4L_YopHT3Gg/hqdefault.jpg"
         },
         {
@@ -268,7 +268,7 @@
             "channel_name": "야생인 김만덕",
             "category": "Gaming",
             "duration": "8:01",
-            "view_count": "99603",
+            "view_count": "105681",
             "thumbnail_url": "https://i.ytimg.com/vi/tI1SWKCwHXE/hqdefault.jpg"
         },
         {
@@ -277,7 +277,7 @@
             "channel_name": "Bily Acoustie - Topic",
             "category": "Music",
             "duration": "5:07",
-            "view_count": "28937",
+            "view_count": "29658",
             "thumbnail_url": "https://i.ytimg.com/vi/C639-amiRx0/hqdefault.jpg"
         },
         {
@@ -286,7 +286,7 @@
             "channel_name": "왈도쿤",
             "category": "Gaming",
             "duration": "16:50",
-            "view_count": "172190",
+            "view_count": "174427",
             "thumbnail_url": "https://i.ytimg.com/vi/DVhf8LbLx6M/hqdefault.jpg"
         },
         {
@@ -295,7 +295,7 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "2:53",
-            "view_count": "101129",
+            "view_count": "103238",
             "thumbnail_url": "https://i.ytimg.com/vi/KA-zE4vMJW8/hqdefault.jpg"
         },
         {
@@ -304,7 +304,7 @@
             "channel_name": "발스타홍구",
             "category": "Gaming",
             "duration": "20:21",
-            "view_count": "97484",
+            "view_count": "101273",
             "thumbnail_url": "https://i.ytimg.com/vi/J4SSAkAnxsg/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "THEBLACKLABEL",
             "category": "Music",
             "duration": "2:56",
-            "view_count": "9385065",
+            "view_count": "9436933",
             "thumbnail_url": "https://i.ytimg.com/vi/hlULtigNNao/hqdefault.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "channel_name": "김된모",
             "category": "Gaming",
             "duration": "18:39",
-            "view_count": "68661",
+            "view_count": "79523",
             "thumbnail_url": "https://i.ytimg.com/vi/i1vs5crn6zY/hqdefault.jpg"
         },
         {
@@ -331,7 +331,7 @@
             "channel_name": "추억발라드",
             "category": "Music",
             "duration": "2:30:51",
-            "view_count": "10108",
+            "view_count": "10470",
             "thumbnail_url": "https://i.ytimg.com/vi/tjKv-K5aaEI/hqdefault.jpg"
         },
         {
@@ -340,7 +340,7 @@
             "channel_name": "우정잉",
             "category": "Comedy",
             "duration": "21:03",
-            "view_count": "115071",
+            "view_count": "120824",
             "thumbnail_url": "https://i.ytimg.com/vi/-kV4pRaqm0U/hqdefault.jpg"
         },
         {
@@ -349,7 +349,7 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "3:15",
-            "view_count": "18691546",
+            "view_count": "18791894",
             "thumbnail_url": "https://i.ytimg.com/vi/EmeW6li6bbo/hqdefault.jpg"
         },
         {
@@ -358,26 +358,26 @@
             "channel_name": "멜로우TV",
             "category": "Gaming",
             "duration": "16:46",
-            "view_count": "107427",
+            "view_count": "111461",
             "thumbnail_url": "https://i.ytimg.com/vi/5KSx7ZKDvkw/hqdefault.jpg"
         },
         {
-            "video_id": "0HrVI9M0NFY",
-            "title": "그댄 봄비를 무척 좋아하나요/어느 60대 노부부 이야기📻아련한 옛사랑이 떠오르는 내 생애 가장 📻아름다운 추억 노래 모음 📻50대 이상이 들으면 정말 좋아할 노래",
-            "channel_name": "Radio Love",
-            "category": "People & Blogs",
-            "duration": "1:12:43",
-            "view_count": "18734",
-            "thumbnail_url": "https://i.ytimg.com/vi/0HrVI9M0NFY/hqdefault.jpg"
+            "video_id": "MUlAQw1N7MI",
+            "title": "Supermarket",
+            "channel_name": "Say Now - Topic",
+            "category": "Music",
+            "duration": "3:05",
+            "view_count": "66056",
+            "thumbnail_url": "https://i.ytimg.com/vi/MUlAQw1N7MI/hqdefault.jpg"
         },
         {
-            "video_id": "so5Vx1TmSws",
-            "title": "퍼클 트로피 쓸어가겠습니다 [팡이요,  메이플스토리]",
-            "channel_name": "팡이요",
+            "video_id": "jD7SjiJmDUU",
+            "title": "20년 전 컴퓨터실 1위 게임, 갓오브곡괭이 1시간만에 클리어하는 고등학생...?! 이게모겜 장인초대석 [테스터훈]",
+            "channel_name": "테스터훈 TesterHoon",
             "category": "Gaming",
-            "duration": "9:47",
-            "view_count": "169921",
-            "thumbnail_url": "https://i.ytimg.com/vi/so5Vx1TmSws/hqdefault.jpg"
+            "duration": "39:35",
+            "view_count": "50558",
+            "thumbnail_url": "https://i.ytimg.com/vi/jD7SjiJmDUU/hqdefault.jpg"
         }
     ]
 }
