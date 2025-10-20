@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-10-20 13:19:47",
+    "scraped_time": "2025-10-20 14:14:35",
     "videos": [
         {
             "video_id": "aLUvL0mNQmY",
@@ -7,7 +7,7 @@
             "channel_name": "DAVICHI - Topic",
             "category": "Music",
             "duration": "4:12",
-            "view_count": "821691",
+            "view_count": "836758",
             "thumbnail_url": "https://i.ytimg.com/vi/aLUvL0mNQmY/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "2:46",
-            "view_count": "863450",
+            "view_count": "880050",
             "thumbnail_url": "https://i.ytimg.com/vi/s24NkdR36vM/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "5:58:11",
-            "view_count": "1534814",
+            "view_count": "1535314",
             "thumbnail_url": "https://i.ytimg.com/vi/0v7WTnB3YTw/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "Yang Da Il - Topic",
             "category": "Music",
             "duration": "3:39",
-            "view_count": "19689",
+            "view_count": "22513",
             "thumbnail_url": "https://i.ytimg.com/vi/aYN54SrNTpU/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "21:41",
-            "view_count": "304780",
+            "view_count": "319174",
             "thumbnail_url": "https://i.ytimg.com/vi/u4Q7Rjg4e6Y/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "0:33",
-            "view_count": "1044238",
+            "view_count": "1048525",
             "thumbnail_url": "https://i.ytimg.com/vi/6yJ1L6tb_nk/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "12:15",
-            "view_count": "179660",
+            "view_count": "185742",
             "thumbnail_url": "https://i.ytimg.com/vi/lT5CupNNB4A/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "NCT WISH - Topic",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "170829",
+            "view_count": "174689",
             "thumbnail_url": "https://i.ytimg.com/vi/NBBnK38FJKc/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "29:57",
-            "view_count": "412179",
+            "view_count": "417004",
             "thumbnail_url": "https://i.ytimg.com/vi/vX1xhUQztXM/hqdefault.jpg"
         },
         {
@@ -88,7 +88,7 @@
             "channel_name": "HWASA",
             "category": "Music",
             "duration": "3:46",
-            "view_count": "6740962",
+            "view_count": "6820183",
             "thumbnail_url": "https://i.ytimg.com/vi/Qe8fa4b5xNU/hqdefault.jpg"
         },
         {
@@ -97,26 +97,8 @@
             "channel_name": "집사TV",
             "category": "Gaming",
             "duration": "11:46",
-            "view_count": "201949",
+            "view_count": "202286",
             "thumbnail_url": "https://i.ytimg.com/vi/bTHOezY4rf8/hqdefault.jpg"
-        },
-        {
-            "video_id": "Yzg6qMmzaZ0",
-            "title": "RAINBOW",
-            "channel_name": "HIGHLIGHT - Topic",
-            "category": "Music",
-            "duration": "4:06",
-            "view_count": "260438",
-            "thumbnail_url": "https://i.ytimg.com/vi/Yzg6qMmzaZ0/hqdefault.jpg"
-        },
-        {
-            "video_id": "EecvFnRdjF0",
-            "title": "도파민 터지는 4대1 협곡 데이트",
-            "channel_name": "말왕TV",
-            "category": "Gaming",
-            "duration": "42:01",
-            "view_count": "145112",
-            "thumbnail_url": "https://i.ytimg.com/vi/EecvFnRdjF0/hqdefault.jpg"
         },
         {
             "video_id": "Mq9_fuWpLVE",
@@ -124,8 +106,26 @@
             "channel_name": "TOMORROW X TOGETHER - Topic",
             "category": "Music",
             "duration": "3:08",
-            "view_count": "63788",
+            "view_count": "68732",
             "thumbnail_url": "https://i.ytimg.com/vi/Mq9_fuWpLVE/hqdefault.jpg"
+        },
+        {
+            "video_id": "EecvFnRdjF0",
+            "title": "도파민 터지는 4대1 협곡 데이트",
+            "channel_name": "말왕TV",
+            "category": "Gaming",
+            "duration": "42:01",
+            "view_count": "149811",
+            "thumbnail_url": "https://i.ytimg.com/vi/EecvFnRdjF0/hqdefault.jpg"
+        },
+        {
+            "video_id": "Yzg6qMmzaZ0",
+            "title": "RAINBOW",
+            "channel_name": "HIGHLIGHT - Topic",
+            "category": "Music",
+            "duration": "4:06",
+            "view_count": "262655",
+            "thumbnail_url": "https://i.ytimg.com/vi/Yzg6qMmzaZ0/hqdefault.jpg"
         },
         {
             "video_id": "UIm_0RclQcY",
@@ -133,7 +133,7 @@
             "channel_name": "전략적죽음",
             "category": "Gaming",
             "duration": "26:28",
-            "view_count": "133085",
+            "view_count": "135709",
             "thumbnail_url": "https://i.ytimg.com/vi/UIm_0RclQcY/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "1theK Live - 원더케이 라이브",
             "category": "Music",
             "duration": "4:32",
-            "view_count": "133779",
+            "view_count": "135469",
             "thumbnail_url": "https://i.ytimg.com/vi/q32ZIrVrH9g/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "게임대장봉준",
             "category": "Gaming",
             "duration": "19:28",
-            "view_count": "114315",
+            "view_count": "116364",
             "thumbnail_url": "https://i.ytimg.com/vi/2UlAZP5IxUk/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "Stone Music Entertainment",
             "category": "Music",
             "duration": "3:47",
-            "view_count": "52637",
+            "view_count": "54388",
             "thumbnail_url": "https://i.ytimg.com/vi/_b4FWJ_pOy8/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "35:41",
-            "view_count": "128172",
+            "view_count": "129715",
             "thumbnail_url": "https://i.ytimg.com/vi/KNkxRQIWPBM/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "이찬원",
             "category": "Music",
             "duration": "4:41",
-            "view_count": "176196",
+            "view_count": "177840",
             "thumbnail_url": "https://i.ytimg.com/vi/nPdAYsCxcO8/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "프로관전러 P.S",
             "category": "Gaming",
             "duration": "14:48",
-            "view_count": "219010",
+            "view_count": "225900",
             "thumbnail_url": "https://i.ytimg.com/vi/MKk8K9L0gbk/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "Huh Gak - Topic",
             "category": "Music",
             "duration": "3:40",
-            "view_count": "221238",
+            "view_count": "223613",
             "thumbnail_url": "https://i.ytimg.com/vi/1dYd1ekp4UY/hqdefault.jpg"
         },
         {
@@ -205,116 +205,8 @@
             "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
             "duration": "14:43",
-            "view_count": "142513",
+            "view_count": "145103",
             "thumbnail_url": "https://i.ytimg.com/vi/q2Oy5Qdmkzw/hqdefault.jpg"
-        },
-        {
-            "video_id": "vAaO70QaPm0",
-            "title": "Blue Valentine (A Cappella Ver.)",
-            "channel_name": "NMIXX - Topic",
-            "category": "Music",
-            "duration": "3:06",
-            "view_count": "191131",
-            "thumbnail_url": "https://i.ytimg.com/vi/vAaO70QaPm0/hqdefault.jpg"
-        },
-        {
-            "video_id": "iKPGrjXiOsc",
-            "title": "홍구 : 수백명의 일반인 피해자를 만든 '무패' 사기맵들? ... 절대 가만 안둔다",
-            "channel_name": "발스타홍구",
-            "category": "Gaming",
-            "duration": "26:37",
-            "view_count": "176365",
-            "thumbnail_url": "https://i.ytimg.com/vi/iKPGrjXiOsc/hqdefault.jpg"
-        },
-        {
-            "video_id": "PnevfhNlEVo",
-            "title": "오빠가 돌아왔다",
-            "channel_name": "황영웅 - Topic",
-            "category": "Music",
-            "duration": "3:11",
-            "view_count": "53542",
-            "thumbnail_url": "https://i.ytimg.com/vi/PnevfhNlEVo/hqdefault.jpg"
-        },
-        {
-            "video_id": "WVZGhlt5P14",
-            "title": "이게 되는 건 당연한 거 아닌가????(마인크래프트)",
-            "channel_name": "마플 마인크래프트 채널",
-            "category": "Gaming",
-            "duration": "18:53",
-            "view_count": "131767",
-            "thumbnail_url": "https://i.ytimg.com/vi/WVZGhlt5P14/hqdefault.jpg"
-        },
-        {
-            "video_id": "01TlCLO2OfI",
-            "title": "그때 그 시절 트로트 메들리🚗🎶 차 안에서 듣는 트로트  | 드라이브 음악 & 여행길 트로트 추천 뽕짝 아줌마 정통 트로트😍🎻트로트 메들리 #trot #트로트",
-            "channel_name": "Aiphonic Vibes",
-            "category": "People & Blogs",
-            "duration": "1:13:46",
-            "view_count": "9255",
-            "thumbnail_url": "https://i.ytimg.com/vi/01TlCLO2OfI/hqdefault.jpg"
-        },
-        {
-            "video_id": "qP8XxkEFnV8",
-            "title": "스카웃을 쓰레기 유닛 취급하는 상대한테 게임 끝날 때까지 스카웃을 써봤더니 상대 반응이?ㅋㅋ",
-            "channel_name": "[ALTUBE] 김성현TV",
-            "category": "Gaming",
-            "duration": "48:32",
-            "view_count": "119152",
-            "thumbnail_url": "https://i.ytimg.com/vi/qP8XxkEFnV8/hqdefault.jpg"
-        },
-        {
-            "video_id": "sBZTneFBF8c",
-            "title": "SUNDAY",
-            "channel_name": "Flower - Topic",
-            "category": "Music",
-            "duration": "3:10",
-            "view_count": "20329",
-            "thumbnail_url": "https://i.ytimg.com/vi/sBZTneFBF8c/hqdefault.jpg"
-        },
-        {
-            "video_id": "gVGgYwRSJtU",
-            "title": "배그 방송 중 핵사용 의심 받은 유튜버",
-            "channel_name": "주키니TV",
-            "category": "Gaming",
-            "duration": "24:43",
-            "view_count": "133936",
-            "thumbnail_url": "https://i.ytimg.com/vi/gVGgYwRSJtU/hqdefault.jpg"
-        },
-        {
-            "video_id": "Y6hQOI-hdkk",
-            "title": "Love on the canvas",
-            "channel_name": "SOHEE - Topic",
-            "category": "Music",
-            "duration": "3:12",
-            "view_count": "381940",
-            "thumbnail_url": "https://i.ytimg.com/vi/Y6hQOI-hdkk/hqdefault.jpg"
-        },
-        {
-            "video_id": "4cFnL-TkN3M",
-            "title": "고양이 OG 시크릿 등장! 사신 치클레타를 얻기 위한 퓨즈 멸망전...!!! 거기다 인도네시아 1% 시크릿이 2개나 뜨다니!!!!! (로블록스 브레인롯 훔치기)",
-            "channel_name": "말량",
-            "category": "Gaming",
-            "duration": "36:44",
-            "view_count": "236197",
-            "thumbnail_url": "https://i.ytimg.com/vi/4cFnL-TkN3M/hqdefault.jpg"
-        },
-        {
-            "video_id": "9K7tSKerGjU",
-            "title": "Did You See The Rainbow?",
-            "channel_name": "이준호 LEE JUNHO - Topic",
-            "category": "Music",
-            "duration": "3:40",
-            "view_count": "20728",
-            "thumbnail_url": "https://i.ytimg.com/vi/9K7tSKerGjU/hqdefault.jpg"
-        },
-        {
-            "video_id": "RfrLCGpxjYQ",
-            "title": "최초 10배 서버럭키와 신규 OG등급 고양이 등장!! 전세계 몇개 없는 OG특성 시크릿도 얻었습니다!!!! (로블록스 브레인롯훔치기)",
-            "channel_name": "쉐어TV",
-            "category": "Gaming",
-            "duration": "20:27",
-            "view_count": "205639",
-            "thumbnail_url": "https://i.ytimg.com/vi/RfrLCGpxjYQ/hqdefault.jpg"
         },
         {
             "video_id": "Ne4MkspOspw",
@@ -322,53 +214,107 @@
             "channel_name": "YANG YO SEOP - Topic",
             "category": "Music",
             "duration": "3:11",
-            "view_count": "16286",
+            "view_count": "17360",
             "thumbnail_url": "https://i.ytimg.com/vi/Ne4MkspOspw/hqdefault.jpg"
         },
         {
-            "video_id": "ZWyocNup914",
-            "title": "방플하는 이상호 VS 그냥 클리드 최초의 방플CKㅋㅋㅋㅋ",
-            "channel_name": "튜브김민교",
+            "video_id": "iKPGrjXiOsc",
+            "title": "홍구 : 수백명의 일반인 피해자를 만든 '무패' 사기맵들? ... 절대 가만 안둔다",
+            "channel_name": "발스타홍구",
             "category": "Gaming",
-            "duration": "26:03",
-            "view_count": "231975",
-            "thumbnail_url": "https://i.ytimg.com/vi/ZWyocNup914/hqdefault.jpg"
+            "duration": "26:37",
+            "view_count": "178423",
+            "thumbnail_url": "https://i.ytimg.com/vi/iKPGrjXiOsc/hqdefault.jpg"
         },
         {
-            "video_id": "pOjqxz3dXVk",
-            "title": "Long trip",
-            "channel_name": "Jang Deok Cheol - Topic",
+            "video_id": "vAaO70QaPm0",
+            "title": "Blue Valentine (A Cappella Ver.)",
+            "channel_name": "NMIXX - Topic",
             "category": "Music",
-            "duration": "3:14",
-            "view_count": "97664",
-            "thumbnail_url": "https://i.ytimg.com/vi/pOjqxz3dXVk/hqdefault.jpg"
+            "duration": "3:06",
+            "view_count": "193058",
+            "thumbnail_url": "https://i.ytimg.com/vi/vAaO70QaPm0/hqdefault.jpg"
         },
         {
-            "video_id": "l0OBNl8lxpQ",
-            "title": "(주작아님) 한국 서버 최초로 신규 OG 고양이 얻었습니다ㅋㅋㅋ (로블록스 브레인롯훔치기)",
-            "channel_name": "싸모스",
+            "video_id": "WVZGhlt5P14",
+            "title": "이게 되는 건 당연한 거 아닌가????(마인크래프트)",
+            "channel_name": "마플 마인크래프트 채널",
             "category": "Gaming",
-            "duration": "11:25",
-            "view_count": "156567",
-            "thumbnail_url": "https://i.ytimg.com/vi/l0OBNl8lxpQ/hqdefault.jpg"
+            "duration": "18:53",
+            "view_count": "133564",
+            "thumbnail_url": "https://i.ytimg.com/vi/WVZGhlt5P14/hqdefault.jpg"
         },
         {
-            "video_id": "YOi1nOn9JA8",
-            "title": "Fly to you",
-            "channel_name": "ONEUS - Topic",
+            "video_id": "PnevfhNlEVo",
+            "title": "오빠가 돌아왔다",
+            "channel_name": "황영웅 - Topic",
             "category": "Music",
-            "duration": "3:41",
-            "view_count": "40573",
-            "thumbnail_url": "https://i.ytimg.com/vi/YOi1nOn9JA8/hqdefault.jpg"
+            "duration": "3:11",
+            "view_count": "54151",
+            "thumbnail_url": "https://i.ytimg.com/vi/PnevfhNlEVo/hqdefault.jpg"
         },
         {
-            "video_id": "Hmi-gDFibvY",
-            "title": "[ 불도그 LIVE 생방송 10/19 ] 로드나인 불도그가 여왕벌님을 뵙습니다. 모시고 또 모십니다.",
-            "channel_name": "불도그",
+            "video_id": "qP8XxkEFnV8",
+            "title": "스카웃을 쓰레기 유닛 취급하는 상대한테 게임 끝날 때까지 스카웃을 써봤더니 상대 반응이?ㅋㅋ",
+            "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
-            "duration": "10:44:59",
-            "view_count": "91348",
-            "thumbnail_url": "https://i.ytimg.com/vi/Hmi-gDFibvY/hqdefault.jpg"
+            "duration": "48:32",
+            "view_count": "120498",
+            "thumbnail_url": "https://i.ytimg.com/vi/qP8XxkEFnV8/hqdefault.jpg"
+        },
+        {
+            "video_id": "01TlCLO2OfI",
+            "title": "그때 그 시절 트로트 메들리🚗🎶 차 안에서 듣는 트로트  | 드라이브 음악 & 여행길 트로트 추천 뽕짝 아줌마 정통 트로트😍🎻트로트 메들리 #trot #트로트",
+            "channel_name": "Aiphonic Vibes",
+            "category": "People & Blogs",
+            "duration": "1:13:46",
+            "view_count": "9593",
+            "thumbnail_url": "https://i.ytimg.com/vi/01TlCLO2OfI/hqdefault.jpg"
+        },
+        {
+            "video_id": "gVGgYwRSJtU",
+            "title": "배그 방송 중 핵사용 의심 받은 유튜버",
+            "channel_name": "주키니TV",
+            "category": "Gaming",
+            "duration": "24:43",
+            "view_count": "138265",
+            "thumbnail_url": "https://i.ytimg.com/vi/gVGgYwRSJtU/hqdefault.jpg"
+        },
+        {
+            "video_id": "9K7tSKerGjU",
+            "title": "Did You See The Rainbow?",
+            "channel_name": "이준호 LEE JUNHO - Topic",
+            "category": "Music",
+            "duration": "3:40",
+            "view_count": "21989",
+            "thumbnail_url": "https://i.ytimg.com/vi/9K7tSKerGjU/hqdefault.jpg"
+        },
+        {
+            "video_id": "4cFnL-TkN3M",
+            "title": "고양이 OG 시크릿 등장! 사신 치클레타를 얻기 위한 퓨즈 멸망전...!!! 거기다 인도네시아 1% 시크릿이 2개나 뜨다니!!!!! (로블록스 브레인롯 훔치기)",
+            "channel_name": "말량",
+            "category": "Gaming",
+            "duration": "36:44",
+            "view_count": "236402",
+            "thumbnail_url": "https://i.ytimg.com/vi/4cFnL-TkN3M/hqdefault.jpg"
+        },
+        {
+            "video_id": "sBZTneFBF8c",
+            "title": "SUNDAY",
+            "channel_name": "Flower - Topic",
+            "category": "Music",
+            "duration": "3:10",
+            "view_count": "20990",
+            "thumbnail_url": "https://i.ytimg.com/vi/sBZTneFBF8c/hqdefault.jpg"
+        },
+        {
+            "video_id": "RfrLCGpxjYQ",
+            "title": "최초 10배 서버럭키와 신규 OG등급 고양이 등장!! 전세계 몇개 없는 OG특성 시크릿도 얻었습니다!!!! (로블록스 브레인롯훔치기)",
+            "channel_name": "쉐어TV",
+            "category": "Gaming",
+            "duration": "20:27",
+            "view_count": "205865",
+            "thumbnail_url": "https://i.ytimg.com/vi/RfrLCGpxjYQ/hqdefault.jpg"
         },
         {
             "video_id": "O_rITkIvB20",
@@ -376,8 +322,62 @@
             "channel_name": "Jeon Sang Keun - Topic",
             "category": "Music",
             "duration": "5:00",
-            "view_count": "6714",
+            "view_count": "7161",
             "thumbnail_url": "https://i.ytimg.com/vi/O_rITkIvB20/hqdefault.jpg"
+        },
+        {
+            "video_id": "ZWyocNup914",
+            "title": "방플하는 이상호 VS 그냥 클리드 최초의 방플CKㅋㅋㅋㅋ",
+            "channel_name": "튜브김민교",
+            "category": "Gaming",
+            "duration": "26:03",
+            "view_count": "233111",
+            "thumbnail_url": "https://i.ytimg.com/vi/ZWyocNup914/hqdefault.jpg"
+        },
+        {
+            "video_id": "Y6hQOI-hdkk",
+            "title": "Love on the canvas",
+            "channel_name": "SOHEE - Topic",
+            "category": "Music",
+            "duration": "3:12",
+            "view_count": "385224",
+            "thumbnail_url": "https://i.ytimg.com/vi/Y6hQOI-hdkk/hqdefault.jpg"
+        },
+        {
+            "video_id": "Hmi-gDFibvY",
+            "title": "[ 불도그 LIVE 생방송 10/19 ] 로드나인 불도그가 여왕벌님을 뵙습니다. 모시고 또 모십니다.",
+            "channel_name": "불도그",
+            "category": "Gaming",
+            "duration": "10:44:59",
+            "view_count": "92992",
+            "thumbnail_url": "https://i.ytimg.com/vi/Hmi-gDFibvY/hqdefault.jpg"
+        },
+        {
+            "video_id": "YOi1nOn9JA8",
+            "title": "Fly to you",
+            "channel_name": "ONEUS - Topic",
+            "category": "Music",
+            "duration": "3:41",
+            "view_count": "41629",
+            "thumbnail_url": "https://i.ytimg.com/vi/YOi1nOn9JA8/hqdefault.jpg"
+        },
+        {
+            "video_id": "TI2HW8tYcIE",
+            "title": "나 벗을게...",
+            "channel_name": "타튜브 TATUBE",
+            "category": "Gaming",
+            "duration": "13:40",
+            "view_count": "169367",
+            "thumbnail_url": "https://i.ytimg.com/vi/TI2HW8tYcIE/hqdefault.jpg"
+        },
+        {
+            "video_id": "pOjqxz3dXVk",
+            "title": "Long trip",
+            "channel_name": "Jang Deok Cheol - Topic",
+            "category": "Music",
+            "duration": "3:14",
+            "view_count": "98907",
+            "thumbnail_url": "https://i.ytimg.com/vi/pOjqxz3dXVk/hqdefault.jpg"
         }
     ]
 }
