@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-10-20 20:12:05",
+    "scraped_time": "2025-10-20 21:28:54",
     "videos": [
         {
             "video_id": "yAtew9dZX_E",
@@ -7,7 +7,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "2:36",
-            "view_count": "265590",
+            "view_count": "372735",
             "thumbnail_url": "https://i.ytimg.com/vi/yAtew9dZX_E/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "2:46",
-            "view_count": "961412",
+            "view_count": "979537",
             "thumbnail_url": "https://i.ytimg.com/vi/s24NkdR36vM/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "5:58:11",
-            "view_count": "1538263",
+            "view_count": "1539087",
             "thumbnail_url": "https://i.ytimg.com/vi/0v7WTnB3YTw/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:10",
-            "view_count": "360102",
+            "view_count": "663891",
             "thumbnail_url": "https://i.ytimg.com/vi/Ur7aK4FvK-U/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "21:41",
-            "view_count": "376479",
+            "view_count": "389655",
             "thumbnail_url": "https://i.ytimg.com/vi/u4Q7Rjg4e6Y/hqdefault.jpg"
         },
         {
@@ -52,44 +52,8 @@
             "channel_name": "BOYNEXTDOOR - Topic",
             "category": "Music",
             "duration": "3:44",
-            "view_count": "12303",
+            "view_count": "49197",
             "thumbnail_url": "https://i.ytimg.com/vi/ptDnd4lGr-k/hqdefault.jpg"
-        },
-        {
-            "video_id": "lT5CupNNB4A",
-            "title": "2-1에 레오나, 유미가 뜨면 생기는 일",
-            "channel_name": "잡상싱",
-            "category": "Gaming",
-            "duration": "12:15",
-            "view_count": "214780",
-            "thumbnail_url": "https://i.ytimg.com/vi/lT5CupNNB4A/hqdefault.jpg"
-        },
-        {
-            "video_id": "aLUvL0mNQmY",
-            "title": "TIME CAPSULE",
-            "channel_name": "DAVICHI - Topic",
-            "category": "Music",
-            "duration": "4:12",
-            "view_count": "938384",
-            "thumbnail_url": "https://i.ytimg.com/vi/aLUvL0mNQmY/hqdefault.jpg"
-        },
-        {
-            "video_id": "vX1xhUQztXM",
-            "title": "설윤X잠뜰 현실에서 마인크래프트하다?! 역대급 콜라보 탄생💙",
-            "channel_name": "잠뜰 TV",
-            "category": "Gaming",
-            "duration": "29:57",
-            "view_count": "478811",
-            "thumbnail_url": "https://i.ytimg.com/vi/vX1xhUQztXM/hqdefault.jpg"
-        },
-        {
-            "video_id": "aYN54SrNTpU",
-            "title": "Rain Arrives (Prod. JUNGKEY)",
-            "channel_name": "Yang Da Il - Topic",
-            "category": "Music",
-            "duration": "3:39",
-            "view_count": "40845",
-            "thumbnail_url": "https://i.ytimg.com/vi/aYN54SrNTpU/hqdefault.jpg"
         },
         {
             "video_id": "2NXf9a_QzlQ",
@@ -97,7 +61,7 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "20:11",
-            "view_count": "71480",
+            "view_count": "94805",
             "thumbnail_url": "https://i.ytimg.com/vi/2NXf9a_QzlQ/hqdefault.jpg"
         },
         {
@@ -106,8 +70,80 @@
             "channel_name": "이찬원",
             "category": "Music",
             "duration": "3:41",
-            "view_count": "8817",
+            "view_count": "26108",
             "thumbnail_url": "https://i.ytimg.com/vi/AIh7UA7UoYI/hqdefault.jpg"
+        },
+        {
+            "video_id": "lT5CupNNB4A",
+            "title": "2-1에 레오나, 유미가 뜨면 생기는 일",
+            "channel_name": "잡상싱",
+            "category": "Gaming",
+            "duration": "12:15",
+            "view_count": "221658",
+            "thumbnail_url": "https://i.ytimg.com/vi/lT5CupNNB4A/hqdefault.jpg"
+        },
+        {
+            "video_id": "aLUvL0mNQmY",
+            "title": "TIME CAPSULE",
+            "channel_name": "DAVICHI - Topic",
+            "category": "Music",
+            "duration": "4:12",
+            "view_count": "964360",
+            "thumbnail_url": "https://i.ytimg.com/vi/aLUvL0mNQmY/hqdefault.jpg"
+        },
+        {
+            "video_id": "vX1xhUQztXM",
+            "title": "설윤X잠뜰 현실에서 마인크래프트하다?! 역대급 콜라보 탄생💙",
+            "channel_name": "잠뜰 TV",
+            "category": "Gaming",
+            "duration": "29:57",
+            "view_count": "493574",
+            "thumbnail_url": "https://i.ytimg.com/vi/vX1xhUQztXM/hqdefault.jpg"
+        },
+        {
+            "video_id": "aYN54SrNTpU",
+            "title": "Rain Arrives (Prod. JUNGKEY)",
+            "channel_name": "Yang Da Il - Topic",
+            "category": "Music",
+            "duration": "3:39",
+            "view_count": "45889",
+            "thumbnail_url": "https://i.ytimg.com/vi/aYN54SrNTpU/hqdefault.jpg"
+        },
+        {
+            "video_id": "44b-wv2WI_o",
+            "title": "사실은 나도 중졸이야",
+            "channel_name": "랄로",
+            "category": "Gaming",
+            "duration": "19:09",
+            "view_count": "105989",
+            "thumbnail_url": "https://i.ytimg.com/vi/44b-wv2WI_o/hqdefault.jpg"
+        },
+        {
+            "video_id": "eqKhhG4FVoQ",
+            "title": "FOCUS",
+            "channel_name": "Hearts2Hearts - Topic",
+            "category": "Music",
+            "duration": "2:58",
+            "view_count": "46065",
+            "thumbnail_url": "https://i.ytimg.com/vi/eqKhhG4FVoQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "oZMrBLx6qq8",
+            "title": "우정 강화 게임",
+            "channel_name": "이도원",
+            "category": "Gaming",
+            "duration": "28:11",
+            "view_count": "67988",
+            "thumbnail_url": "https://i.ytimg.com/vi/oZMrBLx6qq8/hqdefault.jpg"
+        },
+        {
+            "video_id": "UOlTw3gZuCo",
+            "title": "𝐇𝐞𝐛𝐢 - 𝐁𝐞 𝐈 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐌𝐕",
+            "channel_name": "Hebi.",
+            "category": "Music",
+            "duration": "3:16",
+            "view_count": "158830",
+            "thumbnail_url": "https://i.ytimg.com/vi/UOlTw3gZuCo/hqdefault.jpg"
         },
         {
             "video_id": "EecvFnRdjF0",
@@ -115,7 +151,7 @@
             "channel_name": "말왕TV",
             "category": "Gaming",
             "duration": "42:01",
-            "view_count": "174288",
+            "view_count": "179417",
             "thumbnail_url": "https://i.ytimg.com/vi/EecvFnRdjF0/hqdefault.jpg"
         },
         {
@@ -124,7 +160,7 @@
             "channel_name": "Lexie Liu - Topic",
             "category": "Music",
             "duration": "3:20",
-            "view_count": "38099",
+            "view_count": "42168",
             "thumbnail_url": "https://i.ytimg.com/vi/JZ4GCI3JDJM/hqdefault.jpg"
         },
         {
@@ -133,17 +169,17 @@
             "channel_name": "집사TV",
             "category": "Gaming",
             "duration": "11:46",
-            "view_count": "226390",
+            "view_count": "234549",
             "thumbnail_url": "https://i.ytimg.com/vi/bTHOezY4rf8/hqdefault.jpg"
         },
         {
-            "video_id": "UOlTw3gZuCo",
-            "title": "𝐇𝐞𝐛𝐢 - 𝐁𝐞 𝐈 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐌𝐕",
-            "channel_name": "Hebi.",
+            "video_id": "Ne4MkspOspw",
+            "title": "One in a Million (Would You Marry Me? : Original Television Soundtrack)",
+            "channel_name": "YANG YO SEOP - Topic",
             "category": "Music",
-            "duration": "3:16",
-            "view_count": "15287",
-            "thumbnail_url": "https://i.ytimg.com/vi/UOlTw3gZuCo/hqdefault.jpg"
+            "duration": "3:11",
+            "view_count": "31952",
+            "thumbnail_url": "https://i.ytimg.com/vi/Ne4MkspOspw/hqdefault.jpg"
         },
         {
             "video_id": "MKk8K9L0gbk",
@@ -151,7 +187,7 @@
             "channel_name": "프로관전러 P.S",
             "category": "Gaming",
             "duration": "14:48",
-            "view_count": "257069",
+            "view_count": "265104",
             "thumbnail_url": "https://i.ytimg.com/vi/MKk8K9L0gbk/hqdefault.jpg"
         },
         {
@@ -160,62 +196,8 @@
             "channel_name": "TOMORROW X TOGETHER - Topic",
             "category": "Music",
             "duration": "3:08",
-            "view_count": "99568",
+            "view_count": "105558",
             "thumbnail_url": "https://i.ytimg.com/vi/Mq9_fuWpLVE/hqdefault.jpg"
-        },
-        {
-            "video_id": "WVZGhlt5P14",
-            "title": "이게 되는 건 당연한 거 아닌가????(마인크래프트)",
-            "channel_name": "마플 마인크래프트 채널",
-            "category": "Gaming",
-            "duration": "18:53",
-            "view_count": "165034",
-            "thumbnail_url": "https://i.ytimg.com/vi/WVZGhlt5P14/hqdefault.jpg"
-        },
-        {
-            "video_id": "Ne4MkspOspw",
-            "title": "One in a Million (Would You Marry Me? : Original Television Soundtrack)",
-            "channel_name": "YANG YO SEOP - Topic",
-            "category": "Music",
-            "duration": "3:11",
-            "view_count": "29392",
-            "thumbnail_url": "https://i.ytimg.com/vi/Ne4MkspOspw/hqdefault.jpg"
-        },
-        {
-            "video_id": "UIm_0RclQcY",
-            "title": "내 인생에서 가장 웃겼던 한판! 🤣",
-            "channel_name": "전략적죽음",
-            "category": "Gaming",
-            "duration": "26:28",
-            "view_count": "145712",
-            "thumbnail_url": "https://i.ytimg.com/vi/UIm_0RclQcY/hqdefault.jpg"
-        },
-        {
-            "video_id": "NBBnK38FJKc",
-            "title": "If you love me let me know (Would You Marry Me? : Original Television Soundtrack)",
-            "channel_name": "NCT WISH - Topic",
-            "category": "Music",
-            "duration": "3:00",
-            "view_count": "200837",
-            "thumbnail_url": "https://i.ytimg.com/vi/NBBnK38FJKc/hqdefault.jpg"
-        },
-        {
-            "video_id": "2UlAZP5IxUk",
-            "title": "합숙 첫날부터 매장각 노리는 상호 선생님 ㅋㅋ",
-            "channel_name": "게임대장봉준",
-            "category": "Gaming",
-            "duration": "19:28",
-            "view_count": "124484",
-            "thumbnail_url": "https://i.ytimg.com/vi/2UlAZP5IxUk/hqdefault.jpg"
-        },
-        {
-            "video_id": "eqKhhG4FVoQ",
-            "title": "FOCUS",
-            "channel_name": "Hearts2Hearts - Topic",
-            "category": "Music",
-            "duration": "2:58",
-            "view_count": "26468",
-            "thumbnail_url": "https://i.ytimg.com/vi/eqKhhG4FVoQ/hqdefault.jpg"
         },
         {
             "video_id": "Lo43UNZ65KU",
@@ -223,26 +205,26 @@
             "channel_name": "두치와뿌꾸",
             "category": "Gaming",
             "duration": "12:58",
-            "view_count": "74849",
+            "view_count": "83114",
             "thumbnail_url": "https://i.ytimg.com/vi/Lo43UNZ65KU/hqdefault.jpg"
         },
         {
-            "video_id": "Qe8fa4b5xNU",
-            "title": "화사 (HWASA) - 'Good Goodbye' MV",
-            "channel_name": "HWASA",
+            "video_id": "NBBnK38FJKc",
+            "title": "If you love me let me know (Would You Marry Me? : Original Television Soundtrack)",
+            "channel_name": "NCT WISH - Topic",
             "category": "Music",
-            "duration": "3:46",
-            "view_count": "7180979",
-            "thumbnail_url": "https://i.ytimg.com/vi/Qe8fa4b5xNU/hqdefault.jpg"
+            "duration": "3:00",
+            "view_count": "206377",
+            "thumbnail_url": "https://i.ytimg.com/vi/NBBnK38FJKc/hqdefault.jpg"
         },
         {
-            "video_id": "KNkxRQIWPBM",
-            "title": "방플하면 클리드 개턴다던 네비게이션호의 최후 ㅋㅋㅋ",
-            "channel_name": "클리드",
+            "video_id": "WVZGhlt5P14",
+            "title": "이게 되는 건 당연한 거 아닌가????(마인크래프트)",
+            "channel_name": "마플 마인크래프트 채널",
             "category": "Gaming",
-            "duration": "35:41",
-            "view_count": "138409",
-            "thumbnail_url": "https://i.ytimg.com/vi/KNkxRQIWPBM/hqdefault.jpg"
+            "duration": "18:53",
+            "view_count": "172979",
+            "thumbnail_url": "https://i.ytimg.com/vi/WVZGhlt5P14/hqdefault.jpg"
         },
         {
             "video_id": "9K7tSKerGjU",
@@ -250,35 +232,35 @@
             "channel_name": "이준호 LEE JUNHO - Topic",
             "category": "Music",
             "duration": "3:40",
-            "view_count": "33558",
+            "view_count": "35272",
             "thumbnail_url": "https://i.ytimg.com/vi/9K7tSKerGjU/hqdefault.jpg"
         },
         {
-            "video_id": "q2Oy5Qdmkzw",
-            "title": "으아아 땅땅땅 빵!!",
-            "channel_name": "팔차선 [8LJAYWALKING]",
+            "video_id": "2UlAZP5IxUk",
+            "title": "합숙 첫날부터 매장각 노리는 상호 선생님 ㅋㅋ",
+            "channel_name": "게임대장봉준",
             "category": "Gaming",
-            "duration": "14:43",
-            "view_count": "156291",
-            "thumbnail_url": "https://i.ytimg.com/vi/q2Oy5Qdmkzw/hqdefault.jpg"
+            "duration": "19:28",
+            "view_count": "126683",
+            "thumbnail_url": "https://i.ytimg.com/vi/2UlAZP5IxUk/hqdefault.jpg"
         },
         {
-            "video_id": "Yzg6qMmzaZ0",
-            "title": "RAINBOW",
-            "channel_name": "HIGHLIGHT - Topic",
+            "video_id": "Qe8fa4b5xNU",
+            "title": "화사 (HWASA) - 'Good Goodbye' MV",
+            "channel_name": "HWASA",
             "category": "Music",
-            "duration": "4:06",
-            "view_count": "277154",
-            "thumbnail_url": "https://i.ytimg.com/vi/Yzg6qMmzaZ0/hqdefault.jpg"
+            "duration": "3:46",
+            "view_count": "7352473",
+            "thumbnail_url": "https://i.ytimg.com/vi/Qe8fa4b5xNU/hqdefault.jpg"
         },
         {
-            "video_id": "gVGgYwRSJtU",
-            "title": "배그 방송 중 핵사용 의심 받은 유튜버",
-            "channel_name": "주키니TV",
+            "video_id": "UIm_0RclQcY",
+            "title": "내 인생에서 가장 웃겼던 한판! 🤣",
+            "channel_name": "전략적죽음",
             "category": "Gaming",
-            "duration": "24:43",
-            "view_count": "158392",
-            "thumbnail_url": "https://i.ytimg.com/vi/gVGgYwRSJtU/hqdefault.jpg"
+            "duration": "26:28",
+            "view_count": "147964",
+            "thumbnail_url": "https://i.ytimg.com/vi/UIm_0RclQcY/hqdefault.jpg"
         },
         {
             "video_id": "_b4FWJ_pOy8",
@@ -286,53 +268,35 @@
             "channel_name": "Stone Music Entertainment",
             "category": "Music",
             "duration": "3:47",
-            "view_count": "65030",
+            "view_count": "67048",
             "thumbnail_url": "https://i.ytimg.com/vi/_b4FWJ_pOy8/hqdefault.jpg"
         },
         {
-            "video_id": "iKPGrjXiOsc",
-            "title": "홍구 : 수백명의 일반인 피해자를 만든 '무패' 사기맵들? ... 절대 가만 안둔다",
-            "channel_name": "발스타홍구",
+            "video_id": "KNkxRQIWPBM",
+            "title": "방플하면 클리드 개턴다던 네비게이션호의 최후 ㅋㅋㅋ",
+            "channel_name": "클리드",
             "category": "Gaming",
-            "duration": "26:37",
-            "view_count": "186095",
-            "thumbnail_url": "https://i.ytimg.com/vi/iKPGrjXiOsc/hqdefault.jpg"
+            "duration": "35:41",
+            "view_count": "140220",
+            "thumbnail_url": "https://i.ytimg.com/vi/KNkxRQIWPBM/hqdefault.jpg"
         },
         {
-            "video_id": "O_rITkIvB20",
-            "title": "그대라는 사치",
-            "channel_name": "Jeon Sang Keun - Topic",
+            "video_id": "Yzg6qMmzaZ0",
+            "title": "RAINBOW",
+            "channel_name": "HIGHLIGHT - Topic",
             "category": "Music",
-            "duration": "5:00",
-            "view_count": "10244",
-            "thumbnail_url": "https://i.ytimg.com/vi/O_rITkIvB20/hqdefault.jpg"
+            "duration": "4:06",
+            "view_count": "280763",
+            "thumbnail_url": "https://i.ytimg.com/vi/Yzg6qMmzaZ0/hqdefault.jpg"
         },
         {
-            "video_id": "qP8XxkEFnV8",
-            "title": "스카웃을 쓰레기 유닛 취급하는 상대한테 게임 끝날 때까지 스카웃을 써봤더니 상대 반응이?ㅋㅋ",
-            "channel_name": "[ALTUBE] 김성현TV",
+            "video_id": "J1bGIKK689I",
+            "title": "이병 김된모! 혹시 여기 밴달 없습니까???",
+            "channel_name": "김된모",
             "category": "Gaming",
-            "duration": "48:32",
-            "view_count": "126204",
-            "thumbnail_url": "https://i.ytimg.com/vi/qP8XxkEFnV8/hqdefault.jpg"
-        },
-        {
-            "video_id": "q32ZIrVrH9g",
-            "title": "다비치 (DAVICHI) - 타임캡슐 | 야외녹음실｜Beyond the Studio｜LIVE",
-            "channel_name": "1theK Live - 원더케이 라이브",
-            "category": "Music",
-            "duration": "4:32",
-            "view_count": "149455",
-            "thumbnail_url": "https://i.ytimg.com/vi/q32ZIrVrH9g/hqdefault.jpg"
-        },
-        {
-            "video_id": "oZMrBLx6qq8",
-            "title": "우정 강화 게임",
-            "channel_name": "이도원",
-            "category": "Gaming",
-            "duration": "28:11",
-            "view_count": "52057",
-            "thumbnail_url": "https://i.ytimg.com/vi/oZMrBLx6qq8/hqdefault.jpg"
+            "duration": "13:33",
+            "view_count": "68531",
+            "thumbnail_url": "https://i.ytimg.com/vi/J1bGIKK689I/hqdefault.jpg"
         },
         {
             "video_id": "P5RrcCuVbXw",
@@ -340,17 +304,53 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "5:00",
-            "view_count": "15239",
+            "view_count": "16018",
             "thumbnail_url": "https://i.ytimg.com/vi/P5RrcCuVbXw/hqdefault.jpg"
         },
         {
-            "video_id": "4cFnL-TkN3M",
-            "title": "고양이 OG 시크릿 등장! 사신 치클레타를 얻기 위한 퓨즈 멸망전...!!! 거기다 인도네시아 1% 시크릿이 2개나 뜨다니!!!!! (로블록스 브레인롯 훔치기)",
-            "channel_name": "말량",
+            "video_id": "syrtYxf2Fmk",
+            "title": "마인크래프트, 나 혼자 AWP로 시청자 100명 상대하기",
+            "channel_name": "꼬예유 & 한예찬의 게임저장소",
             "category": "Gaming",
-            "duration": "36:44",
-            "view_count": "250498",
-            "thumbnail_url": "https://i.ytimg.com/vi/4cFnL-TkN3M/hqdefault.jpg"
+            "duration": "20:07",
+            "view_count": "48356",
+            "thumbnail_url": "https://i.ytimg.com/vi/syrtYxf2Fmk/hqdefault.jpg"
+        },
+        {
+            "video_id": "O_rITkIvB20",
+            "title": "그대라는 사치",
+            "channel_name": "Jeon Sang Keun - Topic",
+            "category": "Music",
+            "duration": "5:00",
+            "view_count": "10906",
+            "thumbnail_url": "https://i.ytimg.com/vi/O_rITkIvB20/hqdefault.jpg"
+        },
+        {
+            "video_id": "gVGgYwRSJtU",
+            "title": "배그 방송 중 핵사용 의심 받은 유튜버",
+            "channel_name": "주키니TV",
+            "category": "Gaming",
+            "duration": "24:43",
+            "view_count": "163186",
+            "thumbnail_url": "https://i.ytimg.com/vi/gVGgYwRSJtU/hqdefault.jpg"
+        },
+        {
+            "video_id": "q32ZIrVrH9g",
+            "title": "다비치 (DAVICHI) - 타임캡슐 | 야외녹음실｜Beyond the Studio｜LIVE",
+            "channel_name": "1theK Live - 원더케이 라이브",
+            "category": "Music",
+            "duration": "4:32",
+            "view_count": "153371",
+            "thumbnail_url": "https://i.ytimg.com/vi/q32ZIrVrH9g/hqdefault.jpg"
+        },
+        {
+            "video_id": "q2Oy5Qdmkzw",
+            "title": "으아아 땅땅땅 빵!!",
+            "channel_name": "팔차선 [8LJAYWALKING]",
+            "category": "Gaming",
+            "duration": "14:43",
+            "view_count": "157532",
+            "thumbnail_url": "https://i.ytimg.com/vi/q2Oy5Qdmkzw/hqdefault.jpg"
         },
         {
             "video_id": "sBZTneFBF8c",
@@ -358,17 +358,17 @@
             "channel_name": "Flower - Topic",
             "category": "Music",
             "duration": "3:10",
-            "view_count": "24630",
+            "view_count": "25375",
             "thumbnail_url": "https://i.ytimg.com/vi/sBZTneFBF8c/hqdefault.jpg"
         },
         {
-            "video_id": "l0OBNl8lxpQ",
-            "title": "(주작아님) 한국 서버 최초로 신규 OG 고양이 얻었습니다ㅋㅋㅋ (로블록스 브레인롯훔치기)",
-            "channel_name": "싸모스",
+            "video_id": "3AL9VzNHZsg",
+            "title": "뮤탈 잘막는분만 오라던 상대 ... 기회 엿보다 홍구한테 바로 통수치는데? ㅋㅋㅋㅋㅋ",
+            "channel_name": "발스타홍구",
             "category": "Gaming",
-            "duration": "11:25",
-            "view_count": "174700",
-            "thumbnail_url": "https://i.ytimg.com/vi/l0OBNl8lxpQ/hqdefault.jpg"
+            "duration": "20:22",
+            "view_count": "92993",
+            "thumbnail_url": "https://i.ytimg.com/vi/3AL9VzNHZsg/hqdefault.jpg"
         },
         {
             "video_id": "GmVhmJwTZic",
@@ -376,7 +376,7 @@
             "channel_name": "minj - Topic",
             "category": "Music",
             "duration": "3:54",
-            "view_count": "67792",
+            "view_count": "70080",
             "thumbnail_url": "https://i.ytimg.com/vi/GmVhmJwTZic/hqdefault.jpg"
         }
     ]
