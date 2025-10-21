@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-10-21 23:13:18",
+    "scraped_time": "2025-10-22 00:14:33",
     "videos": [
         {
             "video_id": "yAtew9dZX_E",
@@ -7,7 +7,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "2:36",
-            "view_count": "3227167",
+            "view_count": "3497118",
             "thumbnail_url": "https://i.ytimg.com/vi/yAtew9dZX_E/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "2:46",
-            "view_count": "1279639",
+            "view_count": "1290282",
             "thumbnail_url": "https://i.ytimg.com/vi/s24NkdR36vM/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "랄로",
             "category": "Gaming",
             "duration": "19:09",
-            "view_count": "549721",
+            "view_count": "559317",
             "thumbnail_url": "https://i.ytimg.com/vi/44b-wv2WI_o/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:10",
-            "view_count": "4412198",
+            "view_count": "4590139",
             "thumbnail_url": "https://i.ytimg.com/vi/Ur7aK4FvK-U/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "20:11",
-            "view_count": "320741",
+            "view_count": "323811",
             "thumbnail_url": "https://i.ytimg.com/vi/2NXf9a_QzlQ/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "이찬원",
             "category": "Music",
             "duration": "3:41",
-            "view_count": "151053",
+            "view_count": "159520",
             "thumbnail_url": "https://i.ytimg.com/vi/AIh7UA7UoYI/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "5:58:11",
-            "view_count": "1540476",
+            "view_count": "1540758",
             "thumbnail_url": "https://i.ytimg.com/vi/0v7WTnB3YTw/hqdefault.jpg"
         },
         {
@@ -70,26 +70,8 @@
             "channel_name": "BOYNEXTDOOR - Topic",
             "category": "Music",
             "duration": "3:44",
-            "view_count": "293710",
+            "view_count": "305679",
             "thumbnail_url": "https://i.ytimg.com/vi/ptDnd4lGr-k/hqdefault.jpg"
-        },
-        {
-            "video_id": "XMxYXR0efyg",
-            "title": "애디의 패작 플레이에 결국 참지 못한 클리드",
-            "channel_name": "클리드",
-            "category": "Gaming",
-            "duration": "29:30",
-            "view_count": "292501",
-            "thumbnail_url": "https://i.ytimg.com/vi/XMxYXR0efyg/hqdefault.jpg"
-        },
-        {
-            "video_id": "eqKhhG4FVoQ",
-            "title": "FOCUS",
-            "channel_name": "Hearts2Hearts - Topic",
-            "category": "Music",
-            "duration": "2:58",
-            "view_count": "395883",
-            "thumbnail_url": "https://i.ytimg.com/vi/eqKhhG4FVoQ/hqdefault.jpg"
         },
         {
             "video_id": "x7BWqfTaXHo",
@@ -97,8 +79,26 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "32:28",
-            "view_count": "95374",
+            "view_count": "116251",
             "thumbnail_url": "https://i.ytimg.com/vi/x7BWqfTaXHo/hqdefault.jpg"
+        },
+        {
+            "video_id": "eqKhhG4FVoQ",
+            "title": "FOCUS",
+            "channel_name": "Hearts2Hearts - Topic",
+            "category": "Music",
+            "duration": "2:58",
+            "view_count": "410544",
+            "thumbnail_url": "https://i.ytimg.com/vi/eqKhhG4FVoQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "XMxYXR0efyg",
+            "title": "애디의 패작 플레이에 결국 참지 못한 클리드",
+            "channel_name": "클리드",
+            "category": "Gaming",
+            "duration": "29:30",
+            "view_count": "296599",
+            "thumbnail_url": "https://i.ytimg.com/vi/XMxYXR0efyg/hqdefault.jpg"
         },
         {
             "video_id": "wa58LYVlY_s",
@@ -106,44 +106,8 @@
             "channel_name": "Hebi - Topic",
             "category": "Music",
             "duration": "3:04",
-            "view_count": "112985",
+            "view_count": "119054",
             "thumbnail_url": "https://i.ytimg.com/vi/wa58LYVlY_s/hqdefault.jpg"
-        },
-        {
-            "video_id": "XDdfDFQ3KhE",
-            "title": "나 분대장이야!",
-            "channel_name": "괴물쥐 유튜브",
-            "category": "Gaming",
-            "duration": "26:00",
-            "view_count": "354676",
-            "thumbnail_url": "https://i.ytimg.com/vi/XDdfDFQ3KhE/hqdefault.jpg"
-        },
-        {
-            "video_id": "aYN54SrNTpU",
-            "title": "Rain Arrives (Prod. JUNGKEY)",
-            "channel_name": "Yang Da Il - Topic",
-            "category": "Music",
-            "duration": "3:39",
-            "view_count": "157321",
-            "thumbnail_url": "https://i.ytimg.com/vi/aYN54SrNTpU/hqdefault.jpg"
-        },
-        {
-            "video_id": "oZMrBLx6qq8",
-            "title": "우정 강화 게임",
-            "channel_name": "이도원",
-            "category": "Gaming",
-            "duration": "28:11",
-            "view_count": "204406",
-            "thumbnail_url": "https://i.ytimg.com/vi/oZMrBLx6qq8/hqdefault.jpg"
-        },
-        {
-            "video_id": "9K7tSKerGjU",
-            "title": "Did You See The Rainbow?",
-            "channel_name": "이준호 LEE JUNHO - Topic",
-            "category": "Music",
-            "duration": "3:40",
-            "view_count": "135010",
-            "thumbnail_url": "https://i.ytimg.com/vi/9K7tSKerGjU/hqdefault.jpg"
         },
         {
             "video_id": "QGRmx5G7ops",
@@ -151,8 +115,26 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "1:04:39",
-            "view_count": "88231",
+            "view_count": "104925",
             "thumbnail_url": "https://i.ytimg.com/vi/QGRmx5G7ops/hqdefault.jpg"
+        },
+        {
+            "video_id": "aYN54SrNTpU",
+            "title": "Rain Arrives (Prod. JUNGKEY)",
+            "channel_name": "Yang Da Il - Topic",
+            "category": "Music",
+            "duration": "3:39",
+            "view_count": "159779",
+            "thumbnail_url": "https://i.ytimg.com/vi/aYN54SrNTpU/hqdefault.jpg"
+        },
+        {
+            "video_id": "XDdfDFQ3KhE",
+            "title": "나 분대장이야!",
+            "channel_name": "괴물쥐 유튜브",
+            "category": "Gaming",
+            "duration": "26:00",
+            "view_count": "361821",
+            "thumbnail_url": "https://i.ytimg.com/vi/XDdfDFQ3KhE/hqdefault.jpg"
         },
         {
             "video_id": "eu3np8dFJDU",
@@ -160,7 +142,7 @@
             "channel_name": "JANNABI - Topic",
             "category": "Music",
             "duration": "4:06",
-            "view_count": "13651",
+            "view_count": "17797",
             "thumbnail_url": "https://i.ytimg.com/vi/eu3np8dFJDU/hqdefault.jpg"
         },
         {
@@ -169,8 +151,26 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "26:46",
-            "view_count": "91212",
+            "view_count": "103989",
             "thumbnail_url": "https://i.ytimg.com/vi/ItYTa69oHzI/hqdefault.jpg"
+        },
+        {
+            "video_id": "9K7tSKerGjU",
+            "title": "Did You See The Rainbow?",
+            "channel_name": "이준호 LEE JUNHO - Topic",
+            "category": "Music",
+            "duration": "3:40",
+            "view_count": "141395",
+            "thumbnail_url": "https://i.ytimg.com/vi/9K7tSKerGjU/hqdefault.jpg"
+        },
+        {
+            "video_id": "K55nDbcEpds",
+            "title": "확률 조작 +시간 멈추기 +비틱의 신 '바황' 납시오",
+            "channel_name": "잡상싱",
+            "category": "Gaming",
+            "duration": "24:18",
+            "view_count": "71836",
+            "thumbnail_url": "https://i.ytimg.com/vi/K55nDbcEpds/hqdefault.jpg"
         },
         {
             "video_id": "aLUvL0mNQmY",
@@ -178,17 +178,17 @@
             "channel_name": "DAVICHI - Topic",
             "category": "Music",
             "duration": "4:12",
-            "view_count": "1282382",
+            "view_count": "1294486",
             "thumbnail_url": "https://i.ytimg.com/vi/aLUvL0mNQmY/hqdefault.jpg"
         },
         {
-            "video_id": "4Bayu9Q-xwE",
-            "title": "합숙 하루만에 무너진 교권.. 이상호 앞에서 정글 강의하는 김봉준 ㅋㅋㅋ",
-            "channel_name": "게임대장봉준",
+            "video_id": "oZMrBLx6qq8",
+            "title": "우정 강화 게임",
+            "channel_name": "이도원",
             "category": "Gaming",
-            "duration": "25:25",
-            "view_count": "157907",
-            "thumbnail_url": "https://i.ytimg.com/vi/4Bayu9Q-xwE/hqdefault.jpg"
+            "duration": "28:11",
+            "view_count": "208354",
+            "thumbnail_url": "https://i.ytimg.com/vi/oZMrBLx6qq8/hqdefault.jpg"
         },
         {
             "video_id": "Ne4MkspOspw",
@@ -196,7 +196,7 @@
             "channel_name": "YANG YO SEOP - Topic",
             "category": "Music",
             "duration": "3:11",
-            "view_count": "73649",
+            "view_count": "75536",
             "thumbnail_url": "https://i.ytimg.com/vi/Ne4MkspOspw/hqdefault.jpg"
         },
         {
@@ -205,8 +205,44 @@
             "channel_name": "김된모",
             "category": "Gaming",
             "duration": "13:25",
-            "view_count": "128483",
+            "view_count": "145385",
             "thumbnail_url": "https://i.ytimg.com/vi/opdI99G2IZk/hqdefault.jpg"
+        },
+        {
+            "video_id": "yUPpfhnSpq0",
+            "title": "NMIXX(엔믹스) “Blue Valentine” 인이어 체험 (이어폰 필수 지참!) 엔써만을 위한, 엔믹스 무대 위 리얼 사운드",
+            "channel_name": "NMIXX",
+            "category": "Entertainment",
+            "duration": "3:16",
+            "view_count": "63339",
+            "thumbnail_url": "https://i.ytimg.com/vi/yUPpfhnSpq0/hqdefault.jpg"
+        },
+        {
+            "video_id": "4Bayu9Q-xwE",
+            "title": "합숙 하루만에 무너진 교권.. 이상호 앞에서 정글 강의하는 김봉준 ㅋㅋㅋ",
+            "channel_name": "게임대장봉준",
+            "category": "Gaming",
+            "duration": "25:25",
+            "view_count": "158780",
+            "thumbnail_url": "https://i.ytimg.com/vi/4Bayu9Q-xwE/hqdefault.jpg"
+        },
+        {
+            "video_id": "lThOniinD9I",
+            "title": "Change",
+            "channel_name": "Yoo Hwe-seung - Topic",
+            "category": "Music",
+            "duration": "4:24",
+            "view_count": "42166",
+            "thumbnail_url": "https://i.ytimg.com/vi/lThOniinD9I/hqdefault.jpg"
+        },
+        {
+            "video_id": "bAC8xy3_oww",
+            "title": "😨미친 연기력을 보여주는 레전드 악질 카배 랭커 ㄷㄷ [로검사TV]",
+            "channel_name": "로자르",
+            "category": "Gaming",
+            "duration": "29:22",
+            "view_count": "67798",
+            "thumbnail_url": "https://i.ytimg.com/vi/bAC8xy3_oww/hqdefault.jpg"
         },
         {
             "video_id": "O_rITkIvB20",
@@ -214,7 +250,7 @@
             "channel_name": "Jeon Sang Keun - Topic",
             "category": "Music",
             "duration": "5:00",
-            "view_count": "32486",
+            "view_count": "33232",
             "thumbnail_url": "https://i.ytimg.com/vi/O_rITkIvB20/hqdefault.jpg"
         },
         {
@@ -223,26 +259,8 @@
             "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
             "duration": "28:35",
-            "view_count": "158226",
+            "view_count": "159081",
             "thumbnail_url": "https://i.ytimg.com/vi/zsbfvjzKz8o/hqdefault.jpg"
-        },
-        {
-            "video_id": "lThOniinD9I",
-            "title": "Change",
-            "channel_name": "Yoo Hwe-seung - Topic",
-            "category": "Music",
-            "duration": "4:24",
-            "view_count": "39625",
-            "thumbnail_url": "https://i.ytimg.com/vi/lThOniinD9I/hqdefault.jpg"
-        },
-        {
-            "video_id": "w5MD5BWqpYE",
-            "title": "시작부터 5분 컷 시켜준다고 도발하는 15승 0패 승률100% 의문의 초고수 상대를 만났습니다ㄷㄷ;;",
-            "channel_name": "[ALTUBE] 김성현TV",
-            "category": "Gaming",
-            "duration": "27:22",
-            "view_count": "180063",
-            "thumbnail_url": "https://i.ytimg.com/vi/w5MD5BWqpYE/hqdefault.jpg"
         },
         {
             "video_id": "c77VNdLl10Y",
@@ -250,35 +268,17 @@
             "channel_name": "CHAD BURGER - Topic",
             "category": "Music",
             "duration": "3:51",
-            "view_count": "14768",
+            "view_count": "15411",
             "thumbnail_url": "https://i.ytimg.com/vi/c77VNdLl10Y/hqdefault.jpg"
         },
         {
-            "video_id": "bAC8xy3_oww",
-            "title": "😨미친 연기력을 보여주는 레전드 악질 카배 랭커 ㄷㄷ [로검사TV]",
-            "channel_name": "로자르",
+            "video_id": "w5MD5BWqpYE",
+            "title": "시작부터 5분 컷 시켜준다고 도발하는 15승 0패 승률100% 의문의 초고수 상대를 만났습니다ㄷㄷ;;",
+            "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
-            "duration": "29:22",
-            "view_count": "62864",
-            "thumbnail_url": "https://i.ytimg.com/vi/bAC8xy3_oww/hqdefault.jpg"
-        },
-        {
-            "video_id": "yUPpfhnSpq0",
-            "title": "NMIXX(엔믹스) “Blue Valentine” 인이어 체험 (이어폰 필수 지참!) 엔써만을 위한, 엔믹스 무대 위 리얼 사운드",
-            "channel_name": "NMIXX",
-            "category": "Entertainment",
-            "duration": "3:16",
-            "view_count": "51698",
-            "thumbnail_url": "https://i.ytimg.com/vi/yUPpfhnSpq0/hqdefault.jpg"
-        },
-        {
-            "video_id": "5ni6aJXg19Y",
-            "title": "논란의 배그 주작 사건",
-            "channel_name": "킴성태TV",
-            "category": "Gaming",
-            "duration": "20:08",
-            "view_count": "157382",
-            "thumbnail_url": "https://i.ytimg.com/vi/5ni6aJXg19Y/hqdefault.jpg"
+            "duration": "27:22",
+            "view_count": "183109",
+            "thumbnail_url": "https://i.ytimg.com/vi/w5MD5BWqpYE/hqdefault.jpg"
         },
         {
             "video_id": "P5RrcCuVbXw",
@@ -286,17 +286,17 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "5:00",
-            "view_count": "31490",
+            "view_count": "32115",
             "thumbnail_url": "https://i.ytimg.com/vi/P5RrcCuVbXw/hqdefault.jpg"
         },
         {
-            "video_id": "TJME8_92MKE",
-            "title": "미친..슈게임 신작 떴다!!! \"슈의 비빔밥 가게\" 바로 해봤습니다.",
-            "channel_name": "혜안",
+            "video_id": "5ni6aJXg19Y",
+            "title": "논란의 배그 주작 사건",
+            "channel_name": "킴성태TV",
             "category": "Gaming",
-            "duration": "14:00",
-            "view_count": "293254",
-            "thumbnail_url": "https://i.ytimg.com/vi/TJME8_92MKE/hqdefault.jpg"
+            "duration": "20:08",
+            "view_count": "164203",
+            "thumbnail_url": "https://i.ytimg.com/vi/5ni6aJXg19Y/hqdefault.jpg"
         },
         {
             "video_id": "Mq9_fuWpLVE",
@@ -304,17 +304,17 @@
             "channel_name": "TOMORROW X TOGETHER - Topic",
             "category": "Music",
             "duration": "3:08",
-            "view_count": "176185",
+            "view_count": "179224",
             "thumbnail_url": "https://i.ytimg.com/vi/Mq9_fuWpLVE/hqdefault.jpg"
         },
         {
-            "video_id": "qUwG8KcEibk",
-            "title": "단군형 본캐 다팔고 폭풍현질 갑니다 레전드 등장ㅋㅋㅋㅋ",
-            "channel_name": "두치와뿌꾸",
+            "video_id": "FcV1349wc20",
+            "title": "같은 팀인데 시작부터 개념싸움하는 저라뎃 이상호ㅋㅋㅋㅋ",
+            "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
-            "duration": "21:05",
-            "view_count": "84350",
-            "thumbnail_url": "https://i.ytimg.com/vi/qUwG8KcEibk/hqdefault.jpg"
+            "duration": "36:23",
+            "view_count": "96935",
+            "thumbnail_url": "https://i.ytimg.com/vi/FcV1349wc20/hqdefault.jpg"
         },
         {
             "video_id": "JZ4GCI3JDJM",
@@ -322,53 +322,17 @@
             "channel_name": "Lexie Liu - Topic",
             "category": "Music",
             "duration": "3:20",
-            "view_count": "60404",
+            "view_count": "61101",
             "thumbnail_url": "https://i.ytimg.com/vi/JZ4GCI3JDJM/hqdefault.jpg"
         },
         {
-            "video_id": "K55nDbcEpds",
-            "title": "확률 조작 +시간 멈추기 +비틱의 신 '바황' 납시오",
-            "channel_name": "잡상싱",
+            "video_id": "TJME8_92MKE",
+            "title": "미친..슈게임 신작 떴다!!! \"슈의 비빔밥 가게\" 바로 해봤습니다.",
+            "channel_name": "혜안",
             "category": "Gaming",
-            "duration": "24:18",
-            "view_count": "55357",
-            "thumbnail_url": "https://i.ytimg.com/vi/K55nDbcEpds/hqdefault.jpg"
-        },
-        {
-            "video_id": "y_A1e1pUgR4",
-            "title": "🎶 하루 종일 듣기 좋은 광고없는 발라드 추천 | 1990~2025 한국 발라드 명곡 모음💕 임창정·김범수·성시경·박효신",
-            "channel_name": "Korean Ballads Playlist DD",
-            "category": "People & Blogs",
-            "duration": "1:45:59",
-            "view_count": "9792",
-            "thumbnail_url": "https://i.ytimg.com/vi/y_A1e1pUgR4/hqdefault.jpg"
-        },
-        {
-            "video_id": "zTzyRs_zDII",
-            "title": "비토 때문에 발로란트가 망한다길래 직접 100시간동안 플레이 해봤습니다 그런데...",
-            "channel_name": "마닥개_MADAKGAE",
-            "category": "Gaming",
-            "duration": "13:40",
-            "view_count": "50268",
-            "thumbnail_url": "https://i.ytimg.com/vi/zTzyRs_zDII/hqdefault.jpg"
-        },
-        {
-            "video_id": "j97ZSLhcvGc",
-            "title": "Huntrix - Golden (Lyrics) | K-Pop Demon Hunters Soundtrack",
-            "channel_name": "DopeMusic",
-            "category": "Music",
-            "duration": "3:19",
-            "view_count": "654082",
-            "thumbnail_url": "https://i.ytimg.com/vi/j97ZSLhcvGc/hqdefault.jpg"
-        },
-        {
-            "video_id": "GuY814F3I80",
-            "title": "홍구 : 오늘 호적에 동생 한 명 추가 ㅋㅋㅋㅋㅋ",
-            "channel_name": "발스타홍구",
-            "category": "Gaming",
-            "duration": "21:41",
-            "view_count": "86591",
-            "thumbnail_url": "https://i.ytimg.com/vi/GuY814F3I80/hqdefault.jpg"
+            "duration": "14:00",
+            "view_count": "304706",
+            "thumbnail_url": "https://i.ytimg.com/vi/TJME8_92MKE/hqdefault.jpg"
         },
         {
             "video_id": "jXJKJc5fZnE",
@@ -376,8 +340,44 @@
             "channel_name": "장민호",
             "category": "People & Blogs",
             "duration": "4:21",
-            "view_count": "8537",
+            "view_count": "9931",
             "thumbnail_url": "https://i.ytimg.com/vi/jXJKJc5fZnE/hqdefault.jpg"
+        },
+        {
+            "video_id": "vPMz-9Nix3A",
+            "title": "11분에 미드 1차 철거하는 \"미드 철거반 사이온 전략\" 🤪🔨",
+            "channel_name": "전략적죽음",
+            "category": "Gaming",
+            "duration": "28:27",
+            "view_count": "65735",
+            "thumbnail_url": "https://i.ytimg.com/vi/vPMz-9Nix3A/hqdefault.jpg"
+        },
+        {
+            "video_id": "j97ZSLhcvGc",
+            "title": "Huntrix - Golden (Lyrics) | K-Pop Demon Hunters Soundtrack",
+            "channel_name": "DopeMusic",
+            "category": "Music",
+            "duration": "3:19",
+            "view_count": "665900",
+            "thumbnail_url": "https://i.ytimg.com/vi/j97ZSLhcvGc/hqdefault.jpg"
+        },
+        {
+            "video_id": "qUwG8KcEibk",
+            "title": "단군형 본캐 다팔고 폭풍현질 갑니다 레전드 등장ㅋㅋㅋㅋ",
+            "channel_name": "두치와뿌꾸",
+            "category": "Gaming",
+            "duration": "21:05",
+            "view_count": "87609",
+            "thumbnail_url": "https://i.ytimg.com/vi/qUwG8KcEibk/hqdefault.jpg"
+        },
+        {
+            "video_id": "2LLoZ3QlSBg",
+            "title": "WOODZ 'I'll Never Love Again' Live Clip",
+            "channel_name": "WOODZ",
+            "category": "Music",
+            "duration": "4:00",
+            "view_count": "12439",
+            "thumbnail_url": "https://i.ytimg.com/vi/2LLoZ3QlSBg/hqdefault.jpg"
         }
     ]
 }
