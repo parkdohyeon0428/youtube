@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-10-25 04:11:14",
+    "scraped_time": "2025-10-25 05:14:57",
     "videos": [
         {
             "video_id": "TvVtYaqCni8",
@@ -7,7 +7,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "3:19",
-            "view_count": "6841837",
+            "view_count": "7150595",
             "thumbnail_url": "https://i.ytimg.com/vi/TvVtYaqCni8/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "PlayStation",
             "category": "Gaming",
             "duration": "2:03",
-            "view_count": "379801",
+            "view_count": "386768",
             "thumbnail_url": "https://i.ytimg.com/vi/mm6w2ufD6ME/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "4:18:36",
-            "view_count": "2492871",
+            "view_count": "2498132",
             "thumbnail_url": "https://i.ytimg.com/vi/gmg--aoq51k/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "Kwon Jin-ah - Topic",
             "category": "Music",
             "duration": "4:18",
-            "view_count": "359996",
+            "view_count": "361656",
             "thumbnail_url": "https://i.ytimg.com/vi/hnIzXiNT10E/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "2:07",
-            "view_count": "71067",
+            "view_count": "71829",
             "thumbnail_url": "https://i.ytimg.com/vi/CStK0hNcJXM/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "30:18",
-            "view_count": "233754",
+            "view_count": "237379",
             "thumbnail_url": "https://i.ytimg.com/vi/58Iigoo1s88/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "LE SSERAFIM - Topic",
             "category": "Music",
             "duration": "2:53",
-            "view_count": "234121",
+            "view_count": "245494",
             "thumbnail_url": "https://i.ytimg.com/vi/12ELDQy3IUc/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "21:47",
-            "view_count": "406400",
+            "view_count": "410274",
             "thumbnail_url": "https://i.ytimg.com/vi/ffHyne62J_I/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "WOODZ - Topic",
             "category": "Music",
             "duration": "3:07",
-            "view_count": "53161",
+            "view_count": "54513",
             "thumbnail_url": "https://i.ytimg.com/vi/2vKXjS8cNMY/hqdefault.jpg"
         },
         {
@@ -88,26 +88,8 @@
             "channel_name": "난동군",
             "category": "Gaming",
             "duration": "10:56",
-            "view_count": "97647",
+            "view_count": "99496",
             "thumbnail_url": "https://i.ytimg.com/vi/DhxphWGmDPI/hqdefault.jpg"
-        },
-        {
-            "video_id": "noGHbYIYprY",
-            "title": "세상 모든 어른이들에게",
-            "channel_name": "Boramiyu - Topic",
-            "category": "Music",
-            "duration": "3:38",
-            "view_count": "368699",
-            "thumbnail_url": "https://i.ytimg.com/vi/noGHbYIYprY/hqdefault.jpg"
-        },
-        {
-            "video_id": "HN-xRGyHuLw",
-            "title": "바드랜드",
-            "channel_name": "PAKA",
-            "category": "Gaming",
-            "duration": "23:26",
-            "view_count": "316226",
-            "thumbnail_url": "https://i.ytimg.com/vi/HN-xRGyHuLw/hqdefault.jpg"
         },
         {
             "video_id": "x6GGGjXN2Mw",
@@ -115,17 +97,35 @@
             "channel_name": "최유리 Choi Yu Ree",
             "category": "Music",
             "duration": "4:23",
-            "view_count": "77307",
+            "view_count": "77925",
             "thumbnail_url": "https://i.ytimg.com/vi/x6GGGjXN2Mw/hqdefault.jpg"
         },
         {
-            "video_id": "TzNpcl6QqEY",
-            "title": "3.7 버전 「어제의 내일이 되어」 프리뷰 스페셜 프로그램",
-            "channel_name": "붕괴: 스타레일",
-            "category": "Entertainment",
-            "duration": "43:39",
-            "view_count": "117853",
-            "thumbnail_url": "https://i.ytimg.com/vi/TzNpcl6QqEY/hqdefault.jpg"
+            "video_id": "HN-xRGyHuLw",
+            "title": "바드랜드",
+            "channel_name": "PAKA",
+            "category": "Gaming",
+            "duration": "23:26",
+            "view_count": "318214",
+            "thumbnail_url": "https://i.ytimg.com/vi/HN-xRGyHuLw/hqdefault.jpg"
+        },
+        {
+            "video_id": "noGHbYIYprY",
+            "title": "세상 모든 어른이들에게",
+            "channel_name": "Boramiyu - Topic",
+            "category": "Music",
+            "duration": "3:38",
+            "view_count": "369387",
+            "thumbnail_url": "https://i.ytimg.com/vi/noGHbYIYprY/hqdefault.jpg"
+        },
+        {
+            "video_id": "oke-Hnd8y4E",
+            "title": "그 시절 리롤덱에 프티 + 투자를 주면 벌어지는 일",
+            "channel_name": "잡상싱",
+            "category": "Gaming",
+            "duration": "14:20",
+            "view_count": "122466",
+            "thumbnail_url": "https://i.ytimg.com/vi/oke-Hnd8y4E/hqdefault.jpg"
         },
         {
             "video_id": "F4HK28kWoaU",
@@ -133,35 +133,17 @@
             "channel_name": "LEE CHANGSUB - Topic",
             "category": "Music",
             "duration": "4:19",
-            "view_count": "133116",
+            "view_count": "134580",
             "thumbnail_url": "https://i.ytimg.com/vi/F4HK28kWoaU/hqdefault.jpg"
         },
         {
-            "video_id": "9poqG09b7wA",
-            "title": "라떼는 프리즘 필드 값만 110골이 넘었다고 ㅋㅋ",
-            "channel_name": "잡상싱",
-            "category": "Gaming",
-            "duration": "14:26",
-            "view_count": "194803",
-            "thumbnail_url": "https://i.ytimg.com/vi/9poqG09b7wA/hqdefault.jpg"
-        },
-        {
-            "video_id": "eu3np8dFJDU",
-            "title": "Just Kids",
-            "channel_name": "JANNABI - Topic",
-            "category": "Music",
-            "duration": "4:06",
-            "view_count": "348383",
-            "thumbnail_url": "https://i.ytimg.com/vi/eu3np8dFJDU/hqdefault.jpg"
-        },
-        {
-            "video_id": "hwkuqWlHtLQ",
-            "title": "하늘 나는 침대 등장ㅋㅋ 진짜 역대급 난리법석 베드워즈 (게스트: 꾸몽)",
-            "channel_name": "잠뜰 TV",
-            "category": "Gaming",
-            "duration": "29:49",
-            "view_count": "107402",
-            "thumbnail_url": "https://i.ytimg.com/vi/hwkuqWlHtLQ/hqdefault.jpg"
+            "video_id": "TzNpcl6QqEY",
+            "title": "3.7 버전 「어제의 내일이 되어」 프리뷰 스페셜 프로그램",
+            "channel_name": "붕괴: 스타레일",
+            "category": "Entertainment",
+            "duration": "43:39",
+            "view_count": "119204",
+            "thumbnail_url": "https://i.ytimg.com/vi/TzNpcl6QqEY/hqdefault.jpg"
         },
         {
             "video_id": "BkLKEsh6tZU",
@@ -169,7 +151,7 @@
             "channel_name": "이지금 [IU Official]",
             "category": "Entertainment",
             "duration": "3:17",
-            "view_count": "575771",
+            "view_count": "582140",
             "thumbnail_url": "https://i.ytimg.com/vi/BkLKEsh6tZU/hqdefault.jpg"
         },
         {
@@ -178,7 +160,7 @@
             "channel_name": "근가놈",
             "category": "Gaming",
             "duration": "29:51",
-            "view_count": "101034",
+            "view_count": "105800",
             "thumbnail_url": "https://i.ytimg.com/vi/uvFF8asZ2I8/hqdefault.jpg"
         },
         {
@@ -187,8 +169,44 @@
             "channel_name": "1theK (원더케이)",
             "category": "Music",
             "duration": "4:03",
-            "view_count": "61325",
+            "view_count": "61451",
             "thumbnail_url": "https://i.ytimg.com/vi/07QvRNaHGXQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "yS5wSrxCeq4",
+            "title": "케일아.. 까줘..",
+            "channel_name": "팔차선 [8LJAYWALKING]",
+            "category": "Gaming",
+            "duration": "15:33",
+            "view_count": "104967",
+            "thumbnail_url": "https://i.ytimg.com/vi/yS5wSrxCeq4/hqdefault.jpg"
+        },
+        {
+            "video_id": "eu3np8dFJDU",
+            "title": "Just Kids",
+            "channel_name": "JANNABI - Topic",
+            "category": "Music",
+            "duration": "4:06",
+            "view_count": "350018",
+            "thumbnail_url": "https://i.ytimg.com/vi/eu3np8dFJDU/hqdefault.jpg"
+        },
+        {
+            "video_id": "hwkuqWlHtLQ",
+            "title": "하늘 나는 침대 등장ㅋㅋ 진짜 역대급 난리법석 베드워즈 (게스트: 꾸몽)",
+            "channel_name": "잠뜰 TV",
+            "category": "Gaming",
+            "duration": "29:49",
+            "view_count": "108689",
+            "thumbnail_url": "https://i.ytimg.com/vi/hwkuqWlHtLQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "nbeGBTVIAv8",
+            "title": "ICU",
+            "channel_name": "Xdinary Heroes - Topic",
+            "category": "Music",
+            "duration": "4:02",
+            "view_count": "54145",
+            "thumbnail_url": "https://i.ytimg.com/vi/nbeGBTVIAv8/hqdefault.jpg"
         },
         {
             "video_id": "6x0YNcfOkBY",
@@ -196,7 +214,7 @@
             "channel_name": "YouTube지누",
             "category": "Gaming",
             "duration": "25:17",
-            "view_count": "125409",
+            "view_count": "128216",
             "thumbnail_url": "https://i.ytimg.com/vi/6x0YNcfOkBY/hqdefault.jpg"
         },
         {
@@ -205,26 +223,8 @@
             "channel_name": "Hearts2Hearts - Topic",
             "category": "Music",
             "duration": "2:58",
-            "view_count": "1461816",
+            "view_count": "1467316",
             "thumbnail_url": "https://i.ytimg.com/vi/eqKhhG4FVoQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "FEzw3HPqenw",
-            "title": "99일간 \"모든 아이템\"을 싹 쓸어모으면... 1개당 100로벅스씩 준다고!?!? 파밍전문가가 되어 다 모아보자!!! (로블록스 99나이트인더포레스트)",
-            "channel_name": "말량",
-            "category": "Gaming",
-            "duration": "35:03",
-            "view_count": "172998",
-            "thumbnail_url": "https://i.ytimg.com/vi/FEzw3HPqenw/hqdefault.jpg"
-        },
-        {
-            "video_id": "nbeGBTVIAv8",
-            "title": "ICU",
-            "channel_name": "Xdinary Heroes - Topic",
-            "category": "Music",
-            "duration": "4:02",
-            "view_count": "52946",
-            "thumbnail_url": "https://i.ytimg.com/vi/nbeGBTVIAv8/hqdefault.jpg"
         },
         {
             "video_id": "PNo7yuUO4QQ",
@@ -232,62 +232,8 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "29:31",
-            "view_count": "107961",
+            "view_count": "109378",
             "thumbnail_url": "https://i.ytimg.com/vi/PNo7yuUO4QQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "-8l-0h3OddU",
-            "title": "LUCY 7th EP '선' Highlight Medley",
-            "channel_name": "LUCY ISLAND",
-            "category": "Entertainment",
-            "duration": "2:29",
-            "view_count": "44977",
-            "thumbnail_url": "https://i.ytimg.com/vi/-8l-0h3OddU/hqdefault.jpg"
-        },
-        {
-            "video_id": "h14gOyMgbSI",
-            "title": "직스는 더이상 미드챔이 아닙니다. 13분에 포탑 2개 철거하는 폭탄의 악마 \"탑 오버파밍 직스\" 😱💣",
-            "channel_name": "전략적죽음",
-            "category": "Gaming",
-            "duration": "21:46",
-            "view_count": "155239",
-            "thumbnail_url": "https://i.ytimg.com/vi/h14gOyMgbSI/hqdefault.jpg"
-        },
-        {
-            "video_id": "29uO-Kx8fJs",
-            "title": "Huntrix - Golden (Tekst/Lyrics) Polskie Tłumaczenie",
-            "channel_name": "W Bańce",
-            "category": "Music",
-            "duration": "3:14",
-            "view_count": "367427",
-            "thumbnail_url": "https://i.ytimg.com/vi/29uO-Kx8fJs/hqdefault.jpg"
-        },
-        {
-            "video_id": "uN-srm0m8M8",
-            "title": "현재 진짜 난리가 난 \"발로란트 이적시장\" , 그래서 다 한번 모아봤습니다",
-            "channel_name": "김된모",
-            "category": "Gaming",
-            "duration": "28:50",
-            "view_count": "136975",
-            "thumbnail_url": "https://i.ytimg.com/vi/uN-srm0m8M8/hqdefault.jpg"
-        },
-        {
-            "video_id": "ptDnd4lGr-k",
-            "title": "있잖아",
-            "channel_name": "BOYNEXTDOOR - Topic",
-            "category": "Music",
-            "duration": "3:44",
-            "view_count": "793841",
-            "thumbnail_url": "https://i.ytimg.com/vi/ptDnd4lGr-k/hqdefault.jpg"
-        },
-        {
-            "video_id": "XMHVGptcXHU",
-            "title": "상대 : 홍구 너때문에 마우스 박살났다 이 XX놈아!!!",
-            "channel_name": "발스타홍구",
-            "category": "Gaming",
-            "duration": "21:23",
-            "view_count": "107006",
-            "thumbnail_url": "https://i.ytimg.com/vi/XMHVGptcXHU/hqdefault.jpg"
         },
         {
             "video_id": "suYoJKLQReQ",
@@ -295,8 +241,26 @@
             "channel_name": "로이킴 Roy Kim",
             "category": "Music",
             "duration": "4:00",
-            "view_count": "37767",
+            "view_count": "41055",
             "thumbnail_url": "https://i.ytimg.com/vi/suYoJKLQReQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "fYvR-fjb0jQ",
+            "title": "알파고의 싸가지 없는 플레이에 머리 끝까지 화나버린 상대ㅋㅋㅋㅋ",
+            "channel_name": "[ALTUBE] 김성현TV",
+            "category": "Gaming",
+            "duration": "38:17",
+            "view_count": "82931",
+            "thumbnail_url": "https://i.ytimg.com/vi/fYvR-fjb0jQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "-8l-0h3OddU",
+            "title": "LUCY 7th EP '선' Highlight Medley",
+            "channel_name": "LUCY ISLAND",
+            "category": "Entertainment",
+            "duration": "2:29",
+            "view_count": "45195",
+            "thumbnail_url": "https://i.ytimg.com/vi/-8l-0h3OddU/hqdefault.jpg"
         },
         {
             "video_id": "cgptZ8ydHlw",
@@ -304,8 +268,62 @@
             "channel_name": "전쓰트의 게임 채널 Junsst",
             "category": "Gaming",
             "duration": "14:32",
-            "view_count": "90761",
+            "view_count": "93229",
             "thumbnail_url": "https://i.ytimg.com/vi/cgptZ8ydHlw/hqdefault.jpg"
+        },
+        {
+            "video_id": "29uO-Kx8fJs",
+            "title": "Huntrix - Golden (Tekst/Lyrics) Polskie Tłumaczenie",
+            "channel_name": "W Bańce",
+            "category": "Music",
+            "duration": "3:14",
+            "view_count": "371422",
+            "thumbnail_url": "https://i.ytimg.com/vi/29uO-Kx8fJs/hqdefault.jpg"
+        },
+        {
+            "video_id": "XMHVGptcXHU",
+            "title": "상대 : 홍구 너때문에 마우스 박살났다 이 XX놈아!!!",
+            "channel_name": "발스타홍구",
+            "category": "Gaming",
+            "duration": "21:23",
+            "view_count": "108606",
+            "thumbnail_url": "https://i.ytimg.com/vi/XMHVGptcXHU/hqdefault.jpg"
+        },
+        {
+            "video_id": "ptDnd4lGr-k",
+            "title": "있잖아",
+            "channel_name": "BOYNEXTDOOR - Topic",
+            "category": "Music",
+            "duration": "3:44",
+            "view_count": "795920",
+            "thumbnail_url": "https://i.ytimg.com/vi/ptDnd4lGr-k/hqdefault.jpg"
+        },
+        {
+            "video_id": "FEzw3HPqenw",
+            "title": "99일간 \"모든 아이템\"을 싹 쓸어모으면... 1개당 100로벅스씩 준다고!?!? 파밍전문가가 되어 다 모아보자!!! (로블록스 99나이트인더포레스트)",
+            "channel_name": "말량",
+            "category": "Gaming",
+            "duration": "35:03",
+            "view_count": "173214",
+            "thumbnail_url": "https://i.ytimg.com/vi/FEzw3HPqenw/hqdefault.jpg"
+        },
+        {
+            "video_id": "L4rOBdjcwLc",
+            "title": "Xdinary Heroes(엑스디너리 히어로즈) \"ICU\" M/V",
+            "channel_name": "JYP Entertainment",
+            "category": "Music",
+            "duration": "4:46",
+            "view_count": "865061",
+            "thumbnail_url": "https://i.ytimg.com/vi/L4rOBdjcwLc/hqdefault.jpg"
+        },
+        {
+            "video_id": "h14gOyMgbSI",
+            "title": "직스는 더이상 미드챔이 아닙니다. 13분에 포탑 2개 철거하는 폭탄의 악마 \"탑 오버파밍 직스\" 😱💣",
+            "channel_name": "전략적죽음",
+            "category": "Gaming",
+            "duration": "21:46",
+            "view_count": "156447",
+            "thumbnail_url": "https://i.ytimg.com/vi/h14gOyMgbSI/hqdefault.jpg"
         },
         {
             "video_id": "AIh7UA7UoYI",
@@ -317,31 +335,31 @@
             "thumbnail_url": "https://i.ytimg.com/vi/AIh7UA7UoYI/hqdefault.jpg"
         },
         {
-            "video_id": "yS5wSrxCeq4",
-            "title": "케일아.. 까줘..",
-            "channel_name": "팔차선 [8LJAYWALKING]",
+            "video_id": "w8Fa2UOz3KI",
+            "title": "🔥15분 순삭🔥어머..스쿼드에 여자둘, 남자둘끼리만 있으면 생기는 일",
+            "channel_name": "혜안",
             "category": "Gaming",
-            "duration": "15:33",
-            "view_count": "99193",
-            "thumbnail_url": "https://i.ytimg.com/vi/yS5wSrxCeq4/hqdefault.jpg"
+            "duration": "14:43",
+            "view_count": "70215",
+            "thumbnail_url": "https://i.ytimg.com/vi/w8Fa2UOz3KI/hqdefault.jpg"
         },
         {
-            "video_id": "Ur7aK4FvK-U",
-            "title": "Hearts2Hearts 하츠투하츠 'FOCUS' MV",
-            "channel_name": "SMTOWN",
+            "video_id": "9bL1T0pbDU4",
+            "title": "I'm gonna change",
+            "channel_name": "Sin Ye Young - Topic",
             "category": "Music",
-            "duration": "3:10",
-            "view_count": "12214892",
-            "thumbnail_url": "https://i.ytimg.com/vi/Ur7aK4FvK-U/hqdefault.jpg"
+            "duration": "3:35",
+            "view_count": "30004",
+            "thumbnail_url": "https://i.ytimg.com/vi/9bL1T0pbDU4/hqdefault.jpg"
         },
         {
-            "video_id": "I4HdaaiQs_c",
-            "title": "도저히 분석이 안되는 레전드 운영을 경험하다",
-            "channel_name": "중년게이머 김실장",
+            "video_id": "uN-srm0m8M8",
+            "title": "현재 진짜 난리가 난 \"발로란트 이적시장\" , 그래서 다 한번 모아봤습니다",
+            "channel_name": "김된모",
             "category": "Gaming",
-            "duration": "38:59",
-            "view_count": "173422",
-            "thumbnail_url": "https://i.ytimg.com/vi/I4HdaaiQs_c/hqdefault.jpg"
+            "duration": "28:50",
+            "view_count": "137297",
+            "thumbnail_url": "https://i.ytimg.com/vi/uN-srm0m8M8/hqdefault.jpg"
         },
         {
             "video_id": "b_DultuSMTw",
@@ -349,35 +367,17 @@
             "channel_name": "Jung Joon-Il - Topic",
             "category": "Music",
             "duration": "4:39",
-            "view_count": "74631",
+            "view_count": "75135",
             "thumbnail_url": "https://i.ytimg.com/vi/b_DultuSMTw/hqdefault.jpg"
         },
         {
-            "video_id": "bZYREUGbSDE",
-            "title": "감스트 본캐 모먼트 반페르시 금카 강화 성공!!!!!!!",
-            "channel_name": "두치와뿌꾸",
+            "video_id": "I4HdaaiQs_c",
+            "title": "도저히 분석이 안되는 레전드 운영을 경험하다",
+            "channel_name": "중년게이머 김실장",
             "category": "Gaming",
-            "duration": "11:12",
-            "view_count": "115347",
-            "thumbnail_url": "https://i.ytimg.com/vi/bZYREUGbSDE/hqdefault.jpg"
-        },
-        {
-            "video_id": "L4rOBdjcwLc",
-            "title": "Xdinary Heroes(엑스디너리 히어로즈) \"ICU\" M/V",
-            "channel_name": "JYP Entertainment",
-            "category": "Music",
-            "duration": "4:46",
-            "view_count": "839611",
-            "thumbnail_url": "https://i.ytimg.com/vi/L4rOBdjcwLc/hqdefault.jpg"
-        },
-        {
-            "video_id": "5Z1sFX-nooA",
-            "title": "로드나인 방송1회 판매실패! 싸비스 방송 신화 무기 도전 갑니다!",
-            "channel_name": "똘끼100%",
-            "category": "Gaming",
-            "duration": "7:36:38",
-            "view_count": "91161",
-            "thumbnail_url": "https://i.ytimg.com/vi/5Z1sFX-nooA/hqdefault.jpg"
+            "duration": "38:59",
+            "view_count": "174376",
+            "thumbnail_url": "https://i.ytimg.com/vi/I4HdaaiQs_c/hqdefault.jpg"
         }
     ]
 }
