@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-10-25 23:11:01",
+    "scraped_time": "2025-10-26 00:11:51",
     "videos": [
         {
             "video_id": "TvVtYaqCni8",
@@ -7,7 +7,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "3:19",
-            "view_count": "11037756",
+            "view_count": "11265221",
             "thumbnail_url": "https://i.ytimg.com/vi/TvVtYaqCni8/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "넷플릭스 뽕뽑기 [엘플릭스]",
             "category": "Film & Animation",
             "duration": "12:16",
-            "view_count": "93855",
+            "view_count": "138274",
             "thumbnail_url": "https://i.ytimg.com/vi/R4ftZklCkmA/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "7:41:10",
-            "view_count": "3608436",
+            "view_count": "3652113",
             "thumbnail_url": "https://i.ytimg.com/vi/SvdbbVYdu40/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "LE SSERAFIM - Topic",
             "category": "Music",
             "duration": "2:53",
-            "view_count": "520519",
+            "view_count": "538700",
             "thumbnail_url": "https://i.ytimg.com/vi/12ELDQy3IUc/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "흔한남매",
             "category": "Entertainment",
             "duration": "18:20",
-            "view_count": "154968",
+            "view_count": "169762",
             "thumbnail_url": "https://i.ytimg.com/vi/RIut0h7Ec2c/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "WOODZ - Topic",
             "category": "Music",
             "duration": "3:07",
-            "view_count": "137593",
+            "view_count": "143493",
             "thumbnail_url": "https://i.ytimg.com/vi/2vKXjS8cNMY/hqdefault.jpg"
         },
         {
@@ -61,26 +61,8 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "29:40",
-            "view_count": "241054",
+            "view_count": "243942",
             "thumbnail_url": "https://i.ytimg.com/vi/xyS4MfdSTfY/hqdefault.jpg"
-        },
-        {
-            "video_id": "hnIzXiNT10E",
-            "title": "끝사랑",
-            "channel_name": "Kwon Jin-ah - Topic",
-            "category": "Music",
-            "duration": "4:18",
-            "view_count": "457825",
-            "thumbnail_url": "https://i.ytimg.com/vi/hnIzXiNT10E/hqdefault.jpg"
-        },
-        {
-            "video_id": "krXCvX96DJA",
-            "title": "멈추지 못하는 남자..",
-            "channel_name": "괴물쥐 유튜브",
-            "category": "Gaming",
-            "duration": "22:24",
-            "view_count": "315525",
-            "thumbnail_url": "https://i.ytimg.com/vi/krXCvX96DJA/hqdefault.jpg"
         },
         {
             "video_id": "suYoJKLQReQ",
@@ -88,17 +70,35 @@
             "channel_name": "로이킴 Roy Kim",
             "category": "Music",
             "duration": "4:00",
-            "view_count": "102518",
+            "view_count": "105941",
             "thumbnail_url": "https://i.ytimg.com/vi/suYoJKLQReQ/hqdefault.jpg"
         },
         {
-            "video_id": "oke-Hnd8y4E",
-            "title": "그 시절 리롤덱에 프티 + 투자를 주면 벌어지는 일",
-            "channel_name": "잡상싱",
+            "video_id": "krXCvX96DJA",
+            "title": "멈추지 못하는 남자..",
+            "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
-            "duration": "14:20",
-            "view_count": "206158",
-            "thumbnail_url": "https://i.ytimg.com/vi/oke-Hnd8y4E/hqdefault.jpg"
+            "duration": "22:24",
+            "view_count": "320078",
+            "thumbnail_url": "https://i.ytimg.com/vi/krXCvX96DJA/hqdefault.jpg"
+        },
+        {
+            "video_id": "hnIzXiNT10E",
+            "title": "끝사랑",
+            "channel_name": "Kwon Jin-ah - Topic",
+            "category": "Music",
+            "duration": "4:18",
+            "view_count": "462642",
+            "thumbnail_url": "https://i.ytimg.com/vi/hnIzXiNT10E/hqdefault.jpg"
+        },
+        {
+            "video_id": "tDBb0krCiM0",
+            "title": "팀대저택 vs 팀나빠 그 치열한 싸움의 결말은?? 과연 멜로우는 대저택에서 추방당할것인가 (로블록스 잼못타 대저택 vs 나빠 2편)",
+            "channel_name": "집사TV",
+            "category": "Gaming",
+            "duration": "10:47",
+            "view_count": "74803",
+            "thumbnail_url": "https://i.ytimg.com/vi/tDBb0krCiM0/hqdefault.jpg"
         },
         {
             "video_id": "9bL1T0pbDU4",
@@ -106,7 +106,7 @@
             "channel_name": "Sin Ye Young - Topic",
             "category": "Music",
             "duration": "3:35",
-            "view_count": "101299",
+            "view_count": "104567",
             "thumbnail_url": "https://i.ytimg.com/vi/9bL1T0pbDU4/hqdefault.jpg"
         },
         {
@@ -115,7 +115,7 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "20:43",
-            "view_count": "141966",
+            "view_count": "148577",
             "thumbnail_url": "https://i.ytimg.com/vi/pLNv8gCJI5c/hqdefault.jpg"
         },
         {
@@ -124,17 +124,17 @@
             "channel_name": "LEE CHANGSUB - Topic",
             "category": "Music",
             "duration": "4:19",
-            "view_count": "226957",
+            "view_count": "229519",
             "thumbnail_url": "https://i.ytimg.com/vi/F4HK28kWoaU/hqdefault.jpg"
         },
         {
-            "video_id": "r8Xsq0PEEK4",
-            "title": "나 민형쿤 믿어요🤝 | SWISS R4 Day3│2025 Worlds | 울챔스 하이라이트",
-            "channel_name": "Wolf",
+            "video_id": "oke-Hnd8y4E",
+            "title": "그 시절 리롤덱에 프티 + 투자를 주면 벌어지는 일",
+            "channel_name": "잡상싱",
             "category": "Gaming",
-            "duration": "1:20:30",
-            "view_count": "139946",
-            "thumbnail_url": "https://i.ytimg.com/vi/r8Xsq0PEEK4/hqdefault.jpg"
+            "duration": "14:20",
+            "view_count": "207618",
+            "thumbnail_url": "https://i.ytimg.com/vi/oke-Hnd8y4E/hqdefault.jpg"
         },
         {
             "video_id": "f_Fb0MHpsoI",
@@ -142,17 +142,17 @@
             "channel_name": "Xdinary Heroes - Topic",
             "category": "Music",
             "duration": "3:42",
-            "view_count": "71544",
+            "view_count": "73683",
             "thumbnail_url": "https://i.ytimg.com/vi/f_Fb0MHpsoI/hqdefault.jpg"
         },
         {
-            "video_id": "tDBb0krCiM0",
-            "title": "팀대저택 vs 팀나빠 그 치열한 싸움의 결말은?? 과연 멜로우는 대저택에서 추방당할것인가 (로블록스 잼못타 대저택 vs 나빠 2편)",
-            "channel_name": "집사TV",
+            "video_id": "r8Xsq0PEEK4",
+            "title": "나 민형쿤 믿어요🤝 | SWISS R4 Day3│2025 Worlds | 울챔스 하이라이트",
+            "channel_name": "Wolf",
             "category": "Gaming",
-            "duration": "10:47",
-            "view_count": "61871",
-            "thumbnail_url": "https://i.ytimg.com/vi/tDBb0krCiM0/hqdefault.jpg"
+            "duration": "1:20:30",
+            "view_count": "144263",
+            "thumbnail_url": "https://i.ytimg.com/vi/r8Xsq0PEEK4/hqdefault.jpg"
         },
         {
             "video_id": "x6GGGjXN2Mw",
@@ -160,26 +160,8 @@
             "channel_name": "최유리 Choi Yu Ree",
             "category": "Music",
             "duration": "4:23",
-            "view_count": "102970",
+            "view_count": "103681",
             "thumbnail_url": "https://i.ytimg.com/vi/x6GGGjXN2Mw/hqdefault.jpg"
-        },
-        {
-            "video_id": "gsmj2ZfvaPE",
-            "title": "99일동안 \"강아지 키우기\" ㅋㅋㅋㅋ 한 마리라도 죽는 순간 바로 보석 나눔입니다... 늑대를 길들여 한마리도 죽게 하지 말고 끝까지 살아남기!!!(로블록스 99나이트인더포레스트)",
-            "channel_name": "말량",
-            "category": "Gaming",
-            "duration": "27:03",
-            "view_count": "111533",
-            "thumbnail_url": "https://i.ytimg.com/vi/gsmj2ZfvaPE/hqdefault.jpg"
-        },
-        {
-            "video_id": "07QvRNaHGXQ",
-            "title": "[MV] Jeon Yu Jin(전유진) _ Childlike Slumber(어린잠)",
-            "channel_name": "1theK (원더케이)",
-            "category": "Music",
-            "duration": "4:03",
-            "view_count": "82581",
-            "thumbnail_url": "https://i.ytimg.com/vi/07QvRNaHGXQ/hqdefault.jpg"
         },
         {
             "video_id": "-GXyv-qqvrU",
@@ -187,17 +169,17 @@
             "channel_name": "형독방송",
             "category": "Gaming",
             "duration": "30:12",
-            "view_count": "145879",
+            "view_count": "154196",
             "thumbnail_url": "https://i.ytimg.com/vi/-GXyv-qqvrU/hqdefault.jpg"
         },
         {
-            "video_id": "noGHbYIYprY",
-            "title": "세상 모든 어른이들에게",
-            "channel_name": "Boramiyu - Topic",
+            "video_id": "07QvRNaHGXQ",
+            "title": "[MV] Jeon Yu Jin(전유진) _ Childlike Slumber(어린잠)",
+            "channel_name": "1theK (원더케이)",
             "category": "Music",
-            "duration": "3:38",
-            "view_count": "436771",
-            "thumbnail_url": "https://i.ytimg.com/vi/noGHbYIYprY/hqdefault.jpg"
+            "duration": "4:03",
+            "view_count": "83775",
+            "thumbnail_url": "https://i.ytimg.com/vi/07QvRNaHGXQ/hqdefault.jpg"
         },
         {
             "video_id": "CuJvhO-YVq0",
@@ -205,8 +187,26 @@
             "channel_name": "멜로우TV",
             "category": "Gaming",
             "duration": "14:01",
-            "view_count": "99282",
+            "view_count": "107026",
             "thumbnail_url": "https://i.ytimg.com/vi/CuJvhO-YVq0/hqdefault.jpg"
+        },
+        {
+            "video_id": "noGHbYIYprY",
+            "title": "세상 모든 어른이들에게",
+            "channel_name": "Boramiyu - Topic",
+            "category": "Music",
+            "duration": "3:38",
+            "view_count": "439520",
+            "thumbnail_url": "https://i.ytimg.com/vi/noGHbYIYprY/hqdefault.jpg"
+        },
+        {
+            "video_id": "gsmj2ZfvaPE",
+            "title": "99일동안 \"강아지 키우기\" ㅋㅋㅋㅋ 한 마리라도 죽는 순간 바로 보석 나눔입니다... 늑대를 길들여 한마리도 죽게 하지 말고 끝까지 살아남기!!!(로블록스 99나이트인더포레스트)",
+            "channel_name": "말량",
+            "category": "Gaming",
+            "duration": "27:03",
+            "view_count": "114810",
+            "thumbnail_url": "https://i.ytimg.com/vi/gsmj2ZfvaPE/hqdefault.jpg"
         },
         {
             "video_id": "BkLKEsh6tZU",
@@ -214,7 +214,7 @@
             "channel_name": "이지금 [IU Official]",
             "category": "Entertainment",
             "duration": "3:17",
-            "view_count": "722075",
+            "view_count": "729234",
             "thumbnail_url": "https://i.ytimg.com/vi/BkLKEsh6tZU/hqdefault.jpg"
         },
         {
@@ -223,7 +223,7 @@
             "channel_name": "난동군",
             "category": "Gaming",
             "duration": "10:56",
-            "view_count": "122421",
+            "view_count": "123762",
             "thumbnail_url": "https://i.ytimg.com/vi/DhxphWGmDPI/hqdefault.jpg"
         },
         {
@@ -232,17 +232,17 @@
             "channel_name": "JANNABI - Topic",
             "category": "Music",
             "duration": "4:06",
-            "view_count": "427641",
+            "view_count": "430877",
             "thumbnail_url": "https://i.ytimg.com/vi/eu3np8dFJDU/hqdefault.jpg"
         },
         {
-            "video_id": "ZU768xX0bYk",
-            "title": "'현 메타 정글 1황' 키아나 정글 체험기",
-            "channel_name": "클리드",
+            "video_id": "VjNSLV3Ijkc",
+            "title": "웃음을 멈출 수 없는 정답만 보고 문제 만들기ㅋㅋㅋ",
+            "channel_name": "왈도쿤",
             "category": "Gaming",
-            "duration": "26:53",
-            "view_count": "135322",
-            "thumbnail_url": "https://i.ytimg.com/vi/ZU768xX0bYk/hqdefault.jpg"
+            "duration": "29:08",
+            "view_count": "57627",
+            "thumbnail_url": "https://i.ytimg.com/vi/VjNSLV3Ijkc/hqdefault.jpg"
         },
         {
             "video_id": "DFPqOsRXKYQ",
@@ -250,7 +250,7 @@
             "channel_name": "KIMMUSEUM - Topic",
             "category": "Music",
             "duration": "3:56",
-            "view_count": "54497",
+            "view_count": "55415",
             "thumbnail_url": "https://i.ytimg.com/vi/DFPqOsRXKYQ/hqdefault.jpg"
         },
         {
@@ -259,7 +259,7 @@
             "channel_name": "발스타홍구",
             "category": "Gaming",
             "duration": "25:13",
-            "view_count": "113272",
+            "view_count": "118380",
             "thumbnail_url": "https://i.ytimg.com/vi/tEGNxULFasI/hqdefault.jpg"
         },
         {
@@ -268,26 +268,8 @@
             "channel_name": "Saja Boys - Topic",
             "category": "Music",
             "duration": "2:31",
-            "view_count": "220454",
+            "view_count": "231590",
             "thumbnail_url": "https://i.ytimg.com/vi/E3DNlAVtlMY/hqdefault.jpg"
-        },
-        {
-            "video_id": "1dHfNcMfr2Y",
-            "title": "모닥불 없이 3000일 생존 도전🔥[로블록스 99나이트인더포레스트]",
-            "channel_name": "로블록스 혜요",
-            "category": "Gaming",
-            "duration": "14:34",
-            "view_count": "61348",
-            "thumbnail_url": "https://i.ytimg.com/vi/1dHfNcMfr2Y/hqdefault.jpg"
-        },
-        {
-            "video_id": "3-0k8DBTftc",
-            "title": "How Love Is",
-            "channel_name": "Release - Topic",
-            "category": "Music",
-            "duration": "5:20",
-            "view_count": "74784",
-            "thumbnail_url": "https://i.ytimg.com/vi/3-0k8DBTftc/hqdefault.jpg"
         },
         {
             "video_id": "PJopGsYKdOA",
@@ -295,35 +277,17 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "36:01",
-            "view_count": "80601",
+            "view_count": "90047",
             "thumbnail_url": "https://i.ytimg.com/vi/PJopGsYKdOA/hqdefault.jpg"
         },
         {
-            "video_id": "eqKhhG4FVoQ",
-            "title": "FOCUS",
-            "channel_name": "Hearts2Hearts - Topic",
+            "video_id": "3-0k8DBTftc",
+            "title": "How Love Is",
+            "channel_name": "Release - Topic",
             "category": "Music",
-            "duration": "2:58",
-            "view_count": "1723459",
-            "thumbnail_url": "https://i.ytimg.com/vi/eqKhhG4FVoQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "RkuVn0ycDj0",
-            "title": "강해지는 맵인데 계속 죽어서 안 강해짐 ㅋㅋㅋㅋㅋㅋ(마인크래프트)",
-            "channel_name": "마플 마인크래프트 채널",
-            "category": "Gaming",
-            "duration": "23:40",
-            "view_count": "154935",
-            "thumbnail_url": "https://i.ytimg.com/vi/RkuVn0ycDj0/hqdefault.jpg"
-        },
-        {
-            "video_id": "L4rOBdjcwLc",
-            "title": "Xdinary Heroes(엑스디너리 히어로즈) \"ICU\" M/V",
-            "channel_name": "JYP Entertainment",
-            "category": "Music",
-            "duration": "4:46",
-            "view_count": "2494856",
-            "thumbnail_url": "https://i.ytimg.com/vi/L4rOBdjcwLc/hqdefault.jpg"
+            "duration": "5:20",
+            "view_count": "76554",
+            "thumbnail_url": "https://i.ytimg.com/vi/3-0k8DBTftc/hqdefault.jpg"
         },
         {
             "video_id": "G3juMlE8kQg",
@@ -331,8 +295,44 @@
             "channel_name": "이도원",
             "category": "Gaming",
             "duration": "23:52",
-            "view_count": "78417",
+            "view_count": "88715",
             "thumbnail_url": "https://i.ytimg.com/vi/G3juMlE8kQg/hqdefault.jpg"
+        },
+        {
+            "video_id": "eqKhhG4FVoQ",
+            "title": "FOCUS",
+            "channel_name": "Hearts2Hearts - Topic",
+            "category": "Music",
+            "duration": "2:58",
+            "view_count": "1736534",
+            "thumbnail_url": "https://i.ytimg.com/vi/eqKhhG4FVoQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "1dHfNcMfr2Y",
+            "title": "모닥불 없이 3000일 생존 도전🔥[로블록스 99나이트인더포레스트]",
+            "channel_name": "로블록스 혜요",
+            "category": "Gaming",
+            "duration": "14:34",
+            "view_count": "64437",
+            "thumbnail_url": "https://i.ytimg.com/vi/1dHfNcMfr2Y/hqdefault.jpg"
+        },
+        {
+            "video_id": "L4rOBdjcwLc",
+            "title": "Xdinary Heroes(엑스디너리 히어로즈) \"ICU\" M/V",
+            "channel_name": "JYP Entertainment",
+            "category": "Music",
+            "duration": "4:46",
+            "view_count": "2609274",
+            "thumbnail_url": "https://i.ytimg.com/vi/L4rOBdjcwLc/hqdefault.jpg"
+        },
+        {
+            "video_id": "ZU768xX0bYk",
+            "title": "'현 메타 정글 1황' 키아나 정글 체험기",
+            "channel_name": "클리드",
+            "category": "Gaming",
+            "duration": "26:53",
+            "view_count": "137609",
+            "thumbnail_url": "https://i.ytimg.com/vi/ZU768xX0bYk/hqdefault.jpg"
         },
         {
             "video_id": "-8l-0h3OddU",
@@ -340,17 +340,17 @@
             "channel_name": "LUCY ISLAND",
             "category": "Entertainment",
             "duration": "2:29",
-            "view_count": "53609",
+            "view_count": "54326",
             "thumbnail_url": "https://i.ytimg.com/vi/-8l-0h3OddU/hqdefault.jpg"
         },
         {
-            "video_id": "HN-xRGyHuLw",
-            "title": "바드랜드",
-            "channel_name": "PAKA",
+            "video_id": "RkuVn0ycDj0",
+            "title": "강해지는 맵인데 계속 죽어서 안 강해짐 ㅋㅋㅋㅋㅋㅋ(마인크래프트)",
+            "channel_name": "마플 마인크래프트 채널",
             "category": "Gaming",
-            "duration": "23:26",
-            "view_count": "349678",
-            "thumbnail_url": "https://i.ytimg.com/vi/HN-xRGyHuLw/hqdefault.jpg"
+            "duration": "23:40",
+            "view_count": "157194",
+            "thumbnail_url": "https://i.ytimg.com/vi/RkuVn0ycDj0/hqdefault.jpg"
         },
         {
             "video_id": "7KxIQP8DNao",
@@ -358,7 +358,7 @@
             "channel_name": "1theK Live - 원더케이 라이브",
             "category": "Music",
             "duration": "4:03",
-            "view_count": "61561",
+            "view_count": "62797",
             "thumbnail_url": "https://i.ytimg.com/vi/7KxIQP8DNao/hqdefault.jpg"
         },
         {
@@ -367,7 +367,7 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "43:03",
-            "view_count": "74049",
+            "view_count": "77345",
             "thumbnail_url": "https://i.ytimg.com/vi/bDHVUaBv8RA/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "Jung Joon-Il - Topic",
             "category": "Music",
             "duration": "4:39",
-            "view_count": "101353",
+            "view_count": "102489",
             "thumbnail_url": "https://i.ytimg.com/vi/b_DultuSMTw/hqdefault.jpg"
         }
     ]
